@@ -1,9 +1,9 @@
-Korea {#chap.korea}
+Korea
 =====
 
 author:\[Park,Jongbaek\]
 
-Body of Law {#_body_of_law}
+Body of Law
 -----------
 
 Software, including computer programs, is protected as copyrightable
@@ -28,7 +28,7 @@ since 15 March, 2012 and 1 July, 2011 respectively. The Act has been
 revised to provide a wider range of protection for the software in
 range, remedies, technical protection measures, etc.
 
-Object of Protection {#_object_of_protection}
+Object of Protection
 --------------------
 
 According to the Act, ‘computer program’ means a work reduced to
@@ -56,10 +56,10 @@ syntax (special agreement on the usage of the programming language in a
 specific program) and algorithms (combination methods of instructions
 and commands in program) from protection.[^5]
 
-Authors {#_authors}
+Authors
 -------
 
-### Definition of Author {#_definition_of_author}
+### Definition of Author
 
 The general provisions of the Act applicable to authors of other type of
 literary works extends to the authors of computer programs: an author is
@@ -73,7 +73,7 @@ the copyright holder upon the creation of a work since the Act does not
 require any registration procedures or other types of formalities for an
 author to be recognized as a copyright holder.[^8]
 
-### Authors of Work Made for Hire {#_authors_of_work_made_for_hire}
+### Authors of Work Made for Hire
 
 In contrast, under the laws of Korea, an employer who engages an
 employee for a work made for hire (sometimes referred to as work for
@@ -119,7 +119,7 @@ and the work is developed to benefit only the commissioning party, the
 program will be recognized as a work made for hire, as described in the
 above.
 
-### Joint Authors {#_joint_authors}
+### Joint Authors
 
 In case of a joint authorship, an author may not exercise the exclusive
 or moral rights without the unanimous agreement of all the copyright
@@ -138,7 +138,7 @@ each author, unless otherwise stipulated. In such cases, the share of
 each author shall be deemed equal unless otherwise clearly
 specified.[^18]
 
-Exclusive rights {#_exclusive_rights}
+Exclusive rights
 ----------------
 
 According to the Act, the author of a program has exclusive rights to
@@ -166,7 +166,7 @@ based on the work by means of translation, modification, alteration,
 etc. of original work; and the right to make compilations falls under
 the right of reproduction.[^25]
 
-Exceptions to the Exclusive Rights {#_exceptions_to_the_exclusive_rights}
+Exceptions to the Exclusive Rights
 ----------------------------------
 
 In relation to use of computer programs, there are several special
@@ -202,7 +202,7 @@ principle of exhaustion applies to intangible digital works purchased
 through on-line networks as there are no current statutes or court
 precedents that address this issue.
 
-Moral Rights {#_moral_rights}
+Moral Rights
 ------------
 
 An author’s moral rights belong exclusively to the author,[^31] and
@@ -230,7 +230,7 @@ its publication.[^36] If derivative or compilation work made with the
 consent of the original author has been published, the original work
 will be deemed to have been published.[^37]
 
-Terms of Protection {#_terms_of_protection}
+Terms of Protection
 -------------------
 
 The 2011 amended version of the Act, effective as of 1 July 2013,
@@ -250,10 +250,10 @@ starts from the year after the author’s death or its publication,[^42]
 since it may be difficult ascertain the exact dates of the author’s
 death, creation or publication.
 
-Copyright Assignment {#_copyright_assignment}
+Copyright Assignment
 --------------------
 
-### Assignment of Exclusive Rights {#_assignment_of_exclusive_rights}
+### Assignment of Exclusive Rights
 
 Exclusive rights may be assigned in whole or in part.[^43] Each of the
 exclusive rights, such as right of reproduction, right of public
@@ -284,7 +284,7 @@ trust property; (ii) the organization must be not for profit; and (iii)
 the organization must possess the capability to conduct the collection
 and distribution of royalties.
 
-### Assignment of Moral Rights {#_assignment_of_moral_rights}
+### Assignment of Moral Rights
 
 Since the author’s moral rights are inalienable and not
 transferable,[^48] moral rights exhaust at the author’s death. No
@@ -293,10 +293,10 @@ programs, as such, moral rights for computer programs are recognized
 like other copyrighted works. Due to its inalienability, an author’s
 moral rights cannot be held in trust.[^49]
 
-Special Measures {#_special_measures}
+Special Measures
 ----------------
 
-### Civil Remedies {#_civil_remedies}
+### Civil Remedies
 
 If a copyright holder’s work is infringed, the copyright holder may file
 an application for a cease-and-desist order against the infringer. The
@@ -350,7 +350,7 @@ provision allows the author’s bereaved family or executor of his or her
 will to demand preventive measures, provision of security for damages,
 or restoration of the author’s reputation.[^59]
 
-### Joint Works {#_joint_works}
+### Joint Works
 
 In the event there are concerns that the copyright of a joint work might
 be infringed, each joint author is entitled to seek preventive measures
@@ -364,7 +364,7 @@ author is in his/her discretion.[^60] In cases where moral rights of
 just one of the joint authors are infringed, each author may act
 independently of the others when filing suit.
 
-### Collective Works {#_collective_works}
+### Collective Works
 
 When there are concerns as to whether copyrights of collective works
 will be infringed or when copyrights of collective works are actually
@@ -372,7 +372,7 @@ infringed, each copyright holder may respectively claim damages or seek
 prohibitive and preventive measures, or cease-and-desist orders for the
 works created by him or herself.
 
-### Derivative Works {#_derivative_works}
+### Derivative Works
 
 The courts[^61] have held that the copyright of derivative computer
 program belongs to the author of the derivative computer program
@@ -383,7 +383,7 @@ work’s copyright is infringed. However, a copyright holder of a
 derivative work may not use the derivative work without consent of the
 copyright holder of the original work.
 
-### Criminal Sanctions {#_criminal_sanctions}
+### Criminal Sanctions
 
 Article 136 of the Act stipulates that copyright infringers are subject
 to criminal punishment. Before the inclusion of the Korea-USA FTA into
@@ -397,7 +397,7 @@ infringers who were profit-motivated ('emphasis added").[^62] It is
 possible that this broadened exception clause subjects more infringers
 to criminal sanctions as compared to the previous version of the Act.
 
-Unprotected Software and Public Domain Software {#_unprotected_software_and_public_domain_software}
+Unprotected Software and Public Domain Software
 -----------------------------------------------
 
 Works with expired copyright protection terms, works without a copyright
@@ -407,10 +407,10 @@ Software (“FOSS”) makes available its source code for public use, it is
 not unprotected software or public domain software as defined under the
 Act.
 
-Analysis of FOSS under Korean Law {#_analysis_of_foss_under_korean_law}
+Analysis of FOSS under Korean Law
 ---------------------------------
 
-### Copyright {#_copyright}
+### Copyright
 
 The process of concluding FOSS licenses differs from that of other
 copyrighted works. Under Korean law, a FOSS license agreement is treated
@@ -438,7 +438,7 @@ what is the object of copyright protection, and how copyright holders
 can enforce their rights emanating from the copyrights. All of which are
 reviewed in detail as follows:
 
-### Qualification of FOSS {#_qualification_of_foss}
+### Qualification of FOSS
 
 Many users are expected to use, copy, modify, and redistribute FOSS
 after the creation of the first version. The works made during the
@@ -452,7 +452,7 @@ separately and independently. Derivative work is when a developer
 modifies the pre-existing FOSS with significant variations while
 maintaining substantial similarities.[^63]
 
-### Rights of Joint Authors {#_rights_of_joint_authors}
+### Rights of Joint Authors
 
 Since the exclusive rights to a joint work must be exercised with the
 unanimous agreement of all the exclusive rights holders, it becomes more
@@ -466,7 +466,7 @@ make freely available his/her contribution even before he/she creates
 the code in accordance with the license agreement, which shall be
 effective under the laws of Korea.
 
-### Rights of Authors of Collective Works {#_rights_of_authors_of_collective_works}
+### Rights of Authors of Collective Works
 
 The defining characteristic of a collective work is that each author’s
 contribution can be separated into discrete parts. As such, each author
@@ -474,7 +474,7 @@ of a collective work may, without the other authors’ permission, assign
 his or her exclusive rights to another or permit others to use his/her
 own creation.
 
-### Rights of Copyright Holders of Derivative Works {#_rights_of_copyright_holders_of_derivative_works}
+### Rights of Copyright Holders of Derivative Works
 
 The Korean Supreme Court held that creator of the derivative work of a
 computer program holds the copyrights to the derivative work, whether or
@@ -521,7 +521,7 @@ work. While it’s undecided if this would be a winning argument in court,
 the author of a derivative work most likely will not benefit from
 arguing that copyleft clauses are void.
 
-### The Assignment of Copyrights {#_the_assignment_of_copyrights}
+### The Assignment of Copyrights
 
 The same principle on the assignment of copyrights applies to computer
 programs. Copyrights of software can also be held in trust; however, it
@@ -531,7 +531,7 @@ Act and thus becomes the holder of exclusive and moral rights.[^66] In
 such instances, the employer may exercise its copyrights under the terms
 and conditions of a FOSS license.
 
-Moral Rights {#_moral_rights_2}
+Moral Rights
 ------------
 
 Because most FOSS licenses allow liberal modifications to FOSS, a major
@@ -556,14 +556,14 @@ author’s moral rights shall still be recognized, regardless of the
 effectiveness of the original author’s waiver of the right to the
 integrity of the work under the terms of a license.
 
-Enforcing FOSS Licenses {#_enforcing_foss_licenses}
+Enforcing FOSS Licenses
 -----------------------
 
 Various bodies of law such as Korean contract law, the Copyright Act,
 criminal law, etc. should be considered simultaneously in order to
 determine whether FOSS license agreements are binding and enforceable.
 
-### Contracting Parties {#_contracting_parties}
+### Contracting Parties
 
 Unlike general license agreements, FOSS license agreements may involve
 several authors of the original work or derivative works. Assuming that
@@ -592,9 +592,9 @@ distributor and the downstream recipient.[^67] Naturally, when a person
 who modified a program distributes the modified software, he/she would
 be the contracting party.[^68]
 
-### The Validity of FOSS Licenses {#_the_validity_of_foss_licenses}
+### The Validity of FOSS Licenses
 
-#### Contractual Relationship {#_contractual_relationship}
+#### Contractual Relationship
 
 Providing FOSS for free gives it the simultaneous status as a gift under
 the Korean Civil Act as well as a copyrightable work license agreement
@@ -629,9 +629,9 @@ the contents of a contract that a party prepares in a specific form in
 advance in order to enter into a contract with unspecified multiple
 parties regardless of their name, type, or scope.[^75]
 
-### No Warranty {#_no_warranty}
+### No Warranty
 
-#### Limitation on ‘no warranty clause’ under the Civil Act {#_limitation_on_no_warranty_clause_under_the_civil_act}
+#### Limitation on ‘no warranty clause’ under the Civil Act
 
 License agreements such as GPL, etc. provide that any copyright holder,
 or any other party who may modify or redistribute the program
@@ -656,7 +656,7 @@ possibility of defects, without actual knowledge of such defect or
 deficiency, which is threshold conditions under the Korean Civil Act,
 the copyright holders can effectively disclaim its warranties.[^76]
 
-#### Under the Act on the Regulation of Standardized Contracts {#_under_the_act_on_the_regulation_of_standardized_contracts}
+#### Under the Act on the Regulation of Standardized Contracts
 
 According to Article 7 of the Act on the Regulation of Standardized
 Contracts,[^77] the standardized contract terms that concern the
@@ -701,7 +701,7 @@ warranty under such agreement is narrower than the scope specified in
 the compulsory provisions of relevant laws, the warranties scope
 specified in the applicable law will apply.
 
-#### Limitation under the Product Liability Act {#_limitation_under_the_product_liability_act}
+#### Limitation under the Product Liability Act
 
 Under the Korea Product Liability Act, ‘product’ means all movable
 goods, industrially manufactured or processed, including movable goods
@@ -729,10 +729,10 @@ the liability exemption clause of the FOSS license may be valid under
 Article 6 of the Act. Therefore, in practice, product liability on FOSS
 would not often recognized.[^84]
 
-The Copyleft Principle {#_the_copyleft_principle}
+The Copyleft Principle
 ----------------------
 
-### Principle {#_principle}
+### Principle
 
 Strong copyleft clauses included in GPL 2.0 or 3.0, which obligate
 downstream users to distribute the source code of work based on the
@@ -741,7 +741,7 @@ Copyright Act and the Trade Secret Protection Act. The former
 acknowledges the independent copyrights of authors of derivative works
 while the latter protects trade secrets.
 
-### The Validity of Copyleft Clause {#_the_validity_of_copyleft_clause}
+### The Validity of Copyleft Clause
 
 As mentioned above, copyleft clauses are valid under Korean law since
 the principle of private autonomy is applied to the exercise of
@@ -769,10 +769,10 @@ maintain its secrecy, and iii) has independent economic value, and
 therefore is qualified as a trade secret.[^85] This holding is to be
 criticized as described in the section entitled “FOSS Cases in Korea.”
 
-Remedies for Infringement {#_remedies_for_infringement}
+Remedies for Infringement
 -------------------------
 
-### Under the Copyright Act {#_under_the_copyright_act}
+### Under the Copyright Act
 
 The principles that apply to other copyrightable works apply to FOSS
 when authors claim remedies and criminal sanctions under the Act.
@@ -780,7 +780,7 @@ Standing to sue differs depending on whether the work is a joint work, a
 collective work, or a derivative work as described in the section
 entitled “Analysis of FOSS under Korean Law.”[^86]
 
-### Breach of License Agreement or Copyright Infringement, Compensation for Damages {#_breach_of_license_agreement_or_copyright_infringement_compensation_for_damages}
+### Breach of License Agreement or Copyright Infringement, Compensation for Damages
 
 When there is a breach of a FOSS agreement, a determination must be made
 of if the breach constitutes a breach of contract and further a
@@ -820,10 +820,10 @@ Civil Execution Act, with a provisional disposition to keep the licensee
 from using the FOSS program or to disclose its source code until the
 relevant judgment is held.
 
-FOSS Cases in Korea {#_foss_cases_in_korea}
+FOSS Cases in Korea
 -------------------
 
-### Elimnet v. Haionnet {#_elimnet_v_haionnet}
+### Elimnet v. Haionnet
 
 An employee of Elimnet (the Developer) created a derivative work using
 GPL’d FOSS during his employment and assigned the copyright to the

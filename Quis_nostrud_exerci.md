@@ -1,12 +1,12 @@
-Belgium {#chap.belgium}
+Belgium
 =======
 
 author:\[Van den Brande,Ywein\]
 
-Introduction to software protection under Belgian law {#sec_introductionbelgium}
+Introduction to software protection under Belgian law
 -----------------------------------------------------
 
-### Body of law {#sec_bodybelgium}
+### Body of law
 
 Copyright protection of software is regulated in Belgium under the
 Software Act of 30 June 1994[^1]. This law transposes the Council
@@ -17,7 +17,7 @@ respect to the general Belgian Copyright Act as lex generalis[^3]. This
 means that the general Copyright Act will apply to software, to the
 extent that the Software Act does not contain any specific provisions.
 
-### Software Act: Object of protection {#sec_protectionbelgium}
+### Software Act: Object of protection
 
 Computer programs (including the preparatory material[^4]) are protected
 by copyright and are equivalent to literary works within the meaning of
@@ -47,7 +47,7 @@ d’auteur ne devrait s’appliquer qu'à des créations qui révèlent un
 niveau d’inventivité personnelle d’une certain intensité”[^9]), they
 agree that the threshold as applied by the courts is fairly low[^10].
 
-### Authors/Beneficiaries {#sec_authorsbelgium}
+### Authors/Beneficiaries
 
 The general Copyright Act provides that the copyrights on a work belong
 to the author, whether the author is an employee or not[^11]. Article 3
@@ -65,7 +65,7 @@ employer the owner of the economic rights or merely the mandatory of his
 employees? Case law confirmed that the Belgian lawmaker has chosen for
 the first interpretation[^13].
 
-### Exclusive rights {#sec_exclusivebelgium}
+### Exclusive rights
 
 According to article 5 of the Software Act the economic rights comprise
 the exclusive right of (a) the permanent or temporary reproduction of a
@@ -77,7 +77,7 @@ to the public. This is a slight diversion of the Software Directive, as
 article 4(c) of the Software Directive only mentions the rental of
 computer programs.
 
-### Exceptions to exclusive rights {#sec_exceptionsbelgium}
+### Exceptions to exclusive rights
 
 Article 5(c) of the law expressly provides that the first sale in the
 European Community of a copy of a program by the rightholder or with his
@@ -87,16 +87,16 @@ the program or a copy thereof.
 
 The other exceptions are set forth in article 6 of the Software Act:
 
-\(1) In the absence of specific contractual provisions, no authorization
+(1) In the absence of specific contractual provisions, no authorization
 by the rightholder is required for acts necessary for the use of the
 computer program by the lawful acquirer in accordance with its intended
 purpose, including error correction.
 
-\(2) The reproduction by way of a back-up copy by a person having a right
+(2) The reproduction by way of a back-up copy by a person having a right
 to use the computer program may not be prevented, insofar as that copy
 is necessary to use the program.
 
-\(3) The person having a right to use a copy of a computer program is
+(3) The person having a right to use a copy of a computer program is
 entitled, without the authorization of the rightholder, to observe,
 study or test the functioning of the program in order to determine the
 ideas and principles which underlie any element of the program if he
@@ -120,7 +120,7 @@ However, the exercise of these statutory rights is often difficult in
 practice because the licensee generally has no access to the source code
 of the application and it is not obvious to enforce access legally[^16].
 
-### Moral rights {#sec_moralbelgium}
+### Moral rights
 
 Article 4 of the Software Act specifies that the moral rights on
 software are regulated by article 6bis 1 of the Berner Convention. This
@@ -144,14 +144,14 @@ also concerning moral rights on software[^25]. However, some authors
 wonder whether the principle inalienability of moral rights is desirable
 for technological applications such as software[^26].
 
-### Term of protection {#sec_termbelgium}
+### Term of protection
 
 The same term as for works of literature and art applies: 70 years as of
 January 1 following the death of the author[^27]. In case of co-authors,
 the protection of the work lasts until 70 years as of January 1
 following the death of the longest living author.
 
-### Copyright assignment {#sec_assignmentbelgium}
+### Copyright assignment
 
 The law[^28] provides that the copyrights in works (other than software)
 made by employees in the course of the execution of their usual tasks
@@ -191,7 +191,7 @@ In order to control the copyright situation better, it may be useful to
 collect all copyrights concerning a FOSS project within one
 organisation.
 
-### Special measures {#sec_measuresbelgium}
+### Special measures
 
 The Software Act refers to the general Copyright Act regarding the
 measures to enforce copyrights. Besides these general measures, a
@@ -203,7 +203,7 @@ commercial purposes tools which are exclusively aimed at facilitating
 the unlawful removal or avoidance of technical means which protect the
 computer program[^33].
 
-Unprotected software and public domain software {#sec_publicdomainbelgium}
+Unprotected software and public domain software
 -----------------------------------------------
 
 As set forth above, only software that is original in the sense that it
@@ -229,7 +229,7 @@ their license agreement, than they would normally have with a
 proprietary software license[^39]. However, the FOSS license conditions
 need to be respected by the user.
 
-Analysis of FOSS under Belgian law {#sec_analysisbelgium}
+Analysis of FOSS under Belgian law
 ----------------------------------
 
 The FOSS license deviates so much from conventional license agreements
@@ -237,7 +237,7 @@ that under Belgian law it needs to be considered as a sui generis
 license agreement[^40]. However, it is still based on the same
 mechanisms.
 
-### Copyrights {#sec_copyrightsbelgium}
+### Copyrights
 
 Although FOSS can be written by one person or be owned by one legal
 entity[^41], generally speaking, after some time the software is the
@@ -248,7 +248,7 @@ the end work and every contribution created during the further
 development of the software, a derivative work. The legal consequences
 are different.
 
-### Qualification of FOSS {#sec_qualificationbelgium}
+### Qualification of FOSS
 
 For it to be work that was created following collaboration it is not
 necessary for every co-author to have contributed equally[^42]. In the
@@ -278,7 +278,7 @@ consequences, a distinction needs to be made between the rights of the
 original co-authors and the rights of people who carry on based on the
 original work.
 
-#### Rights of the original co-authors {#sec_cooauthorsbelgium}
+#### Rights of the original co-authors
 
 Unless the components of the software can be clearly distinguished, it
 usually concerns “indivisible works”[^45]. This concerns work whereby it
@@ -310,7 +310,7 @@ infringement[^51]. However, in some cases the lack of unanimity may
 result in the inadmissibility of this claim, e.g. if heirs of a
 programmer are unable to agree as to whether to institute a claim[^52].
 
-#### Authors of derivative works {#sec_derivsbelgium}
+#### Authors of derivative works
 
 After some time FOSS will, in most cases, be a derivative work or a
 composed work. Derivative works and composed works are works the
@@ -326,7 +326,7 @@ is not a problem, subject to respecting the terms and conditions (e.g.
 regarding further distribution of the derivative work)[^54]. Both
 authors can enforce their own copyrights in court.
 
-#### The assignment of copyrights {#sec_assignmentbelgium2}
+#### The assignment of copyrights
 
 In order to control the copyright situation better, it may be useful to
 collect all copyrights concerning a FOSS project within one
@@ -338,7 +338,7 @@ copyrights. The fiduciary transfer means that the party to whom the
 copyrights are assigned shall not act for himself but on account of
 others who have transferred the rights (the original authors)[^56].
 
-### Moral copyrights {#sec_moralcrbelgium}
+### Moral copyrights
 
 FOSS originated in the United States, and therefore attaches less
 importance to the moral rights of the author[^57]. The Open Source
@@ -363,14 +363,14 @@ original work will therefore, based on his moral rights, not only be
 able to oppose the use by third parties of his work, but also the use of
 derivative works which affect his honour or reputation.
 
-### Enforcing FOSS licenses {#sec_enforcingbelgium}
+### Enforcing FOSS licenses
 
 The question whether a FOSS license can be enforced under the Belgian
 legal system depends on whether a valid license was issued. The
 essential questions are: (i) between whom is a license reached, and (ii)
 has the license been validly reached?
 
-#### Contracting parties {#sec_partiesbelgium}
+#### Contracting parties
 
 If one author makes his work available under a FOSS license, the answer
 is clear: the license is reached between the licensee and the author. In
@@ -401,7 +401,7 @@ from the original licensor*[^67].
 In this way the user of the software obtains a license of all authors in
 the chain. This chain of licenses is valid under Belgian law.
 
-#### Validity of the FOSS licenses {#sec_validitybelgium}
+#### Validity of the FOSS licenses
 
 An author chooses a FOSS license because he wants to distribute his work
 and make it available to others -possibly with certain restrictions. For
@@ -452,7 +452,7 @@ raises the question of the validity of copyleft clauses: is violation of
 the copyleft clause automatically a copyright infringement? The answer
 is yes, as set forth under nr. 1.3.5.
 
-### Waiver and liability {#sec_waiverbelgium}
+### Waiver and liability
 
 Typically, FOSS licenses contain very strong exoneration clauses, which
 discharge the author from all liability[^75]. The reason for this is
@@ -488,9 +488,9 @@ defence, but it can be part of the proof that the author doesn’t qualify
 as a professional seller. However, as also professional sellers provide
 software for free, more proof will be needed.
 
-### The copyleft principle {#sec_copyleftbelgium}
+### The copyleft principle
 
-#### Principle {#sec_principlebelgium}
+#### Principle
 
 A characteristic found in different (but not all[^81]) FOSS licenses is
 the so-called “copyleft” principle. FOSS licenses which incorporate the
@@ -519,7 +519,7 @@ program. If the unlawful use has caused damage to the author, this
 damage will need to be reimbursed, but not more than the actually
 suffered damage.
 
-#### Validity {#sec_validitybelgium2}
+#### Validity
 
 The question relating to the validity of the copyleft clause coincides
 with the question whether an author is able to validly lay down how
@@ -595,7 +595,7 @@ transfer and further distribution also needs to transfer the conditions
 of the license. The copyleft principle is therefore not, in principle,
 in contrary to this principle.
 
-### Damages {#sec_damagesbelgium}
+### Damages
 
 Damage caused by copyright violations are compensated under Belgian law
 in accordance with the general applicable principles of the unlawful
@@ -638,7 +638,7 @@ then be obtained against payment by interested parties who want to use
 the work without their own additions being affected by the copyleft
 principle.
 
-FOSS cases in Belgium {#sec_casesbelgium}
+FOSS cases in Belgium
 ---------------------
 
 No cases have been reported yet (October 2013).

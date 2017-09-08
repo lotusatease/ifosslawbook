@@ -1,12 +1,12 @@
-France {#chap.france}
+France
 ======
 
 author:\[Perbost,Fabrice\] author:\[Walter,Alan\]
 
-Introduction to software protection under French law {#sec_introductionfrench}
+Introduction to software protection under French law
 ----------------------------------------------------
 
-### Body of law {#sec_bodyfrench}
+### Body of law
 
 Under article L. 112-2 of the French Intellectual Property Code,
 software developments shall be considered as works of the mind and are,
@@ -18,7 +18,7 @@ on the legal protection of computer programs in France. It provides some
 specific rules regarding software, which confirms and outlines the
 applicability of the general principles of copyright law to such works.
 
-### Scope of the protection {#sec_Scope_of_the_protection_france}
+### Scope of the protection
 
 Under article L. 112-2 of the French Intellectual Property Code,
 copyright law protects “software including preparatory design material”.
@@ -40,26 +40,26 @@ However, the ideas and principles, which underlie any element of
 software, including those which underlie its interfaces, are not
 protected by copyright.
 
-### Authors/Beneficiaries {#sec_authorsfrance}
+### Authors/Beneficiaries
 
-i.  As a rule, authorship shall belong to the natural person, who has
+1.  As a rule, authorship shall belong to the natural person, who has
     created the software, whether the author is an employee or not.
     However, according to article L. 113-1 of the French Intellectual
     Property Code, it shall belong, unless otherwise proved, to the
     person or persons under whose name the work has been disclosed.
 
-ii. Furthermore, article L. 113-9 of the French Intellectual Property
+2.  Furthermore, article L. 113-9 of the French Intellectual Property
     Code provides that unless otherwise provided by statutory provisions
     or stipulations, the economic rights in the software and its
     documentation created by one or more employees in the execution of
     their duties or following the instructions given by their employer
     shall be the property of the employer and he exclusively shall be
-    entitled to exercise them.\
+    entitled to exercise them.  
     This provision also applies to the servants of the State, of local
     authorities and of public establishments of an
     administrative nature.
 
-iii. Software created by two or more persons may be a “collective work”
+3.  Software created by two or more persons may be a “collective work”
     or a “collaborative work”.
 
     A collaborative work is a work in the creation of which more than
@@ -76,7 +76,7 @@ iii. Software created by two or more persons may be a “collective work”
     of the natural or legal person under whose name it has
     been disclosed.
 
-iv. When a work integrates a preexisting work, without the collaboration
+4.  When a work integrates a preexisting work, without the collaboration
     of the author of the latter work, it is defined as a
     “Composite work”. A composite work shall be the property of the
     author who has produced it, subject to the rights of the author of
@@ -85,7 +85,7 @@ iv. When a work integrates a preexisting work, without the collaboration
     work for such integration and (b) share the remuneration derived
     from the composite work with the author of the integrated work.
 
-### Exclusive rights {#sec_exclusivefrench}
+### Exclusive rights
 
 According to article L. 122-6 of the French Intellectual Property Code,
 the patrimonial rights belonging to the author of the software shall
@@ -115,7 +115,7 @@ loading, displaying, running, transmitting or storing the software
 necessitate such reproduction, such acts require the consent of the
 author.
 
-### Exceptions to exclusive rights {#sec_exceptions_france}
+### Exceptions to exclusive rights
 
 Similarly to the general copyright rules, the third paragraph of article
 L. 122-6 of the French Intellectual Property Code provides that the
@@ -158,7 +158,7 @@ nor cause unreasonable prejudice to the author’s legitimate interests.
 Any stipulation contrary to the provisions of article L. 122-6-1 shall
 be null and void.
 
-### Moral rights {#sec_moral_french}
+### Moral rights
 
 The moral rights of the author generally include (i) the right to
 disclose his work, (ii) the right of respect for his name and his work
@@ -185,7 +185,7 @@ preservation of the author’s anonymity are valid, as long as the author
 does not permanently waive his right of paternity. An anonymous author
 may reveal his paternity at any time.
 
-### Term of protection {#sec_protection_france}
+### Term of protection
 
 According to article L. 123-1 of the French Intellectual Property Code,
 the author shall enjoy, during his lifetime and for 70 years after his
@@ -204,7 +204,7 @@ anonymously or under a pseudonym.
 Finally, a composite work is protected regardless of the preexisting
 work, even if the preexisting work has entered the public domain[^2].
 
-### Copyright assignment {#_copyright_assignment}
+### Copyright assignment
 
 Article L. 131-1 of the French Intellectual Property Code provides that
 the complete assignment of intellectual property rights in future works
@@ -228,7 +228,7 @@ The assignment may always be done for free, considering the interest of
 the author to release its work and have it brought to the knowledge of
 the public.
 
-### Special measures {#_special_measures}
+### Special measures
 
 Law n° 2006-961 of 1st August 2006, which implements Council Directive
 2001/29/EC of 22nd May 2001 on the harmonization of certain aspects of
@@ -248,7 +248,7 @@ provision of devices, products or services to this effect. Nevertheless,
 the article specifies that it is not applicable to the technological
 measures used in connection with software.
 
-Unprotected software and public domain software {#sec_publicdomain_french}
+Unprotected software and public domain software
 -----------------------------------------------
 
 As previously discussed, only original software is protected by
@@ -289,7 +289,7 @@ license would appear to be possible as far as the author may freely
 waive his patrimonial rights. The use of the software would, however, be
 subject to the respect of the moral rights of the author.
 
-Analysis of FOSS under French law {#sec_analysisfrench}
+Analysis of FOSS under French law
 ---------------------------------
 
 Free software licenses have once been defined as “licenses through which
@@ -311,7 +311,7 @@ Software”, as they find it more expressive and understandable.
 The determination and the expression of rights between different
 contributors will depend on the qualification given to the work.
 
-### FOSS definitions {#sec_defs_french}
+### FOSS definitions
 
 In accordance with the principle of free modification of software
 distributed under a free license, a certain number of persons will
@@ -351,7 +351,7 @@ right to modify to all users. The remainder of the current paper is
 based upon the most commonly admitted definition for open source
 software, namely that of a derivative work.
 
-### Copyright {#_copyright}
+### Copyright
 
 The evolutionary character of free software makes the definition of each
 author and contributor’s rights extremely complicated. Literary and
@@ -411,14 +411,14 @@ However, case law has shown proof of flexibility in this field. Certain
 decisions have been based on the real will of the parties[^14] or actual
 use[^15] in order to validate an assignment and to appreciate its scope.
 
-### Moral copyrights {#_moral_copyrights}
+### Moral copyrights
 
 The mechanisms of free licenses are based on the freedom for licensees
 to use and to freely modify software. This freedom is liable to clash
 with the moral rights of the author and those of the different
 contributors.
 
-#### Right to disclose {#_right_to_disclose}
+#### Right to disclose
 
 The author of the initial software exercises his right to disclose
 through his decision to distribute the software under a free license. He
@@ -449,7 +449,7 @@ copyleft are much more flexible. The contributors are free to use and
 modify the software without being bound to subject their modified work
 to the conditions of a given license.
 
-#### Paternity rights {#_paternity_rights}
+#### Paternity rights
 
 Paternity rights over the initial or modified software are not treated
 uniformly by all free licenses.
@@ -464,7 +464,7 @@ mistaken attribution to a third party. As a result, anonymity rights,
 which result from paternity rights, cannot be exercised when the
 software is distributed under a license of this kind.
 
-#### Right of integrity {#_right_of_integrity}
+#### Right of integrity
 
 Free licenses allow any person, who accepts the terms thereof to modify
 the work.
@@ -484,9 +484,9 @@ this latter may like to carry out”[^17]. Any software modification may
 therefore expose its author to a future action based on the right to
 respect for the original work.
 
-### Enforcing FOSS licenses {#_enforcing_foss_licenses}
+### Enforcing FOSS licenses
 
-#### Contractual organization {#_contractual_organization}
+#### Contractual organization
 
 The originality of the distribution of free licenses lies in the fact
 that the author does not simply disclose his work; he also organizes the
@@ -511,7 +511,7 @@ This being said, certain licenses, such as the GPL, specify that rights
 over the modified work be granted only by the initial author to the
 detriment of the rights of other contributors.
 
-#### Validity of the agreement {#_validity_of_the_agreement}
+#### Validity of the agreement
 
 The validity of such licenses can be called into question under basic
 contract law, or under consumer laws.
@@ -545,7 +545,7 @@ In spite of these notions of French law, the Court of Appeal of Paris
 indirectly acknowledged the validity of such free licenses in a decision
 dated 16th September 2009[^22].
 
-#### Breach of license conditions {#_breach_of_license_conditions}
+#### Breach of license conditions
 
 Failure to comply with the provisions of a license constitutes a breach
 by the licensee of his contractual obligations as well as a breach of
@@ -572,7 +572,7 @@ source code of his modified version of the free software. The Court of
 Appeal therefore held that several conditions of the GNU GPL had not
 been complied with.
 
-### Waiver and liability {#_waiver_and_liability}
+### Waiver and liability
 
 The majority of free licenses includes a limitation or exemption of
 liability. This is the case with GNU and Mozilla licenses, for example.
@@ -615,7 +615,7 @@ of the defect to be known at the time that the product came into
 circulation. It is within this meaning that the warranty clause in the
 CeCILL license has been produced[^27].
 
-FOSS Cases in France {#sec.fossfrance}
+FOSS Cases in France
 --------------------
 
 Although it can be said that the free domain relatively generates few
@@ -704,7 +704,7 @@ Three cases have come before the French courts.
     decision is not without consequences and that a free software is not
     a software free of rights.
 
-Legal procedures {#sec_france_procedures}
+Legal procedures
 ----------------
 
 Free software developers enjoy several methods of ensuring the
@@ -730,9 +730,9 @@ courts to ensure the compliance with his rights. Before criminal courts,
 the pirate risks up to 3 years in prison and fines of up to 300,000
 Euros[^31].
 
-### Recommended literature {#_recommended_literature}
+### Recommended literature
 
-#### Opinion {#_opinion}
+#### Opinion
 
 -   S. Basset and Ch. Bigot, Les logiciels open source : quel statut
     juridique ?, Cahier Lamy droit de l’informatique et des réseaux,
@@ -773,7 +773,7 @@ Euros[^31].
 -   L. Schurr, La licence GNU/GPL (V3) a presque deux ans : un bilan
     mitigé, Gaz. Pal., 22 and 23 April 2009, p. 9
 
-#### Case law {#_case_law}
+#### Case law
 
 -   TGI Paris, 28 March 2007, Educaffix c/ CNRS, Gaz. Pal., n° 22, 22
     January 2008, p. 35

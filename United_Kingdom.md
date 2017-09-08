@@ -1,12 +1,12 @@
-United Kingdom {#chap.uk}
+United Kingdom
 ==============
 
 author:\[Katz,Andrew\] author:\[Mitchell QC,Iain G.\]
 
-Introduction to software protection under United Kingdom law {#sec_introduction_uk}
+Introduction to software protection under United Kingdom law
 ------------------------------------------------------------
 
-### Body of law {#sec_bodyuk}
+### Body of law
 
 Unlike the other countries covered in this book, the United Kingdom
 comprises not one but three separate jurisdictions: England & Wales,
@@ -40,7 +40,7 @@ Directive of 14 May 1991 on the Legal Protection of computer programs
 (91/250/EEC)[^6] into United Kingdom law (referred to as the “Software
 Directive”).
 
-### Copyright Act: Object of protection {#sec_uk_object}
+### Copyright Act: Object of protection
 
 Computer programs (including the preparatory material) are protected by
 copyright and are equivalent to literary works within the meaning of the
@@ -60,7 +60,7 @@ is incorporeal in nature and therefore copyright falls to be regarded as
 incorporeal moveable property, and, (according to the terminology of
 English law and Northern Irish Law) incorporeal personal property.
 
-### Authors/Copyright owners {#sec_uk_authors}
+### Authors/Copyright owners
 
 The Copyright Act provides that the copyrights in a work belong to the
 author, unless the author is an employee who created the work “in the
@@ -80,7 +80,7 @@ services, the entity will not obtain the copyright in the software, and
 will, instead, obtain some form of implied licence, the scope of which
 is unclear.[^10]
 
-### Exclusive rights {#sec_uk_Exclusiverights}
+### Exclusive rights
 
 According to section 2(1) of the Copyright Act the owner of copyright
 (including copyright in computer programs) has the exclusive economic
@@ -88,17 +88,17 @@ rights set out in Chapter II of the Copyright Act (see section 16(1)).
 These are (following the sub-paragraph designations in the Act) the
 right :
 
-\(a) to copy the work;
+(a) to copy the work;
 
-\(b) to issue copies of the work to the public;
+(b) to issue copies of the work to the public;
 
-\(c) to rent or lend the work to the public;
+(c) to rent or lend the work to the public;
 
-\(d) to perform, show or play the work in public;
+(d) to perform, show or play the work in public;
 
-\(e) to communicate the work to the public;
+(e) to communicate the work to the public;
 
-\(f) to make an adaptation of the work or to do any of the above in
+(f) to make an adaptation of the work or to do any of the above in
 relation to an adaptation.
 
 All these rights theoretically apply in the case of a computer program,
@@ -125,30 +125,30 @@ Translation of a computer program into another “language or code” (which
 would presumably include compilation and assembly) is explicitly
 expressed to be making an adaptation (section 21(4)).
 
-### Exceptions to exclusive rights {#sec_uk_ExceptionstoExclusiveRights}
+### Exceptions to exclusive rights
 
 Lawful users of computer programs are guaranteed the following rights
 (which are neither an infringement of copyright, nor a breach of any
 term of a contract purporting to restrict them[^12])
 
-\(a) The making of backup copies (to the extent they are necessary)
+(a) The making of backup copies (to the extent they are necessary)
 
-\(b) decompilation; and
+(b) decompilation; and
 
-\(c) observing, studying and testing
+(c) observing, studying and testing
 
 (see further below)
 
-\(1) In the absence of specific contractual provisions, no authorization
+(1) In the absence of specific contractual provisions, no authorization
 by the rightholder is required for acts necessary for the use (including
 copying or adapting[^13]) of the computer program by the lawful acquirer
 or for error correction[^14].
 
-\(2) A lawful user of a computer program may not be prevented from making
+(2) A lawful user of a computer program may not be prevented from making
 any backup copy, insofar as that copy is necessary to use the
 program[^15].
 
-\(3) A lawful user of a copy of a computer program is entitled, without
+(3) A lawful user of a copy of a computer program is entitled, without
 the authorization of the rightholder, to observe, study or test the
 functioning of the program in order to determine the ideas and
 principles which underlie any element of the program if he does so while
@@ -174,12 +174,12 @@ the obligation to keep the information confidential.
 The exercise of these statutory rights is often difficult in practice
 because their scope is unclear.
 
-### Moral rights {#sec_uk_Moralrights}
+### Moral rights
 
 Software is not subject to moral rights under United Kingdom law (and
 neither are computer generated works)[^18].
 
-### Term of protection {#sec_uk_Termofprotection}
+### Term of protection
 
 The same term as for works of literature and art applies: 70 years as
 from the 1st January in the year following the death of the author[^19].
@@ -195,7 +195,7 @@ the object code *qua* computer generated work had expired[^20].
 Where the authors are joint, the reference to the death of an author
 should be construed as the death of the last remaining author[^21].
 
-### Copyright assignment and assignation {#_copyright_assignment_and_assignation}
+### Copyright assignment and assignation
 
 As we have seen, in the absence of any agreement to the contrary, any
 copyright work created by an employee for an employer in the course of
@@ -282,7 +282,7 @@ insolvency, and virtually no similarity at all in the laws of
 succession. It is beyond the scope of the present work to discuss these
 matters.
 
-### Technical devices and effective technological measures {#sec_uk_TechnicalDevices}
+### Technical devices and effective technological measures
 
 A "technical device" is any device intended to prevent or restrict acts
 that are not authorised by the copyright owner of that work and are
@@ -323,7 +323,7 @@ measure is manufactured, supplied etc., then the copyright owner,
 exclusive licensee and owner of the effective technological measure have
 similar rights against the manufacturer, supplier etc[^34].
 
-### Enforcement measures {#sec_uk_Enforcement}
+### Enforcement measures
 
 The Copyright Act contains provisions intended to assist in the
 enforcement of copyrights.
@@ -400,7 +400,7 @@ in embedded devices may potentially invoke these powers where the
 firmware has been released under the GPL, but the relevant conditions of
 the GPL are not being complied with[^43].
 
-Unprotected software, public domain software and orphan works {#sec_uk_unprotected}
+Unprotected software, public domain software and orphan works
 -------------------------------------------------------------
 
 Only software that is original in the sense that it is an intellectual
@@ -481,7 +481,7 @@ licence may be a bare licence, or a contractual licence. Use outside the
 scope of a licence (or otherwise permitted by law) will amount to a
 breach of copyright.
 
-Analysis of FOSS under United Kingdom law {#sec_uk_analysis}
+Analysis of FOSS under United Kingdom law
 -----------------------------------------
 
 In essence, a licence is a permission to do something which would
@@ -559,7 +559,7 @@ term permitting termination on reasonable notice. In the case of FOSS
 licences the Court may be reluctant to imply a term that the contract is
 terminable at will (on whatever notice), as explained below.
 
-### Copyrights {#sec_uk_Copyrights}
+### Copyrights
 
 Although FOSS can be written by one person or be owned by one legal
 entity (as a result of contributor assignments, for example), generally
@@ -653,7 +653,7 @@ It is not clear under English and Scots law how damages would be
 assessed for infringement of FOSS, including where the damages relate to
 a claim brought by one co-owner.
 
-### The assignment of copyrights {#sec_uk_Theassignment}
+### The assignment of copyrights
 
 In order to control the copyright situation better (to facilitate
 re-licensing, for example), it may be useful to collect all copyrights
@@ -665,7 +665,7 @@ facilitated by an assignment or assignation of the copyrights. As we
 have seen above, copyrights can be assigned at law only in writing, in a
 document signed by the assignor.
 
-### Moral rights {#sec_uk_moremoralrights}
+### Moral rights
 
 FOSS originated in the United States, and therefore attaches less
 importance to the moral rights of the author. The Open Source Definition
@@ -685,7 +685,7 @@ content creator (both before and after creation of any specific work),
 and copyright assignments and employment contracts frequently contain
 general waivers.
 
-### Enforcing FOSS licenses {#sec_uk_EnforcingFOSS}
+### Enforcing FOSS licenses
 
 In one sense, it is meaningless to talk about FOSS licences being
 “enforceable”.
@@ -738,7 +738,7 @@ and, it is submitted, have little difficulty in coming to the view that
 there is an implied term that the license duration is perpetual, and
 that the licence cannot be terminated by the proprietor at will.
 
-#### Parties to the licences {#_parties_to_the_licences}
+#### Parties to the licences
 
 If one author makes his work available under a FOSS license, the answer
 is clear: the licence is granted by the author to the licensee. In case
@@ -766,7 +766,7 @@ convey a covered work, the recipient automatically receives a license
 from the original licensors, to run, modify and propagate that work,
 subject to this License[^54]
 
-#### Validity of the FOSS licence as a contract {#_validity_of_the_foss_licence_as_a_contract}
+#### Validity of the FOSS licence as a contract
 
 An author chooses a FOSS license because he wants to distribute his work
 and make it available to others — possibly with certain restrictions.
@@ -849,7 +849,7 @@ almost invariably be a breach of copyright, there is little value in a
 user trying to dispute the existence or validity of the licence under
 either English or Scots Law.
 
-#### Violation of licence terms {#_violation_of_licence_terms}
+#### Violation of licence terms
 
 Where a user is using software subject to copyright other than in
 accordance with the conditions contained in a licence, then that use
@@ -889,7 +889,7 @@ granted certain powers to terminate unprofitable or onerous contracts,
 which may include FOSS licences granted under contract[^56]. Similar
 provisions apply in Scotland.
 
-### Waiver and liability {#sec_uk_Waiver}
+### Waiver and liability
 
 There is, under English and Scots Law, no automatic connection between
 the ownership of copyright, and liability arising from a defect in that
@@ -996,9 +996,9 @@ chain of a dangerous product[^64]. However, the CPA does provide a
 defence to a provider of a dangerous component where that component was
 supplied free and not with a view to a profit.[^65]
 
-### The copyleft principle {#sec_uk_Thecopyleft}
+### The copyleft principle
 
-#### Principle {#_principle}
+#### Principle
 
 A characteristic found in different (but not all[^66]) FOSS licenses is
 the so-called “copyleft” principle. FOSS licenses which incorporate the
@@ -1047,7 +1047,7 @@ therefore have to release its software without the infringing FOSS code,
 either at a cost of impaired functionality, or alternatively by
 obtaining or writing code with similar functionality from elsewhere.
 
-### Damages {#sec_uk_Damages}
+### Damages
 
 Damage caused by copyright violations are compensated for under English
 and Scots law by the applying one of two measures of damages, as
@@ -1095,18 +1095,18 @@ expended. In Scotland, the amount of the reduction in expenses is more
 difficult to predict, but there will almost always be a reduction which
 can be substantial.
 
-FOSS cases in the United Kingdom {#sec_uk_cases}
+FOSS cases in the United Kingdom
 --------------------------------
 
 There have not yet been any reported cases (June 2014).
 
-Legal procedures {#sec_uk_procedures}
+Legal procedures
 ----------------
 
 Stephen Mason kindly reviewed this section from a litigator’s
 perspective.
 
-### England {#sec_uk_England}
+### England
 
 FOSS-related cases in England will typically be copyright infringement
 cases, and will be heard in the civil courts. Simple cases may be heard
@@ -1183,7 +1183,7 @@ High Court or the Court of Appeal to refer the question to the European
 Court of Justice, though such a reference is not mandatory. However, a
 reference from the Supreme Court in such a case would be mandatory.
 
-### Scotland {#sec_uk_Scotland}
+### Scotland
 
 Cases in Scotland relating to FOSS may be likely to be seeking either
 remedies for copyright infringement or remedies available under the
@@ -1331,7 +1331,7 @@ refer the question to the European Court of Justice, though such a
 reference is not mandatory. However, a reference from the Supreme Court
 in such a case would be mandatory.
 
-### Recommended literature {#_recommended_literature}
+### Recommended literature
 
 -   Law and the Internet Third edition, ed. Edwards and Waelde, Hart
     Publishing Oxford 2009, esp. Chapter 11, Andres Guadamuz

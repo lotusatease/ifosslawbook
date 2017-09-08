@@ -1,12 +1,12 @@
-Taiwan {#chap.taiwan}
+Taiwan
 ======
 
 author:\[Lin,Lucien Cheng-Hsia\]
 
-Introduction to software protection under Taiwan law {#sec_introductiontaiwan}
+Introduction to software protection under Taiwan law
 ----------------------------------------------------
 
-### Body of law {#sec_bodytaiwan}
+### Body of law
 
 Copyright protection of software in Taiwan is regulated under the
 general Copyright Act of 10 Feb. 2010. Instead of drafting specialized
@@ -38,7 +38,7 @@ Intellectual Property Court, the written mediation settlement statement
 shall have the same force as a final and unappeasable court judgment and
 constitute a writ of execution by itself as well.
 
-### Copyright Act: Object of protection {#sec_protectiontaiwan}
+### Copyright Act: Object of protection
 
 Computer programs are protected by copyrights as one special work in the
 intellectual domain similar to literary and artistic creation, this is
@@ -77,7 +77,7 @@ registering or copying the reality or executing a functional routine.
 make it qualified as an own intellectual creation of the author, no
 matter how minor the originality is.
 
-### Authors/Beneficiaries {#sec_authorstaiwan}
+### Authors/Beneficiaries
 
 Article 11 and 12 of the Copyright Act provide that the author of a
 computer program should be the one who actually does the design and
@@ -108,7 +108,7 @@ explanation for its lawful exploitation status on the work, whether this
 privilege is recorded in writing or not, it applies to the commissioning
 party as well at law.
 
-### Exclusive rights {#sec_exclusivetaiwan}
+### Exclusive rights
 
 The exclusive economic rights defined by the Copyright Act are listed
 from article 22 to 29, the whole package included (a) reproduce the
@@ -123,7 +123,7 @@ to other copyright works under the Copyright Act without specific
 differences, all the exclusive rights listed above could be covered in
 the software area, as long as it is applied in a realizable way.
 
-### Exceptions to exclusive rights {#sec_exceptionstaiwan}
+### Exceptions to exclusive rights
 
 Besides making a legal plea and excuse by asserting the fair use
 doctrine based on article 44 to 66 as limitations to exclusive rights,
@@ -155,7 +155,7 @@ economic rights holder grants its consent otherwise.”*  article 59 cited
 above is deemed as compulsory law. Therefore, contractual agreements in
 conflict with that are held to be nonexistence.
 
-### Moral rights {#sec_moraltaiwan}
+### Moral rights
 
 Moral rights are highly valued by the Copyright Act in Taiwan and
 applied to computer programs if realizable in essence like other
@@ -190,27 +190,23 @@ of Freedom of Contract” shall be honored.
 Moral rights protected by the Copyright Act in Taiwan consist of three
 parts:
 
-Right of publicly release
+Right of publicly release  
+*The author of a work shall enjoy the right to publicly release the
+work* provided by article 15 of the Copyright Act;
 
-:   *The author of a work shall enjoy the right to publicly release the
-    work* provided by article 15 of the Copyright Act;
+Right of paternity  
+*The author of a work shall have the right to indicate its name, a
+pseudonym, or no name on the original or copies of the work, or when the
+work is publicly released. The author has the same right to a derivative
+work based on its work* provided by article 16 of the Copyright Act;'
 
-Right of paternity
+Right of integrity  
+*The author has the right to prohibit others from distorting,
+mutilating, modifying, or otherwise changing the content, form, or name
+of the work, thereby damaging the author’s reputation* provided by
+article 17 of the Copyright Act.
 
-:   *The author of a work shall have the right to indicate its name, a
-    pseudonym, or no name on the original or copies of the work, or when
-    the work is publicly released. The author has the same right to a
-    derivative work based on its work* provided by article 16 of the
-    Copyright Act;'
-
-Right of integrity
-
-:   *The author has the right to prohibit others from distorting,
-    mutilating, modifying, or otherwise changing the content, form, or
-    name of the work, thereby damaging the author’s reputation* provided
-    by article 17 of the Copyright Act.
-
-### Term of protection {#sec_termtaiwan}
+### Term of protection
 
 For economic rights of computer programs, the same terms to works of
 literature, science, and art apply: 50 years as of December 31 following
@@ -231,7 +227,7 @@ Hence, moral rights of copyrights shall not perish after the death of
 the author, but it would, to some extent, be applied in a more moderated
 and compromised way.
 
-### Copyright assignment {#sec_assignmenttaiwan}
+### Copyright assignment
 
 As mentioned previously about the default setting by article 11 and 12
 of the Copyright Act, the authorship of a computer program is attributed
@@ -269,7 +265,7 @@ agreement on a written document or through a similar method like that to
 preserve the related information as many as possible in order to clearly
 record the details of the stipulations.
 
-### Special measures {#sec_measurestaiwan}
+### Special measures
 
 Some articles of Copyright Act are deemed as special provisions to the
 general Criminal Code, those provisions applied to computer programs
@@ -305,7 +301,7 @@ Court, the written mediation settlement statement shall have the same
 force as a final and unappealable court judgment and constitute a writ
 of execution by itself as well.
 
-Unprotected software and public domain software {#sec_publicdomaintaiwan}
+Unprotected software and public domain software
 -----------------------------------------------
 
 As set forth above, two fundamental criteria should be met on computer
@@ -356,7 +352,7 @@ term of protection. In other words, the abandoning statements made by
 the rightholders will render computer programs as unprotected softwares,
 and therefore into the Public Domain area.
 
-Analysis of FOSS under Taiwan law {#sec_analysistaiwan}
+Analysis of FOSS under Taiwan law
 ---------------------------------
 
 Provided by article 10 of the Copyright Act, author of a work shall
@@ -392,7 +388,7 @@ license agreements based on the same fundamental copyright mechanisms
 but adjusted to some extent by contractual agreements for matching a new
 collaborative development methodology.
 
-### Copyrights {#sec_copyrightstaiwan}
+### Copyrights
 
 One very essential problem to the FOSS project is that it is made with
 accumulated multiple authors with or without coordination. On account of
@@ -453,7 +449,7 @@ supplementary stipulations under the respective FOSS licenses. This
 might be a much more rational and workable way for an overall copyright
 protection on FOSS projects for the time being.
 
-### Qualification of FOSS {#sec_qualificationtaiwan}
+### Qualification of FOSS
 
 As mentioned above, with the essential originality the computer programs
 will be subjected to copyright protection automatically, this is clearly
@@ -482,7 +478,7 @@ circulation between the Copyright Act and specific FOSS licensing
 agreement should the FOSS licensing mode be able to operate smoothly as
 it sets to be.
 
-#### Rights of the original co-authors {#sec_cooauthorstaiwan}
+#### Rights of the original co-authors
 
 Provided in article 8 of the Copyright Act *“A joint work is a work that
 has been completed by two or more persons where the creation of each
@@ -531,7 +527,7 @@ for an infringement of copyrights and demand remedies from the
 infringer, either acting as a moral rights holder or based on its share
 of economic rights ownership.
 
-#### Authors of derivative works {#sec_derivstaiwan}
+#### Authors of derivative works
 
 Regulated in article 6 of the Copyright Act *“A creation adapted from
 one or more pre-existing works is a derivative work and shall be
@@ -580,7 +576,7 @@ related information about the validity and enforcement of those
 impositions will be presented later in the “Copyright principle” section
 of this chapter.
 
-#### The assignment of copyrights {#sec_assignmenttaiwan2}
+#### The assignment of copyrights
 
 In order to gather all related copyrights in a FOSS project to make an
 efficient management or timely disposal of the FOSS project, sometimes
@@ -618,7 +614,7 @@ devoted to one or multiple FOSS projects, to initiate management actions
 and other civil, criminal, and administrative suits and complaints, is
 actually quite feasible and practicable at law in Taiwan.
 
-### Moral copyrights {#sec_moralcrtaiwan}
+### Moral copyrights
 
 As aforementioned, moral rights of copyrights are highly valued by the
 Copyright Act in Taiwan and they applied to computer programs as well as
@@ -662,7 +658,7 @@ FOSS project will not be limited. This understanding could be fairly
 deemed as one acknowledged renouncement of its moral rights with scope
 revelation and explanation.
 
-### Enforcing FOSS licenses licenses {#sec_enforcingtaiwan}
+### Enforcing FOSS licenses licenses
 
 As mentioned previously, due to the lack of corresponding mechanisms
 either in substantive law or in adjective law for the unilateral act,
@@ -679,7 +675,7 @@ has the contract been validly reached with all the legal formalities
 required? Based on these two points, we shall further the analysis on
 the FOSS licenses validity and enforceability hereunder.
 
-#### Contracting parties {#sec_partiestaiwan}
+#### Contracting parties
 
 According to article 153, paragraph 1 of the Civil Code *“When the
 parties have reciprocally declared their concordant intent, either
@@ -755,7 +751,7 @@ exploited by the recipients, upon that time the contract between the
 rightholders and the respective recipients shall be validly sustained at
 law.
 
-#### Validity of the FOSS licenses {#sec_validitytaiwan}
+#### Validity of the FOSS licenses
 
 For the full validity of a contract, not only the intent should be
 reached concordantly between both parties, but also the contents and
@@ -765,20 +761,16 @@ are basically provided in article 71, 72, and 73 of the Civil Code. And
 all the principles mentioned hereunder are equally applied to the
 contract as well as a type of the juridical act, such as:
 
-Article 71
+Article 71  
+*A juridical act which violates an imperative or prohibitive provision
+of the act is void except voidance is not implied in the provision.*
 
-:   *A juridical act which violates an imperative or prohibitive
-    provision of the act is void except voidance is not implied in
-    the provision.*
+Article 72  
+*A juridical act which is against public policy or morals is void.*
 
-Article 72
-
-:   *A juridical act which is against public policy or morals is void.*
-
-Article 73
-
-:   *A juridical act which does not follow the formality required by the
-    act is void unless otherwise provided by the act.*
+Article 73  
+*A juridical act which does not follow the formality required by the act
+is void unless otherwise provided by the act.*
 
 Moreover, because of the “All Rights Reserved” principle set forth by
 the Copyright Act, exploiting computer programs without the author’s
@@ -820,7 +812,7 @@ speaking, a FOSS license contract is evaluated to be sustained according
 to the “Principle of Freedom of Contract” and the reviewing based on the
 three criteria listed above.
 
-### Waiver and liability {#sec_waivertaiwan}
+### Waiver and liability
 
 Typically, there will be certain exoneration clauses declared as a
 disclaimer of warranty and limitation of liability in the FOSS licenses.
@@ -871,7 +863,7 @@ buyer, otherwise he will still be held responsible for the quality of it
 offering. That a FOSS project being part of the offering or not does not
 affect this legal demand on a compulsory basis.
 
-### The copyleft principle {#sec_copylefttaiwan}
+### The copyleft principle
 
 Copyleft is not necessarily an ideological term though it is indeed
 created to make a contrast to the notion of copyright. Its discourse,
@@ -891,7 +883,7 @@ the central idea of the notion copyleft “Authors requiring their
 original and derivative works to be continuously available under the
 same rules to the public.”
 
-#### Principle {#sec_principletaiwan}
+#### Principle
 
 The classic model of such a licensing mechanism is the respective
 versions of GNU licenses[^18] drafted by Free Software Foundation. Some
@@ -951,7 +943,7 @@ will be considered as derivative works of the GPL-licensed component,
 and the entire software project will fall within the expansive scope of
 the License Inheritance of the GPL.
 
-#### Validity {#sec_validitytaiwan2}
+#### Validity
 
 To find the answer about how the copyleft principle can be sustained and
 held valid under Taiwan’s legal system, three questions should be
@@ -1054,7 +1046,7 @@ the protection of public interests. Therefore it should be sustained and
 held valid at law in Taiwan, either in form or in substantive evaluation
 aspect.
 
-### Damages {#sec_damagestaiwan}
+### Damages
 
 As set forth previously, some articles of Copyright Act in Taiwan are
 deemed as special provisions to the general Criminal Code. Therefore,
@@ -1108,7 +1100,7 @@ matter. If the damaging activity was intentional and / or serious, the
 compensation set by the court may be increased to five million New
 Taiwan Dollars maximum.
 
-FOSS cases in Taiwan {#sec_casestaiwan}
+FOSS cases in Taiwan
 --------------------
 
 By the time the Taiwan chapter finished, there is still no FOSS cases

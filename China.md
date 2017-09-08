@@ -1,12 +1,12 @@
-China {#chap.china}
+China
 =====
 
 author:\[Xia,Yang\]
 
-Introduction to software protection under Chinese law {#sec_introduction_china}
+Introduction to software protection under Chinese law
 -----------------------------------------------------
 
-### Body of law {#sec_body_china}
+### Body of law
 
 The regulations contained in the “The People’s Republic of China
 Copyright Law” are formulated to protect the rights of copyright owners,
@@ -21,7 +21,7 @@ Copyright Act. While there is a Software Act, it is a special statute in
 relation to the general Copyright Act, and as such does not contain any
 specific provisions above and beyond its terms.
 
-### Software Act: Object of protection {#sec_object_china}
+### Software Act: Object of protection
 
 Computer programs and preparatory material related to their development
 are protected by copyright and are equivalent to literary works within
@@ -38,13 +38,13 @@ to computer programs and related documentation.
 
 The relevant terms are defined as follows:
 
-\(a) A computer program is the code sequence used by computers or other
+(a) A computer program is the code sequence used by computers or other
 devices capable of processing information, or a sequence of symbolic
 instructions or statements which can be automatically converted into a
 sequence of coded instructions. The source code and object code is of
 the same program.
 
-\(b) A document contains the text data and charts used to describe the
+(b) A document contains the text data and charts used to describe the
 computer program’s contents, composition, design, functional
 specifications, development and test results, such as details of the
 program design, flow charts, user manuals, and so on.
@@ -57,16 +57,16 @@ Legislation on copyright protection for software does not extend to the
 ideas used in software development, processing, and methods of operation
 or mathematical concepts and suchlike.
 
-### Authors/Beneficiaries {#sec_authors_china}
+### Authors/Beneficiaries
 
 The relevant terms are defined as follows:
 
-\(a) A software developer can be a legal entity or organization
+(a) A software developer can be a legal entity or organization
 responsible for the actual organizational development, direct
 development and software development; or can be an individual person
 responsible for the independent software completed by their own effort.
 
-\(b) A software copyright owner is an individual person, a legal entity
+(b) A software copyright owner is an individual person, a legal entity
 or an organization that enjoys the copyright in accordance with this
 regulation.
 
@@ -99,25 +99,25 @@ co-developers, then no single developer may prevent the other developers
 from exercising their rights apart from the right of transfer, but the
 benefits have to be fairly distributed amongst all the co-developers.
 
-### Exclusive rights {#sec_exclusive_china}
+### Exclusive rights
 
 Software copyright holders enjoy the following rights:
 
-\(a) Publication right
+(a) Publication right
 
-\(b) The right of authorship
+(b) The right of authorship
 
-\(c) Amendment right
+(c) Amendment right
 
-\(d) Reproduction right
+(d) Reproduction right
 
-\(e) Distribution right
+(e) Distribution right
 
-\(f) Lending right
+(f) Lending right
 
-\(g) Right to network Dissemination of information
+(g) Right to network Dissemination of information
 
-\(h) Translation right
+(h) Translation right
 
 According to the second paragraph of Article 10 of the Copyright Law, if
 the copyright holders allow others to exercise their rights, they are
@@ -127,19 +127,19 @@ authorize others to exercise his or her software copyright and the right
 to receive remuneration, or fully transfer that copyright or
 renumeration right.
 
-### Exceptions to exclusive rights {#_exceptions_to_exclusive_rights}
+### Exceptions to exclusive rights
 
 Owners of lawful copies of software enjoy the following rights:
 
-\(a) The right to install the software on a computer and other devices
+(a) The right to install the software on a computer and other devices
 capable of processing information;
 
-\(b) The right to make backup copies to prevent losses. These backup
+(b) The right to make backup copies to prevent losses. These backup
 copies may not be made available to others for use by any means, and the
 owner must destroy the backup copies if he or she loses proprietorship
 of the lawful copy of the software;
 
-\(c) To use the computer application software and to improve its
+(c) To use the computer application software and to improve its
 functionality and performance by making necessary modifications;
 however, unless otherwise provided, without permission from the software
 copyright owner the modified software may not be supplied to any third
@@ -168,7 +168,7 @@ often difficult in practice because the licensee generally has no access
 to the source code of the application, and it is not legal to enforce
 source code access for the purposes of interoperability.
 
-### Dispute mediation {#_dispute_mediation}
+### Dispute mediation
 
 The software copyright infringement dispute may be mediated. If the
 mediation is inadequate or the mediation achieves the agreement latter
@@ -176,7 +176,7 @@ side to renege on the mediation promise, they can go to the People’s
 court to carry on litigation. If the litigant is not willing to mediate,
 may also go directly to the People’s court.
 
-### Term of protection {#_term_of_protection}
+### Term of protection
 
 The software copyright’s protection period is 25 years, beginning from
 the initial publication of the software and ending on December 31 of the
@@ -186,7 +186,7 @@ management organization to get another 25 years, but the total
 protection period afforded to any software product cannot surpass 50
 years.
 
-### Special measures {#_special_measures}
+### Special measures
 
 When the owner of copyright is not able to protect his or her rights
 related to software provided in an infringing manner, the end recipient
@@ -195,7 +195,7 @@ of the code once they are made aware of the situation. However, they
 have recourse to seek compensation for this loss and its ancillary
 consequences from the original supplier of the infringing code.
 
-Unprotected software and non-commercial software {#sec_unprotected_china}
+Unprotected software and non-commercial software
 ------------------------------------------------
 
 Software that is an intellectual creation of the author is regarded as
@@ -215,7 +215,7 @@ the copied software has completed its non-commercial use, it should be
 reclaimed or be destroyed properly and must not be used for other goals
 or be given to other people.
 
-Unprotected software and public domain software {#sec_pd_china}
+Unprotected software and public domain software
 -----------------------------------------------
 
 Only software that is an intellectual creation of the author can obtain
@@ -245,10 +245,10 @@ Proprietary software and open source software (free software) differ
 only in terms of their circulation mechanism, and not in terms of the
 applicability of Copyright.
 
-Analysis of FOSS under Chinese law {#sec_analysis_china}
+Analysis of FOSS under Chinese law
 ----------------------------------
 
-### Copyrights {#_copyrights}
+### Copyrights
 
 From the view of most enterprises, software development differs from
 traditional creation of copyrighted work. It is no longer subject to a
@@ -257,7 +257,7 @@ Internet, very few people operate behind closed doors in the software
 industry. Building on the ideas and experience of predecessors' has
 become a crucial factor to the development of software technology.
 
-#### Qualification of FOSS {#_qualification_of_foss}
+#### Qualification of FOSS
 
 Copyright law in China operates under the principle of “self-executing”
 protection. After a creative good is completed it is automatically
@@ -308,7 +308,7 @@ one party does not get consent from the other, then each party only has
 copyright and its attendant right of modification or distribution in
 their own section of the work.
 
-#### Rights of the original co-authors {#_rights_of_the_original_co_authors}
+#### Rights of the original co-authors
 
 “Participation” in co-authorship refers to expression in the form of a
 creative and intellectual work applied either in conceptual planning or
@@ -349,7 +349,7 @@ and have no cogent reasons, No party shall prevent exercise of the
 rights except for the transfer request, but the proceeds should
 distribute to all the other parties with attendant rights.
 
-#### Authors of derivative works {#_authors_of_derivative_works}
+#### Authors of derivative works
 
 FOSS often falls under the category of a derivative or composed work.
 Derivative works and composed works are works whose originality may be
@@ -377,7 +377,7 @@ the copyright on the original work. In the case of FOSS licenses such
 consent is not a problem, subject to respecting the terms and conditions
 (e.g. regarding further distribution of the derivative work).
 
-#### The assignment of copyrights {#_the_assignment_of_copyrights}
+#### The assignment of copyrights
 
 In order to control the rights related to a specific FOSS project, it
 may be useful to collect all copyrights concerning this project within
@@ -391,7 +391,7 @@ parties. In the absence of a contract or of an explicit agreement in the
 contract, the copyright in such a work shall belong to the commissioned
 party.
 
-### Moral copyrights {#_moral_copyrights}
+### Moral copyrights
 
 FOSS originated in America, and therefore attaches less importance to
 the moral rights of the author than it might under a country governed by
@@ -424,13 +424,13 @@ original work will therefore, based on his moral rights, not only be
 able to oppose the use by third parties of his work, but also the use of
 derivative works which affect his honour or reputation.
 
-### Enforcing FOSS licenses {#_enforcing_foss_licenses}
+### Enforcing FOSS licenses
 
 The question whether a FOSS license can be enforced depends on whether a
 valid license was issued. The essential questions are: (i) between whom
 is a license granted, and (ii) has the license been validly granted?
 
-#### Contracting parties {#_contracting_parties}
+#### Contracting parties
 
 In China, the Contract Law governs all kinds of licenses, but it can be
 questioned whether FOSS licenses fall into the sphere of the Contract
@@ -470,7 +470,7 @@ original licensor…” While apparently effective in US and other markets
 and internally consistent with the rest of the license, it is not clear
 that this construction will be regarded valid under China Copyright Law.
 
-#### Validity of the FOSS licenses {#_validity_of_the_foss_licenses}
+#### Validity of the FOSS licenses
 
 An author chooses a FOSS license because he wants to distribute his work
 and make it available to others — possibly with certain restrictions.
@@ -514,7 +514,7 @@ software. Renouncement of copyrights should not be open to conjecture,
 but needs to be proven. The availability of a work on the internet does
 not mean it becomes public domain.
 
-#### Validity of the contract {#_validity_of_the_contract}
+#### Validity of the contract
 
 Rights holders can place contracts and any party violating the agreement
 must assume responsibility for their actions. When an author chooses a
@@ -554,7 +554,7 @@ that no license or contract is in play. Only in cases where the terms
 applied to the contract are manifestly unfair can a move be taken to
 void its applicability.
 
-### Waiver and liability {#_waiver_and_liability}
+### Waiver and liability
 
 Typically, FOSS licenses contain very strong exoneration clauses, which
 discharge the author from all liability. The reason for this is that
@@ -569,25 +569,25 @@ Chinese civil law, with an example being that Article 53 of the contract
 law of PRC states that the following types of exoneration in contracts
 are invalid:
 
-\(i) that causes the personal injury,
+(i) that causes the personal injury,
 
-\(ii) that causes property loss by intentional misconduct or gross
+(ii) that causes property loss by intentional misconduct or gross
 negligence.
 
 Meanwhile, Article 52 in the contract law stipulates: if only there is
 one of following state, the contract shall be invalid:
 
-\(i) obtain the contract by means of fraud or stress, at the same time
+(i) obtain the contract by means of fraud or stress, at the same time
 causes damage to the interests of the state.
 
-\(ii) viciously collude, to damage the interests of the state, the
+(ii) viciously collude, to damage the interests of the state, the
 collective, or a third party.
 
-\(iii) use legal form to cover up illegal purpose.
+(iii) use legal form to cover up illegal purpose.
 
-\(iv) do harm to the public interests. And
+(iv) do harm to the public interests. And
 
-\(v) And violate the compulsory laws or administrative rules.
+(v) And violate the compulsory laws or administrative rules.
 
 Generally speaking when considering FOSS license as a form of civil
 contract, all the regulations of the contract behaviour are available
@@ -611,9 +611,9 @@ FOSS will therefore be liable in principle for issues with FOSS code
 provided unless he can also provide proof of ignorance regarding
 defects. Such proof may be hard to provide.
 
-### The copyleft principle {#_the_copyleft_principle}
+### The copyleft principle
 
-#### Principle {#_principle}
+#### Principle
 
 A characteristic found in many FOSS licenses is the so-called “copyleft”
 principle, which is a new and different way of enforcing copyright in
@@ -647,7 +647,7 @@ damage will need to be reimbursed, but not more than they actually
 suffered damage. As such, the implications of copyleft are restricted to
 normal measures of expected remedy under copyright law.
 
-#### Validity {#_validity}
+#### Validity
 
 Questions regarding the validity and implications of copyleft clauses
 coincide with questions regarding whether an author is able to validly
@@ -710,7 +710,7 @@ which have constructed a business model around distributing software
 under copyleft restrictions will usually be able to prove the existence
 of a legitimate interest.
 
-### Damages {#sec_damages_china}
+### Damages
 
 Damage caused by copyright violations are compensated under copyright
 law in accordance with the general civil liability of the illegal act.
@@ -784,7 +784,7 @@ license intended to provide a wide range of users. The second license
 without the copyleft system can then leveraged to obtain payment from
 interested parties who want to avoid the copyleft principle.
 
-FOSS cases in China {#sec_uk_china}
+FOSS cases in China
 -------------------
 
 No cases have been reported yet (June 2011).

@@ -1,4 +1,4 @@
-About the publication {#chap.about}
+About the publication
 =====================
 
 > Information wants to be free. Information also wants to be expensive.
@@ -59,7 +59,7 @@ written for those who endorse FOSS for ideological or practical reasons.
 The publication is targeted towards all those that encounter FOSS in
 their profession.
 
-Free Software or Open Source Software {#sec.foss}
+Free Software or Open Source Software
 -------------------------------------
 
 The Free Software and the Open Source Software movements largely pursue
@@ -72,7 +72,7 @@ development. The IFOSS Law Book does not endorse any emphasis. It uses
 the term Free and Open Source Software (FOSS) to cover both Free
 Software and Open Source Software.
 
-FOSS licences {#sec.licences}
+FOSS licences
 -------------
 
 The goals of FOSS are realised through licences governed by copyright
@@ -84,7 +84,7 @@ into three categories: non-Copyleft, weak-Copyleft and strong-Copyleft.
 It is the analysis of these licenses under local copyright law by local
 legal experts that lies at the heart of the IFOSS Law Book.
 
-Working method {#sec.method}
+Working method
 --------------
 
 This law book is a product of its time. Its management is distributed
@@ -138,7 +138,7 @@ each country covered:
 The second edition is edited by Ywein Van den Brande, Shane Coughlan and
 Till Jaeger.
 
-License {#sec.booklicense}
+License
 -------
 
 The IFOSS Law Book as a whole is published under a CC-BY-ND license. The
@@ -146,7 +146,7 @@ text can be freely copied and shared by any party under these
 conditions. Physical copies may be purchased, but it is also available
 at no cost in electronic form at our website.
 
-Conclusion {#sec.conclusion}
+Conclusion
 ----------
 
 FOSS is no longer a new, challenging and unproven method regulating the
@@ -172,7 +172,7 @@ Ywein Van den Brande — Shane Coughlan — Till Jaeger
 
 July 2014
 
-A history of FOSS law and licensing {#chap.history}
+A history of FOSS law and licensing
 ===================================
 
 author:\[Engelfriet,Arnoud\]
@@ -200,7 +200,7 @@ stimulated the sale of hardware that could use this software. One might
 thus say that the idea of free and open source is as old as the
 computing business itself.[^2]
 
-Age of the shrink-wrap {#intro_shrinkwrap}
+Age of the shrink-wrap
 ----------------------
 
 New developments in computing power over the next decade caused a
@@ -255,7 +255,7 @@ Legislators did try to introduce at least some right to reverse engineer
 software for compatibility purposes, but these clauses are generally
 regarded as weak and risky to invoke.[^10]
 
-Free software and the GPL {#foss_and_gpl}
+Free software and the GPL
 -------------------------
 
 As soon as software by itself started to become a viable market, access
@@ -293,7 +293,7 @@ Unix according to hacker tradition) would become one of the most
 valuable pieces of software ever written. Torvalds chose to use the GPL,
 calling it “one of the very best design decisions” he ever made.[^12]
 
-Legal entanglements around BSD {#legal_entanglements}
+Legal entanglements around BSD
 ------------------------------
 
 If not for a legal battle around free software elsewhere, Linux might
@@ -316,7 +316,7 @@ slowed down significantly, allowing Linux to gain developer attention.
 Torvalds has observed he would not have created Linux if the BSD
 operating system had been available to him at the time.[^15]
 
-The rise of open source {#rise_of_oss}
+The rise of open source
 -----------------------
 
 With the Linux kernel available, the free software movement finally was
@@ -351,7 +351,7 @@ lesser-used variant is *free/libre/open source software* (FLOSS), which
 uses “libre” to clarify the meaning of free as in “freedom” rather than
 as in “at no charge”.
 
-Legal validity {#legal_validity}
+Legal validity
 --------------
 
 There are hundreds of FOSS licenses, although they can be grouped
@@ -414,7 +414,7 @@ of the infringing use of free software.[^29] The project has reported
 numerous successful settlements and a 100% success rate in enforcing its
 licenses.
 
-Towards the future {#towards_future}
+Towards the future
 ------------------
 
 FOSS shows no sign of slowing down. Linux is widely in use in embedded
@@ -431,15 +431,15 @@ and liability for FOSS developers. More is to be expected from voluntary
 compliance and a growing maturity in how the legal community approaches
 FOSS licensing principles. We have come a long way already.
 
-Belgium {#chap.belgium}
+Belgium
 =======
 
 author:\[Van den Brande,Ywein\]
 
-Introduction to software protection under Belgian law {#sec_introductionbelgium}
+Introduction to software protection under Belgian law
 -----------------------------------------------------
 
-### Body of law {#sec_bodybelgium}
+### Body of law
 
 Copyright protection of software is regulated in Belgium under the
 Software Act of 30 June 1994[^30]. This law transposes the Council
@@ -450,7 +450,7 @@ respect to the general Belgian Copyright Act as lex generalis[^32]. This
 means that the general Copyright Act will apply to software, to the
 extent that the Software Act does not contain any specific provisions.
 
-### Software Act: Object of protection {#sec_protectionbelgium}
+### Software Act: Object of protection
 
 Computer programs (including the preparatory material[^33]) are
 protected by copyright and are equivalent to literary works within the
@@ -480,7 +480,7 @@ d’auteur ne devrait s’appliquer qu'à des créations qui révèlent un
 niveau d’inventivité personnelle d’une certain intensité”[^38]), they
 agree that the threshold as applied by the courts is fairly low[^39].
 
-### Authors/Beneficiaries {#sec_authorsbelgium}
+### Authors/Beneficiaries
 
 The general Copyright Act provides that the copyrights on a work belong
 to the author, whether the author is an employee or not[^40]. Article 3
@@ -498,7 +498,7 @@ employer the owner of the economic rights or merely the mandatory of his
 employees? Case law confirmed that the Belgian lawmaker has chosen for
 the first interpretation[^42].
 
-### Exclusive rights {#sec_exclusivebelgium}
+### Exclusive rights
 
 According to article 5 of the Software Act the economic rights comprise
 the exclusive right of (a) the permanent or temporary reproduction of a
@@ -510,7 +510,7 @@ to the public. This is a slight diversion of the Software Directive, as
 article 4(c) of the Software Directive only mentions the rental of
 computer programs.
 
-### Exceptions to exclusive rights {#sec_exceptionsbelgium}
+### Exceptions to exclusive rights
 
 Article 5(c) of the law expressly provides that the first sale in the
 European Community of a copy of a program by the rightholder or with his
@@ -520,16 +520,16 @@ the program or a copy thereof.
 
 The other exceptions are set forth in article 6 of the Software Act:
 
-\(1) In the absence of specific contractual provisions, no authorization
+(1) In the absence of specific contractual provisions, no authorization
 by the rightholder is required for acts necessary for the use of the
 computer program by the lawful acquirer in accordance with its intended
 purpose, including error correction.
 
-\(2) The reproduction by way of a back-up copy by a person having a right
+(2) The reproduction by way of a back-up copy by a person having a right
 to use the computer program may not be prevented, insofar as that copy
 is necessary to use the program.
 
-\(3) The person having a right to use a copy of a computer program is
+(3) The person having a right to use a copy of a computer program is
 entitled, without the authorization of the rightholder, to observe,
 study or test the functioning of the program in order to determine the
 ideas and principles which underlie any element of the program if he
@@ -553,7 +553,7 @@ However, the exercise of these statutory rights is often difficult in
 practice because the licensee generally has no access to the source code
 of the application and it is not obvious to enforce access legally[^45].
 
-### Moral rights {#sec_moralbelgium}
+### Moral rights
 
 Article 4 of the Software Act specifies that the moral rights on
 software are regulated by article 6bis 1 of the Berner Convention. This
@@ -577,14 +577,14 @@ also concerning moral rights on software[^54]. However, some authors
 wonder whether the principle inalienability of moral rights is desirable
 for technological applications such as software[^55].
 
-### Term of protection {#sec_termbelgium}
+### Term of protection
 
 The same term as for works of literature and art applies: 70 years as of
 January 1 following the death of the author[^56]. In case of co-authors,
 the protection of the work lasts until 70 years as of January 1
 following the death of the longest living author.
 
-### Copyright assignment {#sec_assignmentbelgium}
+### Copyright assignment
 
 The law[^57] provides that the copyrights in works (other than software)
 made by employees in the course of the execution of their usual tasks
@@ -624,7 +624,7 @@ In order to control the copyright situation better, it may be useful to
 collect all copyrights concerning a FOSS project within one
 organisation.
 
-### Special measures {#sec_measuresbelgium}
+### Special measures
 
 The Software Act refers to the general Copyright Act regarding the
 measures to enforce copyrights. Besides these general measures, a
@@ -636,7 +636,7 @@ commercial purposes tools which are exclusively aimed at facilitating
 the unlawful removal or avoidance of technical means which protect the
 computer program[^62].
 
-Unprotected software and public domain software {#sec_publicdomainbelgium}
+Unprotected software and public domain software
 -----------------------------------------------
 
 As set forth above, only software that is original in the sense that it
@@ -662,7 +662,7 @@ their license agreement, than they would normally have with a
 proprietary software license[^68]. However, the FOSS license conditions
 need to be respected by the user.
 
-Analysis of FOSS under Belgian law {#sec_analysisbelgium}
+Analysis of FOSS under Belgian law
 ----------------------------------
 
 The FOSS license deviates so much from conventional license agreements
@@ -670,7 +670,7 @@ that under Belgian law it needs to be considered as a sui generis
 license agreement[^69]. However, it is still based on the same
 mechanisms.
 
-### Copyrights {#sec_copyrightsbelgium}
+### Copyrights
 
 Although FOSS can be written by one person or be owned by one legal
 entity[^70], generally speaking, after some time the software is the
@@ -681,7 +681,7 @@ the end work and every contribution created during the further
 development of the software, a derivative work. The legal consequences
 are different.
 
-### Qualification of FOSS {#sec_qualificationbelgium}
+### Qualification of FOSS
 
 For it to be work that was created following collaboration it is not
 necessary for every co-author to have contributed equally[^71]. In the
@@ -711,7 +711,7 @@ consequences, a distinction needs to be made between the rights of the
 original co-authors and the rights of people who carry on based on the
 original work.
 
-#### Rights of the original co-authors {#sec_cooauthorsbelgium}
+#### Rights of the original co-authors
 
 Unless the components of the software can be clearly distinguished, it
 usually concerns “indivisible works”[^74]. This concerns work whereby it
@@ -743,7 +743,7 @@ infringement[^80]. However, in some cases the lack of unanimity may
 result in the inadmissibility of this claim, e.g. if heirs of a
 programmer are unable to agree as to whether to institute a claim[^81].
 
-#### Authors of derivative works {#sec_derivsbelgium}
+#### Authors of derivative works
 
 After some time FOSS will, in most cases, be a derivative work or a
 composed work. Derivative works and composed works are works the
@@ -759,7 +759,7 @@ is not a problem, subject to respecting the terms and conditions (e.g.
 regarding further distribution of the derivative work)[^83]. Both
 authors can enforce their own copyrights in court.
 
-#### The assignment of copyrights {#sec_assignmentbelgium2}
+#### The assignment of copyrights
 
 In order to control the copyright situation better, it may be useful to
 collect all copyrights concerning a FOSS project within one
@@ -771,7 +771,7 @@ copyrights. The fiduciary transfer means that the party to whom the
 copyrights are assigned shall not act for himself but on account of
 others who have transferred the rights (the original authors)[^85].
 
-### Moral copyrights {#sec_moralcrbelgium}
+### Moral copyrights
 
 FOSS originated in the United States, and therefore attaches less
 importance to the moral rights of the author[^86]. The Open Source
@@ -796,14 +796,14 @@ original work will therefore, based on his moral rights, not only be
 able to oppose the use by third parties of his work, but also the use of
 derivative works which affect his honour or reputation.
 
-### Enforcing FOSS licenses {#sec_enforcingbelgium}
+### Enforcing FOSS licenses
 
 The question whether a FOSS license can be enforced under the Belgian
 legal system depends on whether a valid license was issued. The
 essential questions are: (i) between whom is a license reached, and (ii)
 has the license been validly reached?
 
-#### Contracting parties {#sec_partiesbelgium}
+#### Contracting parties
 
 If one author makes his work available under a FOSS license, the answer
 is clear: the license is reached between the licensee and the author. In
@@ -834,7 +834,7 @@ from the original licensor*[^96].
 In this way the user of the software obtains a license of all authors in
 the chain. This chain of licenses is valid under Belgian law.
 
-#### Validity of the FOSS licenses {#sec_validitybelgium}
+#### Validity of the FOSS licenses
 
 An author chooses a FOSS license because he wants to distribute his work
 and make it available to others -possibly with certain restrictions. For
@@ -885,7 +885,7 @@ raises the question of the validity of copyleft clauses: is violation of
 the copyleft clause automatically a copyright infringement? The answer
 is yes, as set forth under nr. 1.3.5.
 
-### Waiver and liability {#sec_waiverbelgium}
+### Waiver and liability
 
 Typically, FOSS licenses contain very strong exoneration clauses, which
 discharge the author from all liability[^104]. The reason for this is
@@ -922,9 +922,9 @@ defence, but it can be part of the proof that the author doesn’t qualify
 as a professional seller. However, as also professional sellers provide
 software for free, more proof will be needed.
 
-### The copyleft principle {#sec_copyleftbelgium}
+### The copyleft principle
 
-#### Principle {#sec_principlebelgium}
+#### Principle
 
 A characteristic found in different (but not all[^110]) FOSS licenses is
 the so-called “copyleft” principle. FOSS licenses which incorporate the
@@ -953,7 +953,7 @@ program. If the unlawful use has caused damage to the author, this
 damage will need to be reimbursed, but not more than the actually
 suffered damage.
 
-#### Validity {#sec_validitybelgium2}
+#### Validity
 
 The question relating to the validity of the copyleft clause coincides
 with the question whether an author is able to validly lay down how
@@ -1029,7 +1029,7 @@ transfer and further distribution also needs to transfer the conditions
 of the license. The copyleft principle is therefore not, in principle,
 in contrary to this principle.
 
-### Damages {#sec_damagesbelgium}
+### Damages
 
 Damage caused by copyright violations are compensated under Belgian law
 in accordance with the general applicable principles of the unlawful
@@ -1072,20 +1072,20 @@ then be obtained against payment by interested parties who want to use
 the work without their own additions being affected by the copyleft
 principle.
 
-FOSS cases in Belgium {#sec_casesbelgium}
+FOSS cases in Belgium
 ---------------------
 
 No cases have been reported yet (October 2013).
 
-China {#chap.china}
+China
 =====
 
 author:\[Xia,Yang\]
 
-Introduction to software protection under Chinese law {#sec_introduction_china}
+Introduction to software protection under Chinese law
 -----------------------------------------------------
 
-### Body of law {#sec_body_china}
+### Body of law
 
 The regulations contained in the “The People’s Republic of China
 Copyright Law” are formulated to protect the rights of copyright owners,
@@ -1100,7 +1100,7 @@ Copyright Act. While there is a Software Act, it is a special statute in
 relation to the general Copyright Act, and as such does not contain any
 specific provisions above and beyond its terms.
 
-### Software Act: Object of protection {#sec_object_china}
+### Software Act: Object of protection
 
 Computer programs and preparatory material related to their development
 are protected by copyright and are equivalent to literary works within
@@ -1117,13 +1117,13 @@ to computer programs and related documentation.
 
 The relevant terms are defined as follows:
 
-\(a) A computer program is the code sequence used by computers or other
+(a) A computer program is the code sequence used by computers or other
 devices capable of processing information, or a sequence of symbolic
 instructions or statements which can be automatically converted into a
 sequence of coded instructions. The source code and object code is of
 the same program.
 
-\(b) A document contains the text data and charts used to describe the
+(b) A document contains the text data and charts used to describe the
 computer program’s contents, composition, design, functional
 specifications, development and test results, such as details of the
 program design, flow charts, user manuals, and so on.
@@ -1136,16 +1136,16 @@ Legislation on copyright protection for software does not extend to the
 ideas used in software development, processing, and methods of operation
 or mathematical concepts and suchlike.
 
-### Authors/Beneficiaries {#sec_authors_china}
+### Authors/Beneficiaries
 
 The relevant terms are defined as follows:
 
-\(a) A software developer can be a legal entity or organization
+(a) A software developer can be a legal entity or organization
 responsible for the actual organizational development, direct
 development and software development; or can be an individual person
 responsible for the independent software completed by their own effort.
 
-\(b) A software copyright owner is an individual person, a legal entity
+(b) A software copyright owner is an individual person, a legal entity
 or an organization that enjoys the copyright in accordance with this
 regulation.
 
@@ -1178,25 +1178,25 @@ co-developers, then no single developer may prevent the other developers
 from exercising their rights apart from the right of transfer, but the
 benefits have to be fairly distributed amongst all the co-developers.
 
-### Exclusive rights {#sec_exclusive_china}
+### Exclusive rights
 
 Software copyright holders enjoy the following rights:
 
-\(a) Publication right
+(a) Publication right
 
-\(b) The right of authorship
+(b) The right of authorship
 
-\(c) Amendment right
+(c) Amendment right
 
-\(d) Reproduction right
+(d) Reproduction right
 
-\(e) Distribution right
+(e) Distribution right
 
-\(f) Lending right
+(f) Lending right
 
-\(g) Right to network Dissemination of information
+(g) Right to network Dissemination of information
 
-\(h) Translation right
+(h) Translation right
 
 According to the second paragraph of Article 10 of the Copyright Law, if
 the copyright holders allow others to exercise their rights, they are
@@ -1206,19 +1206,19 @@ authorize others to exercise his or her software copyright and the right
 to receive remuneration, or fully transfer that copyright or
 renumeration right.
 
-### Exceptions to exclusive rights {#_exceptions_to_exclusive_rights}
+### Exceptions to exclusive rights
 
 Owners of lawful copies of software enjoy the following rights:
 
-\(a) The right to install the software on a computer and other devices
+(a) The right to install the software on a computer and other devices
 capable of processing information;
 
-\(b) The right to make backup copies to prevent losses. These backup
+(b) The right to make backup copies to prevent losses. These backup
 copies may not be made available to others for use by any means, and the
 owner must destroy the backup copies if he or she loses proprietorship
 of the lawful copy of the software;
 
-\(c) To use the computer application software and to improve its
+(c) To use the computer application software and to improve its
 functionality and performance by making necessary modifications;
 however, unless otherwise provided, without permission from the software
 copyright owner the modified software may not be supplied to any third
@@ -1247,7 +1247,7 @@ often difficult in practice because the licensee generally has no access
 to the source code of the application, and it is not legal to enforce
 source code access for the purposes of interoperability.
 
-### Dispute mediation {#_dispute_mediation}
+### Dispute mediation
 
 The software copyright infringement dispute may be mediated. If the
 mediation is inadequate or the mediation achieves the agreement latter
@@ -1255,7 +1255,7 @@ side to renege on the mediation promise, they can go to the People’s
 court to carry on litigation. If the litigant is not willing to mediate,
 may also go directly to the People’s court.
 
-### Term of protection {#_term_of_protection}
+### Term of protection
 
 The software copyright’s protection period is 25 years, beginning from
 the initial publication of the software and ending on December 31 of the
@@ -1265,7 +1265,7 @@ management organization to get another 25 years, but the total
 protection period afforded to any software product cannot surpass 50
 years.
 
-### Special measures {#_special_measures}
+### Special measures
 
 When the owner of copyright is not able to protect his or her rights
 related to software provided in an infringing manner, the end recipient
@@ -1274,7 +1274,7 @@ of the code once they are made aware of the situation. However, they
 have recourse to seek compensation for this loss and its ancillary
 consequences from the original supplier of the infringing code.
 
-Unprotected software and non-commercial software {#sec_unprotected_china}
+Unprotected software and non-commercial software
 ------------------------------------------------
 
 Software that is an intellectual creation of the author is regarded as
@@ -1294,7 +1294,7 @@ the copied software has completed its non-commercial use, it should be
 reclaimed or be destroyed properly and must not be used for other goals
 or be given to other people.
 
-Unprotected software and public domain software {#sec_pd_china}
+Unprotected software and public domain software
 -----------------------------------------------
 
 Only software that is an intellectual creation of the author can obtain
@@ -1324,10 +1324,10 @@ Proprietary software and open source software (free software) differ
 only in terms of their circulation mechanism, and not in terms of the
 applicability of Copyright.
 
-Analysis of FOSS under Chinese law {#sec_analysis_china}
+Analysis of FOSS under Chinese law
 ----------------------------------
 
-### Copyrights {#_copyrights}
+### Copyrights
 
 From the view of most enterprises, software development differs from
 traditional creation of copyrighted work. It is no longer subject to a
@@ -1336,7 +1336,7 @@ Internet, very few people operate behind closed doors in the software
 industry. Building on the ideas and experience of predecessors' has
 become a crucial factor to the development of software technology.
 
-#### Qualification of FOSS {#_qualification_of_foss}
+#### Qualification of FOSS
 
 Copyright law in China operates under the principle of “self-executing”
 protection. After a creative good is completed it is automatically
@@ -1387,7 +1387,7 @@ one party does not get consent from the other, then each party only has
 copyright and its attendant right of modification or distribution in
 their own section of the work.
 
-#### Rights of the original co-authors {#_rights_of_the_original_co_authors}
+#### Rights of the original co-authors
 
 “Participation” in co-authorship refers to expression in the form of a
 creative and intellectual work applied either in conceptual planning or
@@ -1428,7 +1428,7 @@ and have no cogent reasons, No party shall prevent exercise of the
 rights except for the transfer request, but the proceeds should
 distribute to all the other parties with attendant rights.
 
-#### Authors of derivative works {#_authors_of_derivative_works}
+#### Authors of derivative works
 
 FOSS often falls under the category of a derivative or composed work.
 Derivative works and composed works are works whose originality may be
@@ -1456,7 +1456,7 @@ the copyright on the original work. In the case of FOSS licenses such
 consent is not a problem, subject to respecting the terms and conditions
 (e.g. regarding further distribution of the derivative work).
 
-#### The assignment of copyrights {#_the_assignment_of_copyrights}
+#### The assignment of copyrights
 
 In order to control the rights related to a specific FOSS project, it
 may be useful to collect all copyrights concerning this project within
@@ -1470,7 +1470,7 @@ parties. In the absence of a contract or of an explicit agreement in the
 contract, the copyright in such a work shall belong to the commissioned
 party.
 
-### Moral copyrights {#_moral_copyrights}
+### Moral copyrights
 
 FOSS originated in America, and therefore attaches less importance to
 the moral rights of the author than it might under a country governed by
@@ -1503,13 +1503,13 @@ original work will therefore, based on his moral rights, not only be
 able to oppose the use by third parties of his work, but also the use of
 derivative works which affect his honour or reputation.
 
-### Enforcing FOSS licenses {#_enforcing_foss_licenses}
+### Enforcing FOSS licenses
 
 The question whether a FOSS license can be enforced depends on whether a
 valid license was issued. The essential questions are: (i) between whom
 is a license granted, and (ii) has the license been validly granted?
 
-#### Contracting parties {#_contracting_parties}
+#### Contracting parties
 
 In China, the Contract Law governs all kinds of licenses, but it can be
 questioned whether FOSS licenses fall into the sphere of the Contract
@@ -1549,7 +1549,7 @@ original licensor…” While apparently effective in US and other markets
 and internally consistent with the rest of the license, it is not clear
 that this construction will be regarded valid under China Copyright Law.
 
-#### Validity of the FOSS licenses {#_validity_of_the_foss_licenses}
+#### Validity of the FOSS licenses
 
 An author chooses a FOSS license because he wants to distribute his work
 and make it available to others — possibly with certain restrictions.
@@ -1593,7 +1593,7 @@ software. Renouncement of copyrights should not be open to conjecture,
 but needs to be proven. The availability of a work on the internet does
 not mean it becomes public domain.
 
-#### Validity of the contract {#_validity_of_the_contract}
+#### Validity of the contract
 
 Rights holders can place contracts and any party violating the agreement
 must assume responsibility for their actions. When an author chooses a
@@ -1633,7 +1633,7 @@ that no license or contract is in play. Only in cases where the terms
 applied to the contract are manifestly unfair can a move be taken to
 void its applicability.
 
-### Waiver and liability {#_waiver_and_liability}
+### Waiver and liability
 
 Typically, FOSS licenses contain very strong exoneration clauses, which
 discharge the author from all liability. The reason for this is that
@@ -1648,25 +1648,25 @@ Chinese civil law, with an example being that Article 53 of the contract
 law of PRC states that the following types of exoneration in contracts
 are invalid:
 
-\(i) that causes the personal injury,
+(i) that causes the personal injury,
 
-\(ii) that causes property loss by intentional misconduct or gross
+(ii) that causes property loss by intentional misconduct or gross
 negligence.
 
 Meanwhile, Article 52 in the contract law stipulates: if only there is
 one of following state, the contract shall be invalid:
 
-\(i) obtain the contract by means of fraud or stress, at the same time
+(i) obtain the contract by means of fraud or stress, at the same time
 causes damage to the interests of the state.
 
-\(ii) viciously collude, to damage the interests of the state, the
+(ii) viciously collude, to damage the interests of the state, the
 collective, or a third party.
 
-\(iii) use legal form to cover up illegal purpose.
+(iii) use legal form to cover up illegal purpose.
 
-\(iv) do harm to the public interests. And
+(iv) do harm to the public interests. And
 
-\(v) And violate the compulsory laws or administrative rules.
+(v) And violate the compulsory laws or administrative rules.
 
 Generally speaking when considering FOSS license as a form of civil
 contract, all the regulations of the contract behaviour are available
@@ -1690,9 +1690,9 @@ FOSS will therefore be liable in principle for issues with FOSS code
 provided unless he can also provide proof of ignorance regarding
 defects. Such proof may be hard to provide.
 
-### The copyleft principle {#_the_copyleft_principle}
+### The copyleft principle
 
-#### Principle {#_principle}
+#### Principle
 
 A characteristic found in many FOSS licenses is the so-called “copyleft”
 principle, which is a new and different way of enforcing copyright in
@@ -1726,7 +1726,7 @@ damage will need to be reimbursed, but not more than they actually
 suffered damage. As such, the implications of copyleft are restricted to
 normal measures of expected remedy under copyright law.
 
-#### Validity {#_validity}
+#### Validity
 
 Questions regarding the validity and implications of copyleft clauses
 coincide with questions regarding whether an author is able to validly
@@ -1789,7 +1789,7 @@ which have constructed a business model around distributing software
 under copyleft restrictions will usually be able to prove the existence
 of a legitimate interest.
 
-### Damages {#sec_damages_china}
+### Damages
 
 Damage caused by copyright violations are compensated under copyright
 law in accordance with the general civil liability of the illegal act.
@@ -1863,20 +1863,20 @@ license intended to provide a wide range of users. The second license
 without the copyleft system can then leveraged to obtain payment from
 interested parties who want to avoid the copyleft principle.
 
-FOSS cases in China {#sec_uk_china}
+FOSS cases in China
 -------------------
 
 No cases have been reported yet (June 2011).
 
-Finland {#chap.finland}
+Finland
 =======
 
 author:\[von Willebrand,Martin\] author:\[Tanskanen,Henri\]
 
-Introduction to software protection under Finnish law {#sec_introductionfinland}
+Introduction to software protection under Finnish law
 -----------------------------------------------------
 
-### Body of law {#sec_finland_body}
+### Body of law
 
 In Finland, copyright protection of software is regulated under the
 Copyright Act, originally enacted on 8 July 1961 and amended multiple
@@ -1898,32 +1898,27 @@ amended) by way of amendments enacted on 11 January 1991 and 7 May
 In the current Copyright Act, the relevant articles containing computer
 program specific stipulations are:
 
-Article 1, second paragraph
+Article 1, second paragraph  
+literary work
 
-:   literary work
+Article 25 j  
+copying and examination
 
-Article 25 j
+Article 25 k  
+reverse engineering
 
-:   copying and examination
+Article 40 b  
+employment relationship
 
-Article 25 k
-
-:   reverse engineering
-
-Article 40 b
-
-:   employment relationship
-
-Article 56 c
-
-:   sanction on distribution of protection circumvention
+Article 56 c  
+sanction on distribution of protection circumvention
 
 In addition to the above, exceptions concerning computer programs can be
 found in Art 11, second paragraph; Art 12, second paragraph; Art 19,
 third paragraph; Art 50a, fourth paragraph; Art 50b, third paragraph;
 Art 50c, fifth paragraph and Art 56a, second paragraph.
 
-### Copyright Act: Object of protection {#sec_finland_copyrightact}
+### Copyright Act: Object of protection
 
 Computer programs are protected by copyright as literary works, as
 stipulated in Article 1 of the Copyright Act. In order to benefit from
@@ -1965,7 +1960,7 @@ there are usually several possible solutions to any programming task,
 the level of originality required for copyright protection of a computer
 program can be safely assumed to be rather low.
 
-### Authors/Beneficiaries {#sec_finland_AuthorsBeneficiaries}
+### Authors/Beneficiaries
 
 Copyright to a work, such as a computer program, belongs to the author.
 An author is always a natural person, since only individuals are able to
@@ -1995,7 +1990,7 @@ the definition.
 The right to a database created by an employee or a public functionary
 is passed to the employer or public body in a similar manner.
 
-### Exclusive rights {#sec_finland_Exclusiverights}
+### Exclusive rights
 
 The general exclusive rights stipulated in the Copyright Act apply to
 computer programs. According to Article 2 of the Copyright Act, the
@@ -2020,7 +2015,7 @@ The concepts of public performance and communication to the public
 include the performance and communication of a work to a relatively
 large closed circle provided that there is an intention to make profit.
 
-### Exceptions to exclusive rights {#sec_finland_ExceptionstoExclusiveRights}
+### Exceptions to exclusive rights
 
 Article 19 of the Copyright Act stipulates that the first sale in the
 European Economic Area of a copy of a program with the consent of the
@@ -2030,16 +2025,16 @@ lending of the program or a copy thereof.
 
 Article 25 j provides that
 
-\(1) In the absence of an express contractual provision, no authorization
+(1) In the absence of an express contractual provision, no authorization
 by the right holder is required for the lawful acquirer to make any such
 copies of or alterations to the computer program which are necessary for
 using the program for the intended purpose, including error correction.
 
-\(2) The reproduction of the program by way of a back-up copy by a person
+(2) The reproduction of the program by way of a back-up copy by a person
 having a right to use the computer program may not be prevented, insofar
 as that copy is necessary to use the program.
 
-\(3) The person having the right to use a copy of the computer program is
+(3) The person having the right to use a copy of the computer program is
 entitled, without the authorization of the right holder, to observe,
 study or test the functioning of the program in order to determine the
 ideas and principles which underlie any element of the program, provided
@@ -2059,7 +2054,7 @@ interoperability of an independently created computer program with other
 programs. This exception is mandatory, as well, and a contract
 stipulation to the contrary is void.
 
-### Moral rights {#sec_finland_moral_rights}
+### Moral rights
 
 General stipulations of the Copyright Act on moral rights apply to
 computer programs, as well. Moral rights under Finnish law are comprised
@@ -2081,7 +2076,7 @@ Moral rights cannot be transferred, and they may be waived only where
 the use of the work is limited in scope and character. This applies
 equally to the right of paternity and to the right of respect.
 
-### Term of protection {#sec_finland_Termofprotection}
+### Term of protection
 
 The term of copyright protection for computer programs is the same as
 for other works, i.e., 70 years following the year of death of the
@@ -2092,7 +2087,7 @@ independent of the copyright term of the original work, i.e., the
 copyright to the modifications lasts for 70 years following the death of
 the author of the modifications.[^146]
 
-### Copyright assignment {#sec_finland_copyright_assignment}
+### Copyright assignment
 
 Copyright can be assigned in full, except for moral rights. Most
 importantly, moral rights include the obligation to state the author
@@ -2138,7 +2133,7 @@ An unpaid contributor is treated similarly to a contractor. In lack of a
 specific agreement on assignment or right of use, a right of use is
 presumed and derived from the joint purpose of the parties.
 
-### Special measures {#sec_finland_Special_Measures}
+### Special measures
 
 The Copyright Act contains civil law sanctions for a breach of copyright
 and some provisions on criminal sanctions regarding lesser
@@ -2156,7 +2151,7 @@ However, the provisions under Articles 50 a , 50 b and 50 c of the Act
 regarding the prohibition of circumvention of technological measures do
 not apply to computer programs.
 
-Unprotected software and public domain software {#sec_finland_Unprotected}
+Unprotected software and public domain software
 -----------------------------------------------
 
 Only software that is original in the sense that it is an intellectual
@@ -2194,7 +2189,7 @@ law. This is simply because an author of FOSS reserves the copyright,
 whereas an author placing a work into the public domain renounces it
 altogether.
 
-Analysis of FOSS under Finnish law {#sec_finland_analysis}
+Analysis of FOSS under Finnish law
 ----------------------------------
 
 Under Finnish copyright law, FOSS licenses can be examined on a very
@@ -2207,7 +2202,7 @@ copyright license grant, and that can only be achieved by fulfilling the
 license conditions. To the extent the license constitutes an agreement,
 the user will need to accept the conditions of such agreement.
 
-### Copyrights {#sec_finland_Copyrights}
+### Copyrights
 
 Although FOSS can be authored by one person or owned by one legal
 entity, FOSS is often the result of the work of several authors. In such
@@ -2218,7 +2213,7 @@ as the original work while every further contribution constitutes a
 derivative work (Article 4 of the Copyright Act). The legal consequences
 for these two cases are different.
 
-#### Qualification of FOSS {#_qualification_of_foss_2}
+#### Qualification of FOSS
 
 A work that has been originally created by several parties is a jointly
 created work. In addition, any work in which the end result is such that
@@ -2249,7 +2244,7 @@ is possible that jointly planned and executed computer programming would
 still be considered as creating a joint work, even if a version control
 system could be used to track every character addition to the code.
 
-#### Rights of the original co-authors {#sec_finland_rightscoauthors}
+#### Rights of the original co-authors
 
 In the case of a jointly created work, the copyright is held jointly,
 meaning that each author’s permission is required for the exploitation
@@ -2274,7 +2269,7 @@ created work has the right to present claims on the basis of copyright
 infringement, so no joint decision is necessarily required for
 enforcement.
 
-#### Authors of derivative works {#_authors_of_derivative_works_2}
+#### Authors of derivative works
 
 Most FOSS projects will include derivative works. Even every
 contribution can perhaps be considered as a derivative work. In this
@@ -2296,7 +2291,7 @@ In the case of derivative works, as well, enforcement by the authors can
 occur separately. Each author is, however, able to enforce their rights
 only in relation to the part in which they hold the copyright.
 
-### The assignment of copyrights {#sec_finland_The_assignmentofcopyrights}
+### The assignment of copyrights
 
 In order to control the project in an organised manner, it may be useful
 to collect all copyrights concerning a FOSS project within one
@@ -2312,7 +2307,7 @@ assignment would resemble an ordinary assignment added, however, with
 contractual conditions concerning the roles, rights and responsibilities
 of the fiduciary and the original authors.
 
-### Moral rights {#sec_finland_Moralcopyrights}
+### Moral rights
 
 As described earlier (see under
 [section\_title](#sec_finland_moral_rights) and
@@ -2334,7 +2329,7 @@ Moral rights apply equally to FOSS regardless of whether it has been
 created as a derivative work, joint work or otherwise. Each relevant
 author has his or her moral rights.
 
-### Enforcing FOSS licenses {#sec_finland_EnforcingFOSSlicenses}
+### Enforcing FOSS licenses
 
 In general, FOSS licenses can be deemed fully enforceable under Finnish
 law. There is no existing case law on FOSS licenses, but it is clear
@@ -2374,7 +2369,7 @@ prerequisites for the copyright grant. Not observing the conditions
 could be construed as losing the copyright grant and therefore resulting
 in a copyright violation and not a mere contract violation.
 
-### Waiver and liability {#sec_finland_Waiverandliability}
+### Waiver and liability
 
 Typically, FOSS licenses contain very strong liability limitation
 clauses which discharge the author from all liability. Most clauses
@@ -2411,9 +2406,9 @@ The variance of licensing regimes does not affect the above analysis.
 Product liability rules are generic and do not specifically react to
 particular software licensing regimes.
 
-### The copyleft principle {#sec_finland_Thecopyleftprinciple}
+### The copyleft principle
 
-#### Principle {#_principle_2}
+#### Principle
 
 A characteristic found in different (but not all[^155]) FOSS licenses is
 the so-called “copyleft” principle. FOSS licenses incorporating the
@@ -2434,7 +2429,7 @@ sanctions for incorporating copyleft code in an unpermitted manner into
 proprietary software are the same copyright law sanctions resulting from
 unpermitted use of any copyrighted work.
 
-#### Validity {#_validity_2}
+#### Validity
 
 As discussed above, copyleft clauses are as valid as any other clauses
 in copyright licenses. Some copyleft clauses, however, are unclear or
@@ -2442,7 +2437,7 @@ ambiguous (notably in GPL version 2, especially regarding the question
 of the extent of copyleft) and may therefore become subject to
 interpretation.
 
-### Compensations and damages {#sec_finland_CompensationsandDamages}
+### Compensations and damages
 
 Copyright violations entitle the copyright holders to claim for
 copyright-based compensation as well as damages. Copyright-based
@@ -2459,12 +2454,12 @@ against the copyleft rule, the compensation would, in principle, be
 equal to the license price the copyright holder would ask for such
 distribution.
 
-FOSS cases in Finland {#sec_finland_foasscases}
+FOSS cases in Finland
 ---------------------
 
 No cases have been reported yet (November 2013).
 
-Finnish case law on copyright to computer programs {#sec_finland_copycases}
+Finnish case law on copyright to computer programs
 --------------------------------------------------
 
 The authors have followed and listed below Finnish case law relating to
@@ -2477,7 +2472,7 @@ perform exhaustive searches for such material. The decisions are in
 Finnish with Swedish translations available for the Supreme Court
 precedents.
 
-### Supreme Court {#_supreme_court}
+### Supreme Court
 
 -   KKO:1996:43
 
@@ -2493,7 +2488,7 @@ precedents.
 
 -   KKO:2008:45
 
-### Appeal courts {#_appeal_courts}
+### Appeal courts
 
 -   Appeal Court of Helsinki (Helsingin HO) 28.12.1999 3571
 
@@ -2517,68 +2512,115 @@ precedents.
 
 -   Appeal Court of Rovaniemi (Rovaniemen HO) 04.03.2011 204
 
-### Copyright Council {#_copyright_council}
+### Copyright Council
 
 Opinions of the Copyright Council[^157] (in Finnish) can be accessed via
 the following website:
 <http://www.okm.fi/OPM/Tekijaenoikeus/tekijaenoikeusneuvosto/tekijaenoikeusneuvoston_lausunnot/>
 
-+--------------------+--------------------------------------------------------+
-| Decision no.       | Rubric (translated from Finnish)                       |
-+====================+========================================================+
-| TN 1986:3          | Object of protection                                   |
-+--------------------+--------------------------------------------------------+
-| TN 1989:7          | Copyright to computer program                          |
-+--------------------+--------------------------------------------------------+
-| TN 1992:3          | Copyright protection of video games                    |
-+--------------------+--------------------------------------------------------+
-| TN 1993:12         | Copyright to computer program                          |
-+--------------------+--------------------------------------------------------+
-| TN 1996:3          | Copyright of an author of a computer program           |
-+--------------------+--------------------------------------------------------+
-| TN 1997:12         | Copyright to computer program                          |
-+--------------------+--------------------------------------------------------+
-| TN 1997:17         | Exhaustion of copyright (etc.)                         |
-+--------------------+--------------------------------------------------------+
-| TN 1997:18         | Computer program for calculating preset values of      |
-|                    | radiator valves                                        |
-+--------------------+--------------------------------------------------------+
-| TN 1998:13         | Paternity right of an author of a computer program     |
-+--------------------+--------------------------------------------------------+
-| TN 1998:16         | Copyright to computer programs                         |
-+--------------------+--------------------------------------------------------+
-| TN 1998:19         | Copyright to translations included in a computer       |
-|                    | program                                                |
-+--------------------+--------------------------------------------------------+
-| TN 1999:4          | Right of a civilian service man to a computer program  |
-|                    | created by him                                         |
-+--------------------+--------------------------------------------------------+
-| TN 2003:10         | Copyright to computer programs                         |
-+--------------------+--------------------------------------------------------+
-| TN 2005:7          | Copyright threshold and protection of a computer       |
-|                    | program                                                |
-+--------------------+--------------------------------------------------------+
-| TN 2006:5          | Protection of a computer program                       |
-+--------------------+--------------------------------------------------------+
-| TN 2006:12         | Copyright threshold and protection of a computer       |
-|                    | program                                                |
-+--------------------+--------------------------------------------------------+
-| TN 2007:3          | Copyright to a computer program created as (part of) a |
-|                    | thesis                                                 |
-+--------------------+--------------------------------------------------------+
-| TN 2007:9          | Circumvention of an effective technological measure\*  |
-+--------------------+--------------------------------------------------------+
-| TN 2008:13         | Copyright to a musical application                     |
-+--------------------+--------------------------------------------------------+
-| TN 2009:15         | Renting of a computer program                          |
-+--------------------+--------------------------------------------------------+
-| TN 2011:15         | Copyright to an internet game and the idea thereof     |
-+--------------------+--------------------------------------------------------+
+<table>
+<colgroup>
+<col width="25%" />
+<col width="75%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Decision no.</th>
+<th>Rubric (translated from Finnish)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>TN 1986:3</p></td>
+<td><p>Object of protection</p></td>
+</tr>
+<tr class="even">
+<td><p>TN 1989:7</p></td>
+<td><p>Copyright to computer program</p></td>
+</tr>
+<tr class="odd">
+<td><p>TN 1992:3</p></td>
+<td><p>Copyright protection of video games</p></td>
+</tr>
+<tr class="even">
+<td><p>TN 1993:12</p></td>
+<td><p>Copyright to computer program</p></td>
+</tr>
+<tr class="odd">
+<td><p>TN 1996:3</p></td>
+<td><p>Copyright of an author of a computer program</p></td>
+</tr>
+<tr class="even">
+<td><p>TN 1997:12</p></td>
+<td><p>Copyright to computer program</p></td>
+</tr>
+<tr class="odd">
+<td><p>TN 1997:17</p></td>
+<td><p>Exhaustion of copyright (etc.)</p></td>
+</tr>
+<tr class="even">
+<td><p>TN 1997:18</p></td>
+<td><p>Computer program for calculating preset values of radiator valves</p></td>
+</tr>
+<tr class="odd">
+<td><p>TN 1998:13</p></td>
+<td><p>Paternity right of an author of a computer program</p></td>
+</tr>
+<tr class="even">
+<td><p>TN 1998:16</p></td>
+<td><p>Copyright to computer programs</p></td>
+</tr>
+<tr class="odd">
+<td><p>TN 1998:19</p></td>
+<td><p>Copyright to translations included in a computer program</p></td>
+</tr>
+<tr class="even">
+<td><p>TN 1999:4</p></td>
+<td><p>Right of a civilian service man to a computer program created by him</p></td>
+</tr>
+<tr class="odd">
+<td><p>TN 2003:10</p></td>
+<td><p>Copyright to computer programs</p></td>
+</tr>
+<tr class="even">
+<td><p>TN 2005:7</p></td>
+<td><p>Copyright threshold and protection of a computer program</p></td>
+</tr>
+<tr class="odd">
+<td><p>TN 2006:5</p></td>
+<td><p>Protection of a computer program</p></td>
+</tr>
+<tr class="even">
+<td><p>TN 2006:12</p></td>
+<td><p>Copyright threshold and protection of a computer program</p></td>
+</tr>
+<tr class="odd">
+<td><p>TN 2007:3</p></td>
+<td><p>Copyright to a computer program created as (part of) a thesis</p></td>
+</tr>
+<tr class="even">
+<td><p>TN 2007:9</p></td>
+<td><p>Circumvention of an effective technological measure*</p></td>
+</tr>
+<tr class="odd">
+<td><p>TN 2008:13</p></td>
+<td><p>Copyright to a musical application</p></td>
+</tr>
+<tr class="even">
+<td><p>TN 2009:15</p></td>
+<td><p>Renting of a computer program</p></td>
+</tr>
+<tr class="odd">
+<td><p>TN 2011:15</p></td>
+<td><p>Copyright to an internet game and the idea thereof</p></td>
+</tr>
+</tbody>
+</table>
 
 `*` English translation available at
 <http://www.okm.fi/export/sites/default/OPM/Tekijaenoikeus/tekijaenoikeusneuvosto/tekijaenoikeusneuvoston_lausunnot/2007/liitteet/TN_2007-9_edi_eng.pdf>
 
-References and recommended literature {#_references_and_recommended_literature}
+References and recommended literature
 -------------------------------------
 
 There are no wider literature presentations on Finnish copyright
@@ -2586,7 +2628,7 @@ legislation in English. The references here are to literature on
 copyright in Finnish or Swedish, with a special emphasis on literature
 touching upon issues related to computer programs.
 
-### Books {#_books}
+### Books
 
 -   Haarmann, Pirkko-Liisa: Tekijänoikeus ja lähioikeudet. Talentum.
     Helsinki 2005.
@@ -2603,7 +2645,7 @@ touching upon issues related to computer programs.
 -   Välimäki, Mikko: Oikeudet tietokoneohjelmiin. Talentum.
     Helsinki 2009.
 
-### Articles {#_articles}
+### Articles
 
 -   Lehtonen, Asko: Kohtuullisen hyvityksen arviointi tietokoneohjelmaa
     koskevassa tekijänoikeuden loukkaustapauksessa. In (ed. Anne
@@ -2619,15 +2661,15 @@ touching upon issues related to computer programs.
 -   Oesch, Rainer – Vesala Juha: Ohjelmistolisenssit ja
     tekijänoikeuden raukeaminen. Defensor Legis 2/2004.
 
-France {#chap.france}
+France
 ======
 
 author:\[Perbost,Fabrice\] author:\[Walter,Alan\]
 
-Introduction to software protection under French law {#sec_introductionfrench}
+Introduction to software protection under French law
 ----------------------------------------------------
 
-### Body of law {#sec_bodyfrench}
+### Body of law
 
 Under article L. 112-2 of the French Intellectual Property Code,
 software developments shall be considered as works of the mind and are,
@@ -2639,7 +2681,7 @@ on the legal protection of computer programs in France. It provides some
 specific rules regarding software, which confirms and outlines the
 applicability of the general principles of copyright law to such works.
 
-### Scope of the protection {#sec_Scope_of_the_protection_france}
+### Scope of the protection
 
 Under article L. 112-2 of the French Intellectual Property Code,
 copyright law protects “software including preparatory design material”.
@@ -2661,26 +2703,26 @@ However, the ideas and principles, which underlie any element of
 software, including those which underlie its interfaces, are not
 protected by copyright.
 
-### Authors/Beneficiaries {#sec_authorsfrance}
+### Authors/Beneficiaries
 
-i.  As a rule, authorship shall belong to the natural person, who has
+1.  As a rule, authorship shall belong to the natural person, who has
     created the software, whether the author is an employee or not.
     However, according to article L. 113-1 of the French Intellectual
     Property Code, it shall belong, unless otherwise proved, to the
     person or persons under whose name the work has been disclosed.
 
-ii. Furthermore, article L. 113-9 of the French Intellectual Property
+2.  Furthermore, article L. 113-9 of the French Intellectual Property
     Code provides that unless otherwise provided by statutory provisions
     or stipulations, the economic rights in the software and its
     documentation created by one or more employees in the execution of
     their duties or following the instructions given by their employer
     shall be the property of the employer and he exclusively shall be
-    entitled to exercise them.\
+    entitled to exercise them.  
     This provision also applies to the servants of the State, of local
     authorities and of public establishments of an
     administrative nature.
 
-iii. Software created by two or more persons may be a “collective work”
+3.  Software created by two or more persons may be a “collective work”
     or a “collaborative work”.
 
     A collaborative work is a work in the creation of which more than
@@ -2697,7 +2739,7 @@ iii. Software created by two or more persons may be a “collective work”
     of the natural or legal person under whose name it has
     been disclosed.
 
-iv. When a work integrates a preexisting work, without the collaboration
+4.  When a work integrates a preexisting work, without the collaboration
     of the author of the latter work, it is defined as a
     “Composite work”. A composite work shall be the property of the
     author who has produced it, subject to the rights of the author of
@@ -2706,7 +2748,7 @@ iv. When a work integrates a preexisting work, without the collaboration
     work for such integration and (b) share the remuneration derived
     from the composite work with the author of the integrated work.
 
-### Exclusive rights {#sec_exclusivefrench}
+### Exclusive rights
 
 According to article L. 122-6 of the French Intellectual Property Code,
 the patrimonial rights belonging to the author of the software shall
@@ -2736,7 +2778,7 @@ loading, displaying, running, transmitting or storing the software
 necessitate such reproduction, such acts require the consent of the
 author.
 
-### Exceptions to exclusive rights {#sec_exceptions_france}
+### Exceptions to exclusive rights
 
 Similarly to the general copyright rules, the third paragraph of article
 L. 122-6 of the French Intellectual Property Code provides that the
@@ -2779,7 +2821,7 @@ nor cause unreasonable prejudice to the author’s legitimate interests.
 Any stipulation contrary to the provisions of article L. 122-6-1 shall
 be null and void.
 
-### Moral rights {#sec_moral_french}
+### Moral rights
 
 The moral rights of the author generally include (i) the right to
 disclose his work, (ii) the right of respect for his name and his work
@@ -2806,7 +2848,7 @@ preservation of the author’s anonymity are valid, as long as the author
 does not permanently waive his right of paternity. An anonymous author
 may reveal his paternity at any time.
 
-### Term of protection {#sec_protection_france}
+### Term of protection
 
 According to article L. 123-1 of the French Intellectual Property Code,
 the author shall enjoy, during his lifetime and for 70 years after his
@@ -2825,7 +2867,7 @@ anonymously or under a pseudonym.
 Finally, a composite work is protected regardless of the preexisting
 work, even if the preexisting work has entered the public domain[^159].
 
-### Copyright assignment {#_copyright_assignment}
+### Copyright assignment
 
 Article L. 131-1 of the French Intellectual Property Code provides that
 the complete assignment of intellectual property rights in future works
@@ -2849,7 +2891,7 @@ The assignment may always be done for free, considering the interest of
 the author to release its work and have it brought to the knowledge of
 the public.
 
-### Special measures {#_special_measures_2}
+### Special measures
 
 Law n° 2006-961 of 1st August 2006, which implements Council Directive
 2001/29/EC of 22nd May 2001 on the harmonization of certain aspects of
@@ -2869,7 +2911,7 @@ provision of devices, products or services to this effect. Nevertheless,
 the article specifies that it is not applicable to the technological
 measures used in connection with software.
 
-Unprotected software and public domain software {#sec_publicdomain_french}
+Unprotected software and public domain software
 -----------------------------------------------
 
 As previously discussed, only original software is protected by
@@ -2910,7 +2952,7 @@ license would appear to be possible as far as the author may freely
 waive his patrimonial rights. The use of the software would, however, be
 subject to the respect of the moral rights of the author.
 
-Analysis of FOSS under French law {#sec_analysisfrench}
+Analysis of FOSS under French law
 ---------------------------------
 
 Free software licenses have once been defined as “licenses through which
@@ -2932,7 +2974,7 @@ Software”, as they find it more expressive and understandable.
 The determination and the expression of rights between different
 contributors will depend on the qualification given to the work.
 
-### FOSS definitions {#sec_defs_french}
+### FOSS definitions
 
 In accordance with the principle of free modification of software
 distributed under a free license, a certain number of persons will
@@ -2972,7 +3014,7 @@ right to modify to all users. The remainder of the current paper is
 based upon the most commonly admitted definition for open source
 software, namely that of a derivative work.
 
-### Copyright {#_copyright}
+### Copyright
 
 The evolutionary character of free software makes the definition of each
 author and contributor’s rights extremely complicated. Literary and
@@ -3033,14 +3075,14 @@ decisions have been based on the real will of the parties[^171] or
 actual use[^172] in order to validate an assignment and to appreciate
 its scope.
 
-### Moral copyrights {#_moral_copyrights_2}
+### Moral copyrights
 
 The mechanisms of free licenses are based on the freedom for licensees
 to use and to freely modify software. This freedom is liable to clash
 with the moral rights of the author and those of the different
 contributors.
 
-#### Right to disclose {#_right_to_disclose}
+#### Right to disclose
 
 The author of the initial software exercises his right to disclose
 through his decision to distribute the software under a free license. He
@@ -3071,7 +3113,7 @@ copyleft are much more flexible. The contributors are free to use and
 modify the software without being bound to subject their modified work
 to the conditions of a given license.
 
-#### Paternity rights {#_paternity_rights}
+#### Paternity rights
 
 Paternity rights over the initial or modified software are not treated
 uniformly by all free licenses.
@@ -3086,7 +3128,7 @@ mistaken attribution to a third party. As a result, anonymity rights,
 which result from paternity rights, cannot be exercised when the
 software is distributed under a license of this kind.
 
-#### Right of integrity {#_right_of_integrity}
+#### Right of integrity
 
 Free licenses allow any person, who accepts the terms thereof to modify
 the work.
@@ -3106,9 +3148,9 @@ this latter may like to carry out”[^174]. Any software modification may
 therefore expose its author to a future action based on the right to
 respect for the original work.
 
-### Enforcing FOSS licenses {#_enforcing_foss_licenses_2}
+### Enforcing FOSS licenses
 
-#### Contractual organization {#_contractual_organization}
+#### Contractual organization
 
 The originality of the distribution of free licenses lies in the fact
 that the author does not simply disclose his work; he also organizes the
@@ -3133,7 +3175,7 @@ This being said, certain licenses, such as the GPL, specify that rights
 over the modified work be granted only by the initial author to the
 detriment of the rights of other contributors.
 
-#### Validity of the agreement {#_validity_of_the_agreement}
+#### Validity of the agreement
 
 The validity of such licenses can be called into question under basic
 contract law, or under consumer laws.
@@ -3167,7 +3209,7 @@ In spite of these notions of French law, the Court of Appeal of Paris
 indirectly acknowledged the validity of such free licenses in a decision
 dated 16th September 2009[^179].
 
-#### Breach of license conditions {#_breach_of_license_conditions}
+#### Breach of license conditions
 
 Failure to comply with the provisions of a license constitutes a breach
 by the licensee of his contractual obligations as well as a breach of
@@ -3194,7 +3236,7 @@ source code of his modified version of the free software. The Court of
 Appeal therefore held that several conditions of the GNU GPL had not
 been complied with.
 
-### Waiver and liability {#_waiver_and_liability_2}
+### Waiver and liability
 
 The majority of free licenses includes a limitation or exemption of
 liability. This is the case with GNU and Mozilla licenses, for example.
@@ -3237,7 +3279,7 @@ of the defect to be known at the time that the product came into
 circulation. It is within this meaning that the warranty clause in the
 CeCILL license has been produced[^184].
 
-FOSS Cases in France {#sec.fossfrance}
+FOSS Cases in France
 --------------------
 
 Although it can be said that the free domain relatively generates few
@@ -3326,7 +3368,7 @@ Three cases have come before the French courts.
     decision is not without consequences and that a free software is not
     a software free of rights.
 
-Legal procedures {#sec_france_procedures}
+Legal procedures
 ----------------
 
 Free software developers enjoy several methods of ensuring the
@@ -3353,9 +3395,9 @@ courts to ensure the compliance with his rights. Before criminal courts,
 the pirate risks up to 3 years in prison and fines of up to 300,000
 Euros[^188].
 
-### Recommended literature {#_recommended_literature}
+### Recommended literature
 
-#### Opinion {#_opinion}
+#### Opinion
 
 -   S. Basset and Ch. Bigot, Les logiciels open source : quel statut
     juridique ?, Cahier Lamy droit de l’informatique et des réseaux,
@@ -3396,7 +3438,7 @@ Euros[^188].
 -   L. Schurr, La licence GNU/GPL (V3) a presque deux ans : un bilan
     mitigé, Gaz. Pal., 22 and 23 April 2009, p. 9
 
-#### Case law {#_case_law}
+#### Case law
 
 -   TGI Paris, 28 March 2007, Educaffix c/ CNRS, Gaz. Pal., n° 22, 22
     January 2008, p. 35
@@ -3404,15 +3446,15 @@ Euros[^188].
 -   CA Paris, 16 September 2009, RG n° 01/24298, SA EDU 4 c/ Association
     AFPA
 
-Germany {#chap.Germany}
+Germany
 =======
 
 author:\[Engelhardt,Tim\] author:\[Jaeger,Till\]
 
-Introduction to software protection under German law {#sec_introductiongerman}
+Introduction to software protection under German law
 ----------------------------------------------------
 
-### Body of law {#sec_bodygerman}
+### Body of law
 
 In Germany, the Copyright Act[^189] is the primary legislative regime
 providing legal protection to software. Its key provisions relevant for
@@ -3424,7 +3466,7 @@ act provides otherwise, the general rules of the Copyright Act (i.e., on
 the transfer of rights, the legal consequences of infringements, etc.)
 apply to software as well.[^191]
 
-### Object of protection {#sec_objectgerman}
+### Object of protection
 
 Following the understanding of the Berne Convention for the Protection
 of Literary and Artistic Works and the framework of the Software
@@ -3455,7 +3497,7 @@ has only to show that this program is complex, whereupon the opponent
 has the full burden to show and prove that the program is in fact not
 individual enough.
 
-### Authors/Beneficiaries {#sec_authorsgerman}
+### Authors/Beneficiaries
 
 Generally, all rights in a work belong to the actual author. Sec. 69b of
 the Copyright Act, a special provision on the ownership of the rights on
@@ -3477,7 +3519,7 @@ rights in very special situations.[^197]
 For an analysis of joint authorship, derivative works, compound works,
 and collective works see below.[^198]
 
-### Exclusive rights {#sec_exclusivegerman}
+### Exclusive rights
 
 The right holder’s exclusive rights are set out in UrhG, sec. 69c, which
 implements the specifications of sec. 4 of the Software Directive: the
@@ -3500,7 +3542,7 @@ such a way that members of the public may access it from a place and at
 a time individually chosen by them, e.g., offering a work for download
 and software-as-a-service.
 
-### Exceptions to exclusive rights {#_exceptions_to_exclusive_rights_2}
+### Exceptions to exclusive rights
 
 Sec. 69c no. 3 sentence 2 of the Copyright Act sets forth the principle
 of exhaustion. According to this provision, the distribution right is
@@ -3585,7 +3627,7 @@ necessary to achieve the interoperability of an independently created
 computer program with other programs, if certain conditions are
 met.[^207]
 
-### Moral rights {#_moral_rights}
+### Moral rights
 
 German copyright traditionally recognizes strong moral rights of the
 authors of protected works. In principle, this is also true for
@@ -3622,7 +3664,7 @@ In addition, the recognition of moral rights has a strong impact on the
 possibilities to assign or grant rights in copyrighted works. For
 details, see the “Copyright assignment” section below.
 
-### Term of protection {#_term_of_protection_2}
+### Term of protection
 
 For computer programs, the same provisions on the protection term apply
 as for works of literature and art: the copyright expires 70 years as of
@@ -3640,7 +3682,7 @@ publication — or if the author’s identity is clear, the duration of the
 copyright is calculated under the general rule set forth in sec. 64 and
 65 (UrhG, sec. 66 para 2).
 
-### Copyright assignment {#_copyright_assignment_2}
+### Copyright assignment
 
 In principle, German copyright law does not distinguish between software
 and other protected works when it comes to the fundamental mechanisms of
@@ -3679,7 +3721,7 @@ commercial exploitation of the work. The moral rights, however, remain
 unaffected. Second, the presumption can be overcome by individual
 agreement.
 
-### Special measures {#_special_measures_3}
+### Special measures
 
 In case of infringement, a mix of provisions governing the enforcement
 of the copyright applies. Most general provisions of the Copyright Act
@@ -3739,7 +3781,7 @@ negligence. Finally, para 2, just as para 1, provides for a claim
 against any owner or proprietor irrespective of whether she is the
 infringer.
 
-### The right to equitable remuneration and the so-called “Linux clause” {#_the_right_to_equitable_remuneration_and_the_so_called_8220_linux_clause_8221}
+### The right to equitable remuneration and the so-called “Linux clause”
 
 With a right to equitable remuneration of each author, in 2002 the
 German legislator introduced a feature into copyright law that is rather
@@ -3802,7 +3844,7 @@ hand, the employee assented to a FOSS distribution, sec. 32a para 3
 sentence 3 should apply by way of analogy. In contrast, sec. 32 is
 probably not applicable to employed software authors.[^223]
 
-Unprotected software and public domain software {#sec_unprotected}
+Unprotected software and public domain software
 -----------------------------------------------
 
 As explained, German copyright doctrine does not allow the complete
@@ -3822,12 +3864,12 @@ However, FOSS is not considered public domain software, as FOSS authors
 do not give up their rights but rather use copyright to enforce their
 interests.[^225]
 
-Analysis of FOSS under German law {#sec_analysisgerman}
+Analysis of FOSS under German law
 ---------------------------------
 
-### Copyrights {#_copyrights_2}
+### Copyrights
 
-#### Qualification of FOSS {#_qualification_of_foss_3}
+#### Qualification of FOSS
 
 Even though the general public often assumes that a FOSS author forgoes
 her rights, the generally accepted opinion among lawyers, including the
@@ -3847,13 +3889,13 @@ the further development of the software?
 Four terms representing different concepts come to mind: co- or joint
 authorship, derivative works, compound works, and collective works.
 
-### Rights of the original co-authors {#_rights_of_the_original_co_authors_2}
+### Rights of the original co-authors
 
 Sec. 8 para 1 of the Copyright Act sets out two factors of joint
 authorship: (1) the work must have been jointly created by several
 authors; and (2) their contributions cannot be separately exploited.
 
-\(1) Joint creation:
+(1) Joint creation:
 
 Joint authorship requires that two or more authors willfully collaborate
 in order to create a work. They must follow a common idea and have a
@@ -3870,7 +3912,7 @@ developing a program while being in the same office. Nevertheless, in
 most FOSS projects joint authorship is less common than the creation of
 derivative works.
 
-\(2) Unitary exploitation:
+(2) Unitary exploitation:
 
 Joint authorship further requires that the contributions of the distinct
 authors cannot be exploited separately. If a separate exploitation is
@@ -3901,7 +3943,7 @@ claims is disputed, but it seems reasonable to allow each single author
 to enforce this kind of claim alone without being obligated to refer to
 each and every co-author.[^230]
 
-### Authors of derivative works {#_authors_of_derivative_works_3}
+### Authors of derivative works
 
 Another way of creating new software is the alteration of pre-existing
 programs, as contemplated by UrhG, sec. 3, 23, and 69c No. 2. If this is
@@ -3919,7 +3961,7 @@ In derivative work situations, both the author of the original work and
 the author of the derived work may enforce their own rights without
 having to involve the other.
 
-### Compound works {#_compound_works}
+### Compound works
 
 Independent works — that is, works that were created and can be
 exploited independently from each other — that are combined by several
@@ -3937,7 +3979,7 @@ reasonably demanded of them. Contrary to cases of joint authorship, the
 authorship on every separate work remains unaffected by the combination.
 Thus, the rights in each separate work can be enforced separately.
 
-### Collective works {#_collective_works}
+### Collective works
 
 In addition, German copyright law also protects collective works. These
 are collections of works, data, or other independent elements, provided
@@ -3967,7 +4009,7 @@ creator of the collective work and the authors of its parts.[^233] Each
 author, including the author of the collection, may enforce her rights
 separately.
 
-### The assignment of copyrights {#_the_assignment_of_copyrights_2}
+### The assignment of copyrights
 
 Copyright assignments or contribution agreements that are designed to
 transfer the complete copyright to the assignee are problematic under
@@ -3993,7 +4035,7 @@ right to license the work against license fees, the grantor is entitled
 to equitable remuneration (see UrhG, sec. 32), and the agreement should
 provide for a compensation clause.[^235]
 
-### Moral rights {#_moral_rights_2}
+### Moral rights
 
 Even though moral rights play a rather minor role in the software
 context, they may have some ramifications on the use of FOSS. Most
@@ -4022,9 +4064,9 @@ enforce their moral rights against modifications of their software even
 if the applicable FOSS license seems to allow any kind of alterations,
 the infringing one included.
 
-### Enforcing FOSS licenses {#_enforcing_foss_licenses_3}
+### Enforcing FOSS licenses
 
-#### Contractual relationships {#_contractual_relationships}
+#### Contractual relationships
 
 Under German law, FOSS licenses are commonly seen as license agreements
 between the licensor and the licensee, and therefore as contracts.[^239]
@@ -4055,7 +4097,7 @@ of the exclusive rights and the distributor. All problems concerning
 rights, warranties, and liability are governed by their specific
 agreements.
 
-#### Validity of the contract {#_validity_of_the_contract_2}
+#### Validity of the contract
 
 The mechanisms of the conclusion and validity of the contract between
 the supplier and the recipient of the software do not pose any specific
@@ -4063,7 +4105,7 @@ problems. Therefore, the focus of the following analysis will be on the
 relationship between the holder of the exclusive FOSS rights and its
 licensee.
 
-\(1) Contract as offer and acceptance
+(1) Contract as offer and acceptance
 
 Any contract is entered into by an offer from one party and the
 corresponding acceptance by the other. The German understanding is that
@@ -4082,7 +4124,7 @@ apply: the right holder waives the notification requirement by relying
 on the FOSS license, and it is customary practice in these kinds of
 cases not to notify the right holder of the acceptance.[^243]
 
-\(2) The law on standard business terms
+(2) The law on standard business terms
 
 The particularities of German private law pose another problem as to the
 question of whether licensor and licensee validly agreed on the terms of
@@ -4143,14 +4185,14 @@ agreement. In such a case — the language of the negotiations between the
 parties being not German — the incorporation of non-German standard
 business terms is possible and valid.[^250]
 
-\(3) Waiver of warranty and liability
+(3) Waiver of warranty and liability
 
 As briefly mentioned before, the common warranty and liability waivers
 contained in FOSS licenses go far beyond what is permitted in standard
 business terms, whether in agreements with consumers or in pure business
 matters.[^251] Consequently they are considered void.
 
-\(4) Antitrust law
+(4) Antitrust law
 
 The compliance of FOSS copyleft licenses with competition law is another
 issue worth mentioning. One could argue that such licenses are in
@@ -4169,7 +4211,7 @@ entitled to the use of the desired software.[^253] They can either
 receive the required rights through the FOSS license, or they will have
 no rights at all.
 
-#### Violation of license conditions {#_violation_of_license_conditions}
+#### Violation of license conditions
 
 Whether the violation of a license agreement is merely a breach of
 contract or also constitutes a copyright infringement, is a standard
@@ -4189,7 +4231,7 @@ beginning to comply with the FOSS license conditions cannot “heal” the
 past infringement; the “old” license is not reinstated in such a case,
 but she enters into a new license agreement with the FOSS licensor.
 
-### Waiver and liability {#_waiver_and_liability_3}
+### Waiver and liability
 
 As mentioned above, the complete waiver of any warranty and liability
 commonly used in FOSS licenses conflicts with general principles of
@@ -4202,7 +4244,7 @@ In order to carry out a correct analysis of this problem, one has to
 clearly distinguish between the contractual relationships among the
 parties involved.
 
-#### Relationship distributor — user {#_relationship_distributor_8201_8212_8201_user}
+#### Relationship distributor — user
 
 As far as the relationship between distributor and user is concerned,
 the ineffectiveness of the waivers has no importance, as they would
@@ -4252,7 +4294,7 @@ If, on the other hand, the distributor and the user have come to a valid
 agreement concerning the former’s warranties and liability, the terms of
 this agreement replace the above provisions.[^259]
 
-#### Relationship right holder — user {#_relationship_right_holder_8201_8212_8201_user}
+#### Relationship right holder — user
 
 As to the relationship between the holder of the exclusive rights and
 the licensee, the following mechanism applies: There is no contractual
@@ -4270,7 +4312,7 @@ situated in a country other than Germany, the laws of that country will
 most probably apply (see art. 4 para 2 of the so-called Rome I
 regulation[^262]).
 
-#### Product liability {#_product_liability}
+#### Product liability
 
 Apart from the contractual liability explained above, software
 developers and distributors can also be subject to the principles of
@@ -4301,7 +4343,7 @@ producer.
 Claims under the Product Liability Act may not be waived or limited in
 advance; any agreements to the contrary effect are void.
 
-#### Torts {#_torts}
+#### Torts
 
 Finally, producers and distributors of FOSS may also be liable under the
 general law of torts (BGB, sec. 823 ff.). Liability under sec. 823 para
@@ -4318,16 +4360,16 @@ and property. Most likely, tort claims from the delivery of defective
 FOSS will arise because of damages to property and bodily
 injuries.[^265]
 
-### The copyleft principle {#_the_copyleft_principle_2}
+### The copyleft principle
 
-#### Principle {#_principle_3}
+#### Principle
 
 A common feature of many FOSS licenses is the “copyleft” principle. This
 term means that any licensee is obligated to put derivate works that she
 creates based on the licensor’s work under the same license obligations
 as the original work if she distributes the derivative work.
 
-#### Validity {#_validity_3}
+#### Validity
 
 As clear and simple as this principle appears, it is very difficult in
 its practical application. The main issue is how to define what
@@ -4370,7 +4412,7 @@ one could neither argue that the program at hand was altered nor that a
 compound work was created (if this is possible at all) depends on the
 circumstances of the concrete situation.
 
-### Claims against infringing acts. Damages {#_claims_against_infringing_acts_damages}
+### Claims against infringing acts. Damages
 
 Practical experience has shown that the GPLv2 can be enforced in Germany
 without major difficulties.[^270]
@@ -4427,10 +4469,10 @@ someone who is not the true author poses as such. However,
 indemnifications for the violation of moral rights are in practice
 rather rare and come into consideration mostly in very serious cases.
 
-Legal procedures {#sec_legalprocedures}
+Legal procedures
 ----------------
 
-### Standing to sue {#_standing_to_sue}
+### Standing to sue
 
 The first issue that must be dealt with regarding procedural law is the
 question of who is entitled to sue. In most FOSS cases there is not only
@@ -4442,7 +4484,7 @@ authors, by authors of derivative works, and by authors of compound
 works. Who in these cases is in a position to enforce the copyrights in
 the computer program?
 
-#### Joint authors {#_joint_authors}
+#### Joint authors
 
 According to UrhG, sec. 8 para 2 sentence 3, each joint author of a work
 may enforce the exclusive rights in this work. However, she may demand
@@ -4459,14 +4501,14 @@ authors limits quite significantly the number of developers who have to
 be considered; as a consequence, it is in most cases not impossible to
 prepare an exhaustive list of all joint authors.
 
-#### Compound works {#_compound_works_2}
+#### Compound works
 
 For compound works, the Copyright Act does not contain a provision
 similar to sec. 8 para 2 sentence 3. The most reasonable rule one could
 apply should be to let each author enforce the rights in her own
 creation.
 
-#### Derivative works {#_derivative_works}
+#### Derivative works
 
 As described above, the situation is different for derivative works.
 Both the creator of the original work and the author of the derived work
@@ -4484,7 +4526,7 @@ ask for damages only insofar as the part of the work she created herself
 is concerned.[^276] This can lead to severe, almost insurmountable
 problems regarding the calculation of the damages.
 
-### Courses of action {#_courses_of_action}
+### Courses of action
 
 If right holders wish to receive injunctive relief from a court, German
 law requires them to first institute out-of-court-proceedings: Right
@@ -4551,7 +4593,7 @@ ranges from roughly EUR 9,000 to EUR 12,000 if no oral hearing is
 involved (as often in preliminary injunction cases), and from EUR 12,000
 to EUR 21,000 if an oral hearing takes place.
 
-FOSS cases in Germany {#sec_fosscasesgerman}
+FOSS cases in Germany
 ---------------------
 
 As FOSS is a relatively recent phenomenon, case law is still limited
@@ -4561,7 +4603,7 @@ consequence, most cases where FOSS right holders start proceedings
 against infringers are resolved before even entering the court
 stage.[^283]
 
-### Welte v. Sitecom {#_welte_v_sitecom}
+### Welte v. Sitecom
 
 In 2004 the first case dealing with the violation of a FOSS license was
 brought before a German court;[^284] the District Court of Munich I
@@ -4609,7 +4651,7 @@ latter’s copyrights.[^288]
 
 The preliminary injunction was granted and accepted by the defendant.
 
-### Welte v. D-Link {#_welte_v_d_link}
+### Welte v. D-Link
 
 The fundamental holdings of the *Sitecom* case were reaffirmed in 2006
 by the District Court of Frankfurt/Main (Landgericht Frankfurt/Main),
@@ -4651,7 +4693,7 @@ violation of antitrust law, however, would not have this effect, as it
 would only void the GPLv2 itself, without providing any exploitation
 rights in the programs used.[^293]
 
-### Welte v. Skype {#_welte_v_skype}
+### Welte v. Skype
 
 Another GPLv2 case clarified the question of whether it was sufficient
 to simply present a link to a website in order to provide the license
@@ -4704,7 +4746,7 @@ the GPLv2 would violate antitrust provisions, such a violation would not
 result in releasing a licensee of GPLv2 software from observing the
 conditions of the GPLv2.
 
-### FreeAdhocUDF (WISO Mein Büro 2009) {#_freeadhocudf_wiso_mein_büro_2009}
+### FreeAdhocUDF (WISO Mein Büro 2009)
 
 A recent judgment rendered by the District Court of Bochum (Landgericht
 Bochum) dealt among other issues with whether the violation of the
@@ -4729,7 +4771,7 @@ analogy.
 The parties settled the matter in 2012, agreeing on a payment of EUR
 15,000 as compensation for the damages suffered.
 
-### AVM v. Cybits {#_avm_v_cybits}
+### AVM v. Cybits
 
 In 2011 the District Court of Berlin (Landgericht Berlin) published a
 decision that touched upon more complex questions regarding software
@@ -4783,7 +4825,7 @@ act of unfair competition, insofar as causing the routers to display
 wrong status messages may confuse the user, which could be detrimental
 to AVM’s reputation as the producer of the Fritz!Box.
 
-### Welte v. Fantec {#_welte_v_fantec}
+### Welte v. Fantec
 
 Most recently, the District Court of Hamburg added a few new aspects to
 the picture. Fantec, a German company selling various consumer
@@ -4831,7 +4873,7 @@ code.
 Fantec appealed the decision but withdrew its appeal when the right
 holder agreed to waive its right to receive the requested information.
 
-### Xt:commerce {#_xt_commerce}
+### Xt:commerce
 
 The Higher Regional Court of Düsseldorf (Oberlandesgericht Düsseldorf)
 is responsible for two important decisions dealing with the tricky issue
@@ -4849,7 +4891,7 @@ desired to distribute her own copies of GPL software, she may do so
 under the GPL, but only under a name that did not infringe on third
 parties' trade mark rights.
 
-### Enigma {#_enigma}
+### Enigma
 
 Two years later, in 2012, the same court addressed some more complex
 questions.[^303]
@@ -4927,7 +4969,7 @@ of a work title as an indispensable identifier of the software used;
 therefore, the principles above cannot justify any form of use going
 beyond the narrow scope described in the decision.
 
-### Other cases {#_other_cases}
+### Other cases
 
 In a number of other cases, German courts have granted preliminary
 injunctions against producers and distributors of products that violated
@@ -4942,9 +4984,9 @@ no rights would be granted to the infringer; and that the right holder’s
 rights were not exhausted since the first distribution of the copies at
 hand had occurred without his consent.
 
-### Recommended literature {#_recommended_literature_2}
+### Recommended literature
 
-#### Recommended literature in English {#_recommended_literature_in_english}
+#### Recommended literature in English
 
 -   J. Höppner: The GPL prevails: An analysis of the first-ever Court
     decision on the validity and effectivity of the GPL,
@@ -4962,7 +5004,7 @@ hand had occurred without his consent.
     General Public License,
     <http://www.twobirds.com/en/news/articles/2007/review-german-gnu-general-public-license>
 
-#### Recommended literature in German {#_recommended_literature_in_german}
+#### Recommended literature in German
 
 Over the course of the years, an increasing number of articles on legal
 aspects of free software under German law have been published. Please
@@ -4976,7 +5018,7 @@ see for an overview:
 
 -   <http://www.ifross.org/en/publikationen/fremdpublikationen/iv-offline-materialien-freie-software-und-recht/b-laenderspezifisch>
 
-#### Comprehensive books {#_comprehensive_books}
+#### Comprehensive books
 
 -   ifrOSS (ed.), Die GPL kommentiert und erklärt, available at
     <http://www.ifross.org/en/Druckfassung/Die_GPL_kommentiert_und_erklaert.pdf>
@@ -4986,15 +5028,15 @@ see for an overview:
 
 -   G. Spindler (ed.): Rechtsfragen bei Open Source, Cologne 2004
 
-Israel {#chap.israel}
+Israel
 ======
 
 author:\[Greenbaum,Eli\]
 
-Introduction to software protection under Israeli law {#sec_introductionisrael}
+Introduction to software protection under Israeli law
 -----------------------------------------------------
 
-### Body of law {#sec_bodyisrael}
+### Body of law
 
 The Israeli Copyright Law of 2007 (the “Copyright Law”) modernized the
 protection of intellectual property in Israel. The Copyright Law
@@ -5014,7 +5056,7 @@ regarding the patentability of software inventions in Israel. The new
 guidelines adopt a relatively liberal approach regarding the patent
 eligibility of software inventions.
 
-### Copyright Act: Object of protection {#sec_cractisrael}
+### Copyright Act: Object of protection
 
 The Copyright Law expressly provides that computer programs, which are
 categorized as literary works, constitute copyrightable subject matter.
@@ -5023,7 +5065,7 @@ program “in any form that it may be expressed”. This provision is
 intended to be consistent with the definition of computer programs in
 Article 4 of the WIPO Copyright Treaty.[^308]
 
-### Authors/Copyright owners {#sec_authorsisrael}
+### Authors/Copyright owners
 
 Section 34 of the Copyright Law provides that, absent an agreement to
 the contrary, an employer shall be the owner of the copyright of a work
@@ -5045,14 +5087,14 @@ recommended that consulting agreements or other “work for hire”
 arrangements in Israel include an express grant of the copyright to the
 commissioning entity, if that is the intention of the parties.
 
-### Compilations {#sec_compilationsisrael}
+### Compilations
 
 The Copyright Law also protects compilations as literary works. Section
 4(b) of the Copyright Law provides that the original expression
 protected in a compilation is the originality of selection or
 arrangement of individual works or material in the compilation.
 
-### Joint works {#sec_jointisrael}
+### Joint works
 
 The Copyright Law recognizes the possibility of joint works but does not
 expressly provide for the manner in which joint owners in a copyright
@@ -5072,7 +5114,7 @@ copyright infringement suit join all other right holders in the suit.
 This would seem to require that all joint owners of a copyright be
 joined in any action to enforce a copyright.
 
-### Derivative works {#sec_derivsisrael}
+### Derivative works
 
 Section 16 of the Copyright Law defines a “derivative work” as an
 original work that is “materially based” on another work. While not
@@ -5096,26 +5138,26 @@ look to the substance of the protected work that is incorporated in the
 potentially derivative work, rather than how the potentially derivative
 work uses that material.
 
-### Exclusive rights {#sec_exclusiveisrael}
+### Exclusive rights
 
 Section 11 of the Copyright Law sets forth the exclusive economic rights
 afforded under a copyright. All of the rights apply in the case of a
 computer program. The rights include:
 
-\(a) The right to copy the work;
+(a) The right to copy the work;
 
-\(b) The right to publish the work, if the work has not yet been
+(b) The right to publish the work, if the work has not yet been
 published;
 
-\(c) The right to publicly perform the work;
+(c) The right to publicly perform the work;
 
-\(d) The right to broadcast the work;
+(d) The right to broadcast the work;
 
-\(e) The right to make the work available to the public;
+(e) The right to make the work available to the public;
 
-\(f) The right to create and a exploit derivative works; and
+(f) The right to create and a exploit derivative works; and
 
-\(g) The right to lease the work.
+(g) The right to lease the work.
 
 Several other provisions of the Copyright Law are relevant to the
 interpretation of these enumerated exclusive rights in the context of
@@ -5138,7 +5180,7 @@ lease. As such, the exclusive right to lease a copy of a computer
 program is not infringed by the lease of consumer goods that include
 software.[^312]
 
-### Exceptions to exclusive rights {#sec_exceptionsisrael}
+### Exceptions to exclusive rights
 
 The Copyright Law provides for certain “permitted uses” which constitute
 exclusions to the exclusive rights of copyright holder enumerated above.
@@ -5172,12 +5214,12 @@ rights of “permitted uses” set forth in this section. As such, the
 enforceability of common contractual terms against reverse engineering
 is at present unclear under Israeli law.
 
-### Moral rights {#sec_moralisrael}
+### Moral rights
 
 Section 45(a) of the Copyright Law expressly provides that moral rights
 do not exist in computer programs.
 
-### Terms of protection {#sec_protectionisrael}
+### Terms of protection
 
 The term of protection for computer programs is the same as for other
 works. Section 38 of the Copyright Law provides that copyright
@@ -5189,7 +5231,7 @@ However, the term of protection for works that were originally published
 in a country outside of Israel is generally limited to the term of
 protection afforded by that country.
 
-### Copyright assignment {#sec_assignmentsisrael}
+### Copyright assignment
 
 Except in the context of the employer-employee relationship, the
 transfer of a copyright (or the exclusive license in respect thereof)
@@ -5198,7 +5240,7 @@ Copyright Law does not require that such writing be signed by the
 parties, which raises the possibility that unsigned messages (such as
 emails) may be sufficient to effect an assignment of a copyright.
 
-### Enforcement {#sec_enforcementisrael}
+### Enforcement
 
 The Copyright Law sets forth both civil and criminal penalties for the
 infringement of copyrights. Civil penalties, as described in more detail
@@ -5218,7 +5260,7 @@ statutory duty of supervision if any such acts of infringement are
 committed. Statutory fines can be imposed on such office holders that do
 not satisfy their duty of supervision.
 
-### Technical devices and effective technological measures {#sec_devicesisrael}
+### Technical devices and effective technological measures
 
 The Copyright Law does not contain provisions regarding the
 circumvention of technological measures implementing digital rights
@@ -5239,7 +5281,7 @@ of effective technological measures falls within the ambit of these
 provisions, especially considering the Knesset’s deliberate decision not
 to include express provisions regarding this issue in the Copyright Law.
 
-Analysis of FOSS under Israeli law {#sec_analysisisrael}
+Analysis of FOSS under Israeli law
 ----------------------------------
 
 Under Israeli law, rights in FOSS do not differ from other forms of
@@ -5266,7 +5308,7 @@ decision, including the issues of the contractual validity of a FOSS
 licenses and how damages should be calculated in an action for
 infringement of FOSS, are discussed in more detail below.
 
-### Rights of the original co-authors {#sec_coautorsisrael}
+### Rights of the original co-authors
 
 FOSS is often developed within a collaborative development model. As
 noted above, while the Copyright Law recognizes the possibility of joint
@@ -5276,7 +5318,7 @@ ensuring that contributors to open source projects have executed
 contribution agreements, in which they either assign or license their
 contributed code to such project.
 
-### Authors of modifications {#sec_modificationisrael}
+### Authors of modifications
 
 Successive versions of FOSS may build upon the works of previous FOSS
 authors. As in many other legal systems, Israeli law recognizes the
@@ -5284,7 +5326,7 @@ copyright of successive authors in the derivative work. This copyright
 in the derivative work should be subject to the copyright of the
 original author to the original work.
 
-### Validity of FOSS licenses {#sec_validityisrael}
+### Validity of FOSS licenses
 
 The Contract Law of 1973 (the “Contract Law”) provides that under
 Israeli law contracts are formed through a process of offer and
@@ -5332,7 +5374,7 @@ such, questions that may arise in other jurisdictions regarding the
 consideration received by the licensor in a FOSS context do not arise
 under Israeli law.
 
-### Termination {#sec_terminationisrael}
+### Termination
 
 As noted above, Israeli law generally interprets licenses according to
 the standard rules of contract law. As such, a license that does not
@@ -5344,7 +5386,7 @@ generally contain an express term and are generally granted for an
 indefinite period of time. As such, Israeli law presents the risk that a
 FOSS licensor can terminate a FOSS license upon reasonable notice.[^321]
 
-### Waiver and liability {#sec_waiverisrael}
+### Waiver and liability
 
 FOSS licenses typically contain strong disclaimers of warranties and
 liability. The enforceability of such broad disclaimers under Israeli
@@ -5398,10 +5440,10 @@ non-infringement.[^323] Again, the application of these provisions to
 the licensing of intellectual property has not been satisfactorily
 explored in Israeli case law.
 
-Remedies {#sec_remediesisrael}
+Remedies
 --------
 
-### Copyright infringement — damages {#sec_infringementisrael}
+### Copyright infringement — damages
 
 Under Israeli law, a copyright holder may be entitled to either an
 accounting of profits or damages (whether actual or statutory) for the
@@ -5463,7 +5505,7 @@ to file suit against the end users of pirated or infringing intellectual
 property, and may only be able to file suit against the providers such
 infringing works.
 
-### Contract remedies — injunction {#sec_injunctionsisrael}
+### Contract remedies — injunction
 
 Section 53 of the Copyright Law provides that the holder of a copyright
 is entitled to obtain an injunction against an infringer, “unless the
@@ -5477,7 +5519,7 @@ opined that the course of events would have in any event mooted such a
 demand. Nonetheless, the court seemed to state that it would have been
 prepared to consider such a demand had it been raised by the plaintiffs.
 
-### Contract remedies — specific performance {#sec_contremediesisrael}
+### Contract remedies — specific performance
 
 In addition to an infringement claim, copyright holders may also bring
 an action for breach of contract. Specific performance is a remedy
@@ -5498,12 +5540,12 @@ release the source code of the licensee’s work. Licensees that have
 discounted the possibility of such injunctions under the rules of other
 legal systems should be aware of this possibility under Israeli law.
 
-Italy {#chap.italy}
+Italy
 =====
 
 author:\[Piana,Carlo\] author:\[Aliprandi,Simone\]
 
-Body of law {#_body_of_law}
+Body of law
 -----------
 
 Copyright protection of software is regulated in Italy under a few
@@ -5518,7 +5560,7 @@ Now the Italian Copyright Law has a section in chapter IV specifically
 on software: namely, Section VI, comprising articles 64 bis, 64 ter, and
 64 quarter.
 
-### Software Act: Object of protection {#sec_italy_Software_Act_Object_of_protection}
+### Software Act: Object of protection
 
 Computer programs (including the preparatory material) are protected by
 copyright and are equivalent to literary works within the meaning of the
@@ -5531,7 +5573,7 @@ those on which their interfaces are based, are excluded from protection.
 The concept of “program” includes also the preparatory material of the
 same.
 
-### Authors/Beneficiaries {#sec_italy_AuthorsBeneficiaries}
+### Authors/Beneficiaries
 
 The general principle of Italian copyright law provides that the
 copyrights in a work belong to the author. Article 64 ter however
@@ -5543,28 +5585,28 @@ in case of “work for hire”, i.e. when software development occurs under
 the performance of a development agreement and is paid by the client,
 the exploitation rights are assigned to the contracting party.[^328]
 
-### Exclusive rights {#sec_italy_Exclusive_rights}
+### Exclusive rights
 
 According to article 64 bis of the Italian Copyright Law the
 exploitation rights comprise the exclusive right to perform or
 authorize:
 
-> \(a) the temporary or permanent reproduction of the computer program by
+> (a) the temporary or permanent reproduction of the computer program by
 > any means or in any form. Insofar as acts like the uploading,
 > displaying, execution, transmission or storage of a software program
 > require its reproduction, those acts are also subject to the
-> authorization of the copyright holder; (b) the translation, adaptation,
-> transformation and any other modification of the computer program,
-> including the reproduction of the resulting program \[in other words,
-> creating a derivative work\], without prejudice to the author of the
-> modification; (c) any form of public distribution, including lending the
-> original computer program or copies thereof. The first sale within the
-> \[the European Union\] exhausts the right to further control the
-> distribution of such copy within the \[European Union\], with the
-> exception of the right to control the further lending of the program or
-> of a copy thereof.
+> authorization of the copyright holder; (b) the translation,
+> adaptation, transformation and any other modification of the computer
+> program, including the reproduction of the resulting program \[in
+> other words, creating a derivative work\], without prejudice to the
+> author of the modification; (c) any form of public distribution,
+> including lending the original computer program or copies thereof. The
+> first sale within the \[the European Union\] exhausts the right to
+> further control the distribution of such copy within the \[European
+> Union\], with the exception of the right to control the further
+> lending of the program or of a copy thereof.
 
-### Exceptions to exclusive rights {#sec_italy_ExceptionstoExclusiveRights}
+### Exceptions to exclusive rights
 
 Article 64 ter of the law expressly provides that:
 
@@ -5585,7 +5627,7 @@ Article 64 ter of the law expressly provides that:
 > contractual stipulation conflicting with the provisions of this
 > paragraph is null and void.
 
-### Moral rights {#sec_italy_Moralrights}
+### Moral rights
 
 The Italian copyright system is a *droit d’auteur* one, where moral
 rights are particularly strong. Worth noting are:
@@ -5655,14 +5697,14 @@ withdrawal, and the cumbersome procedure provided for it by the law,
 relegates this hypothesis to the realm of intellectual exercise without
 practical bearings.
 
-### Term of protection {#sec_italy_Termofprotection}
+### Term of protection
 
 The same term as for works of literature and art applies: 70 years as of
 January 1 following the death of the author.[^329] In case of
 co-authorship the death of the latest surviving author is taken into
 account.
 
-### Copyright assignment {#sec_italy_Copyrightassignment}
+### Copyright assignment
 
 Copyright assignment is not expressly regulated by Italian Law for any
 copyrightable subject, except for works created under an
@@ -5683,7 +5725,7 @@ limitation (Art. 107 of Italian Copyright Law), save for certain express
 provisions under a the publishing agreement. The only requirement is
 that the agreement must be proved in writing (Art. 110).
 
-### Special measures {#sec_italy_SpecialMeasures}
+### Special measures
 
 The Italian Copyright Law refers to the general copyright principles
 regarding measures for enforcing software copyrights. Besides these
@@ -5707,7 +5749,7 @@ Copyright Law provides that:
 > \[SIAE\] pursuant to this law and to the relevant Regulations as per
 > Royal Decree no. 1369 of May 18, 1942.
 
-Unprotected software and public domain software {#sec_italy_Unprotectedsoftwareandpublicdomainsoftware}
+Unprotected software and public domain software
 -----------------------------------------------
 
 Italian Copyright Law lays down that, in order to be protected, a work
@@ -5730,10 +5772,10 @@ domain” for this purpose into “devoid of any exploitation rights”, then
 a public domain status is achievable by an act of dedication to the
 public domain of the rightsholder.
 
-Analysis of FOSS under Italian law {#sec_italy_AnalysisofFOSSunderItalianLaw}
+Analysis of FOSS under Italian law
 ----------------------------------
 
-### Copyrights {#sec_italy_Copyrights}
+### Copyrights
 
 Although FOSS can be written by a single person or be owned by a single
 legal entity,[^330] after some time software is the result of the work
@@ -5744,7 +5786,7 @@ work and every contribution created during the further development of
 the software i a derivative work. The legal consequences are different
 in each case.
 
-#### Qualification of FOSS {#_qualification_of_foss_4}
+#### Qualification of FOSS
 
 There is no way to determine whether a FOSS work is a collective work, a
 complex work or else, and each version of the software can be classified
@@ -5781,7 +5823,7 @@ are different in nature (like the photography, the direction, the story,
 the writing of the screenplay, etc.), while in software programming the
 elements are more of the same nature.
 
-#### Rights of the original co-authors {#_rights_of_the_original_co_authors_3}
+#### Rights of the original co-authors
 
 Unless the components of the software can be clearly distinguished *and*
 separate, software made collaborative is usually considered an
@@ -5805,7 +5847,7 @@ administration” must be voted according to the majorities laid down by
 the law or agreed upon by the parties. Parties disagreeing can oppose
 the decisions of the majority in Court.[^333]
 
-#### FOSS and derivative works under Italian law {#_foss_and_derivative_works_under_italian_law}
+#### FOSS and derivative works under Italian law
 
 Italian law does not expressly mention “derivative works”, but it deals
 with “creative elaborations”. It may be only a nuance, a reflection of
@@ -5822,7 +5864,7 @@ Art. 4 of the Italian Copyright Law provides that
 > variations which do not constitute an original work, shall also be
 > protected.
 
-#### The assignment of copyrights {#_the_assignment_of_copyrights_3}
+#### The assignment of copyrights
 
 Assignment of copyrights in FOSS licensing does not pose any particular
 challenge or differ greatly from the general working concept of
@@ -5834,7 +5876,7 @@ sector, which is however governed by certain specific rules (such as the
 reuse principle and compulsory clauses in ad-hoc software development)
 meaning that it would require a much wider and separate discussion.
 
-### Moral rights {#sec_italy_Moralrights2}
+### Moral rights
 
 Moral rights could play a dangerous role in FOSS, which for instance
 prohibits of field-of-use restrictions. In discussion groups arguments
@@ -5848,7 +5890,7 @@ object to such modifications of the work. Reference is made to the
 section on moral rights above above for an argument against the
 applicability of the moral rights to software.
 
-### Enforcing FOSS licenses {#sec_italy_EnforcingFOSSlicenses}
+### Enforcing FOSS licenses
 
 There is little doubt that a FOSS license is enforceable in Italy,
 except in marginal cases. The same reasoning as in Welte v. Skype[^334]
@@ -5904,7 +5946,7 @@ Similarly, all licenses provide for a liability disclaimer, which again
 is not an obligation, but an effect of the license, or a waiver. This is
 a focal point and needs to be dealt with more in depth.
 
-### Waiver and liability {#sec_italy_Waiverandliability}
+### Waiver and liability
 
 Typically, FOSS licenses contain very strong disclaimer clauses, which
 discharge the author from all liability.[^337] The reason for this is
@@ -5999,9 +6041,9 @@ require other kinds of warranties and representations from its
 upstream — or better, do both. Indeed, that of providing certain levels
 of indemnification for FOSS is a business case for some companies.
 
-### The copyleft principle {#sec_italy_Thecopyleftprinciple}
+### The copyleft principle
 
-#### Principle {#_principle_4}
+#### Principle
 
 A characteristic found in many (but not all[^340]) FOSS licenses is the
 so-called “copyleft” principle. FOSS licenses which incorporate the
@@ -6033,7 +6075,7 @@ We have discussed above about the difference between the effects of an
 obligation and of a condition in the section on enforcement and we make
 reference to said discussion for further details.
 
-#### Validity {#_validity_4}
+#### Validity
 
 The question of the validity of the copyleft clause coincides with the
 question whether an author can effectively lay down how derivative works
@@ -6059,7 +6101,7 @@ That, by the way, is how dual (proprietary + copyleft) licensing works,
 such that Richard Stallman has dubbed the scheme as “sale of exceptions
 \[to a copyright license\]”.[^342]
 
-### Damages {#sec_italy_Damages}
+### Damages
 
 According to Art. 158 of the Italian Copyright Law, damages caused by
 copyright violations are compensated under Italian law in accordance
@@ -6159,7 +6201,7 @@ damages can be awarded on an *ex bono et aequo* basis (Art. 2059, 2056
 and 1226 ICC), which very frequently also takes into consideration the
 profit gained by the violator.
 
-### FOSS in the Public Administration {#_foss_in_the_public_administration}
+### FOSS in the Public Administration
 
 While the private sector is more or less free to decide what kind of
 software to adopt for their own use — there may be some restrictions
@@ -6199,12 +6241,12 @@ software under proprietary conditions.[^348]. In other words, reuse and
 FOSS *must be preferred* [^349] over proprietary software, even if on
 pure technical and economic bases proprietary solutions score better.
 
-FOSS cases in Italy {#sec_italy_FOSSCasesinItaly}
+FOSS cases in Italy
 -------------------
 
 No cases have been reported yet (November 2013).
 
-Legal procedures {#sec_italy_Legalprocedures}
+Legal procedures
 ----------------
 
 In Italy the nature of legal procedures in the field of copyright does
@@ -6231,10 +6273,10 @@ The author of the work can always join the proceedings to protect his or
 her own interests even if he or she has already disposed of the economic
 rights in the work.
 
-Recommended literature {#_recommended_literature_3}
+Recommended literature
 ----------------------
 
-### Articles {#_articles_2}
+### Articles
 
 -   FLOSS: gli indirizzi europei, la normativa italiana e le leggi
     regionali, Chapter 3 of the book “Finalmente libero! Software libero
@@ -6272,7 +6314,7 @@ Recommended literature {#_recommended_literature_3}
 -   Vincenzo Zeno-Zencovich, Pieremilio Sammarco: Sistema e archetipi
     delle licenze open source, in AIDA 2004 (2005, Giuffrè)
 
-### Books {#_books_2}
+### Books
 
 -   Simone Aliprandi: Copyleft and Opencontent. L’altra faccia del
     copyright (2005, PrimaOra)
@@ -6287,12 +6329,12 @@ Recommended literature {#_recommended_literature_3}
 -   Giuseppe Sanseverino: Le licenze free e open source (2007, Edizioni
     Scientifiche Italiane)
 
-Korea {#chap.korea}
+Korea
 =====
 
 author:\[Park,Jongbaek\]
 
-Body of Law {#_body_of_law_2}
+Body of Law
 -----------
 
 Software, including computer programs, is protected as copyrightable
@@ -6317,7 +6359,7 @@ since 15 March, 2012 and 1 July, 2011 respectively. The Act has been
 revised to provide a wider range of protection for the software in
 range, remedies, technical protection measures, etc.
 
-Object of Protection {#_object_of_protection}
+Object of Protection
 --------------------
 
 According to the Act, ‘computer program’ means a work reduced to
@@ -6345,10 +6387,10 @@ syntax (special agreement on the usage of the programming language in a
 specific program) and algorithms (combination methods of instructions
 and commands in program) from protection.[^355]
 
-Authors {#_authors}
+Authors
 -------
 
-### Definition of Author {#_definition_of_author}
+### Definition of Author
 
 The general provisions of the Act applicable to authors of other type of
 literary works extends to the authors of computer programs: an author is
@@ -6363,7 +6405,7 @@ since the Act does not require any registration procedures or other
 types of formalities for an author to be recognized as a copyright
 holder.[^358]
 
-### Authors of Work Made for Hire {#_authors_of_work_made_for_hire}
+### Authors of Work Made for Hire
 
 In contrast, under the laws of Korea, an employer who engages an
 employee for a work made for hire (sometimes referred to as work for
@@ -6410,7 +6452,7 @@ and the work is developed to benefit only the commissioning party, the
 program will be recognized as a work made for hire, as described in the
 above.
 
-### Joint Authors {#_joint_authors_2}
+### Joint Authors
 
 In case of a joint authorship, an author may not exercise the exclusive
 or moral rights without the unanimous agreement of all the copyright
@@ -6429,7 +6471,7 @@ each author, unless otherwise stipulated. In such cases, the share of
 each author shall be deemed equal unless otherwise clearly
 specified.[^368]
 
-Exclusive rights {#_exclusive_rights}
+Exclusive rights
 ----------------
 
 According to the Act, the author of a program has exclusive rights to
@@ -6457,7 +6499,7 @@ based on the work by means of translation, modification, alteration,
 etc. of original work; and the right to make compilations falls under
 the right of reproduction.[^375]
 
-Exceptions to the Exclusive Rights {#_exceptions_to_the_exclusive_rights}
+Exceptions to the Exclusive Rights
 ----------------------------------
 
 In relation to use of computer programs, there are several special
@@ -6493,7 +6535,7 @@ whether the principle of exhaustion applies to intangible digital works
 purchased through on-line networks as there are no current statutes or
 court precedents that address this issue.
 
-Moral Rights {#_moral_rights_3}
+Moral Rights
 ------------
 
 An author’s moral rights belong exclusively to the author,[^381] and
@@ -6521,7 +6563,7 @@ its publication.[^386] If derivative or compilation work made with the
 consent of the original author has been published, the original work
 will be deemed to have been published.[^387]
 
-Terms of Protection {#_terms_of_protection}
+Terms of Protection
 -------------------
 
 The 2011 amended version of the Act, effective as of 1 July 2013,
@@ -6541,10 +6583,10 @@ starts from the year after the author’s death or its publication,[^392]
 since it may be difficult ascertain the exact dates of the author’s
 death, creation or publication.
 
-Copyright Assignment {#_copyright_assignment_3}
+Copyright Assignment
 --------------------
 
-### Assignment of Exclusive Rights {#_assignment_of_exclusive_rights}
+### Assignment of Exclusive Rights
 
 Exclusive rights may be assigned in whole or in part.[^393] Each of the
 exclusive rights, such as right of reproduction, right of public
@@ -6575,7 +6617,7 @@ trust property; (ii) the organization must be not for profit; and (iii)
 the organization must possess the capability to conduct the collection
 and distribution of royalties.
 
-### Assignment of Moral Rights {#_assignment_of_moral_rights}
+### Assignment of Moral Rights
 
 Since the author’s moral rights are inalienable and not
 transferable,[^398] moral rights exhaust at the author’s death. No
@@ -6584,10 +6626,10 @@ programs, as such, moral rights for computer programs are recognized
 like other copyrighted works. Due to its inalienability, an author’s
 moral rights cannot be held in trust.[^399]
 
-Special Measures {#_special_measures_4}
+Special Measures
 ----------------
 
-### Civil Remedies {#_civil_remedies}
+### Civil Remedies
 
 If a copyright holder’s work is infringed, the copyright holder may file
 an application for a cease-and-desist order against the infringer. The
@@ -6641,7 +6683,7 @@ provision allows the author’s bereaved family or executor of his or her
 will to demand preventive measures, provision of security for damages,
 or restoration of the author’s reputation.[^409]
 
-### Joint Works {#_joint_works}
+### Joint Works
 
 In the event there are concerns that the copyright of a joint work might
 be infringed, each joint author is entitled to seek preventive measures
@@ -6655,7 +6697,7 @@ author is in his/her discretion.[^410] In cases where moral rights of
 just one of the joint authors are infringed, each author may act
 independently of the others when filing suit.
 
-### Collective Works {#_collective_works_2}
+### Collective Works
 
 When there are concerns as to whether copyrights of collective works
 will be infringed or when copyrights of collective works are actually
@@ -6663,7 +6705,7 @@ infringed, each copyright holder may respectively claim damages or seek
 prohibitive and preventive measures, or cease-and-desist orders for the
 works created by him or herself.
 
-### Derivative Works {#_derivative_works_2}
+### Derivative Works
 
 The courts[^411] have held that the copyright of derivative computer
 program belongs to the author of the derivative computer program
@@ -6674,7 +6716,7 @@ work’s copyright is infringed. However, a copyright holder of a
 derivative work may not use the derivative work without consent of the
 copyright holder of the original work.
 
-### Criminal Sanctions {#_criminal_sanctions}
+### Criminal Sanctions
 
 Article 136 of the Act stipulates that copyright infringers are subject
 to criminal punishment. Before the inclusion of the Korea-USA FTA into
@@ -6688,7 +6730,7 @@ infringers who were profit-motivated ('emphasis added").[^412] It is
 possible that this broadened exception clause subjects more infringers
 to criminal sanctions as compared to the previous version of the Act.
 
-Unprotected Software and Public Domain Software {#_unprotected_software_and_public_domain_software}
+Unprotected Software and Public Domain Software
 -----------------------------------------------
 
 Works with expired copyright protection terms, works without a copyright
@@ -6698,10 +6740,10 @@ Software (“FOSS”) makes available its source code for public use, it is
 not unprotected software or public domain software as defined under the
 Act.
 
-Analysis of FOSS under Korean Law {#_analysis_of_foss_under_korean_law}
+Analysis of FOSS under Korean Law
 ---------------------------------
 
-### Copyright {#_copyright_2}
+### Copyright
 
 The process of concluding FOSS licenses differs from that of other
 copyrighted works. Under Korean law, a FOSS license agreement is treated
@@ -6729,7 +6771,7 @@ what is the object of copyright protection, and how copyright holders
 can enforce their rights emanating from the copyrights. All of which are
 reviewed in detail as follows:
 
-### Qualification of FOSS {#_qualification_of_foss_5}
+### Qualification of FOSS
 
 Many users are expected to use, copy, modify, and redistribute FOSS
 after the creation of the first version. The works made during the
@@ -6743,7 +6785,7 @@ separately and independently. Derivative work is when a developer
 modifies the pre-existing FOSS with significant variations while
 maintaining substantial similarities.[^413]
 
-### Rights of Joint Authors {#_rights_of_joint_authors}
+### Rights of Joint Authors
 
 Since the exclusive rights to a joint work must be exercised with the
 unanimous agreement of all the exclusive rights holders, it becomes more
@@ -6757,7 +6799,7 @@ make freely available his/her contribution even before he/she creates
 the code in accordance with the license agreement, which shall be
 effective under the laws of Korea.
 
-### Rights of Authors of Collective Works {#_rights_of_authors_of_collective_works}
+### Rights of Authors of Collective Works
 
 The defining characteristic of a collective work is that each author’s
 contribution can be separated into discrete parts. As such, each author
@@ -6765,7 +6807,7 @@ of a collective work may, without the other authors’ permission, assign
 his or her exclusive rights to another or permit others to use his/her
 own creation.
 
-### Rights of Copyright Holders of Derivative Works {#_rights_of_copyright_holders_of_derivative_works}
+### Rights of Copyright Holders of Derivative Works
 
 The Korean Supreme Court held that creator of the derivative work of a
 computer program holds the copyrights to the derivative work, whether or
@@ -6812,7 +6854,7 @@ work. While it’s undecided if this would be a winning argument in court,
 the author of a derivative work most likely will not benefit from
 arguing that copyleft clauses are void.
 
-### The Assignment of Copyrights {#_the_assignment_of_copyrights_4}
+### The Assignment of Copyrights
 
 The same principle on the assignment of copyrights applies to computer
 programs. Copyrights of software can also be held in trust; however, it
@@ -6822,7 +6864,7 @@ Act and thus becomes the holder of exclusive and moral rights.[^416] In
 such instances, the employer may exercise its copyrights under the terms
 and conditions of a FOSS license.
 
-Moral Rights {#_moral_rights_4}
+Moral Rights
 ------------
 
 Because most FOSS licenses allow liberal modifications to FOSS, a major
@@ -6847,14 +6889,14 @@ author’s moral rights shall still be recognized, regardless of the
 effectiveness of the original author’s waiver of the right to the
 integrity of the work under the terms of a license.
 
-Enforcing FOSS Licenses {#_enforcing_foss_licenses_4}
+Enforcing FOSS Licenses
 -----------------------
 
 Various bodies of law such as Korean contract law, the Copyright Act,
 criminal law, etc. should be considered simultaneously in order to
 determine whether FOSS license agreements are binding and enforceable.
 
-### Contracting Parties {#_contracting_parties_2}
+### Contracting Parties
 
 Unlike general license agreements, FOSS license agreements may involve
 several authors of the original work or derivative works. Assuming that
@@ -6883,9 +6925,9 @@ distributor and the downstream recipient.[^417] Naturally, when a person
 who modified a program distributes the modified software, he/she would
 be the contracting party.[^418]
 
-### The Validity of FOSS Licenses {#_the_validity_of_foss_licenses}
+### The Validity of FOSS Licenses
 
-#### Contractual Relationship {#_contractual_relationship}
+#### Contractual Relationship
 
 Providing FOSS for free gives it the simultaneous status as a gift under
 the Korean Civil Act as well as a copyrightable work license agreement
@@ -6920,9 +6962,9 @@ means the contents of a contract that a party prepares in a specific
 form in advance in order to enter into a contract with unspecified
 multiple parties regardless of their name, type, or scope.[^425]
 
-### No Warranty {#_no_warranty}
+### No Warranty
 
-#### Limitation on ‘no warranty clause’ under the Civil Act {#_limitation_on_no_warranty_clause_under_the_civil_act}
+#### Limitation on ‘no warranty clause’ under the Civil Act
 
 License agreements such as GPL, etc. provide that any copyright holder,
 or any other party who may modify or redistribute the program
@@ -6947,7 +6989,7 @@ possibility of defects, without actual knowledge of such defect or
 deficiency, which is threshold conditions under the Korean Civil Act,
 the copyright holders can effectively disclaim its warranties.[^426]
 
-#### Under the Act on the Regulation of Standardized Contracts {#_under_the_act_on_the_regulation_of_standardized_contracts}
+#### Under the Act on the Regulation of Standardized Contracts
 
 According to Article 7 of the Act on the Regulation of Standardized
 Contracts,[^427] the standardized contract terms that concern the
@@ -6992,7 +7034,7 @@ warranty under such agreement is narrower than the scope specified in
 the compulsory provisions of relevant laws, the warranties scope
 specified in the applicable law will apply.
 
-#### Limitation under the Product Liability Act {#_limitation_under_the_product_liability_act}
+#### Limitation under the Product Liability Act
 
 Under the Korea Product Liability Act, ‘product’ means all movable
 goods, industrially manufactured or processed, including movable goods
@@ -7020,10 +7062,10 @@ the liability exemption clause of the FOSS license may be valid under
 Article 6 of the Act. Therefore, in practice, product liability on FOSS
 would not often recognized.[^434]
 
-The Copyleft Principle {#_the_copyleft_principle_3}
+The Copyleft Principle
 ----------------------
 
-### Principle {#_principle_5}
+### Principle
 
 Strong copyleft clauses included in GPL 2.0 or 3.0, which obligate
 downstream users to distribute the source code of work based on the
@@ -7032,7 +7074,7 @@ Copyright Act and the Trade Secret Protection Act. The former
 acknowledges the independent copyrights of authors of derivative works
 while the latter protects trade secrets.
 
-### The Validity of Copyleft Clause {#_the_validity_of_copyleft_clause}
+### The Validity of Copyleft Clause
 
 As mentioned above, copyleft clauses are valid under Korean law since
 the principle of private autonomy is applied to the exercise of
@@ -7060,10 +7102,10 @@ maintain its secrecy, and iii) has independent economic value, and
 therefore is qualified as a trade secret.[^435] This holding is to be
 criticized as described in the section entitled “FOSS Cases in Korea.”
 
-Remedies for Infringement {#_remedies_for_infringement}
+Remedies for Infringement
 -------------------------
 
-### Under the Copyright Act {#_under_the_copyright_act}
+### Under the Copyright Act
 
 The principles that apply to other copyrightable works apply to FOSS
 when authors claim remedies and criminal sanctions under the Act.
@@ -7071,7 +7113,7 @@ Standing to sue differs depending on whether the work is a joint work, a
 collective work, or a derivative work as described in the section
 entitled “Analysis of FOSS under Korean Law.”[^436]
 
-### Breach of License Agreement or Copyright Infringement, Compensation for Damages {#_breach_of_license_agreement_or_copyright_infringement_compensation_for_damages}
+### Breach of License Agreement or Copyright Infringement, Compensation for Damages
 
 When there is a breach of a FOSS agreement, a determination must be made
 of if the breach constitutes a breach of contract and further a
@@ -7111,10 +7153,10 @@ Civil Execution Act, with a provisional disposition to keep the licensee
 from using the FOSS program or to disclose its source code until the
 relevant judgment is held.
 
-FOSS Cases in Korea {#_foss_cases_in_korea}
+FOSS Cases in Korea
 -------------------
 
-### Elimnet v. Haionnet {#_elimnet_v_haionnet}
+### Elimnet v. Haionnet
 
 An employee of Elimnet (the Developer) created a derivative work using
 GPL’d FOSS during his employment and assigned the copyright to the
@@ -7173,15 +7215,15 @@ Such a court holding does not conform to the original copyright holder’s
 intent to make the software as free and open as possible, which might
 hinder the active use and development of FOSS in Korea.
 
-The Netherlands {#chap.netherlands}
+The Netherlands
 ===============
 
 author:\[Dammers,Wouter\] author:\[van Kerkvoorden,Wanda\]
 
-Introduction to software protection under Dutch law {#nl_intro}
+Introduction to software protection under Dutch law
 ---------------------------------------------------
 
-### Body of law {#nl_bodyoflaw}
+### Body of law
 
 In the Netherlands, the protection of software by copyright is regulated
 in the Dutch Copyright Act (“Auteurswet”, hereafter: “Copyright Act” or
@@ -7196,7 +7238,7 @@ no different than for other literary, scientific or artistic works
 (“works”). Chapter VI of the Copyright Act, however, contains special
 provisions with regard to computer programs.
 
-### Copyright Act: Object of protection {#nl_copyrightact}
+### Copyright Act: Object of protection
 
 Chapter 1, paragraph 3 of the Copyright Act refers to the works
 protected by copyright. Article 10, paragraph 1 states that, for the
@@ -7234,7 +7276,7 @@ writings (“geschriftenbescherming”), Article 10, paragraph 1, sub 1 CA.
 However, according to Article 10, paragraph 5, computer programs were
 already expressly excluded from this protection of writings.[^459].
 
-### Authors/Beneficiaries {#nl_authors}
+### Authors/Beneficiaries
 
 The Copyright Act does not explicitly state that the actual creator of a
 work is the copyright owner. Nevertheless, when one reads Article 1
@@ -7245,7 +7287,7 @@ down by law — in conjunction with Articles 4 — 9 CA, it is made clea
 that, in principle, the person who has created the computer program is
 the author of the work and thus the copyright owner.[^461]
 
-#### Rules of evidence {#_rules_of_evidence}
+#### Rules of evidence
 
 Article 4 CA provides the statutory rules of evidence: the person who is
 named as the author in or on the work or — for instance the name of the
@@ -7258,7 +7300,7 @@ the contrary. If the author is not named, the person who delivers a
 recitation which has not appeared in print shall be deemed the author
 thereof, unless there is proof to the contrary.[^462]
 
-#### Compilations {#_compilations}
+#### Compilations
 
 With regard to compilations, Article 5, paragraph 1, CA provides that,
 if a work consists of separate works by two or more persons, then the
@@ -7267,7 +7309,7 @@ made or, if there is no such person, the compiler of the various works,
 will be deemed the author of the whole work, without prejudice to the
 separate copyright in each of the works.[^463]
 
-#### Joint works {#_joint_works_2}
+#### Joint works
 
 With regard to joint works, Article 26 CA, provides that, when the
 copyright in a work belongs jointly to two or more persons, it may be
@@ -7276,7 +7318,7 @@ rights to a joint work can, in principle, only be enjoyed if both
 authors agree upon such enjoyment (Article 3:166 ff. of the Dutch Civil
 Code (“Burgerlijk Wetboek”, hereafter: “Civil Code” or “CC”)).[^465]
 
-#### Fictional authorship {#_fictional_authorship}
+#### Fictional authorship
 
 Article 6 CA states that if a work has been made according to the draft
 and under the guidance and supervision of another person, then that
@@ -7302,7 +7344,7 @@ naming any natural person as its author, will be regarded as the author
 of that work, unless it is proved that the communication to the public
 in such a manner was unlawful, according to Article 8 CA.
 
-### Exclusive rights {#nl_exclusive}
+### Exclusive rights
 
 The author of a work has the exclusive right to communicate the work to
 the public (“openbaarmaken”, Articles 1 and 12 CA)[^470] and to
@@ -7320,7 +7362,7 @@ CA); the observation, study or testing of the computer program (Article
 45l CA); as well as the decompilation of the computer program (Article
 45m CA).
 
-### Exceptions to exclusive rights {#nl_exceptions}
+### Exceptions to exclusive rights
 
 Articles 15-17c CA[^474] provide general exceptions to the copyright of
 the author, including for instance the right to quote from works that
@@ -7342,7 +7384,7 @@ The Articles 45j — 45n CA provide the special exceptions to the
 exclusive rights concerning computer programs, based on Articles 5 and 6
 of the Software Directive.
 
-#### Reproduction of software {#_reproduction_of_software}
+#### Reproduction of software
 
 Article 45j CA[^479] provides that the reproduction of a computer
 program by the lawful acquirer[^480] of a copy of the said work, when
@@ -7351,14 +7393,14 @@ purpose,[^481] shall not be deemed an infringement of copyright.[^482]
 Such reproduction, in connection with the loading, displaying or
 correcting of errors[^483] cannot be prohibited by contract.[^484]
 
-#### Back-ups of software {#_back_ups_of_software}
+#### Back-ups of software
 
 Article 45k CA[^485] provides that the reproduction of a computer
 program by the lawful user[^486] of the said work, serving as a back-up
 copy, where this is necessary for the use of the work for its intended
 purpose, shall not be deemed an infringement of copyright.[^487]
 
-#### Ideas and principles {#_ideas_and_principles}
+#### Ideas and principles
 
 Article 45l CA[^488] provides that a person who is entitled to reproduce
 the software program, which includes the loading, displaying, running,
@@ -7369,7 +7411,7 @@ order to determine the ideas and principles underlying it. The rightful
 user is allowed to use tools such as electronic testing and controlling
 tools.[^489]
 
-#### Decompilation {#_decompilation}
+#### Decompilation
 
 Article 45m CA[^490] states that the making of a copy of a computer
 program and the translation of the form of its code shall not be deemed
@@ -7390,7 +7432,7 @@ program; iii) be used for the development, production or marketing of a
 computer program that cannot be regarded as a new, original work or for
 any other act which infringes copyright.
 
-### Moral rights {#nl_moral}
+### Moral rights
 
 The author of the work also has moral rights, or so-called personality
 rights (“persoonlijkheidsrechten”).[^495] These rights protect the
@@ -7412,7 +7454,7 @@ sub a), or may be waived in so far as alterations to the work or its
 title are concerned (see sub b and c), in accordance with Article 25
 CA.[^498]
 
-### Term of protection {#nl_protection}
+### Term of protection
 
 For all works, including computer programs, the term of protection is 70
 years as of January 1st following the death of the author (Article 37,
@@ -7421,7 +7463,7 @@ the joint author (Article 37, paragraph 2 CA). If the author is a legal
 entity this term begins on the January 1st following the first
 communication to the public (Article 38 CA).[^499]
 
-### Special measures {#nl_measures}
+### Special measures
 
 The Copyright Act provides the measures for enforcing copyrights.
 Besides the general measures, the Articles 31-36 CA set out specific
@@ -7476,7 +7518,7 @@ writing from — or in the presence of — a public prosecutor or an
 assistant public prosecutor. An official report of such entry shall be
 drawn up by them within twenty-four hours.
 
-Unprotected software and public domain software {#nl_unprotected}
+Unprotected software and public domain software
 -----------------------------------------------
 
 As set forth above, only software that is original in the sense that it
@@ -7485,10 +7527,10 @@ protection. Non-original software does not come into consideration for
 copyright protection and can, in principle, be used freely. In the
 Netherlands there is little to no case law about public domain software.
 
-Analysis of free and open source software under Dutch law {#nl_analysis}
+Analysis of free and open source software under Dutch law
 ---------------------------------------------------------
 
-### Copyrights {#nl_copyrights}
+### Copyrights
 
 One of the most important characteristics of free and open source
 software (“FOSS”) is that it is developed by the efforts of many
@@ -7500,7 +7542,7 @@ collaborative work under Dutch law; who owns the copyrights to FOSS
 software; and are contributions in themselves protected works in the
 sense of the Copyright Act?
 
-#### Qualification of FOSS {#_qualification_of_foss_6}
+#### Qualification of FOSS
 
 More than any other type of computer program, FOSS is often the result
 of collaborative work between software developers. Modifications to FOSS
@@ -7553,7 +7595,7 @@ can only be exercised with the consent of every author.[^505]
 Finally, copyrights on FOSS — just as for any other works — can also be
 obtained by succession or transfer.
 
-#### Rights of the original (co-)authors {#_rights_of_the_original_co_authors_4}
+#### Rights of the original (co-)authors
 
 As stated, the author of a work has the exclusive right to communicate
 his work to the public and to make reproductions. This also means that
@@ -7562,7 +7604,7 @@ licences do not restrict (*copyright*) the use of the software but allow
 (*copyleft*) others to use it under certain conditions in order to
 ensure the free and open character of the (modified) software.
 
-#### Authors of modifications {#_authors_of_modifications}
+#### Authors of modifications
 
 As FOSS has developed, works are often built on the basis of another
 FOSS work that has been created by other individuals. In this light, it
@@ -7591,7 +7633,7 @@ distributed under the same licence terms as the original work. The term
 paragraph 2 and Article 13 CA may provide guidance as to how it should
 be defined.[^506]
 
-### Moral copyrights {#nl_moralcopyrights}
+### Moral copyrights
 
 Moral rights play a more important role in relation to FOSS than they do
 for closed source software. The reason for this is because FOSS values
@@ -7607,7 +7649,7 @@ alterations. Nevertheless, in practise, acknowledgments are desirable in
 FOSS communities. Many FOSS licences even oblige contributors to mention
 their names and their modifications in the mandatory notice.[^510]
 
-### Enforcing FOSS licences {#nl_enforcing}
+### Enforcing FOSS licences
 
 If the FOSS is used, or distributed, in a way that is not allowed under
 the relevant FOSS licence and the law, then it amounts, in principle, to
@@ -7628,7 +7670,7 @@ and content of the applicable FOSS licence would comply with Dutch law.
 How should the licence be qualified? Who are the contracting parties? Is
 its form and content valid under Dutch law?
 
-#### Introduction to the Dutch legal system {#_introduction_to_the_dutch_legal_system}
+#### Introduction to the Dutch legal system
 
 For a good understanding of the Dutch attitudes to FOSS licences and to
 appreciate the suggestions made about the contents of FOSS licences, it
@@ -7659,7 +7701,7 @@ contractual clause may not apply, if under the given circumstances,
 according to reasonableness and fairness, a clause such as this would be
 unacceptable.[^511]
 
-#### Nature of the agreement {#_nature_of_the_agreement}
+#### Nature of the agreement
 
 FOSS licences are agreements that create mutual obligations for the
 contracting parties. Although FOSS licences have not yet been “tested”
@@ -7686,7 +7728,7 @@ the basis of the licensor’s exclusive right on the work. The majority of
 FOSS licences, therefore, do not substantially differ from most
 conventional software licence agreements.[^514]
 
-#### Contracting parties {#_contracting_parties_3}
+#### Contracting parties
 
 Who are the contracting parties to a FOSS licence? It is clear that the
 licensee is one — this is the person who is using a copy of the
@@ -7715,7 +7757,7 @@ whoever the licensor may be, the licensee has a right to expect that the
 so. The next question is whether the licence agreement is properly
 formulated so as to bind the user.[^516]
 
-#### Validity of the contract {#_validity_of_the_contract_3}
+#### Validity of the contract
 
 FOSS is made available to users in various ways. The terms of the FOSS
 licence may appear in a variety of ways as well. For instance, for
@@ -7781,7 +7823,7 @@ is, in our opinion, whether the user actually accepted the legal
 consequences of his actions, and whether he accomplished these actions
 with the specific intention of being bound by the licence.[^526]
 
-#### General terms and conditions {#_general_terms_and_conditions}
+#### General terms and conditions
 
 Moreover, FOSS licences generally take the form of a standard agreement,
 or of general terms and conditions (“algemene voorwaarden”), insofar as
@@ -7828,7 +7870,7 @@ Nevertheless, in the light of the foregoing, we believe that the FOSS
 community should adapt its licensing practises to ensure that the
 contract formation process meets the requirements of the law.
 
-### Waiver and liability {#nl_waiver}
+### Waiver and liability
 
 In the case of software one can think of three possible forms of
 liability: liability resulting from a) breach of contract (Article 6:74
@@ -7885,9 +7927,9 @@ course of his profession or business. Nevertheless, we argue that
 product liability may possibly be irrelevant for FOSS, as software may
 not be qualified as a “product”.[^536]
 
-### The copyleft principle {#nl_copyleft}
+### The copyleft principle
 
-#### Principle {#_principle_6}
+#### Principle
 
 The copyleft principle, or share-alike principle, in FOSS licences
 purports to perpetuate certain obligations under the licence from one
@@ -7898,7 +7940,7 @@ other users, if they choose to distribute such contributions and/or
 derivative works. In return, the developer can make free use of the
 FOSS, in accordance with the terms of the applicable licence.
 
-#### Validity {#_validity_5}
+#### Validity
 
 The copyleft clause raises a number of questions under Dutch law. More
 specifically, one could ask oneself how obligations are passed on to a
@@ -7948,7 +7990,7 @@ accurately reflect this process. The clause creates a relationship
 between the licensor and each of the licensees, regardless of the number
 of legal transactions between them.[^540]
 
-### Legal remedies {#nl_remedies}
+### Legal remedies
 
 If one does not comply with the provisions of the relevant FOSS licence,
 one may infringe the copyrights of the author and/or commit a breach of
@@ -7957,7 +7999,7 @@ most FOSS licences, Dutch law provides the rightholder with several
 legal remedies for both situations. The most suitable course of action
 may depend on the specific facts of the particular case.
 
-#### Damages {#_damages}
+#### Damages
 
 For instance, on the basis of Article 27 CA, the author retains his
 right — even after assignment of his copyright wholly or in part to
@@ -8053,7 +8095,7 @@ comply with an obligation, has derived profit from this tort or failure,
 then the court may, upon the request of the injured person, estimate the
 damage in line with the amount of that profit or a part of it.
 
-#### Other legal remedies {#_other_legal_remedies}
+#### Other legal remedies
 
 As said, the Copyright Act gives the author of a work the exclusive
 right to communicate the work to the public and to reproduce it, subject
@@ -8121,7 +8163,7 @@ the creditor has already brought a right of action (legal claim) to
 court in order to rescind the mutual agreement, will have no effect if
 the court subsequently decides to rescind that agreement.[^549]
 
-FOSS cases in the Netherlands {#nl_fosscases}
+FOSS cases in the Netherlands
 -----------------------------
 
 In the Netherlands, no cases concerning FOSS licences have been reported
@@ -8151,10 +8193,10 @@ stated earlier in this article, the Netherlands is still waiting for its
 first “real” FOSS case before any certainty on the different legal
 issues can be established.
 
-Legal procedures {#nl_procedures}
+Legal procedures
 ----------------
 
-### Parties {#nl_parties}
+### Parties
 
 Depending on the circumstances of the case, the FOSS licensor may need
 to enforce his rights either on the basis of an alleged breach of the
@@ -8191,7 +8233,7 @@ Fiduciary License Agreement (“FLA”). The FLA intends to remove this
 uncertainty by allowing authors to make the Free Software Foundation
 their fiduciary in all legal matters.[^552]
 
-### Procedures {#nl_procedures2}
+### Procedures
 
 The rightholder can initiate different legal proceedings in the
 Netherlands to enforce his rights under the Copyright Act and/or the
@@ -8271,7 +8313,7 @@ proceedings is awarded a payment from the other party of all the
 reasonable costs that he incurred in taking the proceedings (Article
 1019h CCP).
 
-### Recommended literature {#_recommended_literature_4}
+### Recommended literature
 
 -   H. Franken (Ed.), Recht en computer, 3rd impression, Deventer:
     Kluwer 1997.
@@ -8321,12 +8363,12 @@ reasonable costs that he incurred in taking the proceedings (Article
 -   A. Engelfriet and S. Biersteker, Software, Ius Mentis B.V.,
     Eindhoven: 2013.
 
-Poland {#chap.poland}
+Poland
 ======
 
 author:\[Rychlicki,Tomasz\]
 
-Introduction to software protection under Polish law {#sec_introductionpolish}
+Introduction to software protection under Polish law
 ----------------------------------------------------
 
 The legal framework regarding software protection in the Republic of
@@ -8366,7 +8408,7 @@ are self-executing[^563]. The more beneficial rules under international
 conventions apply not only to beneficiaries under the relevant
 conventions, but also to works whose country of origin is Poland[^564].
 
-### Copyright: Object of protection {#sec_poland_CopyrightObjectOfProtection}
+### Copyright: Object of protection
 
 Copyright is defined as any expression of creative activity having
 individual character and manifested in any material form, regardless of
@@ -8412,7 +8454,7 @@ but by the findings of fact. A computer program cannot be copyrighted
 unless the activities of its creator have the characteristics of
 originality and individuality[^571].
 
-Authors/Beneficiaries {#sec_poland_authors}
+Authors/Beneficiaries
 ---------------------
 
 Copyright belongs to the creator, unless otherwise stated by law. The
@@ -8453,7 +8495,7 @@ or editor, whereas the rights in the separate parts of the work that
 have intrinsic value should accrue to the creators thereof. The right to
 the title is deemed to belong to the producer or publisher[^577].
 
-### Exclusive rights {#sec_poland_ExclusiveRights}
+### Exclusive rights
 
 Copyright is deemed as an absolute right that protects the spiritual and
 material interests of the creator connected with his/her work.
@@ -8478,7 +8520,7 @@ program/software consist of:
     without prejudice to the right to monitor any subsequent rental or
     lending of a computer program or of copies thereof[^578].
 
-### Exemptions to exclusive rights {#sec_poland_ExemptionsToExclusiveRights}
+### Exemptions to exclusive rights
 
 Exceptions to the author’s monopoly are usually accepted because of the
 public interest in free access to creativity[^579]. The provisions on
@@ -8534,7 +8576,7 @@ in which it is received.
 provisions, which grant the user the right to a copyrighted work without
 having to obtain consent from the copyright holder[^580].
 
-### Moral rights {#sec_poland_MoralRights}
+### Moral rights
 
 According to the provisions of the Polish law, personal rights or moral
 rights protect the bond between the creator and the work. This bond is
@@ -8547,24 +8589,24 @@ the content and form of the work and its proper use, and the right to
 control the work’s manner of use do not apply to computer
 programs[^581].
 
-### Term of protection {#sec_poland_TermOfProtection}
+### Term of protection
 
 The economic rights lapse on expiry of a period of seventy years,
 calculated:
 
-\(1) from the death of the creator, and in the case of works of joint
+(1) from the death of the creator, and in the case of works of joint
 authorship from the death of the last surviving joint creator,
 
-\(2) from the date of first publication if the creator is not known, and
+(2) from the date of first publication if the creator is not known, and
 if the work has not been published, from its production in material
 form, unless — before that period expires — the name of the creator has
 been revealed with his consent,
 
-\(3) from the date of first publication if the economic rights belong by
+(3) from the date of first publication if the economic rights belong by
 operation of law to a person other than the creator himself, and if the
 work has not been published, from its production in material form[^582].
 
-### Copyright assignment {#sec_poland_CopyrightAssignment}
+### Copyright assignment
 
 An employer whose employee has created a work under an employment
 contract acquires, on accepting the work, the economic rights of the
@@ -8589,17 +8631,17 @@ software is created under a contract similar to an employment agreement
 copyrights remain with the creator, unless the contract stipulates
 otherwise.
 
-Unprotected software and public domain software {#sec_poland_UnprotectedSoftware}
+Unprotected software and public domain software
 -----------------------------------------------
 
 As set forth above, only software that is original enjoys copyright
 protection. Non-original software is not eligible for copyright
 protection.
 
-Analysis of FOSS under Polish law {#sec_poland_AnalysisOfFOSSUnderPolishLaw}
+Analysis of FOSS under Polish law
 ---------------------------------
 
-### The issue of free documentation {#sec_poland_TheIssueOfFreeDocumentation}
+### The issue of free documentation
 
 Polish law has not yet extensively handled the issue of software
 documentation not released under a free licence. Under German law for
@@ -8613,7 +8655,7 @@ dictated by an obvious necessity and where the creator has no valid
 reason to object to them[^584]. This should apply by analogy to works in
 which the economic rights have expired[^585].
 
-### The laws applicable to the distribution of copyrighted works {#sec_poland_TheLawsApplicableToTheDistributioOfCopyrightedWorks}
+### The laws applicable to the distribution of copyrighted works
 
 While analyzing the specific provisions of the GPL governing the
 distribution of copyrighted works, the issue of the waiver of rights
@@ -8631,7 +8673,7 @@ a prohibition on transferring economic rights for types of exploitation
 not known at the time the contract is concluded; another argument that
 economic rights cannot be waived under the Polish copyright law[^587].
 
-### Concept of civil partnership {#sec_poland_ConceptOfCivilPartnership}
+### Concept of civil partnership
 
 The legal nature of joint activity performed by people who are
 developing open source software has also been analyzed and treated as a
@@ -8645,7 +8687,7 @@ merely downloading open source software from the Internet. Moreover, no
 legal obligations are incurred by altering software for personal
 use[^592].
 
-### Contract of donation or a sales contract {#sec_poland_ContractOfDonationOrASalesContract}
+### Contract of donation or a sales contract
 
 Ways of receiving open source software have been analyzed in order to
 determine whether it should be categorized as a donation or a sales
@@ -8697,9 +8739,9 @@ of Article 75(1) and (2)[^604] of the ARNR govern specific forms of
 software exploitation, and so it is unnecessary to issue a software
 licence in the shape of either an agreement or a unilateral legal act.
 
-### The specificity of FOSS licences under Polish law {#sec_poland_TheSpecificityOfFOSSLicencesUnderPolishLaw}
+### The specificity of FOSS licences under Polish law
 
-#### Software as a subject of FOSS licences {#_software_as_a_subject_of_foss_licences}
+#### Software as a subject of FOSS licences
 
 After some deliberation, Polish legal doctrine acknowledged that the
 existence of open source licences is based on the assumption that this
@@ -8714,7 +8756,7 @@ of individual nature as defined by Polish law. It should also be
 mentioned that there is no presumption that the results of actions/works
 are copyright protected, unless counter-proof is furnished[^608].
 
-#### The owner/licensor/employee as a subject of FOSS licences {#_the_owner_licensor_employee_as_a_subject_of_foss_licences}
+#### The owner/licensor/employee as a subject of FOSS licences
 
 The basic issue is to determine who is entitled to the economic author’s
 rights (right to copy etc.) as the primary copyright owner, and whether
@@ -8737,7 +8779,7 @@ distributed/published under an open source licence by an authorized
 person (successor) at the time when such person holds all the rights in
 the wake of general succession.
 
-#### Legal issues on co-authorship {#_legal_issues_on_co_authorship}
+#### Legal issues on co-authorship
 
 The situation regarding ownership of the program is more complicated
 when an undefined number of persons is involved in working on the
@@ -8755,7 +8797,7 @@ such case the principle of a majority vote cannot be applied, and the
 only effective solution to this problem may be a Fiduciary Licence
 Agreement[^614].
 
-#### Minors and FOSS {#_minors_and_foss}
+#### Minors and FOSS
 
 FOSS is and should be used by minors[^615] but there are some important
 issues to be considered. The Civil Code requires the consent of a
@@ -8779,7 +8821,7 @@ activities, and only with the prior consent of his or her statutory
 representative or guardian as well as permission from the competent
 labour inspectorate[^620].
 
-#### Concluding individual FOSS licences under Polish law {#_concluding_individual_foss_licences_under_polish_law}
+#### Concluding individual FOSS licences under Polish law
 
 An agreement is concluded when an offer[^621] is submitted and then
 accepted[^622]. Such an agreement has many unusual characteristics[^623]
@@ -8810,13 +8852,13 @@ or an innominate contract, to which the statutory regulations pertaining
 to donation agreements should apply. Article 75(1) of the ARNR regulates
 the permissible exploitation of the program.
 
-#### The characteristics of an individual open source licence {#_the_characteristics_of_an_individual_open_source_licence}
+#### The characteristics of an individual open source licence
 
 This is an individual non-exclusive licensing agreement[^628]. The
 rights to use open source software are provided on a resolutive
 condition[^629].
 
-#### The scope of rights/content of FOSS licences under Polish law {#_the_scope_of_rights_content_of_foss_licences_under_polish_law}
+#### The scope of rights/content of FOSS licences under Polish law
 
 It has been discussed whether the scope of rights under the GPL2 can be
 extended to the lease right that is not explicitly mentioned in this
@@ -8826,7 +8868,7 @@ right, it has been agreed that this right may be exercised under a
 donation contract or a special form of innominate contract, but
 definitely not under a sales agreement[^632].
 
-#### Obligations {#_obligations}
+#### Obligations
 
 The program’s author or developer is required to grant non-exclusive
 rights free of charge. There is a conflict here with the copyright of
@@ -8835,7 +8877,7 @@ regulations the entitled party is *ex lege* the employer. As already
 mentioned, the issue of copyleft also conflicts with the provisions of
 the Civil Code concerning minors[^633].
 
-#### Termination of license contract {#_termination_of_license_contract}
+#### Termination of license contract
 
 The licence expires *ex nunc* if the licensee violates the conditions of
 Section 4 of the GPLv2. This means that continued use/exploitation
@@ -8843,7 +8885,7 @@ constitutes a violation of absolute copyright laws. However, this does
 not grant entitlement to assert the claims provided for such cases when
 Article 75 of the ARNR is applied. The problem of the principle of
 exhaustion of rights arises. If it is assumed that a licence agreement
-is not disposable, then the provisions of Article 365\$\^1\$ of the CC
+is not disposable, then the provisions of Article 365$^1$ of the CC
 should be applied[^634]. However, under Polish law the nullity of a
 legal action involving the termination or rescission of a licence
 agreement has to be considered, taking into account the rules on open
@@ -8855,7 +8897,7 @@ Article 58 § 2 of the CC[^635]. If this interpretation is not feasible,
 an alternative would be to invoke the abuse of rights by the holder of
 the open source software[^636].
 
-#### Distribution of open source software by 3rd parties {#_distribution_of_open_source_software_by_3rd_parties}
+#### Distribution of open source software by 3rd parties
 
 The messenger[^637] who passes on an offer, as defined in the GPL and
 submitted by the author or producer of open source software, is regarded
@@ -8869,7 +8911,7 @@ following contractual relationships: a licence agreement for
 reproduction, distribution and circulation; a sub-licence agreement; a
 sales contract; a consignment agreement; or an agency contract[^639].
 
-#### Breach of the conditions of FOSS licence {#_breach_of_the_conditions_of_foss_licence}
+#### Breach of the conditions of FOSS licence
 
 Any breach of the licence automatically renders it void. However,
 termination in this manner will not affect the interests and rights of
@@ -8893,28 +8935,28 @@ breached, all the claims relating to copyright infringement may be
 asserted. The entitled party whose economic rights have been infringed,
 may demand that the person infringing these rights:[^642]
 
-1\) put an end to the infringement;
+1) put an end to the infringement;
 
-2\) eliminate the consequences of the infringement;
+2) eliminate the consequences of the infringement;
 
-3\) compensate the losses:
+3) compensate the losses:
 
-a\) either on the basis of general principles[^643], or
+a) either on the basis of general principles[^643], or
 
-b\) by paying a sum of money equal to twice — or, if the infringement is
+b) by paying a sum of money equal to twice — or, if the infringement is
 culpable, three times — the equitable remuneration, which at the time of
 enforcement would be due to the entitled party in return for granting
 permission to use the work;
 
-4\) surrender any benefits received.
+4) surrender any benefits received.
 
 Regardless of the aforementioned claims, the entitled party may demand:
 
-1\) a one-off or repeated press announcement of appropriate content and
+1) a one-off or repeated press announcement of appropriate content and
 form, or (part) publication of the court ruling in the case at issue, in
 accordance with the court’s specifications;,
 
-2\) payment by the infringer of an appropriate sum of money, not less
+2) payment by the infringer of an appropriate sum of money, not less
 than twice the amount of the benefit attained by the infringing party,
 to the Fund for the Promotion of Artistic Creation, if the infringement
 is culpable and occurred during business activities carried out in the
@@ -8925,14 +8967,14 @@ copyright in relation to the whole work[^644]. The FSFE’s Fiduciary
 Licence Agreement is a perfect solution for all problems connected with
 co-authorship and joint ownership[^645].
 
-#### FOSS licences and private international law {#_foss_licences_and_private_international_law}
+#### FOSS licences and private international law
 
 The provisions of standard open source licence are within the limits and
-scope of contractual freedom as adopted in civil law in Article
-353\$\^1\$ of the CC[^646]. In accordance with the provisions of the
-Polish Act of 12 November 1965 on Private International Law (hereinafter
-the PIL), in the absence of the choice of law, an obligation is subject
-to the law of the state in which the contract was concluded[^647].
+scope of contractual freedom as adopted in civil law in Article 353$^1$
+of the CC[^646]. In accordance with the provisions of the Polish Act of
+12 November 1965 on Private International Law (hereinafter the PIL), in
+the absence of the choice of law, an obligation is subject to the law of
+the state in which the contract was concluded[^647].
 
 Interpreting the provisions of Article 7 of the PIL, it may be argued
 that Polish law applies to contracts/agreements permitting use of open
@@ -8943,7 +8985,7 @@ provisions of Article 70 § 2 of the CC[^649] the conclusion is that the
 location of the computer determines the location of the conclusion of
 the contract[^650].
 
-#### FOSS licences and consumer law {#_foss_licences_and_consumer_law}
+#### FOSS licences and consumer law
 
 The GPL has been the subject of analysis from the point of view of
 Polish consumer law. The first important issue to be raised is the fact
@@ -9025,7 +9067,7 @@ after conclusion of the contract[^665]. This right is not conceded in
 the provisions of the GPL, but this does not have any serious legal
 implications[^666].
 
-#### FOSS licences and model contracts {#_foss_licences_and_model_contracts}
+#### FOSS licences and model contracts
 
 The general terms of licence agreements on open source software, such as
 the GPL, satisfy the conditions for applying the provision laid down in
@@ -9056,13 +9098,13 @@ effectiveness of certain provisions of the GPL[^671]. It has also been
 noted that the abusive nature of these provisions is subject to specific
 presumption[^672].
 
-Tax law {#sec_poland_taxlaw}
+Tax law
 -------
 
 The Polish tax system is divided mainly into tax on earnings and tax on
 turnover[^673].
 
-### Tax on legal entities and private income {#sec_poland_TaxOnLegalEntitiesAndPrivateIncome}
+### Tax on legal entities and private income
 
 The Polish Undersecretary of State has issued an opinion[^674] regarding
 tax consequences associated with the use of free software programs. The
@@ -9095,7 +9137,7 @@ explanation of the tax consequences associated with using free software
 applies to individuals engaged in non-agricultural business operations
 who are liable to income tax[^676].
 
-### Tax on civil law transactions {#sec_poland_TaxOnCivilLawTransactions}
+### Tax on civil law transactions
 
 The Tax Office in Tarnowskie Góry[^677] has ruled that the unconditional
 free sharing of a computer program with unlimited recipients is not a
@@ -9105,7 +9147,7 @@ legal relationship between the creators of the program and its users,
 and no rights are transferred by the creator to the user, and so this
 form of activity is not liable to tax on civil law transactions[^678].
 
-### Tax on goods and services (VAT) {#sec_poland_vat}
+### Tax on goods and services (VAT)
 
 The Tax Office in Chorzów[^679] has ruled that publishing a computer
 program free of charge in the Internet, enabling it to be used by
@@ -9126,7 +9168,7 @@ remembered that interpretations by the tax authorities do not apply
 universally and are not binding: they are merely issued with regard to a
 specific taxpayer and the circumstances relating to that taxpayer[^681].
 
-FOSS and legal issues of open standards {#sec_poland_legalissues}
+FOSS and legal issues of open standards
 ---------------------------------------
 
 Polish administrative courts have ruled that requests concerning access
@@ -9141,12 +9183,12 @@ Tasks[^683], the President of the Social Insurance Institution
 disclose public information concerning the technical specifications of
 the KSI MAIL format that is used in Płatnik software[^684].
 
-FOSS cases in Poland {#sec_poland_FOSSCasesInPoland}
+FOSS cases in Poland
 --------------------
 
 No cases have been reported so far (April 2014).
 
-Legal procedures {#sec_poland_LegalProcedures}
+Legal procedures
 ----------------
 
 Copyright holders in the Republic of Poland may protect their rights in
@@ -9168,7 +9210,7 @@ cases are brought before the regional courts located in cities where
 particular district courts are also seated. The litigation costs depend
 on the amount in dispute.
 
-Protection of databases {#sec_poland_ProtectionOfDatabases}
+Protection of databases
 -----------------------
 
 Poland has also adopted *sui generis* protection for databases in a
@@ -9177,7 +9219,7 @@ the APD)[^685]. The Polish Supreme Court has held[^686] that acquiring
 an electronic database and selling it to customers under a different
 name is a tortious act of unfair competition.[^687]
 
-### Recommended literature {#_recommended_literature_5}
+### Recommended literature
 
 -   J. Barta, R. Markiewicz, Oprogramowanie open source, w
     świetle prawa. Między własnością a wolnością, Zakamycze,
@@ -9188,7 +9230,7 @@ name is a tortious act of unfair competition.[^687]
     communities and eGovernments, Universiteit Leiden, EM Meijers
     Instituut voor RechtswetenschappelijkOnderzoek 2010.
 
-#### Relevant legislation {#_relevant_legislation}
+#### Relevant legislation
 
 -   The Civil Code of 23 April 1964, Journal of Laws No. 16, item 93,
     with subsequent amendments.
@@ -9210,15 +9252,15 @@ name is a tortious act of unfair competition.[^687]
 -   The Criminal Proceedings Code of 6 June 1997, Journal of Laws No 89,
     item 555, with subsequent amendments.
 
-Portugal {#chap.portugal}
+Portugal
 ========
 
 author:\[Quintais LL.M.,João Pedro\] author:\[Ramalho LL.M.,Ana B.\]
 
-Introduction to software protection under Portuguese law {#_introduction_to_software_protection_under_portuguese_law}
+Introduction to software protection under Portuguese law
 --------------------------------------------------------
 
-### Body of law {#_body_of_law_3}
+### Body of law
 
 In Portugal, software is protected by copyright under the Software
 Act[^688], which implements the Software Directive.[^689] Unlike the
@@ -9244,7 +9286,7 @@ The following sections will analyze the specific relevant provisions of
 the Software Act, while pointing out its disparities in relation to the
 Software Directive.
 
-### Object of protection {#_object_of_protection_2}
+### Object of protection
 
 According to Article 1(2) of the Software Act, computer programs[^693]
 that are creative will receive analogous protection to the one granted
@@ -9275,7 +9317,7 @@ choices; if there is only one or few ways of expression of a computer
 program due to technical constraints (e.g., programming language), the
 protection threshold will not be met.[^699]
 
-### Authors/Beneficiaries {#_authors_beneficiaries}
+### Authors/Beneficiaries
 
 Article 3(1) of the Software Act establishes that the general rules on
 copyright authorship and ownership (Articles 11 to 26 of the PCA) apply
@@ -9339,7 +9381,7 @@ the contract is in contradiction with such solution.[^710] The law does
 not clarify, however, whether the employer or client is the original
 owner of the rights or whether he is an assignee.
 
-### Economic rights {#_economic_rights}
+### Economic rights
 
 Articles 5 and 8 of the Software Act bestow upon the right holder three
 exclusive economic rights. The first is the permanent or temporary
@@ -9368,7 +9410,7 @@ the disproportionality between that payment and the profit made by the
 exploiter. This right, however, lasts only for two years counting from
 when the creator became aware of the existence of damages.
 
-### Exceptions to Exclusive Rights {#_exceptions_to_exclusive_rights_3}
+### Exceptions to Exclusive Rights
 
 Unlike the Software Directive, the Software Act does not devise
 exceptions only. Instead, the Portuguese legislator granted certain
@@ -9420,7 +9462,7 @@ principles — probably, e.g., to improve the performance of that
 particular program. Article 10(2), on the other hand, has a more general
 nature, in that its aims are scientific research and teaching.[^716]
 
-### Moral Rights {#_moral_rights_5}
+### Moral Rights
 
 The Software Act does not expressly mention moral rights. Still, Article
 9 grants to the “original right holder” the right to be named as the
@@ -9448,7 +9490,7 @@ applicable to these moral rights admitted in the context of the Software
 Act. Thus, the moral rights of the author of a computer program are
 unwaivable and inalienable.[^722]
 
-### Term of protection {#_term_of_protection_3}
+### Term of protection
 
 As a result of the Council Directive 93/98/EEC, harmonizing the term of
 protection of copyright and certain related rights, the same term
@@ -9459,7 +9501,7 @@ someone other than the intellectual creator (i.e., the natural person
 who created the program), the duration is counted from the date when the
 program was first lawfully published or divulged.[^724]
 
-### Copyright contracts {#_copyright_contracts}
+### Copyright contracts
 
 Apart from the rules on ownership of programs created by employees or
 contractors — which, as seen above, might be considered to establish
@@ -9607,7 +9649,7 @@ and void by the STCA can thus effectively curtail some choices of the
 right holder when entering into a contract with potential licensees or
 assignees.
 
-### Enforcement {#_enforcement}
+### Enforcement
 
 Enforcement of copyright in Portugal is regulated by Articles 195 to
 211-B of the PCA, which have inter alia implemented the Enforcement
@@ -9681,7 +9723,7 @@ legal persons.[^785] Additionally, the court may rule as lost in favor
 of the state any objects, materials, equipment or devices used and owned
 by the author of the crimes.[^786]
 
-Unprotected software and public domain software {#_unprotected_software_and_public_domain_software_2}
+Unprotected software and public domain software
 -----------------------------------------------
 
 As explained above, only software that is original in the sense that it
@@ -9708,7 +9750,7 @@ certain cases even be presented by third parties as their own
 work[^790], and by modifying the original work, third parties can take
 certain versions of said software out of the public domain.
 
-Analysis of FOSS under Portuguese Law {#_analysis_of_foss_under_portuguese_law}
+Analysis of FOSS under Portuguese Law
 -------------------------------------
 
 From a conceptual and legal perspective, FOSS is identical to other
@@ -9740,7 +9782,7 @@ generis or atypical license agreements, even if they are still based on
 similar mechanisms to those of license contracts in general, and of
 end-user software license agreements in particular.
 
-### Copyrights {#_copyrights_3}
+### Copyrights
 
 Although FOSS can be written and owned by one person or be owned by one
 legal entity[^792], generally speaking, after some time the software is
@@ -9754,7 +9796,7 @@ of the software is to be deemed a composite or derivative work.[^793]
 The legal consequences are different at both authorship and ownership
 levels.[^794]
 
-#### Qualification of FOSS {#_qualification_of_foss_7}
+#### Qualification of FOSS
 
 For FOSS to be qualified as a joint work of co-authors it is not
 necessary for every co-author to have contributed equally, nor are
@@ -9778,7 +9820,7 @@ of the legal consequences, a distinction needs to be made between the
 rights of the original owner, the original co-authors and the rights of
 people or entities who carry out work based on the original work.
 
-#### Rights of the original co-authors {#_rights_of_the_original_co_authors_5}
+#### Rights of the original co-authors
 
 The general authorship and ownership rules of the PCA apply to the
 creation/production of software.[^800] However, if a software work is
@@ -9872,7 +9914,7 @@ What such regime does not allow and the general Portuguese regime does
 not permit are agreements that constitute waivers to moral rights, as
 discussed in greater detail below.[^820]
 
-#### Authors of derivative or composite works {#_authors_of_derivative_or_composite_works}
+#### Authors of derivative or composite works
 
 After some time FOSS will, in most cases, be a composite or derivative
 work.[^821] Composite works are those that incorporate, in the whole or
@@ -9899,7 +9941,7 @@ assignments or transmissions of copyright under Portuguese law.[^826]
 This contractual structure would also in principle allow authors in both
 works to judicially enforce their respective copyrights.
 
-#### Management of copyrights {#_management_of_copyrights}
+#### Management of copyrights
 
 With the purpose of controlling the chain of copyright ownership in a
 more efficient manner, it may be useful to concentrate all copyrights
@@ -9960,7 +10002,7 @@ arguable that a concentration of rights in a single organization via
 broad authorization of use contractual schemes constitutes a superior
 solution to secure the validity and effectiveness of the method.
 
-### Moral rights and FOSS {#_moral_rights_and_foss}
+### Moral rights and FOSS
 
 The US origin of FOSS is perhaps in no issue clearer than in its
 treatment of moral rights, a subject to which it attaches comparatively
@@ -10001,9 +10043,9 @@ likely the most coherent with the aforementioned Portuguese Supreme
 Court ruling of 2012 recognizing “minimum moral rights” to authors of
 computer programs.[^843]
 
-### Enforcing FOSS licenses {#_enforcing_foss_licenses_5}
+### Enforcing FOSS licenses
 
-#### General Considerations {#_general_considerations}
+#### General Considerations
 
 The question of whether a FOSS license can be enforced under the
 Portuguese legal system depends on whether a valid license was issued.
@@ -10057,7 +10099,7 @@ rules may translate into imperative provisions in addition to the
 legitimate user’s minimum rights in the Software Act, it is however
 important to ascertain whether FOSS licenses conflict with them.
 
-#### Contracting parties {#_contracting_parties_4}
+#### Contracting parties
 
 The issue of who are the contracting parties in a FOSS licensing scheme
 depends on its constitution. In the simplest formulation the answer is
@@ -10106,7 +10148,7 @@ of (mostly) derivate works is configured as a chain of agreements for
 specified uses of software works to which the respective authors have
 consented to, it should be considered valid under Portuguese law.
 
-#### Validity of the FOSS licenses {#_validity_of_the_foss_licenses_2}
+#### Validity of the FOSS licenses
 
 The choice of a FOSS license by an author is motivated by the desire to
 distribute and make available his work to third parties, possibly
@@ -10199,7 +10241,7 @@ requirements is null, unless stated otherwise.[^865] The adoption of
 this argument would lead to the nullity of FOSS agreements where it is
 impossible to establish the underlying licensing terms.
 
-#### Breach of FOSS licenses {#_breach_of_foss_licenses}
+#### Breach of FOSS licenses
 
 Infringement of FOSS licenses may give rise to separate claims, on the
 basis of copyright infringement and breach of contract.[^866] A claim
@@ -10217,7 +10259,7 @@ take action in civil courts under both claims. In fact, from a
 litigation practice standpoint, he/she would be advised to do so, due to
 potential challenges on the validity of the FOSS license.
 
-### Waiver and liability {#_waiver_and_liability_4}
+### Waiver and liability
 
 Typically, FOSS licenses contain very strong exoneration clauses, which
 discharge the author from all liability.[^868] One of the traditional
@@ -10234,7 +10276,7 @@ FOSS licensing terms.[^870] The main legal issue raised in this context
 relates to the admissibility of such exoneration clauses under
 Portuguese law.
 
-#### General rules on exclusion and limitation of liability {#_general_rules_on_exclusion_and_limitation_of_liability}
+#### General rules on exclusion and limitation of liability
 
 Most clauses of this type are aimed at eliminating or restricting (e.g.,
 by establishing a monetary ceiling) ex ante the Licensor’s obligation to
@@ -10269,7 +10311,7 @@ specific clauses (e.g. applying to defective performance or acts of
 legal representatives and auxiliary persons) may be valid only in cases
 of minor negligence (“culpa leve”).[^875]
 
-#### Specific rules for consumers, sellers and producers {#_specific_rules_for_consumers_sellers_and_producers}
+#### Specific rules for consumers, sellers and producers
 
 In addition to the general regime explained above, stricter rules may
 apply that completely forbid exoneration or limitation clauses, notably
@@ -10373,9 +10415,9 @@ allowing competent courts to operate the reduction or conversion of the
 invalid portion of such clauses, so as to comply with mandatory legal
 provisions.[^902]
 
-### The Copyleft Principle {#_the_copyleft_principle_4}
+### The Copyleft Principle
 
-#### Principle {#_principle_7}
+#### Principle
 
 A characteristic found in different (but not all) FOSS licenses is the
 so-called “copyleft” principle.[^903] FOSS licenses that incorporate the
@@ -10409,7 +10451,7 @@ event, it is unlikely that the owner of the proprietary software at
 stake would be obliged to release all its code under the copyleft FOSS
 license.
 
-#### Copyleft Validity {#_copyleft_validity}
+#### Copyleft Validity
 
 The question relating to the validity of the copyleft clause coincides
 with the question of whether a rights holder is able to validly lay down
@@ -10524,7 +10566,7 @@ such application would likely not affect the validity of the copyleft
 provisions to subsequent making available of that copy to downstream
 licensees (or assignees).
 
-### Damages {#_damages_2}
+### Damages
 
 Damages caused by copyright infringement are compensated in accordance
 with Articles 210 and 211 of the PCA, and generally applicable
@@ -10617,20 +10659,20 @@ consideration, targeted at interested parties wishing to use the work
 without their own additions being affected by “viral” copyleft effects
 of the initial FOSS license.
 
-FOSS Cases in Portugal {#_foss_cases_in_portugal}
+FOSS Cases in Portugal
 ----------------------
 
 No cases have been reported yet (December 2013).
 
-South Africa {#chap.southafrica}
+South Africa
 ============
 
 author:\[Rens,Andrew\]
 
-Introduction to Software Protection under South African Law {#_introduction_to_software_protection_under_south_african_law}
+Introduction to Software Protection under South African Law
 -----------------------------------------------------------
 
-### Body of Law {#_body_of_law_4}
+### Body of Law
 
 The law affecting rights and control over computer programs is
 essentially statutory. Rights in software in South Africa arise
@@ -10653,7 +10695,7 @@ socio-economic rights and enables the enforcement of fundamental rights
 against non-State actors. The Constitutional Court has refused to
 recognize a right to intellectual property as a fundamental right.[^940]
 
-### Copyright Act: Object of Protection {#_copyright_act_object_of_protection}
+### Copyright Act: Object of Protection
 
 Computer programs are the subject of copyright protection as a
 specifically designated category of work. A computer program is defined
@@ -10672,7 +10714,7 @@ To be eligible for copyright a computer program must be reduced to
 material form[^944]. Recording as ‘digital data’ meets the requirement.
 Copyright is regarded as an immovable intangible[^945].
 
-### Copyright Holders {#_copyright_holders}
+### Copyright Holders
 
 The holder of the exclusive rights of copyright is referred to as the
 owner in the Copyright Act.
@@ -10724,7 +10766,7 @@ category of computer generated computer program is confined to machine
 generated code and doesn’t include use of software tools such as editors
 or compilers.
 
-### Exclusive Rights {#_exclusive_rights_2}
+### Exclusive Rights
 
 According to section 11B of the Copyright Act the owner of copyright in
 a computer program has the exclusive rights (following the sub-paragraph
@@ -10773,7 +10815,7 @@ public, especially if there is no output.
 
 There is no specific right of distribution[^963].
 
-### Exceptions to Exclusive Rights {#_exceptions_to_exclusive_rights_4}
+### Exceptions to Exclusive Rights
 
 Lawful possessors of computer programs can use the single exception
 specific to computer programs to make copies reasonably necessary for
@@ -10807,7 +10849,7 @@ use of the exceptions has not been ruled on but they are likely to be
 ruled invalid as ‘contra boni mores’ and defeating the purpose of
 copyright legislation.
 
-### Moral Rights {#_moral_rights_6}
+### Moral Rights
 
 Moral rights were introduced into South African copyright law in order
 to comply with the Berne Convention, and there is no history nor legal
@@ -10823,7 +10865,7 @@ moral rights in copyright agreements is common practice there is no
 provision enabling the assignment or waiver of moral rights in the
 authorising legislation.
 
-### Term of Protection {#_term_of_protection_4}
+### Term of Protection
 
 The same term applies to computer programs, cinematographic films and
 photographs; fifty years. The fifty years is calculated from the end of
@@ -10831,7 +10873,7 @@ the year in which the computer program is first published or made
 available to the public, or if neither has taken place then fifty years
 from the making of the program.
 
-### Copyright Assignment {#_copyright_assignment_4}
+### Copyright Assignment
 
 Copyright may be transferred by assignment or in a will [^967]. An
 assignment or an exclusive license must be in writing and signed[^968].
@@ -10860,7 +10902,7 @@ minds apparent from conduct of the parties. Consideration is not
 required to form a binding contract in the South African common law of
 contract.
 
-### Technical Protection Measures and Anti-Circumvention {#_technical_protection_measures_and_anti_circumvention}
+### Technical Protection Measures and Anti-Circumvention
 
 There are no provisions defining technical protection measures or
 prohibiting circumvention of technical protection measures in South
@@ -10877,7 +10919,7 @@ distribution and possession of a computer program designed primarily to
 overcome security measures for the protection of data is also a criminal
 offense.
 
-### Enforcement {#_enforcement_2}
+### Enforcement
 
 Copyright in a computer program is infringed by anyone who without
 permission, and absent an exception, commits one of the acts reserved
@@ -10920,7 +10962,7 @@ holder in South Africa. Dealing in counterfeit goods is a criminal
 offense, and alleged counterfeit goods may be seized by the police or
 customs authorities.
 
-Unprotected software and public domain software {#_unprotected_software_and_public_domain_software_3}
+Unprotected software and public domain software
 -----------------------------------------------
 
 Computer programs are treated as a distinct category of work, defined as
@@ -10947,7 +10989,7 @@ domain would seem to meet these criteria. Although a signature on the
 deed would not be a formal requirement it would strongly indicate that a
 rights holder knew he was giving up rights.
 
-Analysis of FOSS under South African law {#_analysis_of_foss_under_south_african_law}
+Analysis of FOSS under South African law
 ----------------------------------------
 
 A user who made substantial changes to copyleft code would require a
@@ -10985,7 +11027,7 @@ license would govern a breach.
 It is not necessary to construe adherence to the terms of a FOSS license
 as constituting consideration.
 
-### Copyrights {#_copyrights_4}
+### Copyrights
 
 When two or more authors collaborate to produce a computer program in
 which contributions of each author are not separable from the
@@ -11028,7 +11070,7 @@ program. They are also adaptations of the originating program, but only
 if they can be regarded as including a substantial portion of the
 originating program.
 
-#### Assignment of copyrights {#_assignment_of_copyrights}
+#### Assignment of copyrights
 
 Assignment of copyright in a FOSS contributor’s agreement, such as the
 agreement used by the Free Software Foundation will require a paper copy
@@ -11042,7 +11084,7 @@ grants non exclusive rights or licenses work directly under a FOSS
 license online where the contributor agreement or license is recorded
 digitally.
 
-### Moral Rights {#_moral_rights_7}
+### Moral Rights
 
 A contributor to a FOSS project has moral rights to the computer program
 he has created. The right to object to modification does not extend to
@@ -11058,16 +11100,16 @@ contributor agreements or licences before committing code. It is
 therefore unlikely that a South African court would find copying and
 adaptations compliant with those commitments to infringe moral rights.
 
-### Enforcing FOSS Licences {#_enforcing_foss_licences}
+### Enforcing FOSS Licences
 
-#### Parties to License {#_parties_to_license}
+#### Parties to License
 
 The license must be issued by the owner or a licensee authorised to
 issue a FOSS license. In FOSS projects the owner is usually the author
 or authors, that is those contributors with authority to decide what is
 in a release version and their predecessors.
 
-#### Contract {#_contract}
+#### Contract
 
 Rather than claiming breach of contract an author would simply claim
 copyright infringement, the alleged infringer would have to demonstrate
@@ -11085,13 +11127,13 @@ order requiring compliance with the other terms of the contract because
 South African courts prefer to award damages for breach of contract,
 rather than enforce performance of agreements.
 
-#### Violation of License Terms {#_violation_of_license_terms}
+#### Violation of License Terms
 
 Generally failure to adhere to the conditions of the license indicates a
 refusal of the license construed as a contractual offer and thus no
 contract is formed, a copier is then liable for copyright infringement.
 
-### Waiver and Liability {#_waiver_and_liability_5}
+### Waiver and Liability
 
 There is no requirement arising from copyright legislation or common law
 that a person providing FOSS provide any warranty in respect of the
@@ -11117,12 +11159,12 @@ a transaction in which a service provider delivered goods and services
 to a natural person that included FOSS for consideration in the course
 of business would be subject to consumer protection legislation.
 
-Cases {#_cases}
+Cases
 -----
 
 There have been no reported cases as yet (June 2014).
 
-### Legal Procedures {#_legal_procedures}
+### Legal Procedures
 
 Only an owner or exclusive licensor can enforce the exclusive rights of
 copyright[^979]. An owner can claim an interdict [^980], damages, or
@@ -11152,21 +11194,21 @@ constitute a substantial portion if they solve a particularly difficult
 problem or are crucial in some other way to the functioning of the
 program[^985].
 
-### Literature {#_literature}
+### Literature
 
 Jeremy Speres: ‘The Enforceability of Open Source Software Licences: Can
 Copyright Licences Be Granted Non-Contractually?’ South African
 Mercantile Law Journal (2009) Vol 21, Number 2, 174
 
-Spain {#chap.spain}
+Spain
 =====
 
 author:\[Bain,Malcolm\]
 
-Introduction to software protection under Spanish law {#sec_spain_introduction}
+Introduction to software protection under Spanish law
 -----------------------------------------------------
 
-### Body of law {#sec_spain_body}
+### Body of law
 
 Copyright protection of software is regulated in Spain under Royal
 Legislative Decree 1/1996 of 12 April, approving the consolidated text
@@ -11186,7 +11228,7 @@ Copyright Act, as *lex generalis*.[^987] This means that the general
 provisons of the Copyright Act will apply to computer programs to the
 extent that Book I, Title VII does not contain any specific provisions.
 
-### Object of protection {#sec_spain_Objectofprotection}
+### Object of protection
 
 Computer programs are specifically included in the non-exhaustive list
 of literary, artistic and scientific works protected by copyright, in
@@ -11207,7 +11249,7 @@ the basis for its interfaces are explicitly denied copyright
 protection[^990]. Malware such as computer viruses, is also excluded
 from protection.
 
-### Authors/Beneficiaries {#sec_spain_AuthorsBeneficiaries}
+### Authors/Beneficiaries
 
 The Copyright Act generally provides that copyrights in a work belong to
 the author, who is the person or group of persons who creates the
@@ -11244,21 +11286,21 @@ Rights in the composed work belong to the person who performs such
 composition, without prejudice to the rights of (and the need for
 authorisation from) the prior author[^996].
 
-### Economic rights {#sec_spain_Economicrights}
+### Economic rights
 
 According to Article 99 of the Copyright Act, the economic rights in
 computer programs comprise the exclusive rights to perform or authorise
 the performance of :
 
-\(a) permanent or temporary reproduction of a computer program by any
+(a) permanent or temporary reproduction of a computer program by any
 means and in any form, in part or in whole (including when the acts of
 loading, executing, displaying, transmission and storage of the program
 require a reproduction);
 
-\(b) translation, adaptation, arrangement or alteration of a computer
+(b) translation, adaptation, arrangement or alteration of a computer
 program, and the reproduction of any such transformed work; and
 
-\(c) any form of distribution to the public, including the rental, of the
+(c) any form of distribution to the public, including the rental, of the
 original computer program or copies thereof.
 
 Article 99 does not mention the right of public communication (e.g.
@@ -11268,7 +11310,7 @@ specific provision, it is understood that Article 20 of the Copyright
 Act grants the rightsholders the exclusive right to publicly communicate
 the computer program.
 
-### Exceptions to exclusive rights {#sec_spain_ExceptionstoExclusiveRights}
+### Exceptions to exclusive rights
 
 Article 99, last paragraph, expressly provides that the first sale in
 the European Union of a copy of a program by the rightholder or with his
@@ -11282,16 +11324,16 @@ rights.
 
 The other exceptions are set out in Article 100 of the Copyright Act:
 
-\(1) In the absence of specific contractual provisions, no authorisation
+(1) In the absence of specific contractual provisions, no authorisation
 by the rightholder is required for reproduction or transformation of a
 computer program that are necessary for its use by the lawful user in
 accordance with its intended purpose, including error correction.
 
-\(2) Reproduction by way of a back-up copy of a computer program by a
+(2) Reproduction by way of a back-up copy of a computer program by a
 person having a right to use it may not be prevented, insofar as that
 copy is necessary to use the program.
 
-\(3) A person having a right to use a copy of a computer program is
+(3) A person having a right to use a copy of a computer program is
 entitled, without the authorisation of the rightholder, to observe,
 study or test the functioning of the program in order to determine the
 ideas and principles which underlie any element of the program, provided
@@ -11316,7 +11358,7 @@ often difficult in practice because the licensee generally has no access
 to the source code of the application and it is not obvious to enforce
 this access legally.
 
-### Moral rights {#sec_spain_moralrights}
+### Moral rights
 
 The Copyright Act makes no mention of moral rights in relation to
 computer programs. These are regulated by Article 14 of the Act, which
@@ -11327,7 +11369,7 @@ reputation of the author[^1000]. These rights are inaliable and
 unwaivable[^1001], and remain in force following the death of the
 author.
 
-### Term of protection {#sec_spain_Termofprotection}
+### Term of protection
 
 Article 98 of the Copyright Act provides that the same term of copyright
 applies to computer programs as for general protected works: 70 years
@@ -11344,7 +11386,7 @@ legal publication of the work. However, if the natural authors are
 mentioned in the published versions, rights in the work have the same
 general term: life (or dissemination) plus 70 years.
 
-### Copyright assignment {#sec_spain_Copyrightassignment}
+### Copyright assignment
 
 Economic rights in computer programs may be transferred to third
 parties, *mortis causa* or *inter vivos*[^1003]. This is done by
@@ -11395,19 +11437,19 @@ independent of the rights that are granted. Payments may be one-off, or
 a proportional participation in the profits of exploitation of the work
 (royalties)[^1009].
 
-### Copyright enforcement {#sec_spain_Copyrightenforcement}
+### Copyright enforcement
 
 Article 102 of the Copyright Act establishes the terms of breach of
 copyright: the unauthorised performance of any exclusive rights
 (reproduction, transformation, distribution, public communication), and
 in particular:
 
-\(a) the commercialisation (putting into circulation) of any copies of a
+(a) the commercialisation (putting into circulation) of any copies of a
 program which the marketer knows or could be deemed to know are illegal
 
-\(b) the possession for commercial purposes of any such copies
+(b) the possession for commercial purposes of any such copies
 
-\(c) the commercialisation or possession for commercial purposes of tools
+(c) the commercialisation or possession for commercial purposes of tools
 which are exclusively aimed at facilitating the unlawful removal or
 avoidance of technical means which protect the computer program
 (TPMs)[^1010].
@@ -11419,7 +11461,7 @@ implement the EU Copyright Directives. Criminal law also penalises any
 copyright infringement for commercial purposes (“for profit” motive),
 with specific emphasis on removing TPMs[^1011].
 
-Unprotected software and public domain software {#sec_spain_Unprotectedsoftwareandpublicdomainsoftware}
+Unprotected software and public domain software
 -----------------------------------------------
 
 As set forth above, only software that is original in the sense that it
@@ -11439,7 +11481,7 @@ third parties as their own work, and by modifying the original work,
 third parties can take certain versions of the public domain software
 out of the public domain again.
 
-FOSS under Spanish law {#sec_spain_FOSSunderSpanishLaw}
+FOSS under Spanish law
 ----------------------
 
 From a conceptual and legal point of view, FOSS is like any other
@@ -11459,9 +11501,9 @@ And, like any other software license, the FOSS license conditions must
 be respected by the licensee (user), or the license permissions may be
 revoked.
 
-### Copyright issues {#sec_spain_Copyrightissues}
+### Copyright issues
 
-#### Multiple authorship {#_multiple_authorship}
+#### Multiple authorship
 
 Although FOSS can be written by one person or be owned by one legal
 entity[^1015], generally speaking, after some time it is extended,
@@ -11473,7 +11515,7 @@ every contribution created during the further development of the
 software, a derivative or composed work. The legal consequences are
 different.
 
-#### Qualification of FOSS {#_qualification_of_foss_8}
+#### Qualification of FOSS
 
 For FOSS to be a work created by means of a collaborative process, i.e.
 to be considered a “collaborative work” of co-authors, it is not
@@ -11499,7 +11541,7 @@ distinction needs to be made between the rights of the original
 co-authors and the rights of subsequent authors who carry out work based
 on the original.
 
-#### Rights of the original co-authors {#_rights_of_the_original_co_authors_6}
+#### Rights of the original co-authors
 
 Co-authorship usually concerns the creation of a single “unique” work
 that is more than the collection of its component parts[^1018]. The
@@ -11546,7 +11588,7 @@ unanimity may result in the inadmissibility of this claim, e.g. if heirs
 of a programmer are unable to agree as to whether to institute a
 claim[^1024].
 
-#### Authors of derivative / composed FOSS works {#_authors_of_derivative_composed_foss_works}
+#### Authors of derivative / composed FOSS works
 
 After some time FOSS will, in most cases, be a derivative work of the
 original or a composed work which includes it. Derivative works and
@@ -11566,7 +11608,7 @@ work), or by transformation of the previous work — depending on the FOSS
 licenses, different conditions may apply. This may be key to
 understanding the impact of copyleft obligations in the GPL (v2 or v3).
 
-#### The management of copyrights in FOSS — transfers? {#_the_management_of_copyrights_in_foss_8201_8212_8201_transfers}
+#### The management of copyrights in FOSS — transfers?
 
 In order to manage copyrights in FOSS better, it may be useful to
 collect all copyrights concerning a FOSS project within one person or
@@ -11581,7 +11623,7 @@ work — as a fiduciary, the party to whom the legitimation is granted
 shall not act for himself but on account of others who have so
 authorised him/her (being the current rightsholders)[^1027].
 
-### Moral copyrights {#sec_spain_Moralcopyrights}
+### Moral copyrights
 
 Generally speaking, FOSS originated in the United States, and FOSS
 licensing tends to attach less importance to the question of moral
@@ -11608,7 +11650,7 @@ the original work will therefore, based on his/her moral rights, not
 only be able to oppose the use by third parties of his work, but also
 the use of derivative works which affect his/her honour or reputation.
 
-### Enforcing FOSS licenses {#sec_spain_EnforcingFOSSlicenses}
+### Enforcing FOSS licenses
 
 The question whether a FOSS license can be enforced under the Spanish
 legal system depends on whether a valid license has been granted. The
@@ -11638,7 +11680,7 @@ purpose of a contract). So from a licensee’s point of view, there is no
 point in attacking the existence of the license, but, should there be
 any conflict, rather the validity and scope/interpretation of the terms.
 
-#### License parties {#_license_parties}
+#### License parties
 
 If a rightsholder makes his/her work available under a FOSS license, the
 answer as to parties is usually clear: the license is reached between
@@ -11679,7 +11721,7 @@ argued that it must be this way, as non-exclusive licensees (the
 intermediate creators, in the chain) are not entitled to relicense or
 sublicense the original work.
 
-#### Validity of the license — as a contract or otherwise {#_validity_of_the_license_8201_8212_8201_as_a_contract_or_otherwise}
+#### Validity of the license — as a contract or otherwise
 
 Contracts in Spanish law require an offer and acceptance of the offer by
 way of a manifestation of a consent to be bound by the terms of the
@@ -11739,7 +11781,7 @@ or validity of the FOSS license, this implies that no legally valid
 copyright license was granted and the user therefore is not allowed to
 use the software at all.
 
-#### Violation of license conditions {#_violation_of_license_conditions_2}
+#### Violation of license conditions
 
 Breach of a FOSS license by a user/licensee could constitute a double
 infringement in Spain: contractual breach of binding license
@@ -11749,7 +11791,7 @@ to the possibility of arguing against the existence or need for a
 contract, it would be recommended to sue on both grounds). In addition,
 breach of copyright provides several interesting remedies[^1044].
 
-### Disclaimers and liability {#sec_spain_Disclaimersandliability}
+### Disclaimers and liability
 
 Typically, FOSS licenses contain very strong disclaimer clauses, which
 attempt to discharge the author from all liability[^1045]. The argument
@@ -11845,9 +11887,9 @@ licensor is not a “seller” of a product), then consumer protection law
 may not apply to the full extent[^1054]. This argument is reinforced by
 the free (gratis) nature of most FOSS.
 
-### The copyleft principle {#sec_spain_Thecopyleftprinciple}
+### The copyleft principle
 
-#### Principle {#_principle_8}
+#### Principle
 
 A characteristic found in several (but not all[^1055]) FOSS licenses is
 the so-called “copyleft” principle. Copyleft FOSS licenses, in return
@@ -11876,7 +11918,7 @@ need to be reimbursed, but not more than the damage actually suffered
 events it is unlikely the owner of the proprietary software would be
 obliged to release all its code under the copyleft FOSS license.
 
-#### Validity of copyleft obligations {#_validity_of_copyleft_obligations}
+#### Validity of copyleft obligations
 
 The question relating to the validity of the copyleft clause coincides
 with the question whether a rightsholder is able to validly establish
@@ -11946,7 +11988,7 @@ that copy. The conditions of use established in the license on this work
 “run” with the tangible copy, as the sole authorisation to exploit the
 intangible work on that copy.
 
-FOSS cases in Spain {#sec_spain_FOSSCasesinSpain}
+FOSS cases in Spain
 -------------------
 
 While there have been several cases regarding the use of free content
@@ -11957,26 +11999,26 @@ of “copyleft” as a concept within the aforementioned free content cases
 is interesting, showing an increasing awareness of judges with respect
 to FOSS licensing models.
 
-Legal procedures {#sec_spain_legalprocedures}
+Legal procedures
 ----------------
 
-### Legal action {#sec_spain_LegalAction}
+### Legal action
 
 With regard to the enforcement of copyrights in Spain, Articles 138-140
 of the Copyright Act provide for a broad range of actions, in line with
 the EC IPR Enforement Directive 2004/48/EC. These actions include:
 
-a\) Preliminary measures including (i) seizure of both infringing
+a) Preliminary measures including (i) seizure of both infringing
 software/goods and devices, (ii) embargo of bank accounts where profits
 may have been deposited, and (iii) suspension of non-authorised
 activities
 
-b\) Injunctions to (i) cease and desist from the illicit activity, (ii)
+b) Injunctions to (i) cease and desist from the illicit activity, (ii)
 remove from the market any infringing articles, (iii) destroy any illict
 software and devices, and (iv) suspend ISP services used infringing IPR
 rights.
 
-c\) Damages and interest (see below)
+c) Damages and interest (see below)
 
 Legitimation for taking action is vested in the copyright holder or an
 exclusive licensee of the infringed copyright (i.e. either or both may
@@ -12005,7 +12047,7 @@ authorisation, and those who manufacture, import or deal in any device
 specifically aimed to supress or neutralise technological protection
 measures applied to protect software or other protected works.
 
-### Damages {#sec_spain_Damages}
+### Damages
 
 Damage caused by copyright violations are compensated under Spanish law
 in accordance with the Articles 138 and 140 Copyright Act, and generally
@@ -12051,9 +12093,9 @@ obligations) can then be obtained against payment by interested parties
 who want to use the work without their own additions or modifications
 being affected by copyleft[^1076].
 
-### Recommended literature {#_recommended_literature_6}
+### Recommended literature
 
-#### General literature on copyright law {#_general_literature_on_copyright_law}
+#### General literature on copyright law
 
 -   Rodrigo Bercovitz Rodríguez-Cano (Ed): “Comentarios a la Ley de
     Propiedad Intelectual”, (3rd Edition, 2007), Tecnos, Madrid.
@@ -12068,23 +12110,23 @@ being affected by copyleft[^1076].
     AUTOR, <http://www.informatica-juridica.com>, last
     visited 10.08.2010.
 
-Switzerland {#chap.switzerland}
+Switzerland
 ===========
 
 author:\[Jaccard,Michel\] author:\[Ancelle,Juliette\]
 
-Introduction to software protection under Swiss Law {#_introduction_to_software_protection_under_swiss_law}
+Introduction to software protection under Swiss Law
 ---------------------------------------------------
 
-### Applicable Law {#_applicable_law}
+### Applicable Law
 
 Under Swiss law, the protection of software is principally regulated by
 the Federal Copyright Act of October 9, 1992[^1077], last revised on
 July 1st, 2008 (“SCA”).
 
-### Object of Protection {#_object_of_protection_3}
+### Object of Protection
 
-#### Definition of software {#_definition_of_software}
+#### Definition of software
 
 Pursuant to Section 2, paragraph 3 SCA, computer programs are considered
 to be works under Swiss law, and as such, can be protected by
@@ -12117,7 +12159,7 @@ well as in the Message of the Federal Council which preceded the
 adoption of the revised Act, and we will therefore consider both terms
 to fall under the same definition in relation to Swiss copyright law.
 
-#### Protected software {#_protected_software}
+#### Protected software
 
 In order to be protected under Swiss copyright law, computer software
 needs to meet the requirement of individual character, which is the
@@ -12132,7 +12174,7 @@ different from other existing software by the comparison of their source
 and object codes[^1086] and to the extent that the author had sufficient
 leeway at his/her disposal in the writing of the codes[^1087].
 
-#### Unprotected and public domain software {#_unprotected_and_public_domain_software}
+#### Unprotected and public domain software
 
 As a consequence of the requirements set forth in Section 2 of the
 Copyright Act, Swiss law shall not protect software that does not
@@ -12166,9 +12208,9 @@ source code but remain the valid holders of the copyright on the
 software, whereas public domain software can be validly used, modified,
 or published without the need for the issuance of a license.
 
-### Owner of rights {#_owner_of_rights}
+### Owner of rights
 
-#### Author as a natural person {#_author_as_a_natural_person}
+#### Author as a natural person
 
 Pursuant to Section 6 SCA, an author is the natural person who created
 the protected work[^1092]. Thus, in the case of computer software, the
@@ -12182,7 +12224,7 @@ however, the corporate entity may benefit from the mechanism of legal
 assignment of certain exclusive rights in favor of the employer
 regarding software created by an employee (see section I.3 below).
 
-#### Joint work : coauthors {#_joint_work_coauthors}
+#### Joint work : coauthors
 
 In the development of a computer program, there is often more than one
 person involved, and therefore more than one author in the sense of
@@ -12224,7 +12266,7 @@ Sections 530 to 551 of the Swiss Code of Obligations (SCO)[^1101], the
 main consequence being that all decisions are to be made unanimously
 (Section 534 SCO).
 
-#### Copyright assignment {#_copyright_assignment_5}
+#### Copyright assignment
 
 Another specificity of computer programs in comparison to other
 protected works relates to the context of their creation. Most of the
@@ -12271,9 +12313,9 @@ be the author of the created software, (2) whether a license will be
 granted for the created software, and (3) in such a case, whether the
 license will be exclusive or not.
 
-### Scope of protection {#_scope_of_protection}
+### Scope of protection
 
-#### Exclusive rights {#_exclusive_rights_3}
+#### Exclusive rights
 
 As is the case for any protected work, the author of computer software
 benefits from exclusive rights over his/her work. Thus, as provided for
@@ -12290,7 +12332,7 @@ programs, the most relevant right is the right to make copies and to
 distribute them, which includes online distribution according to the
 prevailing opinion among Swiss authors[^1110].
 
-#### Specific rights for computer software under Swiss law {#_specific_rights_for_computer_software_under_swiss_law}
+#### Specific rights for computer software under Swiss law
 
 In addition to the general patrimonial exclusive rights to which every
 author is entitled under the Swiss Copyright Act, authors of computer
@@ -12321,7 +12363,7 @@ the sale. This specific right of utilization for computer software
 compensates for the fact that the private use exception for copyrighted
 work does not apply to software[^1118].
 
-#### Moral Rights {#_moral_rights_8}
+#### Moral Rights
 
 The author of a computer program, like any author in the sense of the
 Swiss Copyright Act, owns moral rights to his/her creation. This notion
@@ -12350,7 +12392,7 @@ relation to computer software, since any modification of the code or of
 the programming language will hardly be found to be harmful to the
 author’s personality[^1123].
 
-### Exceptions to the exclusive rights {#_exceptions_to_the_exclusive_rights_2}
+### Exceptions to the exclusive rights
 
 Two provisions of the Copyright Act are to be mentioned as exceptions to
 the exclusive rights.
@@ -12381,7 +12423,7 @@ transmission of the work to a third party or for any other lawful
 utilization of the work, and that they do not have any independent
 economic significance[^1127].
 
-### Term of protection {#_term_of_protection_5}
+### Term of protection
 
 Under Swiss law, the general term for protection of copyright for
 computer software is fifty (50) years after the death of the
@@ -12400,7 +12442,7 @@ the original work and for the additional creation, each part being
 protected by copyright for fifty (50) years after the death of its
 respective author[^1131].
 
-### Special measures {#_special_measures_5}
+### Special measures
 
 As a signatory of the WIPO Copyright Treaty (WCT)[^1132] and the WIPO
 Performances and Phonograms Treaty (WPPT)[^1133], Switzerland has
@@ -12426,26 +12468,24 @@ presumption exists that it has created a threat to copyright and the
 author will therefore be entitled to damages without being required to
 establish any actual infringement to copyright[^1136].
 
-Analysis of FOSS under Swiss law {#_analysis_of_foss_under_swiss_law}
+Analysis of FOSS under Swiss law
 --------------------------------
 
 For the purpose of this chapter, the terms below will have the following
 meanings:
 
-*Free and Open Source Software (FOSS)*
+*Free and Open Source Software (FOSS)*  
+software subject to an Open Source[^1137] license granting the right to
+use, analyze, modify and improve the said software by making its source
+code freely available to users.
 
-:   software subject to an Open Source[^1137] license granting the right
-    to use, analyze, modify and improve the said software by making its
-    source code freely available to users.
+*Proprietary software*  
+computer software that is the exclusive property of its
+developers/publishers and which can only be copied or used in compliance
+with the owner’s licensing agreements, their source code being rarely
+made available.
 
-*Proprietary software*
-
-:   computer software that is the exclusive property of its
-    developers/publishers and which can only be copied or used in
-    compliance with the owner’s licensing agreements, their source code
-    being rarely made available.
-
-### Common legal issues in relation with FOSS {#_common_legal_issues_in_relation_with_foss}
+### Common legal issues in relation with FOSS
 
 We shall analyze in this section the legal issues regularly discussed in
 relation to Open Source Software, starting with the question of
@@ -12453,9 +12493,9 @@ copyright protection of FOSS and then addressing the questions of
 enforcement of FOSS licenses and of the consequences of a breach of such
 licenses under applicable Swiss law.
 
-### FOSS under Swiss copyright law {#_foss_under_swiss_copyright_law}
+### FOSS under Swiss copyright law
 
-#### Characterization of FOSS {#_characterization_of_foss}
+#### Characterization of FOSS
 
 One major issue in relation with copyright law that takes on an
 important dimension with respect to Open Source Software is the question
@@ -12485,7 +12525,7 @@ creator(s) of this new version of the software will therefore be a new
 author (or new authors) of a new work, this characterization giving rise
 to different rights.
 
-#### Rights and obligations of the original coauthors {#_rights_and_obligations_of_the_original_coauthors}
+#### Rights and obligations of the original coauthors
 
 The coauthors of a protected work are the joint holders of the copyright
 pursuant to Section 7 SCA and as such form a sui generis legal tenancy.
@@ -12533,7 +12573,7 @@ system allows a third party to enforce its rights without having to
 identify all coauthors, but it also protects each coauthor from full
 liability.
 
-#### Authors of a derivative work {#_authors_of_a_derivative_work}
+#### Authors of a derivative work
 
 The characterization of portions of Open Source software as a derivative
 work will also have an impact on the rights of the author, the main
@@ -12556,7 +12596,7 @@ software[^1144], in which case the author of the new derivative work
 will need to obtain the consent of the original developer(s) to license
 his/her modified software under a new FOSS license.
 
-#### Assignement of copyright {#_assignement_of_copyright}
+#### Assignement of copyright
 
 As we have seen in section I.3 above, the SCA provides for a special
 rule regarding computer programs that are created by an employee as part
@@ -12573,7 +12613,7 @@ management of the rights of all coauthors for each newly created piece
 of software, in this way escaping from the burdensome system of
 co-authorship.
 
-### Moral copyrights {#_moral_copyrights_3}
+### Moral copyrights
 
 FOSS being protected by copyright, the developer is thus an author as we
 have clearly established, and as such, he/she still owns a moral
@@ -12600,9 +12640,9 @@ to modify the original software granted by a FOSS general license can
 still be limited by the original author’s enforcement of his/her moral
 right[^1149].
 
-### Enforcement of FOSS licences {#_enforcement_of_foss_licences}
+### Enforcement of FOSS licences
 
-#### General contract law issues {#_general_contract_law_issues}
+#### General contract law issues
 
 Based on the above definition, the specificity of FOSS is that the
 source code of a computer program is made freely available to users
@@ -12758,7 +12798,7 @@ in cases where the infringement is still producing effects[^1163]. It
 should also be noted that Swiss copyright law additionally makes it a
 criminal offence to perform most acts of copyright infringement[^1164].
 
-#### Warranty and Liability {#_warranty_and_liability}
+#### Warranty and Liability
 
 As regards FOSS, there are two main aspects to be analyzed in this
 section: one relates to the warranty granted or more generally excluded
@@ -12820,7 +12860,7 @@ resulting from the use of the Open Source software, which is not covered
 by the cases of gross negligence and fraud, shall therefore be
 considered valid[^1174].
 
-#### The copyleft principle {#_the_copyleft_principle_5}
+#### The copyleft principle
 
 A “copyleft” license is a license by which the licensor grants the right
 to use, distribute and modify the computer program to a licensee, under
@@ -12854,7 +12894,7 @@ in the sense of copyright law, and therefore, the part of the code
 originating from Open Source software remains subject to the conditions
 of the Open Source license that has been granted by the original author.
 
-#### Remedies — Calculation of damages in case of infringement {#_remedies_8201_8212_8201_calculation_of_damages_in_case_of_infringement}
+#### Remedies — Calculation of damages in case of infringement
 
 One of the remedies in case of breach of the FOSS license being the
 possibility to claim for damages, the delicate question consists in
@@ -12889,7 +12929,7 @@ judicial costs of the prevailing party, as it is common in Switzerland
 for the losing party to bear the judicial costs of the adverse
 party[^1182].
 
-FOSS case law in Switzerland {#_foss_case_law_in_switzerland}
+FOSS case law in Switzerland
 ----------------------------
 
 As of today, we are not aware of the reporting of any case law on FOSS
@@ -12901,7 +12941,7 @@ Buildings and Logistic. This case however did not relate to any legal
 issue in relation with Open Source Software but was in fact about Swiss
 public procurement issues.
 
-Legal procedures {#_legal_procedures_2}
+Legal procedures
 ----------------
 
 We will start by analyzing briefly the applicable principles of conflict
@@ -12910,7 +12950,7 @@ application of Swiss law. We will then provide the reader with a short
 overview of possible judicial proceedings in Switzerland in case of
 infringement or breach of the FOSS license.
 
-### Application of Swiss law pursuant to private international law (PIL) {#_application_of_swiss_law_pursuant_to_private_international_law_pil}
+### Application of Swiss law pursuant to private international law (PIL)
 
 In most cases, infringement and breach of a FOSS license will involve
 foreign players located in different countries. It is therefore
@@ -12963,9 +13003,9 @@ occurred[^1189]. This ability for the parties to choose the lex fori is
 however limited to the question of the computation of damages and does
 not cover the preliminary question of infringement[^1190].
 
-### Overview of the possible proceedings in Switzerland in case of infringement {#_overview_of_the_possible_proceedings_in_switzerland_in_case_of_infringement}
+### Overview of the possible proceedings in Switzerland in case of infringement
 
-#### Civil proceedings {#_civil_proceedings}
+#### Civil proceedings
 
 On January 1st, 2011, a new unified civil procedure act came into force
 in Switzerland, and all cantons are therefore subject to the same
@@ -12986,7 +13026,7 @@ evidence, for discovering the origin of counterfeiting goods, but it can
 also consist in the prohibition to use the contentious work, which will
 probably be the most useful in software cases[^1194].
 
-#### Criminal proceedings {#_criminal_proceedings}
+#### Criminal proceedings
 
 Along with civil proceedings that can be initiated in case of breach of
 a FOSS license, the claimant may also press criminal charges against the
@@ -12998,7 +13038,7 @@ acted *intentionally*[^1195]. A new unified criminal procedure code also
 came into force on January 1st, 2011, and is now applied by all cantons
 in all criminal cases.
 
-Recommended literature or websites {#_recommended_literature_or_websites}
+Recommended literature or websites
 ----------------------------------
 
 For more information about Open Source software and applicable Swiss
@@ -13017,15 +13057,15 @@ law, we recommend the following specialized literature:
     Einsatz offener Software in des Schweizerisches Bundesverwaltung
     (Projekt OPUS).
 
-Taiwan {#chap.taiwan}
+Taiwan
 ======
 
 author:\[Lin,Lucien Cheng-Hsia\]
 
-Introduction to software protection under Taiwan law {#sec_introductiontaiwan}
+Introduction to software protection under Taiwan law
 ----------------------------------------------------
 
-### Body of law {#sec_bodytaiwan}
+### Body of law
 
 Copyright protection of software in Taiwan is regulated under the
 general Copyright Act of 10 Feb. 2010. Instead of drafting specialized
@@ -13058,7 +13098,7 @@ Property Court, the written mediation settlement statement shall have
 the same force as a final and unappeasable court judgment and constitute
 a writ of execution by itself as well.
 
-### Copyright Act: Object of protection {#sec_protectiontaiwan}
+### Copyright Act: Object of protection
 
 Computer programs are protected by copyrights as one special work in the
 intellectual domain similar to literary and artistic creation, this is
@@ -13097,7 +13137,7 @@ registering or copying the reality or executing a functional routine.
 make it qualified as an own intellectual creation of the author, no
 matter how minor the originality is.
 
-### Authors/Beneficiaries {#sec_authorstaiwan}
+### Authors/Beneficiaries
 
 Article 11 and 12 of the Copyright Act provide that the author of a
 computer program should be the one who actually does the design and
@@ -13128,7 +13168,7 @@ explanation for its lawful exploitation status on the work, whether this
 privilege is recorded in writing or not, it applies to the commissioning
 party as well at law.
 
-### Exclusive rights {#sec_exclusivetaiwan}
+### Exclusive rights
 
 The exclusive economic rights defined by the Copyright Act are listed
 from article 22 to 29, the whole package included (a) reproduce the
@@ -13143,7 +13183,7 @@ to other copyright works under the Copyright Act without specific
 differences, all the exclusive rights listed above could be covered in
 the software area, as long as it is applied in a realizable way.
 
-### Exceptions to exclusive rights {#sec_exceptionstaiwan}
+### Exceptions to exclusive rights
 
 Besides making a legal plea and excuse by asserting the fair use
 doctrine based on article 44 to 66 as limitations to exclusive rights,
@@ -13175,7 +13215,7 @@ economic rights holder grants its consent otherwise.”*  article 59 cited
 above is deemed as compulsory law. Therefore, contractual agreements in
 conflict with that are held to be nonexistence.
 
-### Moral rights {#sec_moraltaiwan}
+### Moral rights
 
 Moral rights are highly valued by the Copyright Act in Taiwan and
 applied to computer programs if realizable in essence like other
@@ -13210,27 +13250,23 @@ the “Principle of Freedom of Contract” shall be honored.
 Moral rights protected by the Copyright Act in Taiwan consist of three
 parts:
 
-Right of publicly release
+Right of publicly release  
+*The author of a work shall enjoy the right to publicly release the
+work* provided by article 15 of the Copyright Act;
 
-:   *The author of a work shall enjoy the right to publicly release the
-    work* provided by article 15 of the Copyright Act;
+Right of paternity  
+*The author of a work shall have the right to indicate its name, a
+pseudonym, or no name on the original or copies of the work, or when the
+work is publicly released. The author has the same right to a derivative
+work based on its work* provided by article 16 of the Copyright Act;'
 
-Right of paternity
+Right of integrity  
+*The author has the right to prohibit others from distorting,
+mutilating, modifying, or otherwise changing the content, form, or name
+of the work, thereby damaging the author’s reputation* provided by
+article 17 of the Copyright Act.
 
-:   *The author of a work shall have the right to indicate its name, a
-    pseudonym, or no name on the original or copies of the work, or when
-    the work is publicly released. The author has the same right to a
-    derivative work based on its work* provided by article 16 of the
-    Copyright Act;'
-
-Right of integrity
-
-:   *The author has the right to prohibit others from distorting,
-    mutilating, modifying, or otherwise changing the content, form, or
-    name of the work, thereby damaging the author’s reputation* provided
-    by article 17 of the Copyright Act.
-
-### Term of protection {#sec_termtaiwan}
+### Term of protection
 
 For economic rights of computer programs, the same terms to works of
 literature, science, and art apply: 50 years as of December 31 following
@@ -13251,7 +13287,7 @@ Hence, moral rights of copyrights shall not perish after the death of
 the author, but it would, to some extent, be applied in a more moderated
 and compromised way.
 
-### Copyright assignment {#sec_assignmenttaiwan}
+### Copyright assignment
 
 As mentioned previously about the default setting by article 11 and 12
 of the Copyright Act, the authorship of a computer program is attributed
@@ -13289,7 +13325,7 @@ agreement on a written document or through a similar method like that to
 preserve the related information as many as possible in order to clearly
 record the details of the stipulations.
 
-### Special measures {#sec_measurestaiwan}
+### Special measures
 
 Some articles of Copyright Act are deemed as special provisions to the
 general Criminal Code, those provisions applied to computer programs
@@ -13325,7 +13361,7 @@ Court, the written mediation settlement statement shall have the same
 force as a final and unappealable court judgment and constitute a writ
 of execution by itself as well.
 
-Unprotected software and public domain software {#sec_publicdomaintaiwan}
+Unprotected software and public domain software
 -----------------------------------------------
 
 As set forth above, two fundamental criteria should be met on computer
@@ -13376,7 +13412,7 @@ term of protection. In other words, the abandoning statements made by
 the rightholders will render computer programs as unprotected softwares,
 and therefore into the Public Domain area.
 
-Analysis of FOSS under Taiwan law {#sec_analysistaiwan}
+Analysis of FOSS under Taiwan law
 ---------------------------------
 
 Provided by article 10 of the Copyright Act, author of a work shall
@@ -13412,7 +13448,7 @@ license agreements based on the same fundamental copyright mechanisms
 but adjusted to some extent by contractual agreements for matching a new
 collaborative development methodology.
 
-### Copyrights {#sec_copyrightstaiwan}
+### Copyrights
 
 One very essential problem to the FOSS project is that it is made with
 accumulated multiple authors with or without coordination. On account of
@@ -13473,7 +13509,7 @@ supplementary stipulations under the respective FOSS licenses. This
 might be a much more rational and workable way for an overall copyright
 protection on FOSS projects for the time being.
 
-### Qualification of FOSS {#sec_qualificationtaiwan}
+### Qualification of FOSS
 
 As mentioned above, with the essential originality the computer programs
 will be subjected to copyright protection automatically, this is clearly
@@ -13502,7 +13538,7 @@ circulation between the Copyright Act and specific FOSS licensing
 agreement should the FOSS licensing mode be able to operate smoothly as
 it sets to be.
 
-#### Rights of the original co-authors {#sec_cooauthorstaiwan}
+#### Rights of the original co-authors
 
 Provided in article 8 of the Copyright Act *“A joint work is a work that
 has been completed by two or more persons where the creation of each
@@ -13551,7 +13587,7 @@ for an infringement of copyrights and demand remedies from the
 infringer, either acting as a moral rights holder or based on its share
 of economic rights ownership.
 
-#### Authors of derivative works {#sec_derivstaiwan}
+#### Authors of derivative works
 
 Regulated in article 6 of the Copyright Act *“A creation adapted from
 one or more pre-existing works is a derivative work and shall be
@@ -13600,7 +13636,7 @@ related information about the validity and enforcement of those
 impositions will be presented later in the “Copyright principle” section
 of this chapter.
 
-#### The assignment of copyrights {#sec_assignmenttaiwan2}
+#### The assignment of copyrights
 
 In order to gather all related copyrights in a FOSS project to make an
 efficient management or timely disposal of the FOSS project, sometimes
@@ -13638,7 +13674,7 @@ devoted to one or multiple FOSS projects, to initiate management actions
 and other civil, criminal, and administrative suits and complaints, is
 actually quite feasible and practicable at law in Taiwan.
 
-### Moral copyrights {#sec_moralcrtaiwan}
+### Moral copyrights
 
 As aforementioned, moral rights of copyrights are highly valued by the
 Copyright Act in Taiwan and they applied to computer programs as well as
@@ -13682,7 +13718,7 @@ FOSS project will not be limited. This understanding could be fairly
 deemed as one acknowledged renouncement of its moral rights with scope
 revelation and explanation.
 
-### Enforcing FOSS licenses licenses {#sec_enforcingtaiwan}
+### Enforcing FOSS licenses licenses
 
 As mentioned previously, due to the lack of corresponding mechanisms
 either in substantive law or in adjective law for the unilateral act,
@@ -13699,7 +13735,7 @@ has the contract been validly reached with all the legal formalities
 required? Based on these two points, we shall further the analysis on
 the FOSS licenses validity and enforceability hereunder.
 
-#### Contracting parties {#sec_partiestaiwan}
+#### Contracting parties
 
 According to article 153, paragraph 1 of the Civil Code *“When the
 parties have reciprocally declared their concordant intent, either
@@ -13775,7 +13811,7 @@ exploited by the recipients, upon that time the contract between the
 rightholders and the respective recipients shall be validly sustained at
 law.
 
-#### Validity of the FOSS licenses {#sec_validitytaiwan}
+#### Validity of the FOSS licenses
 
 For the full validity of a contract, not only the intent should be
 reached concordantly between both parties, but also the contents and
@@ -13785,20 +13821,16 @@ are basically provided in article 71, 72, and 73 of the Civil Code. And
 all the principles mentioned hereunder are equally applied to the
 contract as well as a type of the juridical act, such as:
 
-Article 71
+Article 71  
+*A juridical act which violates an imperative or prohibitive provision
+of the act is void except voidance is not implied in the provision.*
 
-:   *A juridical act which violates an imperative or prohibitive
-    provision of the act is void except voidance is not implied in
-    the provision.*
+Article 72  
+*A juridical act which is against public policy or morals is void.*
 
-Article 72
-
-:   *A juridical act which is against public policy or morals is void.*
-
-Article 73
-
-:   *A juridical act which does not follow the formality required by the
-    act is void unless otherwise provided by the act.*
+Article 73  
+*A juridical act which does not follow the formality required by the act
+is void unless otherwise provided by the act.*
 
 Moreover, because of the “All Rights Reserved” principle set forth by
 the Copyright Act, exploiting computer programs without the author’s
@@ -13840,7 +13872,7 @@ speaking, a FOSS license contract is evaluated to be sustained according
 to the “Principle of Freedom of Contract” and the reviewing based on the
 three criteria listed above.
 
-### Waiver and liability {#sec_waivertaiwan}
+### Waiver and liability
 
 Typically, there will be certain exoneration clauses declared as a
 disclaimer of warranty and limitation of liability in the FOSS licenses.
@@ -13891,7 +13923,7 @@ buyer, otherwise he will still be held responsible for the quality of it
 offering. That a FOSS project being part of the offering or not does not
 affect this legal demand on a compulsory basis.
 
-### The copyleft principle {#sec_copylefttaiwan}
+### The copyleft principle
 
 Copyleft is not necessarily an ideological term though it is indeed
 created to make a contrast to the notion of copyright. Its discourse,
@@ -13911,7 +13943,7 @@ the central idea of the notion copyleft “Authors requiring their
 original and derivative works to be continuously available under the
 same rules to the public.”
 
-#### Principle {#sec_principletaiwan}
+#### Principle
 
 The classic model of such a licensing mechanism is the respective
 versions of GNU licenses[^1213] drafted by Free Software Foundation.
@@ -13971,7 +14003,7 @@ will be considered as derivative works of the GPL-licensed component,
 and the entire software project will fall within the expansive scope of
 the License Inheritance of the GPL.
 
-#### Validity {#sec_validitytaiwan2}
+#### Validity
 
 To find the answer about how the copyleft principle can be sustained and
 held valid under Taiwan’s legal system, three questions should be
@@ -14074,7 +14106,7 @@ the protection of public interests. Therefore it should be sustained and
 held valid at law in Taiwan, either in form or in substantive evaluation
 aspect.
 
-### Damages {#sec_damagestaiwan}
+### Damages
 
 As set forth previously, some articles of Copyright Act in Taiwan are
 deemed as special provisions to the general Criminal Code. Therefore,
@@ -14128,7 +14160,7 @@ matter. If the damaging activity was intentional and / or serious, the
 compensation set by the court may be increased to five million New
 Taiwan Dollars maximum.
 
-FOSS cases in Taiwan {#sec_casestaiwan}
+FOSS cases in Taiwan
 --------------------
 
 By the time the Taiwan chapter finished, there is still no FOSS cases
@@ -14161,15 +14193,15 @@ courts should be sustained thereafter in FOSS cases as well, because the
 “taking/downloading without additional notice of acceptance” mechanism
 is fairly applied to them without a difference to Freewares.
 
-United Kingdom {#chap.uk}
+United Kingdom
 ==============
 
 author:\[Katz,Andrew\] author:\[Mitchell QC,Iain G.\]
 
-Introduction to software protection under United Kingdom law {#sec_introduction_uk}
+Introduction to software protection under United Kingdom law
 ------------------------------------------------------------
 
-### Body of law {#sec_bodyuk}
+### Body of law
 
 Unlike the other countries covered in this book, the United Kingdom
 comprises not one but three separate jurisdictions: England & Wales,
@@ -14203,7 +14235,7 @@ Council Directive of 14 May 1991 on the Legal Protection of computer
 programs (91/250/EEC)[^1220] into United Kingdom law (referred to as the
 “Software Directive”).
 
-### Copyright Act: Object of protection {#sec_uk_object}
+### Copyright Act: Object of protection
 
 Computer programs (including the preparatory material) are protected by
 copyright and are equivalent to literary works within the meaning of the
@@ -14223,7 +14255,7 @@ is incorporeal in nature and therefore copyright falls to be regarded as
 incorporeal moveable property, and, (according to the terminology of
 English law and Northern Irish Law) incorporeal personal property.
 
-### Authors/Copyright owners {#sec_uk_authors}
+### Authors/Copyright owners
 
 The Copyright Act provides that the copyrights in a work belong to the
 author, unless the author is an employee who created the work “in the
@@ -14243,7 +14275,7 @@ services, the entity will not obtain the copyright in the software, and
 will, instead, obtain some form of implied licence, the scope of which
 is unclear.[^1224]
 
-### Exclusive rights {#sec_uk_Exclusiverights}
+### Exclusive rights
 
 According to section 2(1) of the Copyright Act the owner of copyright
 (including copyright in computer programs) has the exclusive economic
@@ -14251,17 +14283,17 @@ rights set out in Chapter II of the Copyright Act (see section 16(1)).
 These are (following the sub-paragraph designations in the Act) the
 right :
 
-\(a) to copy the work;
+(a) to copy the work;
 
-\(b) to issue copies of the work to the public;
+(b) to issue copies of the work to the public;
 
-\(c) to rent or lend the work to the public;
+(c) to rent or lend the work to the public;
 
-\(d) to perform, show or play the work in public;
+(d) to perform, show or play the work in public;
 
-\(e) to communicate the work to the public;
+(e) to communicate the work to the public;
 
-\(f) to make an adaptation of the work or to do any of the above in
+(f) to make an adaptation of the work or to do any of the above in
 relation to an adaptation.
 
 All these rights theoretically apply in the case of a computer program,
@@ -14288,30 +14320,30 @@ Translation of a computer program into another “language or code” (which
 would presumably include compilation and assembly) is explicitly
 expressed to be making an adaptation (section 21(4)).
 
-### Exceptions to exclusive rights {#sec_uk_ExceptionstoExclusiveRights}
+### Exceptions to exclusive rights
 
 Lawful users of computer programs are guaranteed the following rights
 (which are neither an infringement of copyright, nor a breach of any
 term of a contract purporting to restrict them[^1226])
 
-\(a) The making of backup copies (to the extent they are necessary)
+(a) The making of backup copies (to the extent they are necessary)
 
-\(b) decompilation; and
+(b) decompilation; and
 
-\(c) observing, studying and testing
+(c) observing, studying and testing
 
 (see further below)
 
-\(1) In the absence of specific contractual provisions, no authorization
+(1) In the absence of specific contractual provisions, no authorization
 by the rightholder is required for acts necessary for the use (including
 copying or adapting[^1227]) of the computer program by the lawful
 acquirer or for error correction[^1228].
 
-\(2) A lawful user of a computer program may not be prevented from making
+(2) A lawful user of a computer program may not be prevented from making
 any backup copy, insofar as that copy is necessary to use the
 program[^1229].
 
-\(3) A lawful user of a copy of a computer program is entitled, without
+(3) A lawful user of a copy of a computer program is entitled, without
 the authorization of the rightholder, to observe, study or test the
 functioning of the program in order to determine the ideas and
 principles which underlie any element of the program if he does so while
@@ -14337,12 +14369,12 @@ the obligation to keep the information confidential.
 The exercise of these statutory rights is often difficult in practice
 because their scope is unclear.
 
-### Moral rights {#sec_uk_Moralrights}
+### Moral rights
 
 Software is not subject to moral rights under United Kingdom law (and
 neither are computer generated works)[^1232].
 
-### Term of protection {#sec_uk_Termofprotection}
+### Term of protection
 
 The same term as for works of literature and art applies: 70 years as
 from the 1st January in the year following the death of the
@@ -14359,7 +14391,7 @@ expired[^1234].
 Where the authors are joint, the reference to the death of an author
 should be construed as the death of the last remaining author[^1235].
 
-### Copyright assignment and assignation {#_copyright_assignment_and_assignation}
+### Copyright assignment and assignation
 
 As we have seen, in the absence of any agreement to the contrary, any
 copyright work created by an employee for an employer in the course of
@@ -14446,7 +14478,7 @@ insolvency, and virtually no similarity at all in the laws of
 succession. It is beyond the scope of the present work to discuss these
 matters.
 
-### Technical devices and effective technological measures {#sec_uk_TechnicalDevices}
+### Technical devices and effective technological measures
 
 A "technical device" is any device intended to prevent or restrict acts
 that are not authorised by the copyright owner of that work and are
@@ -14487,7 +14519,7 @@ measure is manufactured, supplied etc., then the copyright owner,
 exclusive licensee and owner of the effective technological measure have
 similar rights against the manufacturer, supplier etc[^1248].
 
-### Enforcement measures {#sec_uk_Enforcement}
+### Enforcement measures
 
 The Copyright Act contains provisions intended to assist in the
 enforcement of copyrights.
@@ -14564,7 +14596,7 @@ in embedded devices may potentially invoke these powers where the
 firmware has been released under the GPL, but the relevant conditions of
 the GPL are not being complied with[^1257].
 
-Unprotected software, public domain software and orphan works {#sec_uk_unprotected}
+Unprotected software, public domain software and orphan works
 -------------------------------------------------------------
 
 Only software that is original in the sense that it is an intellectual
@@ -14645,7 +14677,7 @@ licence may be a bare licence, or a contractual licence. Use outside the
 scope of a licence (or otherwise permitted by law) will amount to a
 breach of copyright.
 
-Analysis of FOSS under United Kingdom law {#sec_uk_analysis}
+Analysis of FOSS under United Kingdom law
 -----------------------------------------
 
 In essence, a licence is a permission to do something which would
@@ -14723,7 +14755,7 @@ term permitting termination on reasonable notice. In the case of FOSS
 licences the Court may be reluctant to imply a term that the contract is
 terminable at will (on whatever notice), as explained below.
 
-### Copyrights {#sec_uk_Copyrights}
+### Copyrights
 
 Although FOSS can be written by one person or be owned by one legal
 entity (as a result of contributor assignments, for example), generally
@@ -14817,7 +14849,7 @@ It is not clear under English and Scots law how damages would be
 assessed for infringement of FOSS, including where the damages relate to
 a claim brought by one co-owner.
 
-### The assignment of copyrights {#sec_uk_Theassignment}
+### The assignment of copyrights
 
 In order to control the copyright situation better (to facilitate
 re-licensing, for example), it may be useful to collect all copyrights
@@ -14829,7 +14861,7 @@ facilitated by an assignment or assignation of the copyrights. As we
 have seen above, copyrights can be assigned at law only in writing, in a
 document signed by the assignor.
 
-### Moral rights {#sec_uk_moremoralrights}
+### Moral rights
 
 FOSS originated in the United States, and therefore attaches less
 importance to the moral rights of the author. The Open Source Definition
@@ -14849,7 +14881,7 @@ content creator (both before and after creation of any specific work),
 and copyright assignments and employment contracts frequently contain
 general waivers.
 
-### Enforcing FOSS licenses {#sec_uk_EnforcingFOSS}
+### Enforcing FOSS licenses
 
 In one sense, it is meaningless to talk about FOSS licences being
 “enforceable”.
@@ -14902,7 +14934,7 @@ and, it is submitted, have little difficulty in coming to the view that
 there is an implied term that the license duration is perpetual, and
 that the licence cannot be terminated by the proprietor at will.
 
-#### Parties to the licences {#_parties_to_the_licences}
+#### Parties to the licences
 
 If one author makes his work available under a FOSS license, the answer
 is clear: the licence is granted by the author to the licensee. In case
@@ -14930,7 +14962,7 @@ convey a covered work, the recipient automatically receives a license
 from the original licensors, to run, modify and propagate that work,
 subject to this License[^1268]
 
-#### Validity of the FOSS licence as a contract {#_validity_of_the_foss_licence_as_a_contract}
+#### Validity of the FOSS licence as a contract
 
 An author chooses a FOSS license because he wants to distribute his work
 and make it available to others — possibly with certain restrictions.
@@ -15013,7 +15045,7 @@ almost invariably be a breach of copyright, there is little value in a
 user trying to dispute the existence or validity of the licence under
 either English or Scots Law.
 
-#### Violation of licence terms {#_violation_of_licence_terms}
+#### Violation of licence terms
 
 Where a user is using software subject to copyright other than in
 accordance with the conditions contained in a licence, then that use
@@ -15053,7 +15085,7 @@ granted certain powers to terminate unprofitable or onerous contracts,
 which may include FOSS licences granted under contract[^1270]. Similar
 provisions apply in Scotland.
 
-### Waiver and liability {#sec_uk_Waiver}
+### Waiver and liability
 
 There is, under English and Scots Law, no automatic connection between
 the ownership of copyright, and liability arising from a defect in that
@@ -15160,9 +15192,9 @@ chain of a dangerous product[^1278]. However, the CPA does provide a
 defence to a provider of a dangerous component where that component was
 supplied free and not with a view to a profit.[^1279]
 
-### The copyleft principle {#sec_uk_Thecopyleft}
+### The copyleft principle
 
-#### Principle {#_principle_9}
+#### Principle
 
 A characteristic found in different (but not all[^1280]) FOSS licenses
 is the so-called “copyleft” principle. FOSS licenses which incorporate
@@ -15212,7 +15244,7 @@ infringing FOSS code, either at a cost of impaired functionality, or
 alternatively by obtaining or writing code with similar functionality
 from elsewhere.
 
-### Damages {#sec_uk_Damages}
+### Damages
 
 Damage caused by copyright violations are compensated for under English
 and Scots law by the applying one of two measures of damages, as
@@ -15260,18 +15292,18 @@ expended. In Scotland, the amount of the reduction in expenses is more
 difficult to predict, but there will almost always be a reduction which
 can be substantial.
 
-FOSS cases in the United Kingdom {#sec_uk_cases}
+FOSS cases in the United Kingdom
 --------------------------------
 
 There have not yet been any reported cases (June 2014).
 
-Legal procedures {#sec_uk_procedures}
+Legal procedures
 ----------------
 
 Stephen Mason kindly reviewed this section from a litigator’s
 perspective.
 
-### England {#sec_uk_England}
+### England
 
 FOSS-related cases in England will typically be copyright infringement
 cases, and will be heard in the civil courts. Simple cases may be heard
@@ -15348,7 +15380,7 @@ High Court or the Court of Appeal to refer the question to the European
 Court of Justice, though such a reference is not mandatory. However, a
 reference from the Supreme Court in such a case would be mandatory.
 
-### Scotland {#sec_uk_Scotland}
+### Scotland
 
 Cases in Scotland relating to FOSS may be likely to be seeking either
 remedies for copyright infringement or remedies available under the
@@ -15496,7 +15528,7 @@ refer the question to the European Court of Justice, though such a
 reference is not mandatory. However, a reference from the Supreme Court
 in such a case would be mandatory.
 
-### Recommended literature {#_recommended_literature_7}
+### Recommended literature
 
 -   Law and the Internet Third edition, ed. Edwards and Waelde, Hart
     Publishing Oxford 2009, esp. Chapter 11, Andres Guadamuz
@@ -15507,15 +15539,15 @@ in such a case would be mandatory.
 -   Stephen Mason, general editor, Electronic Evidence (3rd edition,
     LexisNexis Butterworths, 2012)
 
-United States of America {#chap.usa}
+United States of America
 ========================
 
 author:\[Webbink,Mark H.\]
 
-Introduction to software protection under United States law {#sec_introductionusa}
+Introduction to software protection under United States law
 -----------------------------------------------------------
 
-### Body of law {#sec_bodyusa}
+### Body of law
 
 Rights in software in the United States arise from a mixture of federal
 and state law and the interpretation of those laws by the various
@@ -15555,7 +15587,7 @@ that will govern their relationship. As a consequence, parties may,
 within limits, contract away rights and/or protections otherwise granted
 under copyright, patent, trademark or trade secret law.
 
-### Copyright protection of software {#sec_protectionusa}
+### Copyright protection of software
 
 Software is protected by copyright and is equivalent to literary works
 within the meaning of the Berne Convention for the Protection of
@@ -15580,7 +15612,7 @@ directly or with the aid of a machine or device”[^1305], enforcement of
 copyright in the U.S. requires registration of the copyright with the
 U.S. Copyright Office.[^1306]
 
-### Authors/Beneficiaries {#sec_authorsusa}
+### Authors/Beneficiaries
 
 Section 102 of the U.S. Copyright Act (the “Act”) provides copyright
 protection for “original works of authorship fixed in any tangible
@@ -15589,7 +15621,7 @@ ownership interests exist in the copyright commences with the reduction
 of the expression to some tangible medium, whether paper or an
 electronic file.
 
-#### The sole developer {#_the_sole_developer}
+#### The sole developer
 
 Section 201(a) of the Act provides that copyright protection in a work
 “vests initially in the author or authors of the work.”[^1308] In the
@@ -15599,7 +15631,7 @@ expression. That is, once she types and saves the code, fixing it in the
 computer’s memory, she now owns the copyright in that code. Nothing more
 is required of the developer to own the copyright.
 
-#### Works for hire {#_works_for_hire}
+#### Works for hire
 
 In the case of a developer writing software code within the scope of her
 employment, the resulting work is known as a “work made for hire.” With
@@ -15620,7 +15652,7 @@ to a collective work.[^1311] Thus, the transfer of ownership of software
 produced outside of the scope of employment must be supported by express
 contractual language in writing.[^1312]
 
-#### Joint ownership {#_joint_ownership}
+#### Joint ownership
 
 Section 201(a) of the Act further provides that “\[t\]he authors of a
 joint work are co-owners of copyright in the work.”[^1313] Joint
@@ -15679,7 +15711,7 @@ other co-owners, in any way she may wish.[^1323] Co-owners of a
 copyright do, however, owe to each other a duty to account for any
 income derived from their use or license of the work.[^1324]
 
-#### The derivative work {#_the_derivative_work}
+#### The derivative work
 
 The Act also protects derivative works and compilations.[^1325] A
 derivative work is a work based in whole, or in substantial part, upon a
@@ -15704,7 +15736,7 @@ copyright in only that portion of the derivative work he contributed and
 not in any portion of the pre-existing work upon which the derivative
 work is based.[^1330]
 
-#### Compilations and collective works {#_compilations_and_collective_works}
+#### Compilations and collective works
 
 Finally, the Act protects interests in compilations, including
 collective works.[^1331] A compilation is “a work formed by the
@@ -15739,7 +15771,7 @@ while ownership of the collective work, including contributions made by
 the author of the collective work, vests in the author of the collective
 work.[^1337]
 
-#### Joint works vs. derivative works vs. compilations {#_joint_works_vs_derivative_works_vs_compilations}
+#### Joint works vs. derivative works vs. compilations
 
 Joint works of authorship share similarities with derivative works and
 compilations and, but for the intention of the authors, could be seen as
@@ -15759,7 +15791,7 @@ work.[^1342] On the other hand, if the intention to merge occurs only
 after creation of the work, then such a merger results in a derivative
 work or a compilation.[^1343]
 
-### Exclusive rights {#sec_exclusiveusa}
+### Exclusive rights
 
 The right holder’s exclusive rights to do or to authorize are set out in
 Sec. 106 of the Act.[^1344] The author of software has the exclusive
@@ -15773,9 +15805,9 @@ legal rights in a copy of the work.[^1346] However, a party receiving a
 copy under such subsequent distribution remains bound by any contractual
 limitations to which the original recipient agreed.[^1347]
 
-### Exceptions to exclusive rights {#sec_exceptionsusa}
+### Exceptions to exclusive rights
 
-#### Functionality exception to copyright protection {#_functionality_exception_to_copyright_protection}
+#### Functionality exception to copyright protection
 
 When developing computer programs it is inevitable that some of the code
 will be functional in nature. As stated earlier, the Act awards
@@ -15838,7 +15870,7 @@ An extensive discussion on the functionality exception to copyright in
 software and its application may be found in an order of the Court in
 *Oracle America, Inc. v. Google, Inc.*[^1356]
 
-#### Idea/Expression merger exception to copyright protection {#_idea_expression_merger_exception_to_copyright_protection}
+#### Idea/Expression merger exception to copyright protection
 
 Under the Act, in no case does copyright protection extend to any idea
 regardless of the form in which it is described, explained, illustrated,
@@ -15926,7 +15958,7 @@ important aspect of this holding by the Court was that Java
 specifications constitute unprotectable ideas and that it is only an
 implementation of a specification that constitutes protected expression.
 
-#### Scènes à faire in software exception to copyright protection {#_scènes_à_faire_in_software_exception_to_copyright_protection}
+#### Scènes à faire in software exception to copyright protection
 
 The Act does not directly define the scènes à faire doctrine. Scènes à
 faire refers to aspects of a work that are indispensable or standard
@@ -16007,7 +16039,7 @@ bits of code to carry out standard functions, we can expect to see the
 scènes à faire doctrine applied with greater regularity in software to
 deny copyright protection.
 
-#### Public domain exception to copyright protection {#_public_domain_exception_to_copyright_protection}
+#### Public domain exception to copyright protection
 
 Works eligible for copyright protection may nonetheless enter the public
 domain, i.e., no longer enjoy that copyright protection. For example, a
@@ -16059,7 +16091,7 @@ intent. The Creative Commons Copyright-Only Dedication statement gives
 some indication of the complexity of committing a work to the public
 domain.[^1388]
 
-#### Facts in software exception to copyright protection {#_facts_in_software_exception_to_copyright_protection}
+#### Facts in software exception to copyright protection
 
 > Facts, whether alone or as part of a compilation, are not original and
 > therefore may not be copyrighted. A factual compilation is eligible
@@ -16122,7 +16154,7 @@ showing equivalences, or a target name may all be merely factual
 statements within the context of the software and, thus, not eligible
 for copyright protection.
 
-#### Fair use {#_fair_use}
+#### Fair use
 
 Originally developed by the courts through case law, certain uses or
 reproductions of a work protected by copyright are considered to be
@@ -16160,7 +16192,7 @@ Unless the use falls within one of the permissible statutory uses, there
 is no way to conclusively know whether the use is fair without costly
 and expensive litigation.
 
-#### Statutory limitations on copyright in software {#_statutory_limitations_on_copyright_in_software}
+#### Statutory limitations on copyright in software
 
 Sec. 117 of the Copyright Act imposes statutory limitations on the
 rights of authors or holders of copyright in computer programs by
@@ -16172,7 +16204,7 @@ not an infringement to activate a machine for maintenance and repair
 purposes and incidental to such activation run the software installed on
 the machine.[^1397]
 
-### Moral rights {#sec_moralusa}
+### Moral rights
 
 Unlike the copyright laws of many European nations, the United States
 does not generally recognize moral rights in copyrighted works. The
@@ -16181,7 +16213,7 @@ motion pictures, electronic publications, and applied art.[^1398] As a
 consequence, the ability to assert moral rights under copyright in
 computer programs would be rare.
 
-### Term of protection {#sec_protectionusa2}
+### Term of protection
 
 In the United States the duration of copyright in computer programs is
 dependent on the nature of the authorship. Where the computer program
@@ -16202,7 +16234,7 @@ derivative work, compilation or collective work hold independent
 copyrights. Thus, each protection term is calculated separately under
 the general rule.
 
-### Copyright assignment {#sec_assignmentusa}
+### Copyright assignment
 
 Under U.S. copyright law the ownership of a copyright may be transferred
 in whole or in part by any means of conveyance or by operation of law,
@@ -16239,9 +16271,9 @@ prior to the date of termination shall survive such termination, but
 only in the form in which the derivative work existed at the time of
 such termination.[^1410]
 
-### Enforcement {#sec_enforcementusa}
+### Enforcement
 
-#### Infringement {#_infringement}
+#### Infringement
 
 Enforcement of copyright in software where infringement occurs is no
 different than for other matter subject to copyright protection.
@@ -16270,7 +16302,7 @@ courts.[^1418] This will be true even when breach of contract claims are
 asserted so long as at least one claim lies solely in copyright and such
 copyright claim is the primary basis of the suit.[^1419]
 
-#### Breach of contract {#_breach_of_contract}
+#### Breach of contract
 
 Apart from the right to bring an action for infringement, licensor’s of
 software may also bring an action for breach of contract where the
@@ -16286,7 +16318,7 @@ right, injunctive relief will only be granted in breach of contract
 actions where such breach would result in irreparable harm that could
 not be adequately remedied by money damages.
 
-### Patent protection of software {#sec_patentusa}
+### Patent protection of software
 
 Unlike copyright, patent protection of software is not automatic, and
 such protection is largely limited to the jurisdiction issuing the
@@ -16324,7 +16356,7 @@ patents related to software may be infringed by numerous computer
 programs, and any computer program may infringe the claims of numerous
 patents.
 
-#### Exclusive rights {#_exclusive_rights_4}
+#### Exclusive rights
 
 A patent holder in the U.S. has the exclusive right to make, have made,
 use, sell, or import any product made by means of a claimed process or
@@ -16332,7 +16364,7 @@ product embodying the claimed invention.[^1423] As with copyright, these
 rights may be assigned or licensed to another either in whole or in
 part.
 
-#### Exhaustion and implied licenses {#_exhaustion_and_implied_licenses}
+#### Exhaustion and implied licenses
 
 Upon the unrestricted sale (as contrasted with the license) of a
 patented invention all patent rights in the invention are exhausted,
@@ -16369,7 +16401,7 @@ patent holder will not act. Finally, a court may impose legal estoppel
 on a patent holder who has licensed or assigned a right, received
 consideration, and then sought to derogate from the right granted.
 
-#### Term of protection {#_term_of_protection_6}
+#### Term of protection
 
 Patent protection in the U.S. is granted for a term of 20 years measured
 from the date of the filing of the patent application for all patents
@@ -16381,7 +16413,7 @@ years from the date of issue; this transition term phasing out on June
 Effective March 13, 2013, the U.S. joined most other national patent
 bodies in granting patent protection to the first party to file.[^1429]
 
-#### Extraterritorial reach {#_extraterritorial_reach}
+#### Extraterritorial reach
 
 Sec. 271(f) of the Patent Act[^1430] extends infringement liability to
 any party who “without authority supplies or causes to be supplied in or
@@ -16400,7 +16432,7 @@ liability accrued where the infringing act arises from the actual
 loading of the software onto a computer or the operation of the software
 on that computer.
 
-#### Infringement {#_infringement_2}
+#### Infringement
 
 Liability for patent infringement arises when a party “without authority
 makes, uses, offers to sell, or sells any patented invention, within the
@@ -16428,9 +16460,9 @@ Consequently, notice of infringement of patents related to software
 usually only arises upon the giving of written notice to the
 infringer.[^1437]
 
-### Other matters of law {#sec_otherusa}
+### Other matters of law
 
-#### Representations, warranties and disclaimers {#_representations_warranties_and_disclaimers}
+#### Representations, warranties and disclaimers
 
 Although there is a legal distinction between a representation (a fact
 that is true at the time of the making of an agreement) and a warranty
@@ -16459,13 +16491,13 @@ commonly done to conform to the safe harbor provisions of laws
 pertaining to warranties, including the Uniform Commercial Code and the
 Magnuson-Moss Warranty Act.[^1438]
 
-#### Liability and limitation {#_liability_and_limitation}
+#### Liability and limitation
 
 Under principles of contract law parties may agree to limit the scope of
 liability that may be imposed on a party under a license agreement, and
 such limitations are generally held to be valid.
 
-#### Export control {#_export_control}
+#### Export control
 
 Although there are numerous other laws that are applicable to the
 licensing of software, we only make mention of one here — export
@@ -16477,7 +16509,7 @@ that redistributes the software. As a consequence, most original
 distributors include in their license a notice of such obligations and
 liability.
 
-Analysis of FOSS under United States law {#sec_analysisusa}
+Analysis of FOSS under United States law
 ----------------------------------------
 
 Rights in FOSS under copyright, patent, and trademark law and the
@@ -16498,14 +16530,14 @@ licensed under the GPL) or no such condition (e.g., arguably the
 Berkeley Software Distribution (BSD) and MIT licenses impose no such
 conditions).
 
-FOSS cases in the United States {#sec_casesusa}
+FOSS cases in the United States
 -------------------------------
 
 There have been few cases in the U.S. that have addressed the
 enforcement of free and open source licenses. Many of the so-called free
 and open source cases have dealt primarily with trademark issues.
 
-### Jacobsen v. Katzer {#sec_jacobsenusa}
+### Jacobsen v. Katzer
 
 *Jacobsen v. Katzer*[^1440] is undoubtedly the most important of the
 cases addressing free and open source software in the U.S. At issue was
@@ -16541,7 +16573,7 @@ clearly established the enforceability of free and open source licenses
 containing at least one condition limiting a licensee’s right to
 exercise one or more rights granted under a copyright license.
 
-### Wallace v. International Business Machines Corp. {#sec_wallaceusa}
+### Wallace v. International Business Machines Corp.
 
 Although a bit of an odd case and one not directly related to the
 enforcement of a free and open source license, *Wallace v. IBM*[^1442]
@@ -16554,9 +16586,9 @@ agreement that facilitates production of new derivative works, and
 agreements that yield new products that would not arise through
 unilateral action are lawful.”[^1443]
 
-### Recommended literature {#_recommended_literature_8}
+### Recommended literature
 
-#### Recommended literature in the United States {#_recommended_literature_in_the_united_states}
+#### Recommended literature in the United States
 
 -   O. Johnny, M. Miller and M. H. Webbink: Copyright in Open Source
     Software — Understanding the Boundaries
@@ -16582,7 +16614,7 @@ unilateral action are lawful.”[^1443]
 
     <http://www.ifosslr.org/ifosslr/article/view/5>
 
-#### Comprehensive books {#_comprehensive_books_2}
+#### Comprehensive books
 
 -   Andrew M. St. Laurent: Understanding Open Source and Free Software
     Licensing (2008, O’Reilly Media)
@@ -16593,351 +16625,311 @@ unilateral action are lawful.”[^1443]
 -   Heather J. Meeker: The Open Source Alternative: Understanding Risks
     and Leveraging Opportunities (2008 John Wiley & Sons)
 
-Authors {#chap.authors}
+Authors
 =======
 
-Simone Aliprandi (Italy)
-
-:   (b. 1979) is an Italian attorney-at-law and researcher. He got an
-    additional degree in Public Administration Science and earned
-    a Ph.D. degree in Information Society at the Bicocca University
-    of Milan. He founded and still coordinates the Copyleft-Italia.it
-    project and has published numerous books devoted to openculture
-    and copyleft. He also collaborates as a legal consultant with Array
-    (<http://array.eu>).
-
-    <http://www.aliprandi.org>
-
-Juliette Ancelle (Switzerland)
-
-:   is an associate of the boutique law firm id est avocats sàrl. She
-    studied at the Universities of Lausanne and Montreal, as well as at
-    the New York University School of Law, where she graduated with
-    an LL.M. in 2009. She was admitted to the New York State Bar that
-    same year. She advises and represents clients mainly in business and
-    corporate matters as well as in intellectual property cases,
-    including open source. She maintains a on Social Media and
-    IP issues.
-
-    <http://www.idest.pro/?hl=en>
-
-Malcolm Bain (Spain)
-
-:   (b. 1966) is an attorney-at-law and partner at id law partners, a
-    Barcelona based boutique law firm specialising in ICT law. He is a
-    member of the editorial committee of the International Free and Open
-    Source Software Law Review, and lectures at several universities in
-    Spain on the legal aspects of free and open source law.
-
-    <http://www.id-lawpartners.com>
-
-Shane Coughlan
-
-:   is an expert in communication methods and business development. He
-    is best known for building bridges between commercial and
-    non-commercial stakeholders in the technology sector. His
-    professional accomplishments include establishing a legal department
-    for the main NGO promoting Free Software in Europe, building a
-    professional network of over 270 legal counsel and technical experts
-    across 4 continents, and aligning corporate and community interests
-    to launch the first law review dedicated to Free/Open
-    Source Software.
-
-Wouter Dammers (The Netherlands)
-
-:   (b. 1985) is an attorney-at-law at LAWFOX Advocatuur in Amsterdam,
-    The Netherlands. Wouter specializes in IT law, open source
-    compliance, e-commerce, privacy and IP law. Wouter is known for
-    providing practical legal advise involving IT and internet
-    related issues. He regularly drafts and reviews contracts involving
-    software development, IT projects and privacy compliance. Wouter is
-    familiar in conducting legal proceedings and providing
-    dispute resolution. Wouter finalized his Master Law and Technology
-    (cum laude, 2009) and his Master International and European Public
-    Law (with merit, 2008) at Tilburg University. Wouter regularly
-    blogs, tweets (@WouterDammers) and publishes on IT-related topics.
-
-    <https://www.lawfox.nl>
-
-Arnoud Engelfriet (Introduction)
-
-:   (b. 1974) is an IT lawyer and European patent attorney. He works as
-    partner at ICTRecht legal services in the Netherlands. In 2005,
-    while working for Royal Philips, he was involved in the software
-    patent debate surrounding the Directive and has the mental scars to
-    prove it.
-
-    With his computer science background Arnoud focuses on complex
-    legal/technical ICT issues and software licenses (in particular
-    open source). His blog Ius mentis is one of the most popular sites
-    on the subject of IT and law in the Netherlands. Arnoud is a
-    part-time teacher at the VU University of Amsterdam.
-
-    <http://ictrecht.nl/>
-
-Tim Engelhardt (Germany)
-
-:   (b. 1974) is an attorney-at-law at the Berlin-based law firm
-    JBB Rechtsanwälte. He graduated from the University of Munich and
-    Columbia Law School (LL.M.). He completed his doctoral thesis on the
-    EU law of geographical indications at the University of Zurich. In
-    his practice he specialises in various aspects of IT and IP law. His
-    particular focus is on FOSS issues, including both the enforcement
-    of FOSS rights and advising on licensing matters.
-
-    <http://www.jbb.de/en>
-
-Eli Greenbaum (Israel)
-
-:   is an attorney at Yigal Arnon & Co. in Jerusalem, specialising in
-    intellectual property law and transactions. He has an M.S. in
-    Applied Physics from Columbia University and a J.D. from Yale
-    Law School. Eli has published widely in the areas of open source
-    software and open hardware.
-
-    <http://www.arnon.co.il>
-
-Michel Jaccard (Switzerland)
-
-:   is the founder of id est avocats sàrl, and a widely respected tech
-    media, IP and corporate law expert. He studied and worked in
-    Lausanne, Geneva and New York and now teaches and publishes
-    extensively on legal issues relating to software licensing,
-    information technology, business process outsourcing structures,
-    data protection and online services. He regularly advises clients on
-    intellectual property and technology, as well as on corporate
-    acquisitions, disposals and collaboration. He has been a member of
-    the editorial committee of the IFOSS law review until Spring 2011.
-
-    <http://www.idest.pro/?hl=en>
-
-Till Jaeger (Germany)
-
-:   (b. 1969) is an attorney-at-law and partner at JBB Rechtsanwälte, a
-    Berlin based law firm. Till Jaeger is a founding member of the
-    Institute for Legal Questions on Free and Open Source
-    Software (ifrOSS) in Germany, which researches legal questions
-    regarding the Open Source model (<http://www.ifross.org>). He has
-    represented the gpl-violations.org project in several lawsuits to
-    enforce the GPL. Till Jaeger was a member of the Committee C in the
-    GPLv3 drafting process.
-
-    <http://www.jbb.de/en>
-
-Andrew Katz (United Kingdom)
-
-:   (b. 1966) is a partner at Moorcrofts LLP, a boutique law firm based
-    in the Thames Valley, England. He became a barrister in 1990 and in
-    1993 requalified (and now practises as) a solicitor. Prior to his
-    legal career, Andrew was a programmer. He is a founder editor of the
-    International Free and Open Source Software Law Review. He is a
-    visiting lecturer at Queen Mary College, University of London, and
-    sits on the legal advisory panel of the Open Rights Group, and the
-    UK panel for the Free Software Foundation Europe.
-
-    <http://www.moorcrofts.com>
-
-Lucien Cheng-Hsia Lin (Taiwan)
-
-:   (b. 1976) is a legal specialist and management advisor at "Open
-    Source Software Foundry, OSSF", a mission-oriented project launched
-    and sponsored by the highest academic institution in Taiwan,
-    Academia Sinica, from 2003. He is in charge of the analysis and
-    interpretation of FOSS licenses, the record and track of FOSS
-    business trends and models for OSSF office, and serves as the legal
-    lead of Creative Commons Taiwan from 2014. He is also a guest
-    lecturer at National Chiao Tung University located in
-    Hsinchu, Taiwan.
-
-    <http://www.openfoundry.org/en/about>
-
-Iain G. Mitchell QC (United Kingdom — Scotland)
-
-:   is in private practice as an Advocate (Barrister) in Scotland. He is
-    the Chairman of the Scottish Society for Computers & Law, Chairman
-    of the Faculty of Advocates Information Technology Group,
-    Co-convenor of the Scottish Lawyers European Group, and a Liveryman
-    of the Worshipful Company of Information Technologists. He holds
-    office as the United Kingdom representative on the Information
-    Technology committee of the CCBE and is a member of the IT Panel of
-    the Bar Council of England & Wales and of the Scottish Courts
-    Technology Forum. He is a member of the editorial committee of the
-    International Free and Open Source Software Law Review and was
-    editor of the former e-law review. He is recommended in the Legal
-    500 for IT Law and is rated in Band 1 for both IT Law and Public
-    Procurement Law in the Chambers Directory.
-
-Jongbaek Park (Korea)
-
-:   heads the Open Source Team as a senior partner at Bae Kim & Lee LLC,
-    an international law firm based in Korea.He also serves as the
-    president of Korea Open Source Law Center, an inter-disciplinary
-    organisation dedicated to research, training, providing solutions to
-    issues surrounding open source software and hosting annual
-    conference, FOSS Con,Korea with FSFE and NIPA. He is a widely
-    acknowledged expert in the field of open source software in Korea.
-    He has delivered a number of lectures about FOSS licenses at various
-    forums and conferences.The author would like to acknowledge
-    significant contributions to research by three attorneys, Youngduk
-    Rew, former legal coordinator at Korea Open Source Law Center, Hye
-    Jin Hwang and Nari Hong.
-
-Fabrice Perbost (France)
-
-:   is a partner in the Paris office of Kahn & Associés. Fabrice advises
-    companies in the field of intellectual property and technologies,
-    particularly as regards private and public contracts. In the course
-    of his activity, Fabrice has developed a specific expertise in the
-    Open Source model. Fabrice is a member of several IP/IT working
-    groups such as ITechLaw (International Technology Law Association)
-    and also a lecturer at two Paris universities.
-
-    <http://www.kahnlaw.com/en>
-
-Carlo Piana (Italy)
-
-:   is an Italian lawyer and a digital liberties activist. He is
-    external General Counsel to the Free Software Foundation Europe and
-    the President of the Board of the Protocol Freedom Foundation. He
-    advises and assists clients in matters concerning information
-    technology, Free and Open Source Software, data protection and
-    trademarks/domain names. He is a member of the editorial committee
-    of the International Free and Open Source Software Law Review.
-
-    <http://array.eu/>
-
-João Pedro Quintais (Portugal)
-
-:   is a PhD candidate at the Institute for Information Law (IViR),
-    University of Amsterdam. His current research focuses on alternative
-    models to copyright enforcement on the Internet. João Pedro holds an
-    LL.M in Intellectual Property and Competition Law from the Munich
-    Intellectual Property Law Center. He’s a qualified lawyer, member of
-    the Portuguese Bar Association, who has worked since 2004 in the
-    intellectual property and information technology areas, both as a
-    lawyer and as legal counsel for a multinational software house.
-
-    <http://www.ivir.nl/staff/quintais.html>
-
-Ana Ramalho (Portugal)
-
-:   is an Associate Professor of Intellectual Property at the University
-    of South Wales (United Kingdom). Her current research interests are
-    the aspects of the intersection between copyright law and European
-    Union law, in particular regarding matters of competence. Ana is
-    also part of several editorial boards and has served as an ad-hoc
-    consultant to IP related organizations such as World Intellectual
-    Property Organization (WIPO) or the European Patent Office (EPO).
-
-Andrew Rens (South Africa)
-
-:   (b 1968) is a South African law and technology scholar and attorney.
-    He is a Senior Lecturing Fellow at Duke Law School and an attorney
-    at Garratt Hugo & De Souza Incorporated, Johannesburg, South Africa.
-    He advises commercial and non-profit clients on open source
-    licenses, open media licences, open data, open hardware and
-    open standards.
-
-    <http://opencounsel.net>
-
-Tomasz Rychlicki (Poland)
-
-:   (b. 1975) is a Polish patent and trade mark attorney and
-    IT&IP lawyer. He graduated from the University of Gdańsk, the
-    Faculty of Law, European Law Center. Tomasz also studied at
-    Chicago-Kent College of Law in the LL.M. Program in International
-    Intellectual Property Law. He is a member of the Editorial Board of
-    the Journal of Intellectual Property Law & Practice and a country
-    correspondent for the Computer and Telecommunications Law Review.
-    Tomasz is one of the founding members of the Editorial Committe of
-    the International Free and Open Source Software Law Review.
-
-    <http://www.rychlicki.net>
-
-Henri Tanskanen (Finland)
-
-:   is an Associate at HH Partners, Attorneys-at-law Ltd., with a
-    background in corporate open source compliance work. He also works
-    as an Open Source Specialist for Validos ry, an association
-    providing sharing and production of open source compliance
-    information to its corporate members.
-
-    <http://www.hhpartners.fi>
-
-Ywein Van den Brande (Belgium)
-
-:   (b. 1977) is an attorney-at-law and partner at Crealaw, a Brussels
-    based law firm. With his dual background of lawyer and information
-    scientist, Ywein focuses on IT and IP. He is a member of the
-    editorial committee of the International Free and Open Source
-    Software Law Review. He is a guest lecturer at Groep T/KULeuven.
-
-    <http://www.crealaw.eu>
-
-Wanda van Kerkvoorden (The Netherlands)
-
-:   (b. 1968) is an attorney-at-law and partner at SOLV, an Amsterdam
-    based law firm. Wanda is specialised in supervising complex ICT
-    projects and conducting legal proceedings involving ICT disputes.
-    She also advises on and conducts legal proceedings involving ASP/
-    SaaS, cloud computing, compliance and (open source)
-    software protection. She is a member of the international
-    iTechLaw association.
-
-    <http://www.solv.nl>
-
-Martin von Willebrand (Finland)
-
-:   is the Head of Technology and Partner at HH Partners,
-    Attorneys-at-law, Ltd. He is the chairman of Validos ry, an
-    association providing sharing and production of open source
-    compliance information to its corporate members, including for
-    example Fujitsu Finland, Vaisala, Cargotec, Cassidian Finland
-    and Tieto. He is a board and steering group member of COSS – The
-    Finnish Centre for Open Systems and Solutions. He has widely
-    received recommendations for his work mainly in the technology field
-    from publications such as Legal 500, Chambers Europe and Who’s
-    Who Legal. His clients in the free software field include, in
-    addition to many businesses such as Ixonos Oyj, Free Software
-    Foundation Europe, the Ministry of Environment of Finland, Validos
-    and Aalto University.
-
-    <http://www.hhpartners.fi>
-
-Alan Walter (France)
-
-:   specialises in intellectual property and technologies. He provides
-    legal assistance in both advice and litigation in several fields
-    like software industry (in particular Open Source matters), Internet
-    & innovative technologies regulation, IP, and privacy and
-    data protection.
-
-    <alan.walter@runbox.com>
-
-Mark H. Webbink (United States)
-
-:   (b. 1950) is senior lecturing fellow at Duke University School
-    of Law. Webbink is the former general counsel of Red Hat, Inc., and
-    presently serves on the board of directors of the Software Freedom
-    Law Center. A founding member of the editorial board of the
-    International Free and Open Source Software Law Review. In May 2011
-    Webbink assumed the role of editor and publisher of the well known
-    open source blog Groklaw.
-
-    <http://www.nyls.edu/faculty/faculty_profiles/mark_webbink>
-
-Yang Xia (China)
-
-:   is an associate professor at the Law School of Beijing Normal
-    University, one of the oldest universities in China. The main
-    research field of Mr. Yang Xia focuses on computer law, software law
-    and high technology law. Yang Xia teaches Science and Technology
-    law, Computer law, Intellectual Property law and Legal English. Yang
-    Xia was awarded the European Union Eramus Mundus scholarship for his
-    studies at the EU law center of the University of Warsaw and is
-    member of CLAST (China Law Association on Science and Technology).
-
-    <http://www.bnu.edu.cn/eng/>
+Simone Aliprandi (Italy)  
+(b. 1979) is an Italian attorney-at-law and researcher. He got an
+additional degree in Public Administration Science and earned a Ph.D.
+degree in Information Society at the Bicocca University of Milan. He
+founded and still coordinates the Copyleft-Italia.it project and has
+published numerous books devoted to openculture and copyleft. He also
+collaborates as a legal consultant with Array (<http://array.eu>).
+
+<http://www.aliprandi.org>
+
+Juliette Ancelle (Switzerland)  
+is an associate of the boutique law firm id est avocats sàrl. She
+studied at the Universities of Lausanne and Montreal, as well as at the
+New York University School of Law, where she graduated with an LL.M.
+in 2009. She was admitted to the New York State Bar that same year. She
+advises and represents clients mainly in business and corporate matters
+as well as in intellectual property cases, including open source. She
+maintains a on Social Media and IP issues.
+
+<http://www.idest.pro/?hl=en>
+
+Malcolm Bain (Spain)  
+(b. 1966) is an attorney-at-law and partner at id law partners, a
+Barcelona based boutique law firm specialising in ICT law. He is a
+member of the editorial committee of the International Free and Open
+Source Software Law Review, and lectures at several universities in
+Spain on the legal aspects of free and open source law.
+
+<http://www.id-lawpartners.com>
+
+Shane Coughlan  
+is an expert in communication methods and business development. He is
+best known for building bridges between commercial and non-commercial
+stakeholders in the technology sector. His professional accomplishments
+include establishing a legal department for the main NGO promoting Free
+Software in Europe, building a professional network of over 270 legal
+counsel and technical experts across 4 continents, and aligning
+corporate and community interests to launch the first law review
+dedicated to Free/Open Source Software.
+
+Wouter Dammers (The Netherlands)  
+(b. 1985) is an attorney-at-law at LAWFOX Advocatuur in Amsterdam,
+The Netherlands. Wouter specializes in IT law, open source compliance,
+e-commerce, privacy and IP law. Wouter is known for providing practical
+legal advise involving IT and internet related issues. He regularly
+drafts and reviews contracts involving software development, IT projects
+and privacy compliance. Wouter is familiar in conducting legal
+proceedings and providing dispute resolution. Wouter finalized his
+Master Law and Technology (cum laude, 2009) and his Master International
+and European Public Law (with merit, 2008) at Tilburg University. Wouter
+regularly blogs, tweets (@WouterDammers) and publishes on
+IT-related topics.
+
+<https://www.lawfox.nl>
+
+Arnoud Engelfriet (Introduction)  
+(b. 1974) is an IT lawyer and European patent attorney. He works as
+partner at ICTRecht legal services in the Netherlands. In 2005, while
+working for Royal Philips, he was involved in the software patent debate
+surrounding the Directive and has the mental scars to prove it.
+
+With his computer science background Arnoud focuses on complex
+legal/technical ICT issues and software licenses (in particular
+open source). His blog Ius mentis is one of the most popular sites on
+the subject of IT and law in the Netherlands. Arnoud is a part-time
+teacher at the VU University of Amsterdam.
+
+<http://ictrecht.nl/>
+
+Tim Engelhardt (Germany)  
+(b. 1974) is an attorney-at-law at the Berlin-based law firm
+JBB Rechtsanwälte. He graduated from the University of Munich and
+Columbia Law School (LL.M.). He completed his doctoral thesis on the EU
+law of geographical indications at the University of Zurich. In his
+practice he specialises in various aspects of IT and IP law. His
+particular focus is on FOSS issues, including both the enforcement of
+FOSS rights and advising on licensing matters.
+
+<http://www.jbb.de/en>
+
+Eli Greenbaum (Israel)  
+is an attorney at Yigal Arnon & Co. in Jerusalem, specialising in
+intellectual property law and transactions. He has an M.S. in Applied
+Physics from Columbia University and a J.D. from Yale Law School. Eli
+has published widely in the areas of open source software and
+open hardware.
+
+<http://www.arnon.co.il>
+
+Michel Jaccard (Switzerland)  
+is the founder of id est avocats sàrl, and a widely respected tech
+media, IP and corporate law expert. He studied and worked in Lausanne,
+Geneva and New York and now teaches and publishes extensively on legal
+issues relating to software licensing, information technology, business
+process outsourcing structures, data protection and online services. He
+regularly advises clients on intellectual property and technology, as
+well as on corporate acquisitions, disposals and collaboration. He has
+been a member of the editorial committee of the IFOSS law review until
+Spring 2011.
+
+<http://www.idest.pro/?hl=en>
+
+Till Jaeger (Germany)  
+(b. 1969) is an attorney-at-law and partner at JBB Rechtsanwälte, a
+Berlin based law firm. Till Jaeger is a founding member of the Institute
+for Legal Questions on Free and Open Source Software (ifrOSS) in
+Germany, which researches legal questions regarding the Open Source
+model (<http://www.ifross.org>). He has represented the
+gpl-violations.org project in several lawsuits to enforce the GPL. Till
+Jaeger was a member of the Committee C in the GPLv3 drafting process.
+
+<http://www.jbb.de/en>
+
+Andrew Katz (United Kingdom)  
+(b. 1966) is a partner at Moorcrofts LLP, a boutique law firm based in
+the Thames Valley, England. He became a barrister in 1990 and in 1993
+requalified (and now practises as) a solicitor. Prior to his legal
+career, Andrew was a programmer. He is a founder editor of the
+International Free and Open Source Software Law Review. He is a visiting
+lecturer at Queen Mary College, University of London, and sits on the
+legal advisory panel of the Open Rights Group, and the UK panel for the
+Free Software Foundation Europe.
+
+<http://www.moorcrofts.com>
+
+Lucien Cheng-Hsia Lin (Taiwan)  
+(b. 1976) is a legal specialist and management advisor at "Open Source
+Software Foundry, OSSF", a mission-oriented project launched and
+sponsored by the highest academic institution in Taiwan, Academia
+Sinica, from 2003. He is in charge of the analysis and interpretation of
+FOSS licenses, the record and track of FOSS business trends and models
+for OSSF office, and serves as the legal lead of Creative Commons Taiwan
+from 2014. He is also a guest lecturer at National Chiao Tung University
+located in Hsinchu, Taiwan.
+
+<http://www.openfoundry.org/en/about>
+
+Iain G. Mitchell QC (United Kingdom — Scotland)  
+is in private practice as an Advocate (Barrister) in Scotland. He is the
+Chairman of the Scottish Society for Computers & Law, Chairman of the
+Faculty of Advocates Information Technology Group, Co-convenor of the
+Scottish Lawyers European Group, and a Liveryman of the Worshipful
+Company of Information Technologists. He holds office as the United
+Kingdom representative on the Information Technology committee of the
+CCBE and is a member of the IT Panel of the Bar Council of England &
+Wales and of the Scottish Courts Technology Forum. He is a member of the
+editorial committee of the International Free and Open Source Software
+Law Review and was editor of the former e-law review. He is recommended
+in the Legal 500 for IT Law and is rated in Band 1 for both IT Law and
+Public Procurement Law in the Chambers Directory.
+
+Jongbaek Park (Korea)  
+heads the Open Source Team as a senior partner at Bae Kim & Lee LLC, an
+international law firm based in Korea.He also serves as the president of
+Korea Open Source Law Center, an inter-disciplinary organisation
+dedicated to research, training, providing solutions to issues
+surrounding open source software and hosting annual conference, FOSS
+Con,Korea with FSFE and NIPA. He is a widely acknowledged expert in the
+field of open source software in Korea. He has delivered a number of
+lectures about FOSS licenses at various forums and conferences.The
+author would like to acknowledge significant contributions to research
+by three attorneys, Youngduk Rew, former legal coordinator at Korea Open
+Source Law Center, Hye Jin Hwang and Nari Hong.
+
+Fabrice Perbost (France)  
+is a partner in the Paris office of Kahn & Associés. Fabrice advises
+companies in the field of intellectual property and technologies,
+particularly as regards private and public contracts. In the course of
+his activity, Fabrice has developed a specific expertise in the Open
+Source model. Fabrice is a member of several IP/IT working groups such
+as ITechLaw (International Technology Law Association) and also a
+lecturer at two Paris universities.
+
+<http://www.kahnlaw.com/en>
+
+Carlo Piana (Italy)  
+is an Italian lawyer and a digital liberties activist. He is external
+General Counsel to the Free Software Foundation Europe and the President
+of the Board of the Protocol Freedom Foundation. He advises and assists
+clients in matters concerning information technology, Free and Open
+Source Software, data protection and trademarks/domain names. He is a
+member of the editorial committee of the International Free and Open
+Source Software Law Review.
+
+<http://array.eu/>
+
+João Pedro Quintais (Portugal)  
+is a PhD candidate at the Institute for Information Law (IViR),
+University of Amsterdam. His current research focuses on alternative
+models to copyright enforcement on the Internet. João Pedro holds an
+LL.M in Intellectual Property and Competition Law from the Munich
+Intellectual Property Law Center. He’s a qualified lawyer, member of the
+Portuguese Bar Association, who has worked since 2004 in the
+intellectual property and information technology areas, both as a lawyer
+and as legal counsel for a multinational software house.
+
+<http://www.ivir.nl/staff/quintais.html>
+
+Ana Ramalho (Portugal)  
+is an Associate Professor of Intellectual Property at the University of
+South Wales (United Kingdom). Her current research interests are the
+aspects of the intersection between copyright law and European Union
+law, in particular regarding matters of competence. Ana is also part of
+several editorial boards and has served as an ad-hoc consultant to IP
+related organizations such as World Intellectual Property
+Organization (WIPO) or the European Patent Office (EPO).
+
+Andrew Rens (South Africa)  
+(b 1968) is a South African law and technology scholar and attorney. He
+is a Senior Lecturing Fellow at Duke Law School and an attorney at
+Garratt Hugo & De Souza Incorporated, Johannesburg, South Africa. He
+advises commercial and non-profit clients on open source licenses, open
+media licences, open data, open hardware and open standards.
+
+<http://opencounsel.net>
+
+Tomasz Rychlicki (Poland)  
+(b. 1975) is a Polish patent and trade mark attorney and IT&IP lawyer.
+He graduated from the University of Gdańsk, the Faculty of Law, European
+Law Center. Tomasz also studied at Chicago-Kent College of Law in
+the LL.M. Program in International Intellectual Property Law. He is a
+member of the Editorial Board of the Journal of Intellectual Property
+Law & Practice and a country correspondent for the Computer and
+Telecommunications Law Review. Tomasz is one of the founding members of
+the Editorial Committe of the International Free and Open Source
+Software Law Review.
+
+<http://www.rychlicki.net>
+
+Henri Tanskanen (Finland)  
+is an Associate at HH Partners, Attorneys-at-law Ltd., with a background
+in corporate open source compliance work. He also works as an Open
+Source Specialist for Validos ry, an association providing sharing and
+production of open source compliance information to its
+corporate members.
+
+<http://www.hhpartners.fi>
+
+Ywein Van den Brande (Belgium)  
+(b. 1977) is an attorney-at-law and partner at Crealaw, a Brussels based
+law firm. With his dual background of lawyer and information scientist,
+Ywein focuses on IT and IP. He is a member of the editorial committee of
+the International Free and Open Source Software Law Review. He is a
+guest lecturer at Groep T/KULeuven.
+
+<http://www.crealaw.eu>
+
+Wanda van Kerkvoorden (The Netherlands)  
+(b. 1968) is an attorney-at-law and partner at SOLV, an Amsterdam based
+law firm. Wanda is specialised in supervising complex ICT projects and
+conducting legal proceedings involving ICT disputes. She also advises on
+and conducts legal proceedings involving ASP/ SaaS, cloud computing,
+compliance and (open source) software protection. She is a member of the
+international iTechLaw association.
+
+<http://www.solv.nl>
+
+Martin von Willebrand (Finland)  
+is the Head of Technology and Partner at HH Partners,
+Attorneys-at-law, Ltd. He is the chairman of Validos ry, an association
+providing sharing and production of open source compliance information
+to its corporate members, including for example Fujitsu Finland,
+Vaisala, Cargotec, Cassidian Finland and Tieto. He is a board and
+steering group member of COSS – The Finnish Centre for Open Systems
+and Solutions. He has widely received recommendations for his work
+mainly in the technology field from publications such as Legal 500,
+Chambers Europe and Who’s Who Legal. His clients in the free software
+field include, in addition to many businesses such as Ixonos Oyj, Free
+Software Foundation Europe, the Ministry of Environment of Finland,
+Validos and Aalto University.
+
+<http://www.hhpartners.fi>
+
+Alan Walter (France)  
+specialises in intellectual property and technologies. He provides legal
+assistance in both advice and litigation in several fields like software
+industry (in particular Open Source matters), Internet & innovative
+technologies regulation, IP, and privacy and data protection.
+
+<alan.walter@runbox.com>
+
+Mark H. Webbink (United States)  
+(b. 1950) is senior lecturing fellow at Duke University School of Law.
+Webbink is the former general counsel of Red Hat, Inc., and presently
+serves on the board of directors of the Software Freedom Law Center. A
+founding member of the editorial board of the International Free and
+Open Source Software Law Review. In May 2011 Webbink assumed the role of
+editor and publisher of the well known open source blog Groklaw.
+
+<http://www.nyls.edu/faculty/faculty_profiles/mark_webbink>
+
+Yang Xia (China)  
+is an associate professor at the Law School of Beijing Normal
+University, one of the oldest universities in China. The main research
+field of Mr. Yang Xia focuses on computer law, software law and high
+technology law. Yang Xia teaches Science and Technology law, Computer
+law, Intellectual Property law and Legal English. Yang Xia was awarded
+the European Union Eramus Mundus scholarship for his studies at the EU
+law center of the University of Warsaw and is member of CLAST (China Law
+Association on Science and Technology).
+
+<http://www.bnu.edu.cn/eng/>
 
 [^1]: Martin Campbell-Kelly, “Development and Structure of the
     International Software Industry, 1950-1990”, Business and Economic
@@ -17049,7 +17041,7 @@ Yang Xia (China)
     Verizon Communications. Compare Eben Moglen, “Enforcing the GNU
     GPL”, GNU.org 10 September 2001.
 
-[^24]: SCO vs. IBM was filed in 2003 as a \$1 billion lawsuit alleging
+[^24]: SCO vs. IBM was filed in 2003 as a $1 billion lawsuit alleging
     that IBM had somehow harmed SCO by contributing to Linux. Particular
     allegations involved copyright claims on number codes for Linux
     interfaces and the unconstitutionality of the GPL. Wallace vs. FSF
@@ -17899,7 +17891,7 @@ Yang Xia (China)
 
 [^230]: LOEWENHEIM, in: Schricker/Loewenheim (ed.), Urheberrecht, 4th
     ed., 2010 (hereinafter referred to as “UrhR”), §8 ref. 20; DREIER,
-    in: Dreier/Schulze (ed.), UrhG, §\~8 ref. 21.
+    in: Dreier/Schulze (ed.), UrhG, §~8 ref. 21.
 
 [^231]: DREIER, in: Dreier/Schulze (ed.), UrhG, § 9 ref. 6.
 
@@ -18741,7 +18733,7 @@ Yang Xia (China)
     ECLI:NL:PHR:2006:AU7508. Recently: HR 22 February 2013,
     ECLI:NL:HR:2013:BY1532. According to the Software Directive “no
     tests as to the qualitative or aesthetic merits of the program
-    should be applied”\~ “in respect of the criteria to be applied in
+    should be applied”~ “in respect of the criteria to be applied in
     determining whether or not a computer program is an original work”.
 
 [^455]: Compare: D.W.F. Verkade, Intellectuele eigendom, in Franken
@@ -19645,8 +19637,8 @@ Yang Xia (China)
 
 [^619]: *Ibidem*, p. 93.
 
-[^620]: Article 304\$\^5\$ of the Polish Labour Code, providing rules
-    for exceptional performance of work by children.
+[^620]: Article 304$^5$ of the Polish Labour Code, providing rules for
+    exceptional performance of work by children.
 
 [^621]: Article 66 § 1 of the CC. A declaration made to another party of
     the intent to conclude a contract shall be deemed an offer if it
@@ -20334,8 +20326,8 @@ Yang Xia (China)
 [^817]: See art. 18(1) of the PCA.
 
 [^818]: See L. F. REBELLO, Código do Direito de Autor e dos Direitos
-    Conexos, Anotado, 3.^a^ ed., Revista e Actualizada, Âncora Editora,
-    Lisboa, 2002 (hereinafter, “REBELLO 2002”), p. 62.
+    Conexos, Anotado, 3.<sup>a</sup> ed., Revista e Actualizada, Âncora
+    Editora, Lisboa, 2002 (hereinafter, “REBELLO 2002”), p. 62.
 
 [^819]: See art. 18(2) of the PCA.
 

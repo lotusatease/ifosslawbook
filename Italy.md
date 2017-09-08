@@ -1,9 +1,9 @@
-Italy {#chap.italy}
+Italy
 =====
 
 author:\[Piana,Carlo\] author:\[Aliprandi,Simone\]
 
-Body of law {#_body_of_law}
+Body of law
 -----------
 
 Copyright protection of software is regulated in Italy under a few
@@ -18,7 +18,7 @@ Now the Italian Copyright Law has a section in chapter IV specifically
 on software: namely, Section VI, comprising articles 64 bis, 64 ter, and
 64 quarter.
 
-### Software Act: Object of protection {#sec_italy_Software_Act_Object_of_protection}
+### Software Act: Object of protection
 
 Computer programs (including the preparatory material) are protected by
 copyright and are equivalent to literary works within the meaning of the
@@ -31,7 +31,7 @@ those on which their interfaces are based, are excluded from protection.
 The concept of “program” includes also the preparatory material of the
 same.
 
-### Authors/Beneficiaries {#sec_italy_AuthorsBeneficiaries}
+### Authors/Beneficiaries
 
 The general principle of Italian copyright law provides that the
 copyrights in a work belong to the author. Article 64 ter however
@@ -43,28 +43,28 @@ in case of “work for hire”, i.e. when software development occurs under
 the performance of a development agreement and is paid by the client,
 the exploitation rights are assigned to the contracting party.[^1]
 
-### Exclusive rights {#sec_italy_Exclusive_rights}
+### Exclusive rights
 
 According to article 64 bis of the Italian Copyright Law the
 exploitation rights comprise the exclusive right to perform or
 authorize:
 
-> \(a) the temporary or permanent reproduction of the computer program by
+> (a) the temporary or permanent reproduction of the computer program by
 > any means or in any form. Insofar as acts like the uploading,
 > displaying, execution, transmission or storage of a software program
 > require its reproduction, those acts are also subject to the
-> authorization of the copyright holder; (b) the translation, adaptation,
-> transformation and any other modification of the computer program,
-> including the reproduction of the resulting program \[in other words,
-> creating a derivative work\], without prejudice to the author of the
-> modification; (c) any form of public distribution, including lending the
-> original computer program or copies thereof. The first sale within the
-> \[the European Union\] exhausts the right to further control the
-> distribution of such copy within the \[European Union\], with the
-> exception of the right to control the further lending of the program or
-> of a copy thereof.
+> authorization of the copyright holder; (b) the translation,
+> adaptation, transformation and any other modification of the computer
+> program, including the reproduction of the resulting program \[in
+> other words, creating a derivative work\], without prejudice to the
+> author of the modification; (c) any form of public distribution,
+> including lending the original computer program or copies thereof. The
+> first sale within the \[the European Union\] exhausts the right to
+> further control the distribution of such copy within the \[European
+> Union\], with the exception of the right to control the further
+> lending of the program or of a copy thereof.
 
-### Exceptions to exclusive rights {#sec_italy_ExceptionstoExclusiveRights}
+### Exceptions to exclusive rights
 
 Article 64 ter of the law expressly provides that:
 
@@ -85,7 +85,7 @@ Article 64 ter of the law expressly provides that:
 > contractual stipulation conflicting with the provisions of this
 > paragraph is null and void.
 
-### Moral rights {#sec_italy_Moralrights}
+### Moral rights
 
 The Italian copyright system is a *droit d’auteur* one, where moral
 rights are particularly strong. Worth noting are:
@@ -155,14 +155,14 @@ withdrawal, and the cumbersome procedure provided for it by the law,
 relegates this hypothesis to the realm of intellectual exercise without
 practical bearings.
 
-### Term of protection {#sec_italy_Termofprotection}
+### Term of protection
 
 The same term as for works of literature and art applies: 70 years as of
 January 1 following the death of the author.[^2] In case of
 co-authorship the death of the latest surviving author is taken into
 account.
 
-### Copyright assignment {#sec_italy_Copyrightassignment}
+### Copyright assignment
 
 Copyright assignment is not expressly regulated by Italian Law for any
 copyrightable subject, except for works created under an
@@ -183,7 +183,7 @@ limitation (Art. 107 of Italian Copyright Law), save for certain express
 provisions under a the publishing agreement. The only requirement is
 that the agreement must be proved in writing (Art. 110).
 
-### Special measures {#sec_italy_SpecialMeasures}
+### Special measures
 
 The Italian Copyright Law refers to the general copyright principles
 regarding measures for enforcing software copyrights. Besides these
@@ -207,7 +207,7 @@ Copyright Law provides that:
 > \[SIAE\] pursuant to this law and to the relevant Regulations as per
 > Royal Decree no. 1369 of May 18, 1942.
 
-Unprotected software and public domain software {#sec_italy_Unprotectedsoftwareandpublicdomainsoftware}
+Unprotected software and public domain software
 -----------------------------------------------
 
 Italian Copyright Law lays down that, in order to be protected, a work
@@ -230,10 +230,10 @@ domain” for this purpose into “devoid of any exploitation rights”, then
 a public domain status is achievable by an act of dedication to the
 public domain of the rightsholder.
 
-Analysis of FOSS under Italian law {#sec_italy_AnalysisofFOSSunderItalianLaw}
+Analysis of FOSS under Italian law
 ----------------------------------
 
-### Copyrights {#sec_italy_Copyrights}
+### Copyrights
 
 Although FOSS can be written by a single person or be owned by a single
 legal entity,[^3] after some time software is the result of the work of
@@ -243,7 +243,7 @@ authors), or whether the original software is the final work and every
 contribution created during the further development of the software i a
 derivative work. The legal consequences are different in each case.
 
-#### Qualification of FOSS {#_qualification_of_foss}
+#### Qualification of FOSS
 
 There is no way to determine whether a FOSS work is a collective work, a
 complex work or else, and each version of the software can be classified
@@ -280,7 +280,7 @@ are different in nature (like the photography, the direction, the story,
 the writing of the screenplay, etc.), while in software programming the
 elements are more of the same nature.
 
-#### Rights of the original co-authors {#_rights_of_the_original_co_authors}
+#### Rights of the original co-authors
 
 Unless the components of the software can be clearly distinguished *and*
 separate, software made collaborative is usually considered an
@@ -304,7 +304,7 @@ administration” must be voted according to the majorities laid down by
 the law or agreed upon by the parties. Parties disagreeing can oppose
 the decisions of the majority in Court.[^6]
 
-#### FOSS and derivative works under Italian law {#_foss_and_derivative_works_under_italian_law}
+#### FOSS and derivative works under Italian law
 
 Italian law does not expressly mention “derivative works”, but it deals
 with “creative elaborations”. It may be only a nuance, a reflection of
@@ -321,7 +321,7 @@ Art. 4 of the Italian Copyright Law provides that
 > variations which do not constitute an original work, shall also be
 > protected.
 
-#### The assignment of copyrights {#_the_assignment_of_copyrights}
+#### The assignment of copyrights
 
 Assignment of copyrights in FOSS licensing does not pose any particular
 challenge or differ greatly from the general working concept of
@@ -333,7 +333,7 @@ sector, which is however governed by certain specific rules (such as the
 reuse principle and compulsory clauses in ad-hoc software development)
 meaning that it would require a much wider and separate discussion.
 
-### Moral rights {#sec_italy_Moralrights2}
+### Moral rights
 
 Moral rights could play a dangerous role in FOSS, which for instance
 prohibits of field-of-use restrictions. In discussion groups arguments
@@ -347,7 +347,7 @@ object to such modifications of the work. Reference is made to the
 section on moral rights above above for an argument against the
 applicability of the moral rights to software.
 
-### Enforcing FOSS licenses {#sec_italy_EnforcingFOSSlicenses}
+### Enforcing FOSS licenses
 
 There is little doubt that a FOSS license is enforceable in Italy,
 except in marginal cases. The same reasoning as in Welte v. Skype[^7]
@@ -402,7 +402,7 @@ Similarly, all licenses provide for a liability disclaimer, which again
 is not an obligation, but an effect of the license, or a waiver. This is
 a focal point and needs to be dealt with more in depth.
 
-### Waiver and liability {#sec_italy_Waiverandliability}
+### Waiver and liability
 
 Typically, FOSS licenses contain very strong disclaimer clauses, which
 discharge the author from all liability.[^10] The reason for this is
@@ -497,9 +497,9 @@ require other kinds of warranties and representations from its
 upstream — or better, do both. Indeed, that of providing certain levels
 of indemnification for FOSS is a business case for some companies.
 
-### The copyleft principle {#sec_italy_Thecopyleftprinciple}
+### The copyleft principle
 
-#### Principle {#_principle}
+#### Principle
 
 A characteristic found in many (but not all[^13]) FOSS licenses is the
 so-called “copyleft” principle. FOSS licenses which incorporate the
@@ -531,7 +531,7 @@ We have discussed above about the difference between the effects of an
 obligation and of a condition in the section on enforcement and we make
 reference to said discussion for further details.
 
-#### Validity {#_validity}
+#### Validity
 
 The question of the validity of the copyleft clause coincides with the
 question whether an author can effectively lay down how derivative works
@@ -557,7 +557,7 @@ That, by the way, is how dual (proprietary + copyleft) licensing works,
 such that Richard Stallman has dubbed the scheme as “sale of exceptions
 \[to a copyright license\]”.[^15]
 
-### Damages {#sec_italy_Damages}
+### Damages
 
 According to Art. 158 of the Italian Copyright Law, damages caused by
 copyright violations are compensated under Italian law in accordance
@@ -657,7 +657,7 @@ damages can be awarded on an *ex bono et aequo* basis (Art. 2059, 2056
 and 1226 ICC), which very frequently also takes into consideration the
 profit gained by the violator.
 
-### FOSS in the Public Administration {#_foss_in_the_public_administration}
+### FOSS in the Public Administration
 
 While the private sector is more or less free to decide what kind of
 software to adopt for their own use — there may be some restrictions
@@ -697,12 +697,12 @@ software under proprietary conditions.[^21]. In other words, reuse and
 FOSS *must be preferred* [^22] over proprietary software, even if on
 pure technical and economic bases proprietary solutions score better.
 
-FOSS cases in Italy {#sec_italy_FOSSCasesinItaly}
+FOSS cases in Italy
 -------------------
 
 No cases have been reported yet (November 2013).
 
-Legal procedures {#sec_italy_Legalprocedures}
+Legal procedures
 ----------------
 
 In Italy the nature of legal procedures in the field of copyright does
@@ -729,10 +729,10 @@ The author of the work can always join the proceedings to protect his or
 her own interests even if he or she has already disposed of the economic
 rights in the work.
 
-Recommended literature {#_recommended_literature}
+Recommended literature
 ----------------------
 
-### Articles {#_articles}
+### Articles
 
 -   FLOSS: gli indirizzi europei, la normativa italiana e le leggi
     regionali, Chapter 3 of the book “Finalmente libero! Software libero
@@ -770,7 +770,7 @@ Recommended literature {#_recommended_literature}
 -   Vincenzo Zeno-Zencovich, Pieremilio Sammarco: Sistema e archetipi
     delle licenze open source, in AIDA 2004 (2005, Giuffrè)
 
-### Books {#_books}
+### Books
 
 -   Simone Aliprandi: Copyleft and Opencontent. L’altra faccia del
     copyright (2005, PrimaOra)

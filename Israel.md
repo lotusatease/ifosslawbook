@@ -1,12 +1,12 @@
-Israel {#chap.israel}
+Israel
 ======
 
 author:\[Greenbaum,Eli\]
 
-Introduction to software protection under Israeli law {#sec_introductionisrael}
+Introduction to software protection under Israeli law
 -----------------------------------------------------
 
-### Body of law {#sec_bodyisrael}
+### Body of law
 
 The Israeli Copyright Law of 2007 (the “Copyright Law”) modernized the
 protection of intellectual property in Israel. The Copyright Law
@@ -26,7 +26,7 @@ regarding the patentability of software inventions in Israel. The new
 guidelines adopt a relatively liberal approach regarding the patent
 eligibility of software inventions.
 
-### Copyright Act: Object of protection {#sec_cractisrael}
+### Copyright Act: Object of protection
 
 The Copyright Law expressly provides that computer programs, which are
 categorized as literary works, constitute copyrightable subject matter.
@@ -35,7 +35,7 @@ program “in any form that it may be expressed”. This provision is
 intended to be consistent with the definition of computer programs in
 Article 4 of the WIPO Copyright Treaty.[^2]
 
-### Authors/Copyright owners {#sec_authorsisrael}
+### Authors/Copyright owners
 
 Section 34 of the Copyright Law provides that, absent an agreement to
 the contrary, an employer shall be the owner of the copyright of a work
@@ -57,14 +57,14 @@ recommended that consulting agreements or other “work for hire”
 arrangements in Israel include an express grant of the copyright to the
 commissioning entity, if that is the intention of the parties.
 
-### Compilations {#sec_compilationsisrael}
+### Compilations
 
 The Copyright Law also protects compilations as literary works. Section
 4(b) of the Copyright Law provides that the original expression
 protected in a compilation is the originality of selection or
 arrangement of individual works or material in the compilation.
 
-### Joint works {#sec_jointisrael}
+### Joint works
 
 The Copyright Law recognizes the possibility of joint works but does not
 expressly provide for the manner in which joint owners in a copyright
@@ -84,7 +84,7 @@ copyright infringement suit join all other right holders in the suit.
 This would seem to require that all joint owners of a copyright be
 joined in any action to enforce a copyright.
 
-### Derivative works {#sec_derivsisrael}
+### Derivative works
 
 Section 16 of the Copyright Law defines a “derivative work” as an
 original work that is “materially based” on another work. While not
@@ -108,26 +108,26 @@ look to the substance of the protected work that is incorporated in the
 potentially derivative work, rather than how the potentially derivative
 work uses that material.
 
-### Exclusive rights {#sec_exclusiveisrael}
+### Exclusive rights
 
 Section 11 of the Copyright Law sets forth the exclusive economic rights
 afforded under a copyright. All of the rights apply in the case of a
 computer program. The rights include:
 
-\(a) The right to copy the work;
+(a) The right to copy the work;
 
-\(b) The right to publish the work, if the work has not yet been
+(b) The right to publish the work, if the work has not yet been
 published;
 
-\(c) The right to publicly perform the work;
+(c) The right to publicly perform the work;
 
-\(d) The right to broadcast the work;
+(d) The right to broadcast the work;
 
-\(e) The right to make the work available to the public;
+(e) The right to make the work available to the public;
 
-\(f) The right to create and a exploit derivative works; and
+(f) The right to create and a exploit derivative works; and
 
-\(g) The right to lease the work.
+(g) The right to lease the work.
 
 Several other provisions of the Copyright Law are relevant to the
 interpretation of these enumerated exclusive rights in the context of
@@ -150,7 +150,7 @@ lease. As such, the exclusive right to lease a copy of a computer
 program is not infringed by the lease of consumer goods that include
 software.[^6]
 
-### Exceptions to exclusive rights {#sec_exceptionsisrael}
+### Exceptions to exclusive rights
 
 The Copyright Law provides for certain “permitted uses” which constitute
 exclusions to the exclusive rights of copyright holder enumerated above.
@@ -184,12 +184,12 @@ rights of “permitted uses” set forth in this section. As such, the
 enforceability of common contractual terms against reverse engineering
 is at present unclear under Israeli law.
 
-### Moral rights {#sec_moralisrael}
+### Moral rights
 
 Section 45(a) of the Copyright Law expressly provides that moral rights
 do not exist in computer programs.
 
-### Terms of protection {#sec_protectionisrael}
+### Terms of protection
 
 The term of protection for computer programs is the same as for other
 works. Section 38 of the Copyright Law provides that copyright
@@ -201,7 +201,7 @@ However, the term of protection for works that were originally published
 in a country outside of Israel is generally limited to the term of
 protection afforded by that country.
 
-### Copyright assignment {#sec_assignmentsisrael}
+### Copyright assignment
 
 Except in the context of the employer-employee relationship, the
 transfer of a copyright (or the exclusive license in respect thereof)
@@ -210,7 +210,7 @@ Copyright Law does not require that such writing be signed by the
 parties, which raises the possibility that unsigned messages (such as
 emails) may be sufficient to effect an assignment of a copyright.
 
-### Enforcement {#sec_enforcementisrael}
+### Enforcement
 
 The Copyright Law sets forth both civil and criminal penalties for the
 infringement of copyrights. Civil penalties, as described in more detail
@@ -230,7 +230,7 @@ statutory duty of supervision if any such acts of infringement are
 committed. Statutory fines can be imposed on such office holders that do
 not satisfy their duty of supervision.
 
-### Technical devices and effective technological measures {#sec_devicesisrael}
+### Technical devices and effective technological measures
 
 The Copyright Law does not contain provisions regarding the
 circumvention of technological measures implementing digital rights
@@ -251,7 +251,7 @@ of effective technological measures falls within the ambit of these
 provisions, especially considering the Knesset’s deliberate decision not
 to include express provisions regarding this issue in the Copyright Law.
 
-Analysis of FOSS under Israeli law {#sec_analysisisrael}
+Analysis of FOSS under Israeli law
 ----------------------------------
 
 Under Israeli law, rights in FOSS do not differ from other forms of
@@ -278,7 +278,7 @@ decision, including the issues of the contractual validity of a FOSS
 licenses and how damages should be calculated in an action for
 infringement of FOSS, are discussed in more detail below.
 
-### Rights of the original co-authors {#sec_coautorsisrael}
+### Rights of the original co-authors
 
 FOSS is often developed within a collaborative development model. As
 noted above, while the Copyright Law recognizes the possibility of joint
@@ -288,7 +288,7 @@ ensuring that contributors to open source projects have executed
 contribution agreements, in which they either assign or license their
 contributed code to such project.
 
-### Authors of modifications {#sec_modificationisrael}
+### Authors of modifications
 
 Successive versions of FOSS may build upon the works of previous FOSS
 authors. As in many other legal systems, Israeli law recognizes the
@@ -296,7 +296,7 @@ copyright of successive authors in the derivative work. This copyright
 in the derivative work should be subject to the copyright of the
 original author to the original work.
 
-### Validity of FOSS licenses {#sec_validityisrael}
+### Validity of FOSS licenses
 
 The Contract Law of 1973 (the “Contract Law”) provides that under
 Israeli law contracts are formed through a process of offer and
@@ -344,7 +344,7 @@ such, questions that may arise in other jurisdictions regarding the
 consideration received by the licensor in a FOSS context do not arise
 under Israeli law.
 
-### Termination {#sec_terminationisrael}
+### Termination
 
 As noted above, Israeli law generally interprets licenses according to
 the standard rules of contract law. As such, a license that does not
@@ -356,7 +356,7 @@ generally contain an express term and are generally granted for an
 indefinite period of time. As such, Israeli law presents the risk that a
 FOSS licensor can terminate a FOSS license upon reasonable notice.[^15]
 
-### Waiver and liability {#sec_waiverisrael}
+### Waiver and liability
 
 FOSS licenses typically contain strong disclaimers of warranties and
 liability. The enforceability of such broad disclaimers under Israeli
@@ -410,10 +410,10 @@ non-infringement.[^17] Again, the application of these provisions to the
 licensing of intellectual property has not been satisfactorily explored
 in Israeli case law.
 
-Remedies {#sec_remediesisrael}
+Remedies
 --------
 
-### Copyright infringement — damages {#sec_infringementisrael}
+### Copyright infringement — damages
 
 Under Israeli law, a copyright holder may be entitled to either an
 accounting of profits or damages (whether actual or statutory) for the
@@ -475,7 +475,7 @@ to file suit against the end users of pirated or infringing intellectual
 property, and may only be able to file suit against the providers such
 infringing works.
 
-### Contract remedies — injunction {#sec_injunctionsisrael}
+### Contract remedies — injunction
 
 Section 53 of the Copyright Law provides that the holder of a copyright
 is entitled to obtain an injunction against an infringer, “unless the
@@ -489,7 +489,7 @@ opined that the course of events would have in any event mooted such a
 demand. Nonetheless, the court seemed to state that it would have been
 prepared to consider such a demand had it been raised by the plaintiffs.
 
-### Contract remedies — specific performance {#sec_contremediesisrael}
+### Contract remedies — specific performance
 
 In addition to an infringement claim, copyright holders may also bring
 an action for breach of contract. Specific performance is a remedy

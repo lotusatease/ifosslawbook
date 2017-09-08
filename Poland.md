@@ -1,9 +1,9 @@
-Poland {#chap.poland}
+Poland
 ======
 
 author:\[Rychlicki,Tomasz\]
 
-Introduction to software protection under Polish law {#sec_introductionpolish}
+Introduction to software protection under Polish law
 ----------------------------------------------------
 
 The legal framework regarding software protection in the Republic of
@@ -43,7 +43,7 @@ are self-executing[^7]. The more beneficial rules under international
 conventions apply not only to beneficiaries under the relevant
 conventions, but also to works whose country of origin is Poland[^8].
 
-### Copyright: Object of protection {#sec_poland_CopyrightObjectOfProtection}
+### Copyright: Object of protection
 
 Copyright is defined as any expression of creative activity having
 individual character and manifested in any material form, regardless of
@@ -89,7 +89,7 @@ but by the findings of fact. A computer program cannot be copyrighted
 unless the activities of its creator have the characteristics of
 originality and individuality[^15].
 
-Authors/Beneficiaries {#sec_poland_authors}
+Authors/Beneficiaries
 ---------------------
 
 Copyright belongs to the creator, unless otherwise stated by law. The
@@ -130,7 +130,7 @@ or editor, whereas the rights in the separate parts of the work that
 have intrinsic value should accrue to the creators thereof. The right to
 the title is deemed to belong to the producer or publisher[^21].
 
-### Exclusive rights {#sec_poland_ExclusiveRights}
+### Exclusive rights
 
 Copyright is deemed as an absolute right that protects the spiritual and
 material interests of the creator connected with his/her work.
@@ -155,7 +155,7 @@ program/software consist of:
     without prejudice to the right to monitor any subsequent rental or
     lending of a computer program or of copies thereof[^22].
 
-### Exemptions to exclusive rights {#sec_poland_ExemptionsToExclusiveRights}
+### Exemptions to exclusive rights
 
 Exceptions to the author’s monopoly are usually accepted because of the
 public interest in free access to creativity[^23]. The provisions on
@@ -211,7 +211,7 @@ in which it is received.
 provisions, which grant the user the right to a copyrighted work without
 having to obtain consent from the copyright holder[^24].
 
-### Moral rights {#sec_poland_MoralRights}
+### Moral rights
 
 According to the provisions of the Polish law, personal rights or moral
 rights protect the bond between the creator and the work. This bond is
@@ -223,24 +223,24 @@ changes to the work (to supervise one’s work), the right to safeguard
 the content and form of the work and its proper use, and the right to
 control the work’s manner of use do not apply to computer programs[^25].
 
-### Term of protection {#sec_poland_TermOfProtection}
+### Term of protection
 
 The economic rights lapse on expiry of a period of seventy years,
 calculated:
 
-\(1) from the death of the creator, and in the case of works of joint
+(1) from the death of the creator, and in the case of works of joint
 authorship from the death of the last surviving joint creator,
 
-\(2) from the date of first publication if the creator is not known, and
+(2) from the date of first publication if the creator is not known, and
 if the work has not been published, from its production in material
 form, unless — before that period expires — the name of the creator has
 been revealed with his consent,
 
-\(3) from the date of first publication if the economic rights belong by
+(3) from the date of first publication if the economic rights belong by
 operation of law to a person other than the creator himself, and if the
 work has not been published, from its production in material form[^26].
 
-### Copyright assignment {#sec_poland_CopyrightAssignment}
+### Copyright assignment
 
 An employer whose employee has created a work under an employment
 contract acquires, on accepting the work, the economic rights of the
@@ -265,17 +265,17 @@ software is created under a contract similar to an employment agreement
 copyrights remain with the creator, unless the contract stipulates
 otherwise.
 
-Unprotected software and public domain software {#sec_poland_UnprotectedSoftware}
+Unprotected software and public domain software
 -----------------------------------------------
 
 As set forth above, only software that is original enjoys copyright
 protection. Non-original software is not eligible for copyright
 protection.
 
-Analysis of FOSS under Polish law {#sec_poland_AnalysisOfFOSSUnderPolishLaw}
+Analysis of FOSS under Polish law
 ---------------------------------
 
-### The issue of free documentation {#sec_poland_TheIssueOfFreeDocumentation}
+### The issue of free documentation
 
 Polish law has not yet extensively handled the issue of software
 documentation not released under a free licence. Under German law for
@@ -289,7 +289,7 @@ dictated by an obvious necessity and where the creator has no valid
 reason to object to them[^28]. This should apply by analogy to works in
 which the economic rights have expired[^29].
 
-### The laws applicable to the distribution of copyrighted works {#sec_poland_TheLawsApplicableToTheDistributioOfCopyrightedWorks}
+### The laws applicable to the distribution of copyrighted works
 
 While analyzing the specific provisions of the GPL governing the
 distribution of copyrighted works, the issue of the waiver of rights
@@ -307,7 +307,7 @@ a prohibition on transferring economic rights for types of exploitation
 not known at the time the contract is concluded; another argument that
 economic rights cannot be waived under the Polish copyright law[^31].
 
-### Concept of civil partnership {#sec_poland_ConceptOfCivilPartnership}
+### Concept of civil partnership
 
 The legal nature of joint activity performed by people who are
 developing open source software has also been analyzed and treated as a
@@ -320,7 +320,7 @@ to support the goal of a civil partnership[^35] does not arise by merely
 downloading open source software from the Internet. Moreover, no legal
 obligations are incurred by altering software for personal use[^36].
 
-### Contract of donation or a sales contract {#sec_poland_ContractOfDonationOrASalesContract}
+### Contract of donation or a sales contract
 
 Ways of receiving open source software have been analyzed in order to
 determine whether it should be categorized as a donation or a sales
@@ -372,9 +372,9 @@ of Article 75(1) and (2)[^48] of the ARNR govern specific forms of
 software exploitation, and so it is unnecessary to issue a software
 licence in the shape of either an agreement or a unilateral legal act.
 
-### The specificity of FOSS licences under Polish law {#sec_poland_TheSpecificityOfFOSSLicencesUnderPolishLaw}
+### The specificity of FOSS licences under Polish law
 
-#### Software as a subject of FOSS licences {#_software_as_a_subject_of_foss_licences}
+#### Software as a subject of FOSS licences
 
 After some deliberation, Polish legal doctrine acknowledged that the
 existence of open source licences is based on the assumption that this
@@ -389,7 +389,7 @@ of individual nature as defined by Polish law. It should also be
 mentioned that there is no presumption that the results of actions/works
 are copyright protected, unless counter-proof is furnished[^52].
 
-#### The owner/licensor/employee as a subject of FOSS licences {#_the_owner_licensor_employee_as_a_subject_of_foss_licences}
+#### The owner/licensor/employee as a subject of FOSS licences
 
 The basic issue is to determine who is entitled to the economic author’s
 rights (right to copy etc.) as the primary copyright owner, and whether
@@ -412,7 +412,7 @@ distributed/published under an open source licence by an authorized
 person (successor) at the time when such person holds all the rights in
 the wake of general succession.
 
-#### Legal issues on co-authorship {#_legal_issues_on_co_authorship}
+#### Legal issues on co-authorship
 
 The situation regarding ownership of the program is more complicated
 when an undefined number of persons is involved in working on the
@@ -430,7 +430,7 @@ case the principle of a majority vote cannot be applied, and the only
 effective solution to this problem may be a Fiduciary Licence
 Agreement[^58].
 
-#### Minors and FOSS {#_minors_and_foss}
+#### Minors and FOSS
 
 FOSS is and should be used by minors[^59] but there are some important
 issues to be considered. The Civil Code requires the consent of a
@@ -454,7 +454,7 @@ activities, and only with the prior consent of his or her statutory
 representative or guardian as well as permission from the competent
 labour inspectorate[^64].
 
-#### Concluding individual FOSS licences under Polish law {#_concluding_individual_foss_licences_under_polish_law}
+#### Concluding individual FOSS licences under Polish law
 
 An agreement is concluded when an offer[^65] is submitted and then
 accepted[^66]. Such an agreement has many unusual characteristics[^67]
@@ -485,12 +485,12 @@ or an innominate contract, to which the statutory regulations pertaining
 to donation agreements should apply. Article 75(1) of the ARNR regulates
 the permissible exploitation of the program.
 
-#### The characteristics of an individual open source licence {#_the_characteristics_of_an_individual_open_source_licence}
+#### The characteristics of an individual open source licence
 
 This is an individual non-exclusive licensing agreement[^72]. The rights
 to use open source software are provided on a resolutive condition[^73].
 
-#### The scope of rights/content of FOSS licences under Polish law {#_the_scope_of_rights_content_of_foss_licences_under_polish_law}
+#### The scope of rights/content of FOSS licences under Polish law
 
 It has been discussed whether the scope of rights under the GPL2 can be
 extended to the lease right that is not explicitly mentioned in this
@@ -500,7 +500,7 @@ right, it has been agreed that this right may be exercised under a
 donation contract or a special form of innominate contract, but
 definitely not under a sales agreement[^76].
 
-#### Obligations {#_obligations}
+#### Obligations
 
 The program’s author or developer is required to grant non-exclusive
 rights free of charge. There is a conflict here with the copyright of
@@ -509,7 +509,7 @@ regulations the entitled party is *ex lege* the employer. As already
 mentioned, the issue of copyleft also conflicts with the provisions of
 the Civil Code concerning minors[^77].
 
-#### Termination of license contract {#_termination_of_license_contract}
+#### Termination of license contract
 
 The licence expires *ex nunc* if the licensee violates the conditions of
 Section 4 of the GPLv2. This means that continued use/exploitation
@@ -517,7 +517,7 @@ constitutes a violation of absolute copyright laws. However, this does
 not grant entitlement to assert the claims provided for such cases when
 Article 75 of the ARNR is applied. The problem of the principle of
 exhaustion of rights arises. If it is assumed that a licence agreement
-is not disposable, then the provisions of Article 365\$\^1\$ of the CC
+is not disposable, then the provisions of Article 365$^1$ of the CC
 should be applied[^78]. However, under Polish law the nullity of a legal
 action involving the termination or rescission of a licence agreement
 has to be considered, taking into account the rules on open source
@@ -529,7 +529,7 @@ Article 58 § 2 of the CC[^79]. If this interpretation is not feasible,
 an alternative would be to invoke the abuse of rights by the holder of
 the open source software[^80].
 
-#### Distribution of open source software by 3rd parties {#_distribution_of_open_source_software_by_3rd_parties}
+#### Distribution of open source software by 3rd parties
 
 The messenger[^81] who passes on an offer, as defined in the GPL and
 submitted by the author or producer of open source software, is regarded
@@ -543,7 +543,7 @@ following contractual relationships: a licence agreement for
 reproduction, distribution and circulation; a sub-licence agreement; a
 sales contract; a consignment agreement; or an agency contract[^83].
 
-#### Breach of the conditions of FOSS licence {#_breach_of_the_conditions_of_foss_licence}
+#### Breach of the conditions of FOSS licence
 
 Any breach of the licence automatically renders it void. However,
 termination in this manner will not affect the interests and rights of
@@ -567,28 +567,28 @@ breached, all the claims relating to copyright infringement may be
 asserted. The entitled party whose economic rights have been infringed,
 may demand that the person infringing these rights:[^86]
 
-1\) put an end to the infringement;
+1) put an end to the infringement;
 
-2\) eliminate the consequences of the infringement;
+2) eliminate the consequences of the infringement;
 
-3\) compensate the losses:
+3) compensate the losses:
 
-a\) either on the basis of general principles[^87], or
+a) either on the basis of general principles[^87], or
 
-b\) by paying a sum of money equal to twice — or, if the infringement is
+b) by paying a sum of money equal to twice — or, if the infringement is
 culpable, three times — the equitable remuneration, which at the time of
 enforcement would be due to the entitled party in return for granting
 permission to use the work;
 
-4\) surrender any benefits received.
+4) surrender any benefits received.
 
 Regardless of the aforementioned claims, the entitled party may demand:
 
-1\) a one-off or repeated press announcement of appropriate content and
+1) a one-off or repeated press announcement of appropriate content and
 form, or (part) publication of the court ruling in the case at issue, in
 accordance with the court’s specifications;,
 
-2\) payment by the infringer of an appropriate sum of money, not less
+2) payment by the infringer of an appropriate sum of money, not less
 than twice the amount of the benefit attained by the infringing party,
 to the Fund for the Promotion of Artistic Creation, if the infringement
 is culpable and occurred during business activities carried out in the
@@ -599,14 +599,14 @@ copyright in relation to the whole work[^88]. The FSFE’s Fiduciary
 Licence Agreement is a perfect solution for all problems connected with
 co-authorship and joint ownership[^89].
 
-#### FOSS licences and private international law {#_foss_licences_and_private_international_law}
+#### FOSS licences and private international law
 
 The provisions of standard open source licence are within the limits and
-scope of contractual freedom as adopted in civil law in Article
-353\$\^1\$ of the CC[^90]. In accordance with the provisions of the
-Polish Act of 12 November 1965 on Private International Law (hereinafter
-the PIL), in the absence of the choice of law, an obligation is subject
-to the law of the state in which the contract was concluded[^91].
+scope of contractual freedom as adopted in civil law in Article 353$^1$
+of the CC[^90]. In accordance with the provisions of the Polish Act of
+12 November 1965 on Private International Law (hereinafter the PIL), in
+the absence of the choice of law, an obligation is subject to the law of
+the state in which the contract was concluded[^91].
 
 Interpreting the provisions of Article 7 of the PIL, it may be argued
 that Polish law applies to contracts/agreements permitting use of open
@@ -617,7 +617,7 @@ provisions of Article 70 § 2 of the CC[^93] the conclusion is that the
 location of the computer determines the location of the conclusion of
 the contract[^94].
 
-#### FOSS licences and consumer law {#_foss_licences_and_consumer_law}
+#### FOSS licences and consumer law
 
 The GPL has been the subject of analysis from the point of view of
 Polish consumer law. The first important issue to be raised is the fact
@@ -698,7 +698,7 @@ after conclusion of the contract[^109]. This right is not conceded in
 the provisions of the GPL, but this does not have any serious legal
 implications[^110].
 
-#### FOSS licences and model contracts {#_foss_licences_and_model_contracts}
+#### FOSS licences and model contracts
 
 The general terms of licence agreements on open source software, such as
 the GPL, satisfy the conditions for applying the provision laid down in
@@ -729,13 +729,13 @@ effectiveness of certain provisions of the GPL[^115]. It has also been
 noted that the abusive nature of these provisions is subject to specific
 presumption[^116].
 
-Tax law {#sec_poland_taxlaw}
+Tax law
 -------
 
 The Polish tax system is divided mainly into tax on earnings and tax on
 turnover[^117].
 
-### Tax on legal entities and private income {#sec_poland_TaxOnLegalEntitiesAndPrivateIncome}
+### Tax on legal entities and private income
 
 The Polish Undersecretary of State has issued an opinion[^118] regarding
 tax consequences associated with the use of free software programs. The
@@ -768,7 +768,7 @@ explanation of the tax consequences associated with using free software
 applies to individuals engaged in non-agricultural business operations
 who are liable to income tax[^120].
 
-### Tax on civil law transactions {#sec_poland_TaxOnCivilLawTransactions}
+### Tax on civil law transactions
 
 The Tax Office in Tarnowskie Góry[^121] has ruled that the unconditional
 free sharing of a computer program with unlimited recipients is not a
@@ -778,7 +778,7 @@ legal relationship between the creators of the program and its users,
 and no rights are transferred by the creator to the user, and so this
 form of activity is not liable to tax on civil law transactions[^122].
 
-### Tax on goods and services (VAT) {#sec_poland_vat}
+### Tax on goods and services (VAT)
 
 The Tax Office in Chorzów[^123] has ruled that publishing a computer
 program free of charge in the Internet, enabling it to be used by
@@ -799,7 +799,7 @@ remembered that interpretations by the tax authorities do not apply
 universally and are not binding: they are merely issued with regard to a
 specific taxpayer and the circumstances relating to that taxpayer[^125].
 
-FOSS and legal issues of open standards {#sec_poland_legalissues}
+FOSS and legal issues of open standards
 ---------------------------------------
 
 Polish administrative courts have ruled that requests concerning access
@@ -814,12 +814,12 @@ Tasks[^127], the President of the Social Insurance Institution
 disclose public information concerning the technical specifications of
 the KSI MAIL format that is used in Płatnik software[^128].
 
-FOSS cases in Poland {#sec_poland_FOSSCasesInPoland}
+FOSS cases in Poland
 --------------------
 
 No cases have been reported so far (April 2014).
 
-Legal procedures {#sec_poland_LegalProcedures}
+Legal procedures
 ----------------
 
 Copyright holders in the Republic of Poland may protect their rights in
@@ -841,7 +841,7 @@ cases are brought before the regional courts located in cities where
 particular district courts are also seated. The litigation costs depend
 on the amount in dispute.
 
-Protection of databases {#sec_poland_ProtectionOfDatabases}
+Protection of databases
 -----------------------
 
 Poland has also adopted *sui generis* protection for databases in a
@@ -850,7 +850,7 @@ the APD)[^129]. The Polish Supreme Court has held[^130] that acquiring
 an electronic database and selling it to customers under a different
 name is a tortious act of unfair competition.[^131]
 
-### Recommended literature {#_recommended_literature}
+### Recommended literature
 
 -   J. Barta, R. Markiewicz, Oprogramowanie open source, w
     świetle prawa. Między własnością a wolnością, Zakamycze,
@@ -861,7 +861,7 @@ name is a tortious act of unfair competition.[^131]
     communities and eGovernments, Universiteit Leiden, EM Meijers
     Instituut voor RechtswetenschappelijkOnderzoek 2010.
 
-#### Relevant legislation {#_relevant_legislation}
+#### Relevant legislation
 
 -   The Civil Code of 23 April 1964, Journal of Laws No. 16, item 93,
     with subsequent amendments.
@@ -1136,7 +1136,7 @@ name is a tortious act of unfair competition.[^131]
 
 [^63]: *Ibidem*, p. 93.
 
-[^64]: Article 304\$\^5\$ of the Polish Labour Code, providing rules for
+[^64]: Article 304$^5$ of the Polish Labour Code, providing rules for
     exceptional performance of work by children.
 
 [^65]: Article 66 § 1 of the CC. A declaration made to another party of

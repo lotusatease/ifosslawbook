@@ -7,7 +7,7 @@ doctype: book
 9783955391041
 9783955391058
 1
-![](cover.png){width="300px"}
+<img src="cover.png" width="300" />
 
 > As legal systems differ throughout the world there are significant
 > differences in how Free and Open Source Software licenses are treated

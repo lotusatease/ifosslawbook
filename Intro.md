@@ -1,4 +1,4 @@
-About the publication {#chap.about}
+About the publication
 =====================
 
 > Information wants to be free. Information also wants to be expensive.
@@ -59,7 +59,7 @@ written for those who endorse FOSS for ideological or practical reasons.
 The publication is targeted towards all those that encounter FOSS in
 their profession.
 
-Free Software or Open Source Software {#sec.foss}
+Free Software or Open Source Software
 -------------------------------------
 
 The Free Software and the Open Source Software movements largely pursue
@@ -72,7 +72,7 @@ development. The IFOSS Law Book does not endorse any emphasis. It uses
 the term Free and Open Source Software (FOSS) to cover both Free
 Software and Open Source Software.
 
-FOSS licences {#sec.licences}
+FOSS licences
 -------------
 
 The goals of FOSS are realised through licences governed by copyright
@@ -84,7 +84,7 @@ into three categories: non-Copyleft, weak-Copyleft and strong-Copyleft.
 It is the analysis of these licenses under local copyright law by local
 legal experts that lies at the heart of the IFOSS Law Book.
 
-Working method {#sec.method}
+Working method
 --------------
 
 This law book is a product of its time. Its management is distributed
@@ -138,7 +138,7 @@ each country covered:
 The second edition is edited by Ywein Van den Brande, Shane Coughlan and
 Till Jaeger.
 
-License {#sec.booklicense}
+License
 -------
 
 The IFOSS Law Book as a whole is published under a CC-BY-ND license. The
@@ -146,7 +146,7 @@ text can be freely copied and shared by any party under these
 conditions. Physical copies may be purchased, but it is also available
 at no cost in electronic form at our website.
 
-Conclusion {#sec.conclusion}
+Conclusion
 ----------
 
 FOSS is no longer a new, challenging and unproven method regulating the

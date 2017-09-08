@@ -1,20 +1,20 @@
-Switzerland {#chap.switzerland}
+Switzerland
 ===========
 
 author:\[Jaccard,Michel\] author:\[Ancelle,Juliette\]
 
-Introduction to software protection under Swiss Law {#_introduction_to_software_protection_under_swiss_law}
+Introduction to software protection under Swiss Law
 ---------------------------------------------------
 
-### Applicable Law {#_applicable_law}
+### Applicable Law
 
 Under Swiss law, the protection of software is principally regulated by
 the Federal Copyright Act of October 9, 1992[^1], last revised on July
 1st, 2008 (“SCA”).
 
-### Object of Protection {#_object_of_protection}
+### Object of Protection
 
-#### Definition of software {#_definition_of_software}
+#### Definition of software
 
 Pursuant to Section 2, paragraph 3 SCA, computer programs are considered
 to be works under Swiss law, and as such, can be protected by
@@ -47,7 +47,7 @@ well as in the Message of the Federal Council which preceded the
 adoption of the revised Act, and we will therefore consider both terms
 to fall under the same definition in relation to Swiss copyright law.
 
-#### Protected software {#_protected_software}
+#### Protected software
 
 In order to be protected under Swiss copyright law, computer software
 needs to meet the requirement of individual character, which is the
@@ -62,7 +62,7 @@ software by the comparison of their source and object codes[^10] and to
 the extent that the author had sufficient leeway at his/her disposal in
 the writing of the codes[^11].
 
-#### Unprotected and public domain software {#_unprotected_and_public_domain_software}
+#### Unprotected and public domain software
 
 As a consequence of the requirements set forth in Section 2 of the
 Copyright Act, Swiss law shall not protect software that does not
@@ -96,9 +96,9 @@ source code but remain the valid holders of the copyright on the
 software, whereas public domain software can be validly used, modified,
 or published without the need for the issuance of a license.
 
-### Owner of rights {#_owner_of_rights}
+### Owner of rights
 
-#### Author as a natural person {#_author_as_a_natural_person}
+#### Author as a natural person
 
 Pursuant to Section 6 SCA, an author is the natural person who created
 the protected work[^16]. Thus, in the case of computer software, the
@@ -112,7 +112,7 @@ however, the corporate entity may benefit from the mechanism of legal
 assignment of certain exclusive rights in favor of the employer
 regarding software created by an employee (see section I.3 below).
 
-#### Joint work : coauthors {#_joint_work_coauthors}
+#### Joint work : coauthors
 
 In the development of a computer program, there is often more than one
 person involved, and therefore more than one author in the sense of
@@ -153,7 +153,7 @@ shall form an *unregistered partnership*, regulated by Sections 530 to
 551 of the Swiss Code of Obligations (SCO)[^25], the main consequence
 being that all decisions are to be made unanimously (Section 534 SCO).
 
-#### Copyright assignment {#_copyright_assignment}
+#### Copyright assignment
 
 Another specificity of computer programs in comparison to other
 protected works relates to the context of their creation. Most of the
@@ -200,9 +200,9 @@ be the author of the created software, (2) whether a license will be
 granted for the created software, and (3) in such a case, whether the
 license will be exclusive or not.
 
-### Scope of protection {#_scope_of_protection}
+### Scope of protection
 
-#### Exclusive rights {#_exclusive_rights}
+#### Exclusive rights
 
 As is the case for any protected work, the author of computer software
 benefits from exclusive rights over his/her work. Thus, as provided for
@@ -219,7 +219,7 @@ right is the right to make copies and to distribute them, which includes
 online distribution according to the prevailing opinion among Swiss
 authors[^34].
 
-#### Specific rights for computer software under Swiss law {#_specific_rights_for_computer_software_under_swiss_law}
+#### Specific rights for computer software under Swiss law
 
 In addition to the general patrimonial exclusive rights to which every
 author is entitled under the Swiss Copyright Act, authors of computer
@@ -250,7 +250,7 @@ specific right of utilization for computer software compensates for the
 fact that the private use exception for copyrighted work does not apply
 to software[^42].
 
-#### Moral Rights {#_moral_rights}
+#### Moral Rights
 
 The author of a computer program, like any author in the sense of the
 Swiss Copyright Act, owns moral rights to his/her creation. This notion
@@ -279,7 +279,7 @@ relation to computer software, since any modification of the code or of
 the programming language will hardly be found to be harmful to the
 author’s personality[^47].
 
-### Exceptions to the exclusive rights {#_exceptions_to_the_exclusive_rights}
+### Exceptions to the exclusive rights
 
 Two provisions of the Copyright Act are to be mentioned as exceptions to
 the exclusive rights.
@@ -310,7 +310,7 @@ transmission of the work to a third party or for any other lawful
 utilization of the work, and that they do not have any independent
 economic significance[^51].
 
-### Term of protection {#_term_of_protection}
+### Term of protection
 
 Under Swiss law, the general term for protection of copyright for
 computer software is fifty (50) years after the death of the
@@ -329,7 +329,7 @@ the original work and for the additional creation, each part being
 protected by copyright for fifty (50) years after the death of its
 respective author[^55].
 
-### Special measures {#_special_measures}
+### Special measures
 
 As a signatory of the WIPO Copyright Treaty (WCT)[^56] and the WIPO
 Performances and Phonograms Treaty (WPPT)[^57], Switzerland has adopted
@@ -355,26 +355,24 @@ presumption exists that it has created a threat to copyright and the
 author will therefore be entitled to damages without being required to
 establish any actual infringement to copyright[^60].
 
-Analysis of FOSS under Swiss law {#_analysis_of_foss_under_swiss_law}
+Analysis of FOSS under Swiss law
 --------------------------------
 
 For the purpose of this chapter, the terms below will have the following
 meanings:
 
-*Free and Open Source Software (FOSS)*
+*Free and Open Source Software (FOSS)*  
+software subject to an Open Source[^61] license granting the right to
+use, analyze, modify and improve the said software by making its source
+code freely available to users.
 
-:   software subject to an Open Source[^61] license granting the right
-    to use, analyze, modify and improve the said software by making its
-    source code freely available to users.
+*Proprietary software*  
+computer software that is the exclusive property of its
+developers/publishers and which can only be copied or used in compliance
+with the owner’s licensing agreements, their source code being rarely
+made available.
 
-*Proprietary software*
-
-:   computer software that is the exclusive property of its
-    developers/publishers and which can only be copied or used in
-    compliance with the owner’s licensing agreements, their source code
-    being rarely made available.
-
-### Common legal issues in relation with FOSS {#_common_legal_issues_in_relation_with_foss}
+### Common legal issues in relation with FOSS
 
 We shall analyze in this section the legal issues regularly discussed in
 relation to Open Source Software, starting with the question of
@@ -382,9 +380,9 @@ copyright protection of FOSS and then addressing the questions of
 enforcement of FOSS licenses and of the consequences of a breach of such
 licenses under applicable Swiss law.
 
-### FOSS under Swiss copyright law {#_foss_under_swiss_copyright_law}
+### FOSS under Swiss copyright law
 
-#### Characterization of FOSS {#_characterization_of_foss}
+#### Characterization of FOSS
 
 One major issue in relation with copyright law that takes on an
 important dimension with respect to Open Source Software is the question
@@ -414,7 +412,7 @@ creator(s) of this new version of the software will therefore be a new
 author (or new authors) of a new work, this characterization giving rise
 to different rights.
 
-#### Rights and obligations of the original coauthors {#_rights_and_obligations_of_the_original_coauthors}
+#### Rights and obligations of the original coauthors
 
 The coauthors of a protected work are the joint holders of the copyright
 pursuant to Section 7 SCA and as such form a sui generis legal tenancy.
@@ -462,7 +460,7 @@ system allows a third party to enforce its rights without having to
 identify all coauthors, but it also protects each coauthor from full
 liability.
 
-#### Authors of a derivative work {#_authors_of_a_derivative_work}
+#### Authors of a derivative work
 
 The characterization of portions of Open Source software as a derivative
 work will also have an impact on the rights of the author, the main
@@ -485,7 +483,7 @@ software[^68], in which case the author of the new derivative work will
 need to obtain the consent of the original developer(s) to license
 his/her modified software under a new FOSS license.
 
-#### Assignement of copyright {#_assignement_of_copyright}
+#### Assignement of copyright
 
 As we have seen in section I.3 above, the SCA provides for a special
 rule regarding computer programs that are created by an employee as part
@@ -502,7 +500,7 @@ management of the rights of all coauthors for each newly created piece
 of software, in this way escaping from the burdensome system of
 co-authorship.
 
-### Moral copyrights {#_moral_copyrights}
+### Moral copyrights
 
 FOSS being protected by copyright, the developer is thus an author as we
 have clearly established, and as such, he/she still owns a moral
@@ -529,9 +527,9 @@ to modify the original software granted by a FOSS general license can
 still be limited by the original author’s enforcement of his/her moral
 right[^73].
 
-### Enforcement of FOSS licences {#_enforcement_of_foss_licences}
+### Enforcement of FOSS licences
 
-#### General contract law issues {#_general_contract_law_issues}
+#### General contract law issues
 
 Based on the above definition, the specificity of FOSS is that the
 source code of a computer program is made freely available to users
@@ -687,7 +685,7 @@ where the infringement is still producing effects[^87]. It should also
 be noted that Swiss copyright law additionally makes it a criminal
 offence to perform most acts of copyright infringement[^88].
 
-#### Warranty and Liability {#_warranty_and_liability}
+#### Warranty and Liability
 
 As regards FOSS, there are two main aspects to be analyzed in this
 section: one relates to the warranty granted or more generally excluded
@@ -748,7 +746,7 @@ Any other exclusion of liability for damages resulting from the use of
 the Open Source software, which is not covered by the cases of gross
 negligence and fraud, shall therefore be considered valid[^98].
 
-#### The copyleft principle {#_the_copyleft_principle}
+#### The copyleft principle
 
 A “copyleft” license is a license by which the licensor grants the right
 to use, distribute and modify the computer program to a licensee, under
@@ -782,7 +780,7 @@ in the sense of copyright law, and therefore, the part of the code
 originating from Open Source software remains subject to the conditions
 of the Open Source license that has been granted by the original author.
 
-#### Remedies — Calculation of damages in case of infringement {#_remedies_8201_8212_8201_calculation_of_damages_in_case_of_infringement}
+#### Remedies — Calculation of damages in case of infringement
 
 One of the remedies in case of breach of the FOSS license being the
 possibility to claim for damages, the delicate question consists in
@@ -816,7 +814,7 @@ judicial costs of the prevailing party, as it is common in Switzerland
 for the losing party to bear the judicial costs of the adverse
 party[^106].
 
-FOSS case law in Switzerland {#_foss_case_law_in_switzerland}
+FOSS case law in Switzerland
 ----------------------------
 
 As of today, we are not aware of the reporting of any case law on FOSS
@@ -828,7 +826,7 @@ Buildings and Logistic. This case however did not relate to any legal
 issue in relation with Open Source Software but was in fact about Swiss
 public procurement issues.
 
-Legal procedures {#_legal_procedures}
+Legal procedures
 ----------------
 
 We will start by analyzing briefly the applicable principles of conflict
@@ -837,7 +835,7 @@ application of Swiss law. We will then provide the reader with a short
 overview of possible judicial proceedings in Switzerland in case of
 infringement or breach of the FOSS license.
 
-### Application of Swiss law pursuant to private international law (PIL) {#_application_of_swiss_law_pursuant_to_private_international_law_pil}
+### Application of Swiss law pursuant to private international law (PIL)
 
 In most cases, infringement and breach of a FOSS license will involve
 foreign players located in different countries. It is therefore
@@ -890,9 +888,9 @@ occurred[^113]. This ability for the parties to choose the lex fori is
 however limited to the question of the computation of damages and does
 not cover the preliminary question of infringement[^114].
 
-### Overview of the possible proceedings in Switzerland in case of infringement {#_overview_of_the_possible_proceedings_in_switzerland_in_case_of_infringement}
+### Overview of the possible proceedings in Switzerland in case of infringement
 
-#### Civil proceedings {#_civil_proceedings}
+#### Civil proceedings
 
 On January 1st, 2011, a new unified civil procedure act came into force
 in Switzerland, and all cantons are therefore subject to the same
@@ -913,7 +911,7 @@ evidence, for discovering the origin of counterfeiting goods, but it can
 also consist in the prohibition to use the contentious work, which will
 probably be the most useful in software cases[^118].
 
-#### Criminal proceedings {#_criminal_proceedings}
+#### Criminal proceedings
 
 Along with civil proceedings that can be initiated in case of breach of
 a FOSS license, the claimant may also press criminal charges against the
@@ -925,7 +923,7 @@ acted *intentionally*[^119]. A new unified criminal procedure code also
 came into force on January 1st, 2011, and is now applied by all cantons
 in all criminal cases.
 
-Recommended literature or websites {#_recommended_literature_or_websites}
+Recommended literature or websites
 ----------------------------------
 
 For more information about Open Source software and applicable Swiss

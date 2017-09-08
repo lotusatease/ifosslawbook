@@ -1,4 +1,4 @@
-A history of FOSS law and licensing {#chap.history}
+A history of FOSS law and licensing
 ===================================
 
 author:\[Engelfriet,Arnoud\]
@@ -26,7 +26,7 @@ stimulated the sale of hardware that could use this software. One might
 thus say that the idea of free and open source is as old as the
 computing business itself.[^2]
 
-Age of the shrink-wrap {#intro_shrinkwrap}
+Age of the shrink-wrap
 ----------------------
 
 New developments in computing power over the next decade caused a
@@ -81,7 +81,7 @@ Legislators did try to introduce at least some right to reverse engineer
 software for compatibility purposes, but these clauses are generally
 regarded as weak and risky to invoke.[^10]
 
-Free software and the GPL {#foss_and_gpl}
+Free software and the GPL
 -------------------------
 
 As soon as software by itself started to become a viable market, access
@@ -119,7 +119,7 @@ Unix according to hacker tradition) would become one of the most
 valuable pieces of software ever written. Torvalds chose to use the GPL,
 calling it “one of the very best design decisions” he ever made.[^12]
 
-Legal entanglements around BSD {#legal_entanglements}
+Legal entanglements around BSD
 ------------------------------
 
 If not for a legal battle around free software elsewhere, Linux might
@@ -142,7 +142,7 @@ slowed down significantly, allowing Linux to gain developer attention.
 Torvalds has observed he would not have created Linux if the BSD
 operating system had been available to him at the time.[^15]
 
-The rise of open source {#rise_of_oss}
+The rise of open source
 -----------------------
 
 With the Linux kernel available, the free software movement finally was
@@ -177,7 +177,7 @@ lesser-used variant is *free/libre/open source software* (FLOSS), which
 uses “libre” to clarify the meaning of free as in “freedom” rather than
 as in “at no charge”.
 
-Legal validity {#legal_validity}
+Legal validity
 --------------
 
 There are hundreds of FOSS licenses, although they can be grouped
@@ -240,7 +240,7 @@ of the infringing use of free software.[^29] The project has reported
 numerous successful settlements and a 100% success rate in enforcing its
 licenses.
 
-Towards the future {#towards_future}
+Towards the future
 ------------------
 
 FOSS shows no sign of slowing down. Linux is widely in use in embedded
@@ -367,7 +367,7 @@ FOSS licensing principles. We have come a long way already.
     Verizon Communications. Compare Eben Moglen, “Enforcing the GNU
     GPL”, GNU.org 10 September 2001.
 
-[^24]: SCO vs. IBM was filed in 2003 as a \$1 billion lawsuit alleging
+[^24]: SCO vs. IBM was filed in 2003 as a $1 billion lawsuit alleging
     that IBM had somehow harmed SCO by contributing to Linux. Particular
     allegations involved copyright claims on number codes for Linux
     interfaces and the unconstitutionality of the GPL. Wallace vs. FSF

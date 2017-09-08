@@ -1,12 +1,12 @@
-Spain {#chap.spain}
+Spain
 =====
 
 author:\[Bain,Malcolm\]
 
-Introduction to software protection under Spanish law {#sec_spain_introduction}
+Introduction to software protection under Spanish law
 -----------------------------------------------------
 
-### Body of law {#sec_spain_body}
+### Body of law
 
 Copyright protection of software is regulated in Spain under Royal
 Legislative Decree 1/1996 of 12 April, approving the consolidated text
@@ -26,7 +26,7 @@ Copyright Act, as *lex generalis*.[^2] This means that the general
 provisons of the Copyright Act will apply to computer programs to the
 extent that Book I, Title VII does not contain any specific provisions.
 
-### Object of protection {#sec_spain_Objectofprotection}
+### Object of protection
 
 Computer programs are specifically included in the non-exhaustive list
 of literary, artistic and scientific works protected by copyright, in
@@ -46,7 +46,7 @@ principles behind computer programs including those which serve as the
 basis for its interfaces are explicitly denied copyright protection[^5].
 Malware such as computer viruses, is also excluded from protection.
 
-### Authors/Beneficiaries {#sec_spain_AuthorsBeneficiaries}
+### Authors/Beneficiaries
 
 The Copyright Act generally provides that copyrights in a work belong to
 the author, who is the person or group of persons who creates the
@@ -83,21 +83,21 @@ Rights in the composed work belong to the person who performs such
 composition, without prejudice to the rights of (and the need for
 authorisation from) the prior author[^11].
 
-### Economic rights {#sec_spain_Economicrights}
+### Economic rights
 
 According to Article 99 of the Copyright Act, the economic rights in
 computer programs comprise the exclusive rights to perform or authorise
 the performance of :
 
-\(a) permanent or temporary reproduction of a computer program by any
+(a) permanent or temporary reproduction of a computer program by any
 means and in any form, in part or in whole (including when the acts of
 loading, executing, displaying, transmission and storage of the program
 require a reproduction);
 
-\(b) translation, adaptation, arrangement or alteration of a computer
+(b) translation, adaptation, arrangement or alteration of a computer
 program, and the reproduction of any such transformed work; and
 
-\(c) any form of distribution to the public, including the rental, of the
+(c) any form of distribution to the public, including the rental, of the
 original computer program or copies thereof.
 
 Article 99 does not mention the right of public communication (e.g.
@@ -107,7 +107,7 @@ specific provision, it is understood that Article 20 of the Copyright
 Act grants the rightsholders the exclusive right to publicly communicate
 the computer program.
 
-### Exceptions to exclusive rights {#sec_spain_ExceptionstoExclusiveRights}
+### Exceptions to exclusive rights
 
 Article 99, last paragraph, expressly provides that the first sale in
 the European Union of a copy of a program by the rightholder or with his
@@ -121,16 +121,16 @@ rights.
 
 The other exceptions are set out in Article 100 of the Copyright Act:
 
-\(1) In the absence of specific contractual provisions, no authorisation
+(1) In the absence of specific contractual provisions, no authorisation
 by the rightholder is required for reproduction or transformation of a
 computer program that are necessary for its use by the lawful user in
 accordance with its intended purpose, including error correction.
 
-\(2) Reproduction by way of a back-up copy of a computer program by a
+(2) Reproduction by way of a back-up copy of a computer program by a
 person having a right to use it may not be prevented, insofar as that
 copy is necessary to use the program.
 
-\(3) A person having a right to use a copy of a computer program is
+(3) A person having a right to use a copy of a computer program is
 entitled, without the authorisation of the rightholder, to observe,
 study or test the functioning of the program in order to determine the
 ideas and principles which underlie any element of the program, provided
@@ -155,7 +155,7 @@ often difficult in practice because the licensee generally has no access
 to the source code of the application and it is not obvious to enforce
 this access legally.
 
-### Moral rights {#sec_spain_moralrights}
+### Moral rights
 
 The Copyright Act makes no mention of moral rights in relation to
 computer programs. These are regulated by Article 14 of the Act, which
@@ -165,7 +165,7 @@ oppose modifications and applications which might affect the honor or
 reputation of the author[^15]. These rights are inaliable and
 unwaivable[^16], and remain in force following the death of the author.
 
-### Term of protection {#sec_spain_Termofprotection}
+### Term of protection
 
 Article 98 of the Copyright Act provides that the same term of copyright
 applies to computer programs as for general protected works: 70 years
@@ -182,7 +182,7 @@ legal publication of the work. However, if the natural authors are
 mentioned in the published versions, rights in the work have the same
 general term: life (or dissemination) plus 70 years.
 
-### Copyright assignment {#sec_spain_Copyrightassignment}
+### Copyright assignment
 
 Economic rights in computer programs may be transferred to third
 parties, *mortis causa* or *inter vivos*[^18]. This is done by operation
@@ -232,19 +232,19 @@ independent of the rights that are granted. Payments may be one-off, or
 a proportional participation in the profits of exploitation of the work
 (royalties)[^24].
 
-### Copyright enforcement {#sec_spain_Copyrightenforcement}
+### Copyright enforcement
 
 Article 102 of the Copyright Act establishes the terms of breach of
 copyright: the unauthorised performance of any exclusive rights
 (reproduction, transformation, distribution, public communication), and
 in particular:
 
-\(a) the commercialisation (putting into circulation) of any copies of a
+(a) the commercialisation (putting into circulation) of any copies of a
 program which the marketer knows or could be deemed to know are illegal
 
-\(b) the possession for commercial purposes of any such copies
+(b) the possession for commercial purposes of any such copies
 
-\(c) the commercialisation or possession for commercial purposes of tools
+(c) the commercialisation or possession for commercial purposes of tools
 which are exclusively aimed at facilitating the unlawful removal or
 avoidance of technical means which protect the computer program
 (TPMs)[^25].
@@ -256,7 +256,7 @@ implement the EU Copyright Directives. Criminal law also penalises any
 copyright infringement for commercial purposes (“for profit” motive),
 with specific emphasis on removing TPMs[^26].
 
-Unprotected software and public domain software {#sec_spain_Unprotectedsoftwareandpublicdomainsoftware}
+Unprotected software and public domain software
 -----------------------------------------------
 
 As set forth above, only software that is original in the sense that it
@@ -276,7 +276,7 @@ third parties as their own work, and by modifying the original work,
 third parties can take certain versions of the public domain software
 out of the public domain again.
 
-FOSS under Spanish law {#sec_spain_FOSSunderSpanishLaw}
+FOSS under Spanish law
 ----------------------
 
 From a conceptual and legal point of view, FOSS is like any other
@@ -296,9 +296,9 @@ like any other software license, the FOSS license conditions must be
 respected by the licensee (user), or the license permissions may be
 revoked.
 
-### Copyright issues {#sec_spain_Copyrightissues}
+### Copyright issues
 
-#### Multiple authorship {#_multiple_authorship}
+#### Multiple authorship
 
 Although FOSS can be written by one person or be owned by one legal
 entity[^30], generally speaking, after some time it is extended,
@@ -310,7 +310,7 @@ every contribution created during the further development of the
 software, a derivative or composed work. The legal consequences are
 different.
 
-#### Qualification of FOSS {#_qualification_of_foss}
+#### Qualification of FOSS
 
 For FOSS to be a work created by means of a collaborative process, i.e.
 to be considered a “collaborative work” of co-authors, it is not
@@ -336,7 +336,7 @@ distinction needs to be made between the rights of the original
 co-authors and the rights of subsequent authors who carry out work based
 on the original.
 
-#### Rights of the original co-authors {#_rights_of_the_original_co_authors}
+#### Rights of the original co-authors
 
 Co-authorship usually concerns the creation of a single “unique” work
 that is more than the collection of its component parts[^33]. The
@@ -382,7 +382,7 @@ thought that for these cases, the consent of the co-authors is required
 the inadmissibility of this claim, e.g. if heirs of a programmer are
 unable to agree as to whether to institute a claim[^39].
 
-#### Authors of derivative / composed FOSS works {#_authors_of_derivative_composed_foss_works}
+#### Authors of derivative / composed FOSS works
 
 After some time FOSS will, in most cases, be a derivative work of the
 original or a composed work which includes it. Derivative works and
@@ -402,7 +402,7 @@ work), or by transformation of the previous work — depending on the FOSS
 licenses, different conditions may apply. This may be key to
 understanding the impact of copyleft obligations in the GPL (v2 or v3).
 
-#### The management of copyrights in FOSS — transfers? {#_the_management_of_copyrights_in_foss_8201_8212_8201_transfers}
+#### The management of copyrights in FOSS — transfers?
 
 In order to manage copyrights in FOSS better, it may be useful to
 collect all copyrights concerning a FOSS project within one person or
@@ -417,7 +417,7 @@ work — as a fiduciary, the party to whom the legitimation is granted
 shall not act for himself but on account of others who have so
 authorised him/her (being the current rightsholders)[^42].
 
-### Moral copyrights {#sec_spain_Moralcopyrights}
+### Moral copyrights
 
 Generally speaking, FOSS originated in the United States, and FOSS
 licensing tends to attach less importance to the question of moral
@@ -444,7 +444,7 @@ the original work will therefore, based on his/her moral rights, not
 only be able to oppose the use by third parties of his work, but also
 the use of derivative works which affect his/her honour or reputation.
 
-### Enforcing FOSS licenses {#sec_spain_EnforcingFOSSlicenses}
+### Enforcing FOSS licenses
 
 The question whether a FOSS license can be enforced under the Spanish
 legal system depends on whether a valid license has been granted. The
@@ -473,7 +473,7 @@ purpose of a contract). So from a licensee’s point of view, there is no
 point in attacking the existence of the license, but, should there be
 any conflict, rather the validity and scope/interpretation of the terms.
 
-#### License parties {#_license_parties}
+#### License parties
 
 If a rightsholder makes his/her work available under a FOSS license, the
 answer as to parties is usually clear: the license is reached between
@@ -514,7 +514,7 @@ argued that it must be this way, as non-exclusive licensees (the
 intermediate creators, in the chain) are not entitled to relicense or
 sublicense the original work.
 
-#### Validity of the license — as a contract or otherwise {#_validity_of_the_license_8201_8212_8201_as_a_contract_or_otherwise}
+#### Validity of the license — as a contract or otherwise
 
 Contracts in Spanish law require an offer and acceptance of the offer by
 way of a manifestation of a consent to be bound by the terms of the
@@ -574,7 +574,7 @@ or validity of the FOSS license, this implies that no legally valid
 copyright license was granted and the user therefore is not allowed to
 use the software at all.
 
-#### Violation of license conditions {#_violation_of_license_conditions}
+#### Violation of license conditions
 
 Breach of a FOSS license by a user/licensee could constitute a double
 infringement in Spain: contractual breach of binding license
@@ -584,7 +584,7 @@ to the possibility of arguing against the existence or need for a
 contract, it would be recommended to sue on both grounds). In addition,
 breach of copyright provides several interesting remedies[^59].
 
-### Disclaimers and liability {#sec_spain_Disclaimersandliability}
+### Disclaimers and liability
 
 Typically, FOSS licenses contain very strong disclaimer clauses, which
 attempt to discharge the author from all liability[^60]. The argument
@@ -680,9 +680,9 @@ licensor is not a “seller” of a product), then consumer protection law
 may not apply to the full extent[^69]. This argument is reinforced by
 the free (gratis) nature of most FOSS.
 
-### The copyleft principle {#sec_spain_Thecopyleftprinciple}
+### The copyleft principle
 
-#### Principle {#_principle}
+#### Principle
 
 A characteristic found in several (but not all[^70]) FOSS licenses is
 the so-called “copyleft” principle. Copyleft FOSS licenses, in return
@@ -711,7 +711,7 @@ need to be reimbursed, but not more than the damage actually suffered
 events it is unlikely the owner of the proprietary software would be
 obliged to release all its code under the copyleft FOSS license.
 
-#### Validity of copyleft obligations {#_validity_of_copyleft_obligations}
+#### Validity of copyleft obligations
 
 The question relating to the validity of the copyleft clause coincides
 with the question whether a rightsholder is able to validly establish
@@ -781,7 +781,7 @@ that copy. The conditions of use established in the license on this work
 “run” with the tangible copy, as the sole authorisation to exploit the
 intangible work on that copy.
 
-FOSS cases in Spain {#sec_spain_FOSSCasesinSpain}
+FOSS cases in Spain
 -------------------
 
 While there have been several cases regarding the use of free content
@@ -792,26 +792,26 @@ of “copyleft” as a concept within the aforementioned free content cases
 is interesting, showing an increasing awareness of judges with respect
 to FOSS licensing models.
 
-Legal procedures {#sec_spain_legalprocedures}
+Legal procedures
 ----------------
 
-### Legal action {#sec_spain_LegalAction}
+### Legal action
 
 With regard to the enforcement of copyrights in Spain, Articles 138-140
 of the Copyright Act provide for a broad range of actions, in line with
 the EC IPR Enforement Directive 2004/48/EC. These actions include:
 
-a\) Preliminary measures including (i) seizure of both infringing
+a) Preliminary measures including (i) seizure of both infringing
 software/goods and devices, (ii) embargo of bank accounts where profits
 may have been deposited, and (iii) suspension of non-authorised
 activities
 
-b\) Injunctions to (i) cease and desist from the illicit activity, (ii)
+b) Injunctions to (i) cease and desist from the illicit activity, (ii)
 remove from the market any infringing articles, (iii) destroy any illict
 software and devices, and (iv) suspend ISP services used infringing IPR
 rights.
 
-c\) Damages and interest (see below)
+c) Damages and interest (see below)
 
 Legitimation for taking action is vested in the copyright holder or an
 exclusive licensee of the infringed copyright (i.e. either or both may
@@ -840,7 +840,7 @@ authorisation, and those who manufacture, import or deal in any device
 specifically aimed to supress or neutralise technological protection
 measures applied to protect software or other protected works.
 
-### Damages {#sec_spain_Damages}
+### Damages
 
 Damage caused by copyright violations are compensated under Spanish law
 in accordance with the Articles 138 and 140 Copyright Act, and generally
@@ -886,9 +886,9 @@ be obtained against payment by interested parties who want to use the
 work without their own additions or modifications being affected by
 copyleft[^91].
 
-### Recommended literature {#_recommended_literature}
+### Recommended literature
 
-#### General literature on copyright law {#_general_literature_on_copyright_law}
+#### General literature on copyright law
 
 -   Rodrigo Bercovitz Rodríguez-Cano (Ed): “Comentarios a la Ley de
     Propiedad Intelectual”, (3rd Edition, 2007), Tecnos, Madrid.

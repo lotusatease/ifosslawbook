@@ -1,12 +1,12 @@
-South Africa {#chap.southafrica}
+South Africa
 ============
 
 author:\[Rens,Andrew\]
 
-Introduction to Software Protection under South African Law {#_introduction_to_software_protection_under_south_african_law}
+Introduction to Software Protection under South African Law
 -----------------------------------------------------------
 
-### Body of Law {#_body_of_law}
+### Body of Law
 
 The law affecting rights and control over computer programs is
 essentially statutory. Rights in software in South Africa arise
@@ -29,7 +29,7 @@ and enables the enforcement of fundamental rights against non-State
 actors. The Constitutional Court has refused to recognize a right to
 intellectual property as a fundamental right.[^5]
 
-### Copyright Act: Object of Protection {#_copyright_act_object_of_protection}
+### Copyright Act: Object of Protection
 
 Computer programs are the subject of copyright protection as a
 specifically designated category of work. A computer program is defined
@@ -48,7 +48,7 @@ To be eligible for copyright a computer program must be reduced to
 material form[^9]. Recording as ‘digital data’ meets the requirement.
 Copyright is regarded as an immovable intangible[^10].
 
-### Copyright Holders {#_copyright_holders}
+### Copyright Holders
 
 The holder of the exclusive rights of copyright is referred to as the
 owner in the Copyright Act.
@@ -100,7 +100,7 @@ category of computer generated computer program is confined to machine
 generated code and doesn’t include use of software tools such as editors
 or compilers.
 
-### Exclusive Rights {#_exclusive_rights}
+### Exclusive Rights
 
 According to section 11B of the Copyright Act the owner of copyright in
 a computer program has the exclusive rights (following the sub-paragraph
@@ -149,7 +149,7 @@ public, especially if there is no output.
 
 There is no specific right of distribution[^28].
 
-### Exceptions to Exclusive Rights {#_exceptions_to_exclusive_rights}
+### Exceptions to Exclusive Rights
 
 Lawful possessors of computer programs can use the single exception
 specific to computer programs to make copies reasonably necessary for
@@ -183,7 +183,7 @@ use of the exceptions has not been ruled on but they are likely to be
 ruled invalid as ‘contra boni mores’ and defeating the purpose of
 copyright legislation.
 
-### Moral Rights {#_moral_rights}
+### Moral Rights
 
 Moral rights were introduced into South African copyright law in order
 to comply with the Berne Convention, and there is no history nor legal
@@ -199,7 +199,7 @@ moral rights in copyright agreements is common practice there is no
 provision enabling the assignment or waiver of moral rights in the
 authorising legislation.
 
-### Term of Protection {#_term_of_protection}
+### Term of Protection
 
 The same term applies to computer programs, cinematographic films and
 photographs; fifty years. The fifty years is calculated from the end of
@@ -207,7 +207,7 @@ the year in which the computer program is first published or made
 available to the public, or if neither has taken place then fifty years
 from the making of the program.
 
-### Copyright Assignment {#_copyright_assignment}
+### Copyright Assignment
 
 Copyright may be transferred by assignment or in a will [^32]. An
 assignment or an exclusive license must be in writing and signed[^33].
@@ -236,7 +236,7 @@ minds apparent from conduct of the parties. Consideration is not
 required to form a binding contract in the South African common law of
 contract.
 
-### Technical Protection Measures and Anti-Circumvention {#_technical_protection_measures_and_anti_circumvention}
+### Technical Protection Measures and Anti-Circumvention
 
 There are no provisions defining technical protection measures or
 prohibiting circumvention of technical protection measures in South
@@ -253,7 +253,7 @@ distribution and possession of a computer program designed primarily to
 overcome security measures for the protection of data is also a criminal
 offense.
 
-### Enforcement {#_enforcement}
+### Enforcement
 
 Copyright in a computer program is infringed by anyone who without
 permission, and absent an exception, commits one of the acts reserved
@@ -296,7 +296,7 @@ holder in South Africa. Dealing in counterfeit goods is a criminal
 offense, and alleged counterfeit goods may be seized by the police or
 customs authorities.
 
-Unprotected software and public domain software {#_unprotected_software_and_public_domain_software}
+Unprotected software and public domain software
 -----------------------------------------------
 
 Computer programs are treated as a distinct category of work, defined as
@@ -323,7 +323,7 @@ domain would seem to meet these criteria. Although a signature on the
 deed would not be a formal requirement it would strongly indicate that a
 rights holder knew he was giving up rights.
 
-Analysis of FOSS under South African law {#_analysis_of_foss_under_south_african_law}
+Analysis of FOSS under South African law
 ----------------------------------------
 
 A user who made substantial changes to copyleft code would require a
@@ -361,7 +361,7 @@ license would govern a breach.
 It is not necessary to construe adherence to the terms of a FOSS license
 as constituting consideration.
 
-### Copyrights {#_copyrights}
+### Copyrights
 
 When two or more authors collaborate to produce a computer program in
 which contributions of each author are not separable from the
@@ -404,7 +404,7 @@ program. They are also adaptations of the originating program, but only
 if they can be regarded as including a substantial portion of the
 originating program.
 
-#### Assignment of copyrights {#_assignment_of_copyrights}
+#### Assignment of copyrights
 
 Assignment of copyright in a FOSS contributor’s agreement, such as the
 agreement used by the Free Software Foundation will require a paper copy
@@ -418,7 +418,7 @@ grants non exclusive rights or licenses work directly under a FOSS
 license online where the contributor agreement or license is recorded
 digitally.
 
-### Moral Rights {#_moral_rights_2}
+### Moral Rights
 
 A contributor to a FOSS project has moral rights to the computer program
 he has created. The right to object to modification does not extend to
@@ -434,16 +434,16 @@ contributor agreements or licences before committing code. It is
 therefore unlikely that a South African court would find copying and
 adaptations compliant with those commitments to infringe moral rights.
 
-### Enforcing FOSS Licences {#_enforcing_foss_licences}
+### Enforcing FOSS Licences
 
-#### Parties to License {#_parties_to_license}
+#### Parties to License
 
 The license must be issued by the owner or a licensee authorised to
 issue a FOSS license. In FOSS projects the owner is usually the author
 or authors, that is those contributors with authority to decide what is
 in a release version and their predecessors.
 
-#### Contract {#_contract}
+#### Contract
 
 Rather than claiming breach of contract an author would simply claim
 copyright infringement, the alleged infringer would have to demonstrate
@@ -461,13 +461,13 @@ order requiring compliance with the other terms of the contract because
 South African courts prefer to award damages for breach of contract,
 rather than enforce performance of agreements.
 
-#### Violation of License Terms {#_violation_of_license_terms}
+#### Violation of License Terms
 
 Generally failure to adhere to the conditions of the license indicates a
 refusal of the license construed as a contractual offer and thus no
 contract is formed, a copier is then liable for copyright infringement.
 
-### Waiver and Liability {#_waiver_and_liability}
+### Waiver and Liability
 
 There is no requirement arising from copyright legislation or common law
 that a person providing FOSS provide any warranty in respect of the
@@ -493,12 +493,12 @@ a transaction in which a service provider delivered goods and services
 to a natural person that included FOSS for consideration in the course
 of business would be subject to consumer protection legislation.
 
-Cases {#_cases}
+Cases
 -----
 
 There have been no reported cases as yet (June 2014).
 
-### Legal Procedures {#_legal_procedures}
+### Legal Procedures
 
 Only an owner or exclusive licensor can enforce the exclusive rights of
 copyright[^44]. An owner can claim an interdict [^45], damages, or
@@ -528,7 +528,7 @@ constitute a substantial portion if they solve a particularly difficult
 problem or are crucial in some other way to the functioning of the
 program[^50].
 
-### Literature {#_literature}
+### Literature
 
 Jeremy Speres: ‘The Enforceability of Open Source Software Licences: Can
 Copyright Licences Be Granted Non-Contractually?’ South African

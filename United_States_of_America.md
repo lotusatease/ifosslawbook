@@ -1,12 +1,12 @@
-United States of America {#chap.usa}
+United States of America
 ========================
 
 author:\[Webbink,Mark H.\]
 
-Introduction to software protection under United States law {#sec_introductionusa}
+Introduction to software protection under United States law
 -----------------------------------------------------------
 
-### Body of law {#sec_bodyusa}
+### Body of law
 
 Rights in software in the United States arise from a mixture of federal
 and state law and the interpretation of those laws by the various
@@ -46,7 +46,7 @@ that will govern their relationship. As a consequence, parties may,
 within limits, contract away rights and/or protections otherwise granted
 under copyright, patent, trademark or trade secret law.
 
-### Copyright protection of software {#sec_protectionusa}
+### Copyright protection of software
 
 Software is protected by copyright and is equivalent to literary works
 within the meaning of the Berne Convention for the Protection of
@@ -71,7 +71,7 @@ directly or with the aid of a machine or device”[^11], enforcement of
 copyright in the U.S. requires registration of the copyright with the
 U.S. Copyright Office.[^12]
 
-### Authors/Beneficiaries {#sec_authorsusa}
+### Authors/Beneficiaries
 
 Section 102 of the U.S. Copyright Act (the “Act”) provides copyright
 protection for “original works of authorship fixed in any tangible
@@ -80,7 +80,7 @@ ownership interests exist in the copyright commences with the reduction
 of the expression to some tangible medium, whether paper or an
 electronic file.
 
-#### The sole developer {#_the_sole_developer}
+#### The sole developer
 
 Section 201(a) of the Act provides that copyright protection in a work
 “vests initially in the author or authors of the work.”[^14] In the case
@@ -90,7 +90,7 @@ expression. That is, once she types and saves the code, fixing it in the
 computer’s memory, she now owns the copyright in that code. Nothing more
 is required of the developer to own the copyright.
 
-#### Works for hire {#_works_for_hire}
+#### Works for hire
 
 In the case of a developer writing software code within the scope of her
 employment, the resulting work is known as a “work made for hire.” With
@@ -111,7 +111,7 @@ to a collective work.[^17] Thus, the transfer of ownership of software
 produced outside of the scope of employment must be supported by express
 contractual language in writing.[^18]
 
-#### Joint ownership {#_joint_ownership}
+#### Joint ownership
 
 Section 201(a) of the Act further provides that “\[t\]he authors of a
 joint work are co-owners of copyright in the work.”[^19] Joint
@@ -170,7 +170,7 @@ other co-owners, in any way she may wish.[^29] Co-owners of a copyright
 do, however, owe to each other a duty to account for any income derived
 from their use or license of the work.[^30]
 
-#### The derivative work {#_the_derivative_work}
+#### The derivative work
 
 The Act also protects derivative works and compilations.[^31] A
 derivative work is a work based in whole, or in substantial part, upon a
@@ -195,7 +195,7 @@ copyright in only that portion of the derivative work he contributed and
 not in any portion of the pre-existing work upon which the derivative
 work is based.[^36]
 
-#### Compilations and collective works {#_compilations_and_collective_works}
+#### Compilations and collective works
 
 Finally, the Act protects interests in compilations, including
 collective works.[^37] A compilation is “a work formed by the collection
@@ -230,7 +230,7 @@ while ownership of the collective work, including contributions made by
 the author of the collective work, vests in the author of the collective
 work.[^43]
 
-#### Joint works vs. derivative works vs. compilations {#_joint_works_vs_derivative_works_vs_compilations}
+#### Joint works vs. derivative works vs. compilations
 
 Joint works of authorship share similarities with derivative works and
 compilations and, but for the intention of the authors, could be seen as
@@ -249,7 +249,7 @@ such a merger creates a joint work.[^48] On the other hand, if the
 intention to merge occurs only after creation of the work, then such a
 merger results in a derivative work or a compilation.[^49]
 
-### Exclusive rights {#sec_exclusiveusa}
+### Exclusive rights
 
 The right holder’s exclusive rights to do or to authorize are set out in
 Sec. 106 of the Act.[^50] The author of software has the exclusive right
@@ -263,9 +263,9 @@ work.[^52] However, a party receiving a copy under such subsequent
 distribution remains bound by any contractual limitations to which the
 original recipient agreed.[^53]
 
-### Exceptions to exclusive rights {#sec_exceptionsusa}
+### Exceptions to exclusive rights
 
-#### Functionality exception to copyright protection {#_functionality_exception_to_copyright_protection}
+#### Functionality exception to copyright protection
 
 When developing computer programs it is inevitable that some of the code
 will be functional in nature. As stated earlier, the Act awards
@@ -328,7 +328,7 @@ An extensive discussion on the functionality exception to copyright in
 software and its application may be found in an order of the Court in
 *Oracle America, Inc. v. Google, Inc.*[^62]
 
-#### Idea/Expression merger exception to copyright protection {#_idea_expression_merger_exception_to_copyright_protection}
+#### Idea/Expression merger exception to copyright protection
 
 Under the Act, in no case does copyright protection extend to any idea
 regardless of the form in which it is described, explained, illustrated,
@@ -415,7 +415,7 @@ aspect of this holding by the Court was that Java specifications
 constitute unprotectable ideas and that it is only an implementation of
 a specification that constitutes protected expression.
 
-#### Scènes à faire in software exception to copyright protection {#_scènes_à_faire_in_software_exception_to_copyright_protection}
+#### Scènes à faire in software exception to copyright protection
 
 The Act does not directly define the scènes à faire doctrine. Scènes à
 faire refers to aspects of a work that are indispensable or standard
@@ -496,7 +496,7 @@ standard functions, we can expect to see the scènes à faire doctrine
 applied with greater regularity in software to deny copyright
 protection.
 
-#### Public domain exception to copyright protection {#_public_domain_exception_to_copyright_protection}
+#### Public domain exception to copyright protection
 
 Works eligible for copyright protection may nonetheless enter the public
 domain, i.e., no longer enjoy that copyright protection. For example, a
@@ -548,7 +548,7 @@ intent. The Creative Commons Copyright-Only Dedication statement gives
 some indication of the complexity of committing a work to the public
 domain.[^94]
 
-#### Facts in software exception to copyright protection {#_facts_in_software_exception_to_copyright_protection}
+#### Facts in software exception to copyright protection
 
 > Facts, whether alone or as part of a compilation, are not original and
 > therefore may not be copyrighted. A factual compilation is eligible
@@ -611,7 +611,7 @@ showing equivalences, or a target name may all be merely factual
 statements within the context of the software and, thus, not eligible
 for copyright protection.
 
-#### Fair use {#_fair_use}
+#### Fair use
 
 Originally developed by the courts through case law, certain uses or
 reproductions of a work protected by copyright are considered to be
@@ -649,7 +649,7 @@ Unless the use falls within one of the permissible statutory uses, there
 is no way to conclusively know whether the use is fair without costly
 and expensive litigation.
 
-#### Statutory limitations on copyright in software {#_statutory_limitations_on_copyright_in_software}
+#### Statutory limitations on copyright in software
 
 Sec. 117 of the Copyright Act imposes statutory limitations on the
 rights of authors or holders of copyright in computer programs by
@@ -661,7 +661,7 @@ not an infringement to activate a machine for maintenance and repair
 purposes and incidental to such activation run the software installed on
 the machine.[^103]
 
-### Moral rights {#sec_moralusa}
+### Moral rights
 
 Unlike the copyright laws of many European nations, the United States
 does not generally recognize moral rights in copyrighted works. The
@@ -670,7 +670,7 @@ motion pictures, electronic publications, and applied art.[^104] As a
 consequence, the ability to assert moral rights under copyright in
 computer programs would be rare.
 
-### Term of protection {#sec_protectionusa2}
+### Term of protection
 
 In the United States the duration of copyright in computer programs is
 dependent on the nature of the authorship. Where the computer program
@@ -691,7 +691,7 @@ derivative work, compilation or collective work hold independent
 copyrights. Thus, each protection term is calculated separately under
 the general rule.
 
-### Copyright assignment {#sec_assignmentusa}
+### Copyright assignment
 
 Under U.S. copyright law the ownership of a copyright may be transferred
 in whole or in part by any means of conveyance or by operation of law,
@@ -728,9 +728,9 @@ prior to the date of termination shall survive such termination, but
 only in the form in which the derivative work existed at the time of
 such termination.[^116]
 
-### Enforcement {#sec_enforcementusa}
+### Enforcement
 
-#### Infringement {#_infringement}
+#### Infringement
 
 Enforcement of copyright in software where infringement occurs is no
 different than for other matter subject to copyright protection.
@@ -759,7 +759,7 @@ courts.[^124] This will be true even when breach of contract claims are
 asserted so long as at least one claim lies solely in copyright and such
 copyright claim is the primary basis of the suit.[^125]
 
-#### Breach of contract {#_breach_of_contract}
+#### Breach of contract
 
 Apart from the right to bring an action for infringement, licensor’s of
 software may also bring an action for breach of contract where the
@@ -775,7 +775,7 @@ right, injunctive relief will only be granted in breach of contract
 actions where such breach would result in irreparable harm that could
 not be adequately remedied by money damages.
 
-### Patent protection of software {#sec_patentusa}
+### Patent protection of software
 
 Unlike copyright, patent protection of software is not automatic, and
 such protection is largely limited to the jurisdiction issuing the
@@ -813,7 +813,7 @@ patents related to software may be infringed by numerous computer
 programs, and any computer program may infringe the claims of numerous
 patents.
 
-#### Exclusive rights {#_exclusive_rights}
+#### Exclusive rights
 
 A patent holder in the U.S. has the exclusive right to make, have made,
 use, sell, or import any product made by means of a claimed process or
@@ -821,7 +821,7 @@ product embodying the claimed invention.[^129] As with copyright, these
 rights may be assigned or licensed to another either in whole or in
 part.
 
-#### Exhaustion and implied licenses {#_exhaustion_and_implied_licenses}
+#### Exhaustion and implied licenses
 
 Upon the unrestricted sale (as contrasted with the license) of a
 patented invention all patent rights in the invention are exhausted,
@@ -857,7 +857,7 @@ patent holder will not act. Finally, a court may impose legal estoppel
 on a patent holder who has licensed or assigned a right, received
 consideration, and then sought to derogate from the right granted.
 
-#### Term of protection {#_term_of_protection}
+#### Term of protection
 
 Patent protection in the U.S. is granted for a term of 20 years measured
 from the date of the filing of the patent application for all patents
@@ -869,7 +869,7 @@ years from the date of issue; this transition term phasing out on June
 Effective March 13, 2013, the U.S. joined most other national patent
 bodies in granting patent protection to the first party to file.[^135]
 
-#### Extraterritorial reach {#_extraterritorial_reach}
+#### Extraterritorial reach
 
 Sec. 271(f) of the Patent Act[^136] extends infringement liability to
 any party who “without authority supplies or causes to be supplied in or
@@ -888,7 +888,7 @@ liability accrued where the infringing act arises from the actual
 loading of the software onto a computer or the operation of the software
 on that computer.
 
-#### Infringement {#_infringement_2}
+#### Infringement
 
 Liability for patent infringement arises when a party “without authority
 makes, uses, offers to sell, or sells any patented invention, within the
@@ -915,9 +915,9 @@ Consequently, notice of infringement of patents related to software
 usually only arises upon the giving of written notice to the
 infringer.[^143]
 
-### Other matters of law {#sec_otherusa}
+### Other matters of law
 
-#### Representations, warranties and disclaimers {#_representations_warranties_and_disclaimers}
+#### Representations, warranties and disclaimers
 
 Although there is a legal distinction between a representation (a fact
 that is true at the time of the making of an agreement) and a warranty
@@ -946,13 +946,13 @@ commonly done to conform to the safe harbor provisions of laws
 pertaining to warranties, including the Uniform Commercial Code and the
 Magnuson-Moss Warranty Act.[^144]
 
-#### Liability and limitation {#_liability_and_limitation}
+#### Liability and limitation
 
 Under principles of contract law parties may agree to limit the scope of
 liability that may be imposed on a party under a license agreement, and
 such limitations are generally held to be valid.
 
-#### Export control {#_export_control}
+#### Export control
 
 Although there are numerous other laws that are applicable to the
 licensing of software, we only make mention of one here — export
@@ -963,7 +963,7 @@ extend beyond the original distributor to any downstream party that
 redistributes the software. As a consequence, most original distributors
 include in their license a notice of such obligations and liability.
 
-Analysis of FOSS under United States law {#sec_analysisusa}
+Analysis of FOSS under United States law
 ----------------------------------------
 
 Rights in FOSS under copyright, patent, and trademark law and the
@@ -984,14 +984,14 @@ licensed under the GPL) or no such condition (e.g., arguably the
 Berkeley Software Distribution (BSD) and MIT licenses impose no such
 conditions).
 
-FOSS cases in the United States {#sec_casesusa}
+FOSS cases in the United States
 -------------------------------
 
 There have been few cases in the U.S. that have addressed the
 enforcement of free and open source licenses. Many of the so-called free
 and open source cases have dealt primarily with trademark issues.
 
-### Jacobsen v. Katzer {#sec_jacobsenusa}
+### Jacobsen v. Katzer
 
 *Jacobsen v. Katzer*[^146] is undoubtedly the most important of the
 cases addressing free and open source software in the U.S. At issue was
@@ -1027,7 +1027,7 @@ clearly established the enforceability of free and open source licenses
 containing at least one condition limiting a licensee’s right to
 exercise one or more rights granted under a copyright license.
 
-### Wallace v. International Business Machines Corp. {#sec_wallaceusa}
+### Wallace v. International Business Machines Corp.
 
 Although a bit of an odd case and one not directly related to the
 enforcement of a free and open source license, *Wallace v. IBM*[^148] is
@@ -1040,9 +1040,9 @@ agreement that facilitates production of new derivative works, and
 agreements that yield new products that would not arise through
 unilateral action are lawful.”[^149]
 
-### Recommended literature {#_recommended_literature}
+### Recommended literature
 
-#### Recommended literature in the United States {#_recommended_literature_in_the_united_states}
+#### Recommended literature in the United States
 
 -   O. Johnny, M. Miller and M. H. Webbink: Copyright in Open Source
     Software — Understanding the Boundaries
@@ -1068,7 +1068,7 @@ unilateral action are lawful.”[^149]
 
     <http://www.ifosslr.org/ifosslr/article/view/5>
 
-#### Comprehensive books {#_comprehensive_books}
+#### Comprehensive books
 
 -   Andrew M. St. Laurent: Understanding Open Source and Free Software
     Licensing (2008, O’Reilly Media)

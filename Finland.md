@@ -1,12 +1,12 @@
-Finland {#chap.finland}
+Finland
 =======
 
 author:\[von Willebrand,Martin\] author:\[Tanskanen,Henri\]
 
-Introduction to software protection under Finnish law {#sec_introductionfinland}
+Introduction to software protection under Finnish law
 -----------------------------------------------------
 
-### Body of law {#sec_finland_body}
+### Body of law
 
 In Finland, copyright protection of software is regulated under the
 Copyright Act, originally enacted on 8 July 1961 and amended multiple
@@ -28,32 +28,27 @@ amended) by way of amendments enacted on 11 January 1991 and 7 May
 In the current Copyright Act, the relevant articles containing computer
 program specific stipulations are:
 
-Article 1, second paragraph
+Article 1, second paragraph  
+literary work
 
-:   literary work
+Article 25 j  
+copying and examination
 
-Article 25 j
+Article 25 k  
+reverse engineering
 
-:   copying and examination
+Article 40 b  
+employment relationship
 
-Article 25 k
-
-:   reverse engineering
-
-Article 40 b
-
-:   employment relationship
-
-Article 56 c
-
-:   sanction on distribution of protection circumvention
+Article 56 c  
+sanction on distribution of protection circumvention
 
 In addition to the above, exceptions concerning computer programs can be
 found in Art 11, second paragraph; Art 12, second paragraph; Art 19,
 third paragraph; Art 50a, fourth paragraph; Art 50b, third paragraph;
 Art 50c, fifth paragraph and Art 56a, second paragraph.
 
-### Copyright Act: Object of protection {#sec_finland_copyrightact}
+### Copyright Act: Object of protection
 
 Computer programs are protected by copyright as literary works, as
 stipulated in Article 1 of the Copyright Act. In order to benefit from
@@ -95,7 +90,7 @@ there are usually several possible solutions to any programming task,
 the level of originality required for copyright protection of a computer
 program can be safely assumed to be rather low.
 
-### Authors/Beneficiaries {#sec_finland_AuthorsBeneficiaries}
+### Authors/Beneficiaries
 
 Copyright to a work, such as a computer program, belongs to the author.
 An author is always a natural person, since only individuals are able to
@@ -125,7 +120,7 @@ the definition.
 The right to a database created by an employee or a public functionary
 is passed to the employer or public body in a similar manner.
 
-### Exclusive rights {#sec_finland_Exclusiverights}
+### Exclusive rights
 
 The general exclusive rights stipulated in the Copyright Act apply to
 computer programs. According to Article 2 of the Copyright Act, the
@@ -150,7 +145,7 @@ The concepts of public performance and communication to the public
 include the performance and communication of a work to a relatively
 large closed circle provided that there is an intention to make profit.
 
-### Exceptions to exclusive rights {#sec_finland_ExceptionstoExclusiveRights}
+### Exceptions to exclusive rights
 
 Article 19 of the Copyright Act stipulates that the first sale in the
 European Economic Area of a copy of a program with the consent of the
@@ -160,16 +155,16 @@ lending of the program or a copy thereof.
 
 Article 25 j provides that
 
-\(1) In the absence of an express contractual provision, no authorization
+(1) In the absence of an express contractual provision, no authorization
 by the right holder is required for the lawful acquirer to make any such
 copies of or alterations to the computer program which are necessary for
 using the program for the intended purpose, including error correction.
 
-\(2) The reproduction of the program by way of a back-up copy by a person
+(2) The reproduction of the program by way of a back-up copy by a person
 having a right to use the computer program may not be prevented, insofar
 as that copy is necessary to use the program.
 
-\(3) The person having the right to use a copy of the computer program is
+(3) The person having the right to use a copy of the computer program is
 entitled, without the authorization of the right holder, to observe,
 study or test the functioning of the program in order to determine the
 ideas and principles which underlie any element of the program, provided
@@ -189,7 +184,7 @@ interoperability of an independently created computer program with other
 programs. This exception is mandatory, as well, and a contract
 stipulation to the contrary is void.
 
-### Moral rights {#sec_finland_moral_rights}
+### Moral rights
 
 General stipulations of the Copyright Act on moral rights apply to
 computer programs, as well. Moral rights under Finnish law are comprised
@@ -211,7 +206,7 @@ Moral rights cannot be transferred, and they may be waived only where
 the use of the work is limited in scope and character. This applies
 equally to the right of paternity and to the right of respect.
 
-### Term of protection {#sec_finland_Termofprotection}
+### Term of protection
 
 The term of copyright protection for computer programs is the same as
 for other works, i.e., 70 years following the year of death of the
@@ -222,7 +217,7 @@ independent of the copyright term of the original work, i.e., the
 copyright to the modifications lasts for 70 years following the death of
 the author of the modifications.[^9]
 
-### Copyright assignment {#sec_finland_copyright_assignment}
+### Copyright assignment
 
 Copyright can be assigned in full, except for moral rights. Most
 importantly, moral rights include the obligation to state the author
@@ -268,7 +263,7 @@ An unpaid contributor is treated similarly to a contractor. In lack of a
 specific agreement on assignment or right of use, a right of use is
 presumed and derived from the joint purpose of the parties.
 
-### Special measures {#sec_finland_Special_Measures}
+### Special measures
 
 The Copyright Act contains civil law sanctions for a breach of copyright
 and some provisions on criminal sanctions regarding lesser
@@ -286,7 +281,7 @@ However, the provisions under Articles 50 a , 50 b and 50 c of the Act
 regarding the prohibition of circumvention of technological measures do
 not apply to computer programs.
 
-Unprotected software and public domain software {#sec_finland_Unprotected}
+Unprotected software and public domain software
 -----------------------------------------------
 
 Only software that is original in the sense that it is an intellectual
@@ -324,7 +319,7 @@ law. This is simply because an author of FOSS reserves the copyright,
 whereas an author placing a work into the public domain renounces it
 altogether.
 
-Analysis of FOSS under Finnish law {#sec_finland_analysis}
+Analysis of FOSS under Finnish law
 ----------------------------------
 
 Under Finnish copyright law, FOSS licenses can be examined on a very
@@ -337,7 +332,7 @@ copyright license grant, and that can only be achieved by fulfilling the
 license conditions. To the extent the license constitutes an agreement,
 the user will need to accept the conditions of such agreement.
 
-### Copyrights {#sec_finland_Copyrights}
+### Copyrights
 
 Although FOSS can be authored by one person or owned by one legal
 entity, FOSS is often the result of the work of several authors. In such
@@ -348,7 +343,7 @@ as the original work while every further contribution constitutes a
 derivative work (Article 4 of the Copyright Act). The legal consequences
 for these two cases are different.
 
-#### Qualification of FOSS {#_qualification_of_foss}
+#### Qualification of FOSS
 
 A work that has been originally created by several parties is a jointly
 created work. In addition, any work in which the end result is such that
@@ -379,7 +374,7 @@ is possible that jointly planned and executed computer programming would
 still be considered as creating a joint work, even if a version control
 system could be used to track every character addition to the code.
 
-#### Rights of the original co-authors {#sec_finland_rightscoauthors}
+#### Rights of the original co-authors
 
 In the case of a jointly created work, the copyright is held jointly,
 meaning that each author’s permission is required for the exploitation
@@ -404,7 +399,7 @@ created work has the right to present claims on the basis of copyright
 infringement, so no joint decision is necessarily required for
 enforcement.
 
-#### Authors of derivative works {#_authors_of_derivative_works}
+#### Authors of derivative works
 
 Most FOSS projects will include derivative works. Even every
 contribution can perhaps be considered as a derivative work. In this
@@ -426,7 +421,7 @@ In the case of derivative works, as well, enforcement by the authors can
 occur separately. Each author is, however, able to enforce their rights
 only in relation to the part in which they hold the copyright.
 
-### The assignment of copyrights {#sec_finland_The_assignmentofcopyrights}
+### The assignment of copyrights
 
 In order to control the project in an organised manner, it may be useful
 to collect all copyrights concerning a FOSS project within one
@@ -442,7 +437,7 @@ assignment would resemble an ordinary assignment added, however, with
 contractual conditions concerning the roles, rights and responsibilities
 of the fiduciary and the original authors.
 
-### Moral rights {#sec_finland_Moralcopyrights}
+### Moral rights
 
 As described earlier (see under
 [section\_title](#sec_finland_moral_rights) and
@@ -464,7 +459,7 @@ Moral rights apply equally to FOSS regardless of whether it has been
 created as a derivative work, joint work or otherwise. Each relevant
 author has his or her moral rights.
 
-### Enforcing FOSS licenses {#sec_finland_EnforcingFOSSlicenses}
+### Enforcing FOSS licenses
 
 In general, FOSS licenses can be deemed fully enforceable under Finnish
 law. There is no existing case law on FOSS licenses, but it is clear
@@ -504,7 +499,7 @@ prerequisites for the copyright grant. Not observing the conditions
 could be construed as losing the copyright grant and therefore resulting
 in a copyright violation and not a mere contract violation.
 
-### Waiver and liability {#sec_finland_Waiverandliability}
+### Waiver and liability
 
 Typically, FOSS licenses contain very strong liability limitation
 clauses which discharge the author from all liability. Most clauses
@@ -541,9 +536,9 @@ The variance of licensing regimes does not affect the above analysis.
 Product liability rules are generic and do not specifically react to
 particular software licensing regimes.
 
-### The copyleft principle {#sec_finland_Thecopyleftprinciple}
+### The copyleft principle
 
-#### Principle {#_principle}
+#### Principle
 
 A characteristic found in different (but not all[^18]) FOSS licenses is
 the so-called “copyleft” principle. FOSS licenses incorporating the
@@ -564,7 +559,7 @@ sanctions for incorporating copyleft code in an unpermitted manner into
 proprietary software are the same copyright law sanctions resulting from
 unpermitted use of any copyrighted work.
 
-#### Validity {#_validity}
+#### Validity
 
 As discussed above, copyleft clauses are as valid as any other clauses
 in copyright licenses. Some copyleft clauses, however, are unclear or
@@ -572,7 +567,7 @@ ambiguous (notably in GPL version 2, especially regarding the question
 of the extent of copyleft) and may therefore become subject to
 interpretation.
 
-### Compensations and damages {#sec_finland_CompensationsandDamages}
+### Compensations and damages
 
 Copyright violations entitle the copyright holders to claim for
 copyright-based compensation as well as damages. Copyright-based
@@ -589,12 +584,12 @@ against the copyleft rule, the compensation would, in principle, be
 equal to the license price the copyright holder would ask for such
 distribution.
 
-FOSS cases in Finland {#sec_finland_foasscases}
+FOSS cases in Finland
 ---------------------
 
 No cases have been reported yet (November 2013).
 
-Finnish case law on copyright to computer programs {#sec_finland_copycases}
+Finnish case law on copyright to computer programs
 --------------------------------------------------
 
 The authors have followed and listed below Finnish case law relating to
@@ -607,7 +602,7 @@ perform exhaustive searches for such material. The decisions are in
 Finnish with Swedish translations available for the Supreme Court
 precedents.
 
-### Supreme Court {#_supreme_court}
+### Supreme Court
 
 -   KKO:1996:43
 
@@ -623,7 +618,7 @@ precedents.
 
 -   KKO:2008:45
 
-### Appeal courts {#_appeal_courts}
+### Appeal courts
 
 -   Appeal Court of Helsinki (Helsingin HO) 28.12.1999 3571
 
@@ -647,68 +642,115 @@ precedents.
 
 -   Appeal Court of Rovaniemi (Rovaniemen HO) 04.03.2011 204
 
-### Copyright Council {#_copyright_council}
+### Copyright Council
 
 Opinions of the Copyright Council[^20] (in Finnish) can be accessed via
 the following website:
 <http://www.okm.fi/OPM/Tekijaenoikeus/tekijaenoikeusneuvosto/tekijaenoikeusneuvoston_lausunnot/>
 
-+--------------------+--------------------------------------------------------+
-| Decision no.       | Rubric (translated from Finnish)                       |
-+====================+========================================================+
-| TN 1986:3          | Object of protection                                   |
-+--------------------+--------------------------------------------------------+
-| TN 1989:7          | Copyright to computer program                          |
-+--------------------+--------------------------------------------------------+
-| TN 1992:3          | Copyright protection of video games                    |
-+--------------------+--------------------------------------------------------+
-| TN 1993:12         | Copyright to computer program                          |
-+--------------------+--------------------------------------------------------+
-| TN 1996:3          | Copyright of an author of a computer program           |
-+--------------------+--------------------------------------------------------+
-| TN 1997:12         | Copyright to computer program                          |
-+--------------------+--------------------------------------------------------+
-| TN 1997:17         | Exhaustion of copyright (etc.)                         |
-+--------------------+--------------------------------------------------------+
-| TN 1997:18         | Computer program for calculating preset values of      |
-|                    | radiator valves                                        |
-+--------------------+--------------------------------------------------------+
-| TN 1998:13         | Paternity right of an author of a computer program     |
-+--------------------+--------------------------------------------------------+
-| TN 1998:16         | Copyright to computer programs                         |
-+--------------------+--------------------------------------------------------+
-| TN 1998:19         | Copyright to translations included in a computer       |
-|                    | program                                                |
-+--------------------+--------------------------------------------------------+
-| TN 1999:4          | Right of a civilian service man to a computer program  |
-|                    | created by him                                         |
-+--------------------+--------------------------------------------------------+
-| TN 2003:10         | Copyright to computer programs                         |
-+--------------------+--------------------------------------------------------+
-| TN 2005:7          | Copyright threshold and protection of a computer       |
-|                    | program                                                |
-+--------------------+--------------------------------------------------------+
-| TN 2006:5          | Protection of a computer program                       |
-+--------------------+--------------------------------------------------------+
-| TN 2006:12         | Copyright threshold and protection of a computer       |
-|                    | program                                                |
-+--------------------+--------------------------------------------------------+
-| TN 2007:3          | Copyright to a computer program created as (part of) a |
-|                    | thesis                                                 |
-+--------------------+--------------------------------------------------------+
-| TN 2007:9          | Circumvention of an effective technological measure\*  |
-+--------------------+--------------------------------------------------------+
-| TN 2008:13         | Copyright to a musical application                     |
-+--------------------+--------------------------------------------------------+
-| TN 2009:15         | Renting of a computer program                          |
-+--------------------+--------------------------------------------------------+
-| TN 2011:15         | Copyright to an internet game and the idea thereof     |
-+--------------------+--------------------------------------------------------+
+<table>
+<colgroup>
+<col width="25%" />
+<col width="75%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Decision no.</th>
+<th>Rubric (translated from Finnish)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>TN 1986:3</p></td>
+<td><p>Object of protection</p></td>
+</tr>
+<tr class="even">
+<td><p>TN 1989:7</p></td>
+<td><p>Copyright to computer program</p></td>
+</tr>
+<tr class="odd">
+<td><p>TN 1992:3</p></td>
+<td><p>Copyright protection of video games</p></td>
+</tr>
+<tr class="even">
+<td><p>TN 1993:12</p></td>
+<td><p>Copyright to computer program</p></td>
+</tr>
+<tr class="odd">
+<td><p>TN 1996:3</p></td>
+<td><p>Copyright of an author of a computer program</p></td>
+</tr>
+<tr class="even">
+<td><p>TN 1997:12</p></td>
+<td><p>Copyright to computer program</p></td>
+</tr>
+<tr class="odd">
+<td><p>TN 1997:17</p></td>
+<td><p>Exhaustion of copyright (etc.)</p></td>
+</tr>
+<tr class="even">
+<td><p>TN 1997:18</p></td>
+<td><p>Computer program for calculating preset values of radiator valves</p></td>
+</tr>
+<tr class="odd">
+<td><p>TN 1998:13</p></td>
+<td><p>Paternity right of an author of a computer program</p></td>
+</tr>
+<tr class="even">
+<td><p>TN 1998:16</p></td>
+<td><p>Copyright to computer programs</p></td>
+</tr>
+<tr class="odd">
+<td><p>TN 1998:19</p></td>
+<td><p>Copyright to translations included in a computer program</p></td>
+</tr>
+<tr class="even">
+<td><p>TN 1999:4</p></td>
+<td><p>Right of a civilian service man to a computer program created by him</p></td>
+</tr>
+<tr class="odd">
+<td><p>TN 2003:10</p></td>
+<td><p>Copyright to computer programs</p></td>
+</tr>
+<tr class="even">
+<td><p>TN 2005:7</p></td>
+<td><p>Copyright threshold and protection of a computer program</p></td>
+</tr>
+<tr class="odd">
+<td><p>TN 2006:5</p></td>
+<td><p>Protection of a computer program</p></td>
+</tr>
+<tr class="even">
+<td><p>TN 2006:12</p></td>
+<td><p>Copyright threshold and protection of a computer program</p></td>
+</tr>
+<tr class="odd">
+<td><p>TN 2007:3</p></td>
+<td><p>Copyright to a computer program created as (part of) a thesis</p></td>
+</tr>
+<tr class="even">
+<td><p>TN 2007:9</p></td>
+<td><p>Circumvention of an effective technological measure*</p></td>
+</tr>
+<tr class="odd">
+<td><p>TN 2008:13</p></td>
+<td><p>Copyright to a musical application</p></td>
+</tr>
+<tr class="even">
+<td><p>TN 2009:15</p></td>
+<td><p>Renting of a computer program</p></td>
+</tr>
+<tr class="odd">
+<td><p>TN 2011:15</p></td>
+<td><p>Copyright to an internet game and the idea thereof</p></td>
+</tr>
+</tbody>
+</table>
 
 `*` English translation available at
 <http://www.okm.fi/export/sites/default/OPM/Tekijaenoikeus/tekijaenoikeusneuvosto/tekijaenoikeusneuvoston_lausunnot/2007/liitteet/TN_2007-9_edi_eng.pdf>
 
-References and recommended literature {#_references_and_recommended_literature}
+References and recommended literature
 -------------------------------------
 
 There are no wider literature presentations on Finnish copyright
@@ -716,7 +758,7 @@ legislation in English. The references here are to literature on
 copyright in Finnish or Swedish, with a special emphasis on literature
 touching upon issues related to computer programs.
 
-### Books {#_books}
+### Books
 
 -   Haarmann, Pirkko-Liisa: Tekijänoikeus ja lähioikeudet. Talentum.
     Helsinki 2005.
@@ -733,7 +775,7 @@ touching upon issues related to computer programs.
 -   Välimäki, Mikko: Oikeudet tietokoneohjelmiin. Talentum.
     Helsinki 2009.
 
-### Articles {#_articles}
+### Articles
 
 -   Lehtonen, Asko: Kohtuullisen hyvityksen arviointi tietokoneohjelmaa
     koskevassa tekijänoikeuden loukkaustapauksessa. In (ed. Anne

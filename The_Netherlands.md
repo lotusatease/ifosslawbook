@@ -1,12 +1,12 @@
-The Netherlands {#chap.netherlands}
+The Netherlands
 ===============
 
 author:\[Dammers,Wouter\] author:\[van Kerkvoorden,Wanda\]
 
-Introduction to software protection under Dutch law {#nl_intro}
+Introduction to software protection under Dutch law
 ---------------------------------------------------
 
-### Body of law {#nl_bodyoflaw}
+### Body of law
 
 In the Netherlands, the protection of software by copyright is regulated
 in the Dutch Copyright Act (“Auteurswet”, hereafter: “Copyright Act” or
@@ -21,7 +21,7 @@ no different than for other literary, scientific or artistic works
 (“works”). Chapter VI of the Copyright Act, however, contains special
 provisions with regard to computer programs.
 
-### Copyright Act: Object of protection {#nl_copyrightact}
+### Copyright Act: Object of protection
 
 Chapter 1, paragraph 3 of the Copyright Act refers to the works
 protected by copyright. Article 10, paragraph 1 states that, for the
@@ -59,7 +59,7 @@ writings (“geschriftenbescherming”), Article 10, paragraph 1, sub 1 CA.
 However, according to Article 10, paragraph 5, computer programs were
 already expressly excluded from this protection of writings.[^15].
 
-### Authors/Beneficiaries {#nl_authors}
+### Authors/Beneficiaries
 
 The Copyright Act does not explicitly state that the actual creator of a
 work is the copyright owner. Nevertheless, when one reads Article 1
@@ -70,7 +70,7 @@ down by law — in conjunction with Articles 4 — 9 CA, it is made clea
 that, in principle, the person who has created the computer program is
 the author of the work and thus the copyright owner.[^17]
 
-#### Rules of evidence {#_rules_of_evidence}
+#### Rules of evidence
 
 Article 4 CA provides the statutory rules of evidence: the person who is
 named as the author in or on the work or — for instance the name of the
@@ -83,7 +83,7 @@ the contrary. If the author is not named, the person who delivers a
 recitation which has not appeared in print shall be deemed the author
 thereof, unless there is proof to the contrary.[^18]
 
-#### Compilations {#_compilations}
+#### Compilations
 
 With regard to compilations, Article 5, paragraph 1, CA provides that,
 if a work consists of separate works by two or more persons, then the
@@ -92,7 +92,7 @@ made or, if there is no such person, the compiler of the various works,
 will be deemed the author of the whole work, without prejudice to the
 separate copyright in each of the works.[^19]
 
-#### Joint works {#_joint_works}
+#### Joint works
 
 With regard to joint works, Article 26 CA, provides that, when the
 copyright in a work belongs jointly to two or more persons, it may be
@@ -101,7 +101,7 @@ to a joint work can, in principle, only be enjoyed if both authors agree
 upon such enjoyment (Article 3:166 ff. of the Dutch Civil Code
 (“Burgerlijk Wetboek”, hereafter: “Civil Code” or “CC”)).[^21]
 
-#### Fictional authorship {#_fictional_authorship}
+#### Fictional authorship
 
 Article 6 CA states that if a work has been made according to the draft
 and under the guidance and supervision of another person, then that
@@ -127,7 +127,7 @@ naming any natural person as its author, will be regarded as the author
 of that work, unless it is proved that the communication to the public
 in such a manner was unlawful, according to Article 8 CA.
 
-### Exclusive rights {#nl_exclusive}
+### Exclusive rights
 
 The author of a work has the exclusive right to communicate the work to
 the public (“openbaarmaken”, Articles 1 and 12 CA)[^26] and to reproduce
@@ -144,7 +144,7 @@ the normal use of computer programs, including the correction of errors
 observation, study or testing of the computer program (Article 45l CA);
 as well as the decompilation of the computer program (Article 45m CA).
 
-### Exceptions to exclusive rights {#nl_exceptions}
+### Exceptions to exclusive rights
 
 Articles 15-17c CA[^30] provide general exceptions to the copyright of
 the author, including for instance the right to quote from works that
@@ -166,7 +166,7 @@ The Articles 45j — 45n CA provide the special exceptions to the
 exclusive rights concerning computer programs, based on Articles 5 and 6
 of the Software Directive.
 
-#### Reproduction of software {#_reproduction_of_software}
+#### Reproduction of software
 
 Article 45j CA[^35] provides that the reproduction of a computer program
 by the lawful acquirer[^36] of a copy of the said work, when this is
@@ -175,14 +175,14 @@ not be deemed an infringement of copyright.[^38] Such reproduction, in
 connection with the loading, displaying or correcting of errors[^39]
 cannot be prohibited by contract.[^40]
 
-#### Back-ups of software {#_back_ups_of_software}
+#### Back-ups of software
 
 Article 45k CA[^41] provides that the reproduction of a computer program
 by the lawful user[^42] of the said work, serving as a back-up copy,
 where this is necessary for the use of the work for its intended
 purpose, shall not be deemed an infringement of copyright.[^43]
 
-#### Ideas and principles {#_ideas_and_principles}
+#### Ideas and principles
 
 Article 45l CA[^44] provides that a person who is entitled to reproduce
 the software program, which includes the loading, displaying, running,
@@ -193,7 +193,7 @@ order to determine the ideas and principles underlying it. The rightful
 user is allowed to use tools such as electronic testing and controlling
 tools.[^45]
 
-#### Decompilation {#_decompilation}
+#### Decompilation
 
 Article 45m CA[^46] states that the making of a copy of a computer
 program and the translation of the form of its code shall not be deemed
@@ -214,7 +214,7 @@ used for the development, production or marketing of a computer program
 that cannot be regarded as a new, original work or for any other act
 which infringes copyright.
 
-### Moral rights {#nl_moral}
+### Moral rights
 
 The author of the work also has moral rights, or so-called personality
 rights (“persoonlijkheidsrechten”).[^51] These rights protect the
@@ -235,7 +235,7 @@ are inalienable, but some may be waived (see sub a), or may be waived in
 so far as alterations to the work or its title are concerned (see sub b
 and c), in accordance with Article 25 CA.[^54]
 
-### Term of protection {#nl_protection}
+### Term of protection
 
 For all works, including computer programs, the term of protection is 70
 years as of January 1st following the death of the author (Article 37,
@@ -244,7 +244,7 @@ the joint author (Article 37, paragraph 2 CA). If the author is a legal
 entity this term begins on the January 1st following the first
 communication to the public (Article 38 CA).[^55]
 
-### Special measures {#nl_measures}
+### Special measures
 
 The Copyright Act provides the measures for enforcing copyrights.
 Besides the general measures, the Articles 31-36 CA set out specific
@@ -299,7 +299,7 @@ writing from — or in the presence of — a public prosecutor or an
 assistant public prosecutor. An official report of such entry shall be
 drawn up by them within twenty-four hours.
 
-Unprotected software and public domain software {#nl_unprotected}
+Unprotected software and public domain software
 -----------------------------------------------
 
 As set forth above, only software that is original in the sense that it
@@ -308,10 +308,10 @@ protection. Non-original software does not come into consideration for
 copyright protection and can, in principle, be used freely. In the
 Netherlands there is little to no case law about public domain software.
 
-Analysis of free and open source software under Dutch law {#nl_analysis}
+Analysis of free and open source software under Dutch law
 ---------------------------------------------------------
 
-### Copyrights {#nl_copyrights}
+### Copyrights
 
 One of the most important characteristics of free and open source
 software (“FOSS”) is that it is developed by the efforts of many
@@ -323,7 +323,7 @@ collaborative work under Dutch law; who owns the copyrights to FOSS
 software; and are contributions in themselves protected works in the
 sense of the Copyright Act?
 
-#### Qualification of FOSS {#_qualification_of_foss}
+#### Qualification of FOSS
 
 More than any other type of computer program, FOSS is often the result
 of collaborative work between software developers. Modifications to FOSS
@@ -376,7 +376,7 @@ can only be exercised with the consent of every author.[^61]
 Finally, copyrights on FOSS — just as for any other works — can also be
 obtained by succession or transfer.
 
-#### Rights of the original (co-)authors {#_rights_of_the_original_co_authors}
+#### Rights of the original (co-)authors
 
 As stated, the author of a work has the exclusive right to communicate
 his work to the public and to make reproductions. This also means that
@@ -385,7 +385,7 @@ licences do not restrict (*copyright*) the use of the software but allow
 (*copyleft*) others to use it under certain conditions in order to
 ensure the free and open character of the (modified) software.
 
-#### Authors of modifications {#_authors_of_modifications}
+#### Authors of modifications
 
 As FOSS has developed, works are often built on the basis of another
 FOSS work that has been created by other individuals. In this light, it
@@ -414,7 +414,7 @@ distributed under the same licence terms as the original work. The term
 paragraph 2 and Article 13 CA may provide guidance as to how it should
 be defined.[^62]
 
-### Moral copyrights {#nl_moralcopyrights}
+### Moral copyrights
 
 Moral rights play a more important role in relation to FOSS than they do
 for closed source software. The reason for this is because FOSS values
@@ -430,7 +430,7 @@ alterations. Nevertheless, in practise, acknowledgments are desirable in
 FOSS communities. Many FOSS licences even oblige contributors to mention
 their names and their modifications in the mandatory notice.[^66]
 
-### Enforcing FOSS licences {#nl_enforcing}
+### Enforcing FOSS licences
 
 If the FOSS is used, or distributed, in a way that is not allowed under
 the relevant FOSS licence and the law, then it amounts, in principle, to
@@ -451,7 +451,7 @@ and content of the applicable FOSS licence would comply with Dutch law.
 How should the licence be qualified? Who are the contracting parties? Is
 its form and content valid under Dutch law?
 
-#### Introduction to the Dutch legal system {#_introduction_to_the_dutch_legal_system}
+#### Introduction to the Dutch legal system
 
 For a good understanding of the Dutch attitudes to FOSS licences and to
 appreciate the suggestions made about the contents of FOSS licences, it
@@ -482,7 +482,7 @@ contractual clause may not apply, if under the given circumstances,
 according to reasonableness and fairness, a clause such as this would be
 unacceptable.[^67]
 
-#### Nature of the agreement {#_nature_of_the_agreement}
+#### Nature of the agreement
 
 FOSS licences are agreements that create mutual obligations for the
 contracting parties. Although FOSS licences have not yet been “tested”
@@ -509,7 +509,7 @@ the basis of the licensor’s exclusive right on the work. The majority of
 FOSS licences, therefore, do not substantially differ from most
 conventional software licence agreements.[^70]
 
-#### Contracting parties {#_contracting_parties}
+#### Contracting parties
 
 Who are the contracting parties to a FOSS licence? It is clear that the
 licensee is one — this is the person who is using a copy of the
@@ -538,7 +538,7 @@ whoever the licensor may be, the licensee has a right to expect that the
 so. The next question is whether the licence agreement is properly
 formulated so as to bind the user.[^72]
 
-#### Validity of the contract {#_validity_of_the_contract}
+#### Validity of the contract
 
 FOSS is made available to users in various ways. The terms of the FOSS
 licence may appear in a variety of ways as well. For instance, for
@@ -604,7 +604,7 @@ is, in our opinion, whether the user actually accepted the legal
 consequences of his actions, and whether he accomplished these actions
 with the specific intention of being bound by the licence.[^82]
 
-#### General terms and conditions {#_general_terms_and_conditions}
+#### General terms and conditions
 
 Moreover, FOSS licences generally take the form of a standard agreement,
 or of general terms and conditions (“algemene voorwaarden”), insofar as
@@ -651,7 +651,7 @@ Nevertheless, in the light of the foregoing, we believe that the FOSS
 community should adapt its licensing practises to ensure that the
 contract formation process meets the requirements of the law.
 
-### Waiver and liability {#nl_waiver}
+### Waiver and liability
 
 In the case of software one can think of three possible forms of
 liability: liability resulting from a) breach of contract (Article 6:74
@@ -708,9 +708,9 @@ course of his profession or business. Nevertheless, we argue that
 product liability may possibly be irrelevant for FOSS, as software may
 not be qualified as a “product”.[^92]
 
-### The copyleft principle {#nl_copyleft}
+### The copyleft principle
 
-#### Principle {#_principle}
+#### Principle
 
 The copyleft principle, or share-alike principle, in FOSS licences
 purports to perpetuate certain obligations under the licence from one
@@ -721,7 +721,7 @@ other users, if they choose to distribute such contributions and/or
 derivative works. In return, the developer can make free use of the
 FOSS, in accordance with the terms of the applicable licence.
 
-#### Validity {#_validity}
+#### Validity
 
 The copyleft clause raises a number of questions under Dutch law. More
 specifically, one could ask oneself how obligations are passed on to a
@@ -771,7 +771,7 @@ accurately reflect this process. The clause creates a relationship
 between the licensor and each of the licensees, regardless of the number
 of legal transactions between them.[^96]
 
-### Legal remedies {#nl_remedies}
+### Legal remedies
 
 If one does not comply with the provisions of the relevant FOSS licence,
 one may infringe the copyrights of the author and/or commit a breach of
@@ -780,7 +780,7 @@ most FOSS licences, Dutch law provides the rightholder with several
 legal remedies for both situations. The most suitable course of action
 may depend on the specific facts of the particular case.
 
-#### Damages {#_damages}
+#### Damages
 
 For instance, on the basis of Article 27 CA, the author retains his
 right — even after assignment of his copyright wholly or in part to
@@ -876,7 +876,7 @@ comply with an obligation, has derived profit from this tort or failure,
 then the court may, upon the request of the injured person, estimate the
 damage in line with the amount of that profit or a part of it.
 
-#### Other legal remedies {#_other_legal_remedies}
+#### Other legal remedies
 
 As said, the Copyright Act gives the author of a work the exclusive
 right to communicate the work to the public and to reproduce it, subject
@@ -944,7 +944,7 @@ the creditor has already brought a right of action (legal claim) to
 court in order to rescind the mutual agreement, will have no effect if
 the court subsequently decides to rescind that agreement.[^105]
 
-FOSS cases in the Netherlands {#nl_fosscases}
+FOSS cases in the Netherlands
 -----------------------------
 
 In the Netherlands, no cases concerning FOSS licences have been reported
@@ -974,10 +974,10 @@ stated earlier in this article, the Netherlands is still waiting for its
 first “real” FOSS case before any certainty on the different legal
 issues can be established.
 
-Legal procedures {#nl_procedures}
+Legal procedures
 ----------------
 
-### Parties {#nl_parties}
+### Parties
 
 Depending on the circumstances of the case, the FOSS licensor may need
 to enforce his rights either on the basis of an alleged breach of the
@@ -1014,7 +1014,7 @@ Fiduciary License Agreement (“FLA”). The FLA intends to remove this
 uncertainty by allowing authors to make the Free Software Foundation
 their fiduciary in all legal matters.[^108]
 
-### Procedures {#nl_procedures2}
+### Procedures
 
 The rightholder can initiate different legal proceedings in the
 Netherlands to enforce his rights under the Copyright Act and/or the
@@ -1094,7 +1094,7 @@ proceedings is awarded a payment from the other party of all the
 reasonable costs that he incurred in taking the proceedings (Article
 1019h CCP).
 
-### Recommended literature {#_recommended_literature}
+### Recommended literature
 
 -   H. Franken (Ed.), Recht en computer, 3rd impression, Deventer:
     Kluwer 1997.
@@ -1210,7 +1210,7 @@ reasonable costs that he incurred in taking the proceedings (Article
     ECLI:NL:PHR:2006:AU7508. Recently: HR 22 February 2013,
     ECLI:NL:HR:2013:BY1532. According to the Software Directive “no
     tests as to the qualitative or aesthetic merits of the program
-    should be applied”\~ “in respect of the criteria to be applied in
+    should be applied”~ “in respect of the criteria to be applied in
     determining whether or not a computer program is an original work”.
 
 [^11]: Compare: D.W.F. Verkade, Intellectuele eigendom, in Franken

@@ -1,12 +1,12 @@
-Portugal {#chap.portugal}
+Portugal
 ========
 
 author:\[Quintais LL.M.,João Pedro\] author:\[Ramalho LL.M.,Ana B.\]
 
-Introduction to software protection under Portuguese law {#_introduction_to_software_protection_under_portuguese_law}
+Introduction to software protection under Portuguese law
 --------------------------------------------------------
 
-### Body of law {#_body_of_law}
+### Body of law
 
 In Portugal, software is protected by copyright under the Software
 Act[^1], which implements the Software Directive.[^2] Unlike the
@@ -31,7 +31,7 @@ following sections will analyze the specific relevant provisions of the
 Software Act, while pointing out its disparities in relation to the
 Software Directive.
 
-### Object of protection {#_object_of_protection}
+### Object of protection
 
 According to Article 1(2) of the Software Act, computer programs[^6]
 that are creative will receive analogous protection to the one granted
@@ -62,7 +62,7 @@ one or few ways of expression of a computer program due to technical
 constraints (e.g., programming language), the protection threshold will
 not be met.[^12]
 
-### Authors/Beneficiaries {#_authors_beneficiaries}
+### Authors/Beneficiaries
 
 Article 3(1) of the Software Act establishes that the general rules on
 copyright authorship and ownership (Articles 11 to 26 of the PCA) apply
@@ -126,7 +126,7 @@ the contract is in contradiction with such solution.[^23] The law does
 not clarify, however, whether the employer or client is the original
 owner of the rights or whether he is an assignee.
 
-### Economic rights {#_economic_rights}
+### Economic rights
 
 Articles 5 and 8 of the Software Act bestow upon the right holder three
 exclusive economic rights. The first is the permanent or temporary
@@ -155,7 +155,7 @@ the disproportionality between that payment and the profit made by the
 exploiter. This right, however, lasts only for two years counting from
 when the creator became aware of the existence of damages.
 
-### Exceptions to Exclusive Rights {#_exceptions_to_exclusive_rights}
+### Exceptions to Exclusive Rights
 
 Unlike the Software Directive, the Software Act does not devise
 exceptions only. Instead, the Portuguese legislator granted certain
@@ -207,7 +207,7 @@ principles — probably, e.g., to improve the performance of that
 particular program. Article 10(2), on the other hand, has a more general
 nature, in that its aims are scientific research and teaching.[^29]
 
-### Moral Rights {#_moral_rights}
+### Moral Rights
 
 The Software Act does not expressly mention moral rights. Still, Article
 9 grants to the “original right holder” the right to be named as the
@@ -235,7 +235,7 @@ applicable to these moral rights admitted in the context of the Software
 Act. Thus, the moral rights of the author of a computer program are
 unwaivable and inalienable.[^35]
 
-### Term of protection {#_term_of_protection}
+### Term of protection
 
 As a result of the Council Directive 93/98/EEC, harmonizing the term of
 protection of copyright and certain related rights, the same term
@@ -246,7 +246,7 @@ other than the intellectual creator (i.e., the natural person who
 created the program), the duration is counted from the date when the
 program was first lawfully published or divulged.[^37]
 
-### Copyright contracts {#_copyright_contracts}
+### Copyright contracts
 
 Apart from the rules on ownership of programs created by employees or
 contractors — which, as seen above, might be considered to establish
@@ -394,7 +394,7 @@ and void by the STCA can thus effectively curtail some choices of the
 right holder when entering into a contract with potential licensees or
 assignees.
 
-### Enforcement {#_enforcement}
+### Enforcement
 
 Enforcement of copyright in Portugal is regulated by Articles 195 to
 211-B of the PCA, which have inter alia implemented the Enforcement
@@ -468,7 +468,7 @@ legal persons.[^98] Additionally, the court may rule as lost in favor of
 the state any objects, materials, equipment or devices used and owned by
 the author of the crimes.[^99]
 
-Unprotected software and public domain software {#_unprotected_software_and_public_domain_software}
+Unprotected software and public domain software
 -----------------------------------------------
 
 As explained above, only software that is original in the sense that it
@@ -495,7 +495,7 @@ certain cases even be presented by third parties as their own
 work[^103], and by modifying the original work, third parties can take
 certain versions of said software out of the public domain.
 
-Analysis of FOSS under Portuguese Law {#_analysis_of_foss_under_portuguese_law}
+Analysis of FOSS under Portuguese Law
 -------------------------------------
 
 From a conceptual and legal perspective, FOSS is identical to other
@@ -527,7 +527,7 @@ generis or atypical license agreements, even if they are still based on
 similar mechanisms to those of license contracts in general, and of
 end-user software license agreements in particular.
 
-### Copyrights {#_copyrights}
+### Copyrights
 
 Although FOSS can be written and owned by one person or be owned by one
 legal entity[^105], generally speaking, after some time the software is
@@ -541,7 +541,7 @@ of the software is to be deemed a composite or derivative work.[^106]
 The legal consequences are different at both authorship and ownership
 levels.[^107]
 
-#### Qualification of FOSS {#_qualification_of_foss}
+#### Qualification of FOSS
 
 For FOSS to be qualified as a joint work of co-authors it is not
 necessary for every co-author to have contributed equally, nor are
@@ -565,7 +565,7 @@ of the legal consequences, a distinction needs to be made between the
 rights of the original owner, the original co-authors and the rights of
 people or entities who carry out work based on the original work.
 
-#### Rights of the original co-authors {#_rights_of_the_original_co_authors}
+#### Rights of the original co-authors
 
 The general authorship and ownership rules of the PCA apply to the
 creation/production of software.[^113] However, if a software work is
@@ -659,7 +659,7 @@ What such regime does not allow and the general Portuguese regime does
 not permit are agreements that constitute waivers to moral rights, as
 discussed in greater detail below.[^133]
 
-#### Authors of derivative or composite works {#_authors_of_derivative_or_composite_works}
+#### Authors of derivative or composite works
 
 After some time FOSS will, in most cases, be a composite or derivative
 work.[^134] Composite works are those that incorporate, in the whole or
@@ -686,7 +686,7 @@ assignments or transmissions of copyright under Portuguese law.[^139]
 This contractual structure would also in principle allow authors in both
 works to judicially enforce their respective copyrights.
 
-#### Management of copyrights {#_management_of_copyrights}
+#### Management of copyrights
 
 With the purpose of controlling the chain of copyright ownership in a
 more efficient manner, it may be useful to concentrate all copyrights
@@ -747,7 +747,7 @@ arguable that a concentration of rights in a single organization via
 broad authorization of use contractual schemes constitutes a superior
 solution to secure the validity and effectiveness of the method.
 
-### Moral rights and FOSS {#_moral_rights_and_foss}
+### Moral rights and FOSS
 
 The US origin of FOSS is perhaps in no issue clearer than in its
 treatment of moral rights, a subject to which it attaches comparatively
@@ -788,9 +788,9 @@ likely the most coherent with the aforementioned Portuguese Supreme
 Court ruling of 2012 recognizing “minimum moral rights” to authors of
 computer programs.[^156]
 
-### Enforcing FOSS licenses {#_enforcing_foss_licenses}
+### Enforcing FOSS licenses
 
-#### General Considerations {#_general_considerations}
+#### General Considerations
 
 The question of whether a FOSS license can be enforced under the
 Portuguese legal system depends on whether a valid license was issued.
@@ -844,7 +844,7 @@ rules may translate into imperative provisions in addition to the
 legitimate user’s minimum rights in the Software Act, it is however
 important to ascertain whether FOSS licenses conflict with them.
 
-#### Contracting parties {#_contracting_parties}
+#### Contracting parties
 
 The issue of who are the contracting parties in a FOSS licensing scheme
 depends on its constitution. In the simplest formulation the answer is
@@ -893,7 +893,7 @@ of (mostly) derivate works is configured as a chain of agreements for
 specified uses of software works to which the respective authors have
 consented to, it should be considered valid under Portuguese law.
 
-#### Validity of the FOSS licenses {#_validity_of_the_foss_licenses}
+#### Validity of the FOSS licenses
 
 The choice of a FOSS license by an author is motivated by the desire to
 distribute and make available his work to third parties, possibly
@@ -986,7 +986,7 @@ requirements is null, unless stated otherwise.[^178] The adoption of
 this argument would lead to the nullity of FOSS agreements where it is
 impossible to establish the underlying licensing terms.
 
-#### Breach of FOSS licenses {#_breach_of_foss_licenses}
+#### Breach of FOSS licenses
 
 Infringement of FOSS licenses may give rise to separate claims, on the
 basis of copyright infringement and breach of contract.[^179] A claim
@@ -1004,7 +1004,7 @@ take action in civil courts under both claims. In fact, from a
 litigation practice standpoint, he/she would be advised to do so, due to
 potential challenges on the validity of the FOSS license.
 
-### Waiver and liability {#_waiver_and_liability}
+### Waiver and liability
 
 Typically, FOSS licenses contain very strong exoneration clauses, which
 discharge the author from all liability.[^181] One of the traditional
@@ -1021,7 +1021,7 @@ FOSS licensing terms.[^183] The main legal issue raised in this context
 relates to the admissibility of such exoneration clauses under
 Portuguese law.
 
-#### General rules on exclusion and limitation of liability {#_general_rules_on_exclusion_and_limitation_of_liability}
+#### General rules on exclusion and limitation of liability
 
 Most clauses of this type are aimed at eliminating or restricting (e.g.,
 by establishing a monetary ceiling) ex ante the Licensor’s obligation to
@@ -1056,7 +1056,7 @@ specific clauses (e.g. applying to defective performance or acts of
 legal representatives and auxiliary persons) may be valid only in cases
 of minor negligence (“culpa leve”).[^188]
 
-#### Specific rules for consumers, sellers and producers {#_specific_rules_for_consumers_sellers_and_producers}
+#### Specific rules for consumers, sellers and producers
 
 In addition to the general regime explained above, stricter rules may
 apply that completely forbid exoneration or limitation clauses, notably
@@ -1160,9 +1160,9 @@ allowing competent courts to operate the reduction or conversion of the
 invalid portion of such clauses, so as to comply with mandatory legal
 provisions.[^215]
 
-### The Copyleft Principle {#_the_copyleft_principle}
+### The Copyleft Principle
 
-#### Principle {#_principle}
+#### Principle
 
 A characteristic found in different (but not all) FOSS licenses is the
 so-called “copyleft” principle.[^216] FOSS licenses that incorporate the
@@ -1196,7 +1196,7 @@ event, it is unlikely that the owner of the proprietary software at
 stake would be obliged to release all its code under the copyleft FOSS
 license.
 
-#### Copyleft Validity {#_copyleft_validity}
+#### Copyleft Validity
 
 The question relating to the validity of the copyleft clause coincides
 with the question of whether a rights holder is able to validly lay down
@@ -1311,7 +1311,7 @@ such application would likely not affect the validity of the copyleft
 provisions to subsequent making available of that copy to downstream
 licensees (or assignees).
 
-### Damages {#_damages}
+### Damages
 
 Damages caused by copyright infringement are compensated in accordance
 with Articles 210 and 211 of the PCA, and generally applicable
@@ -1404,7 +1404,7 @@ consideration, targeted at interested parties wishing to use the work
 without their own additions being affected by “viral” copyleft effects
 of the initial FOSS license.
 
-FOSS Cases in Portugal {#_foss_cases_in_portugal}
+FOSS Cases in Portugal
 ----------------------
 
 No cases have been reported yet (December 2013).
@@ -1809,8 +1809,8 @@ No cases have been reported yet (December 2013).
 [^130]: See art. 18(1) of the PCA.
 
 [^131]: See L. F. REBELLO, Código do Direito de Autor e dos Direitos
-    Conexos, Anotado, 3.^a^ ed., Revista e Actualizada, Âncora Editora,
-    Lisboa, 2002 (hereinafter, “REBELLO 2002”), p. 62.
+    Conexos, Anotado, 3.<sup>a</sup> ed., Revista e Actualizada, Âncora
+    Editora, Lisboa, 2002 (hereinafter, “REBELLO 2002”), p. 62.
 
 [^132]: See art. 18(2) of the PCA.
 

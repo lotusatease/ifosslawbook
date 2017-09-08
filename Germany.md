@@ -1,12 +1,12 @@
-Germany {#chap.Germany}
+Germany
 =======
 
 author:\[Engelhardt,Tim\] author:\[Jaeger,Till\]
 
-Introduction to software protection under German law {#sec_introductiongerman}
+Introduction to software protection under German law
 ----------------------------------------------------
 
-### Body of law {#sec_bodygerman}
+### Body of law
 
 In Germany, the Copyright Act[^1] is the primary legislative regime
 providing legal protection to software. Its key provisions relevant for
@@ -18,7 +18,7 @@ act provides otherwise, the general rules of the Copyright Act (i.e., on
 the transfer of rights, the legal consequences of infringements, etc.)
 apply to software as well.[^3]
 
-### Object of protection {#sec_objectgerman}
+### Object of protection
 
 Following the understanding of the Berne Convention for the Protection
 of Literary and Artistic Works and the framework of the Software
@@ -49,7 +49,7 @@ has only to show that this program is complex, whereupon the opponent
 has the full burden to show and prove that the program is in fact not
 individual enough.
 
-### Authors/Beneficiaries {#sec_authorsgerman}
+### Authors/Beneficiaries
 
 Generally, all rights in a work belong to the actual author. Sec. 69b of
 the Copyright Act, a special provision on the ownership of the rights on
@@ -71,7 +71,7 @@ rights in very special situations.[^9]
 For an analysis of joint authorship, derivative works, compound works,
 and collective works see below.[^10]
 
-### Exclusive rights {#sec_exclusivegerman}
+### Exclusive rights
 
 The right holder’s exclusive rights are set out in UrhG, sec. 69c, which
 implements the specifications of sec. 4 of the Software Directive: the
@@ -94,7 +94,7 @@ such a way that members of the public may access it from a place and at
 a time individually chosen by them, e.g., offering a work for download
 and software-as-a-service.
 
-### Exceptions to exclusive rights {#_exceptions_to_exclusive_rights}
+### Exceptions to exclusive rights
 
 Sec. 69c no. 3 sentence 2 of the Copyright Act sets forth the principle
 of exhaustion. According to this provision, the distribution right is
@@ -179,7 +179,7 @@ necessary to achieve the interoperability of an independently created
 computer program with other programs, if certain conditions are
 met.[^19]
 
-### Moral rights {#_moral_rights}
+### Moral rights
 
 German copyright traditionally recognizes strong moral rights of the
 authors of protected works. In principle, this is also true for
@@ -216,7 +216,7 @@ In addition, the recognition of moral rights has a strong impact on the
 possibilities to assign or grant rights in copyrighted works. For
 details, see the “Copyright assignment” section below.
 
-### Term of protection {#_term_of_protection}
+### Term of protection
 
 For computer programs, the same provisions on the protection term apply
 as for works of literature and art: the copyright expires 70 years as of
@@ -234,7 +234,7 @@ publication — or if the author’s identity is clear, the duration of the
 copyright is calculated under the general rule set forth in sec. 64 and
 65 (UrhG, sec. 66 para 2).
 
-### Copyright assignment {#_copyright_assignment}
+### Copyright assignment
 
 In principle, German copyright law does not distinguish between software
 and other protected works when it comes to the fundamental mechanisms of
@@ -273,7 +273,7 @@ commercial exploitation of the work. The moral rights, however, remain
 unaffected. Second, the presumption can be overcome by individual
 agreement.
 
-### Special measures {#_special_measures}
+### Special measures
 
 In case of infringement, a mix of provisions governing the enforcement
 of the copyright applies. Most general provisions of the Copyright Act
@@ -333,7 +333,7 @@ negligence. Finally, para 2, just as para 1, provides for a claim
 against any owner or proprietor irrespective of whether she is the
 infringer.
 
-### The right to equitable remuneration and the so-called “Linux clause” {#_the_right_to_equitable_remuneration_and_the_so_called_8220_linux_clause_8221}
+### The right to equitable remuneration and the so-called “Linux clause”
 
 With a right to equitable remuneration of each author, in 2002 the
 German legislator introduced a feature into copyright law that is rather
@@ -396,7 +396,7 @@ hand, the employee assented to a FOSS distribution, sec. 32a para 3
 sentence 3 should apply by way of analogy. In contrast, sec. 32 is
 probably not applicable to employed software authors.[^35]
 
-Unprotected software and public domain software {#sec_unprotected}
+Unprotected software and public domain software
 -----------------------------------------------
 
 As explained, German copyright doctrine does not allow the complete
@@ -416,12 +416,12 @@ However, FOSS is not considered public domain software, as FOSS authors
 do not give up their rights but rather use copyright to enforce their
 interests.[^37]
 
-Analysis of FOSS under German law {#sec_analysisgerman}
+Analysis of FOSS under German law
 ---------------------------------
 
-### Copyrights {#_copyrights}
+### Copyrights
 
-#### Qualification of FOSS {#_qualification_of_foss}
+#### Qualification of FOSS
 
 Even though the general public often assumes that a FOSS author forgoes
 her rights, the generally accepted opinion among lawyers, including the
@@ -441,13 +441,13 @@ the further development of the software?
 Four terms representing different concepts come to mind: co- or joint
 authorship, derivative works, compound works, and collective works.
 
-### Rights of the original co-authors {#_rights_of_the_original_co_authors}
+### Rights of the original co-authors
 
 Sec. 8 para 1 of the Copyright Act sets out two factors of joint
 authorship: (1) the work must have been jointly created by several
 authors; and (2) their contributions cannot be separately exploited.
 
-\(1) Joint creation:
+(1) Joint creation:
 
 Joint authorship requires that two or more authors willfully collaborate
 in order to create a work. They must follow a common idea and have a
@@ -464,7 +464,7 @@ developing a program while being in the same office. Nevertheless, in
 most FOSS projects joint authorship is less common than the creation of
 derivative works.
 
-\(2) Unitary exploitation:
+(2) Unitary exploitation:
 
 Joint authorship further requires that the contributions of the distinct
 authors cannot be exploited separately. If a separate exploitation is
@@ -495,7 +495,7 @@ claims is disputed, but it seems reasonable to allow each single author
 to enforce this kind of claim alone without being obligated to refer to
 each and every co-author.[^42]
 
-### Authors of derivative works {#_authors_of_derivative_works}
+### Authors of derivative works
 
 Another way of creating new software is the alteration of pre-existing
 programs, as contemplated by UrhG, sec. 3, 23, and 69c No. 2. If this is
@@ -513,7 +513,7 @@ In derivative work situations, both the author of the original work and
 the author of the derived work may enforce their own rights without
 having to involve the other.
 
-### Compound works {#_compound_works}
+### Compound works
 
 Independent works — that is, works that were created and can be
 exploited independently from each other — that are combined by several
@@ -531,7 +531,7 @@ reasonably demanded of them. Contrary to cases of joint authorship, the
 authorship on every separate work remains unaffected by the combination.
 Thus, the rights in each separate work can be enforced separately.
 
-### Collective works {#_collective_works}
+### Collective works
 
 In addition, German copyright law also protects collective works. These
 are collections of works, data, or other independent elements, provided
@@ -561,7 +561,7 @@ creator of the collective work and the authors of its parts.[^45] Each
 author, including the author of the collection, may enforce her rights
 separately.
 
-### The assignment of copyrights {#_the_assignment_of_copyrights}
+### The assignment of copyrights
 
 Copyright assignments or contribution agreements that are designed to
 transfer the complete copyright to the assignee are problematic under
@@ -587,7 +587,7 @@ right to license the work against license fees, the grantor is entitled
 to equitable remuneration (see UrhG, sec. 32), and the agreement should
 provide for a compensation clause.[^47]
 
-### Moral rights {#_moral_rights_2}
+### Moral rights
 
 Even though moral rights play a rather minor role in the software
 context, they may have some ramifications on the use of FOSS. Most
@@ -616,9 +616,9 @@ enforce their moral rights against modifications of their software even
 if the applicable FOSS license seems to allow any kind of alterations,
 the infringing one included.
 
-### Enforcing FOSS licenses {#_enforcing_foss_licenses}
+### Enforcing FOSS licenses
 
-#### Contractual relationships {#_contractual_relationships}
+#### Contractual relationships
 
 Under German law, FOSS licenses are commonly seen as license agreements
 between the licensor and the licensee, and therefore as contracts.[^51]
@@ -649,7 +649,7 @@ of the exclusive rights and the distributor. All problems concerning
 rights, warranties, and liability are governed by their specific
 agreements.
 
-#### Validity of the contract {#_validity_of_the_contract}
+#### Validity of the contract
 
 The mechanisms of the conclusion and validity of the contract between
 the supplier and the recipient of the software do not pose any specific
@@ -657,7 +657,7 @@ problems. Therefore, the focus of the following analysis will be on the
 relationship between the holder of the exclusive FOSS rights and its
 licensee.
 
-\(1) Contract as offer and acceptance
+(1) Contract as offer and acceptance
 
 Any contract is entered into by an offer from one party and the
 corresponding acceptance by the other. The German understanding is that
@@ -676,7 +676,7 @@ holder waives the notification requirement by relying on the FOSS
 license, and it is customary practice in these kinds of cases not to
 notify the right holder of the acceptance.[^55]
 
-\(2) The law on standard business terms
+(2) The law on standard business terms
 
 The particularities of German private law pose another problem as to the
 question of whether licensor and licensee validly agreed on the terms of
@@ -737,14 +737,14 @@ agreement. In such a case — the language of the negotiations between the
 parties being not German — the incorporation of non-German standard
 business terms is possible and valid.[^62]
 
-\(3) Waiver of warranty and liability
+(3) Waiver of warranty and liability
 
 As briefly mentioned before, the common warranty and liability waivers
 contained in FOSS licenses go far beyond what is permitted in standard
 business terms, whether in agreements with consumers or in pure business
 matters.[^63] Consequently they are considered void.
 
-\(4) Antitrust law
+(4) Antitrust law
 
 The compliance of FOSS copyleft licenses with competition law is another
 issue worth mentioning. One could argue that such licenses are in
@@ -763,7 +763,7 @@ entitled to the use of the desired software.[^65] They can either
 receive the required rights through the FOSS license, or they will have
 no rights at all.
 
-#### Violation of license conditions {#_violation_of_license_conditions}
+#### Violation of license conditions
 
 Whether the violation of a license agreement is merely a breach of
 contract or also constitutes a copyright infringement, is a standard
@@ -783,7 +783,7 @@ beginning to comply with the FOSS license conditions cannot “heal” the
 past infringement; the “old” license is not reinstated in such a case,
 but she enters into a new license agreement with the FOSS licensor.
 
-### Waiver and liability {#_waiver_and_liability}
+### Waiver and liability
 
 As mentioned above, the complete waiver of any warranty and liability
 commonly used in FOSS licenses conflicts with general principles of
@@ -796,7 +796,7 @@ In order to carry out a correct analysis of this problem, one has to
 clearly distinguish between the contractual relationships among the
 parties involved.
 
-#### Relationship distributor — user {#_relationship_distributor_8201_8212_8201_user}
+#### Relationship distributor — user
 
 As far as the relationship between distributor and user is concerned,
 the ineffectiveness of the waivers has no importance, as they would
@@ -846,7 +846,7 @@ If, on the other hand, the distributor and the user have come to a valid
 agreement concerning the former’s warranties and liability, the terms of
 this agreement replace the above provisions.[^71]
 
-#### Relationship right holder — user {#_relationship_right_holder_8201_8212_8201_user}
+#### Relationship right holder — user
 
 As to the relationship between the holder of the exclusive rights and
 the licensee, the following mechanism applies: There is no contractual
@@ -864,7 +864,7 @@ situated in a country other than Germany, the laws of that country will
 most probably apply (see art. 4 para 2 of the so-called Rome I
 regulation[^74]).
 
-#### Product liability {#_product_liability}
+#### Product liability
 
 Apart from the contractual liability explained above, software
 developers and distributors can also be subject to the principles of
@@ -894,7 +894,7 @@ producer.
 Claims under the Product Liability Act may not be waived or limited in
 advance; any agreements to the contrary effect are void.
 
-#### Torts {#_torts}
+#### Torts
 
 Finally, producers and distributors of FOSS may also be liable under the
 general law of torts (BGB, sec. 823 ff.). Liability under sec. 823 para
@@ -910,16 +910,16 @@ right was infringed. Such rights include life, body, health, freedom,
 and property. Most likely, tort claims from the delivery of defective
 FOSS will arise because of damages to property and bodily injuries.[^77]
 
-### The copyleft principle {#_the_copyleft_principle}
+### The copyleft principle
 
-#### Principle {#_principle}
+#### Principle
 
 A common feature of many FOSS licenses is the “copyleft” principle. This
 term means that any licensee is obligated to put derivate works that she
 creates based on the licensor’s work under the same license obligations
 as the original work if she distributes the derivative work.
 
-#### Validity {#_validity}
+#### Validity
 
 As clear and simple as this principle appears, it is very difficult in
 its practical application. The main issue is how to define what
@@ -962,7 +962,7 @@ one could neither argue that the program at hand was altered nor that a
 compound work was created (if this is possible at all) depends on the
 circumstances of the concrete situation.
 
-### Claims against infringing acts. Damages {#_claims_against_infringing_acts_damages}
+### Claims against infringing acts. Damages
 
 Practical experience has shown that the GPLv2 can be enforced in Germany
 without major difficulties.[^82]
@@ -1019,10 +1019,10 @@ someone who is not the true author poses as such. However,
 indemnifications for the violation of moral rights are in practice
 rather rare and come into consideration mostly in very serious cases.
 
-Legal procedures {#sec_legalprocedures}
+Legal procedures
 ----------------
 
-### Standing to sue {#_standing_to_sue}
+### Standing to sue
 
 The first issue that must be dealt with regarding procedural law is the
 question of who is entitled to sue. In most FOSS cases there is not only
@@ -1034,7 +1034,7 @@ authors, by authors of derivative works, and by authors of compound
 works. Who in these cases is in a position to enforce the copyrights in
 the computer program?
 
-#### Joint authors {#_joint_authors}
+#### Joint authors
 
 According to UrhG, sec. 8 para 2 sentence 3, each joint author of a work
 may enforce the exclusive rights in this work. However, she may demand
@@ -1051,14 +1051,14 @@ authors limits quite significantly the number of developers who have to
 be considered; as a consequence, it is in most cases not impossible to
 prepare an exhaustive list of all joint authors.
 
-#### Compound works {#_compound_works_2}
+#### Compound works
 
 For compound works, the Copyright Act does not contain a provision
 similar to sec. 8 para 2 sentence 3. The most reasonable rule one could
 apply should be to let each author enforce the rights in her own
 creation.
 
-#### Derivative works {#_derivative_works}
+#### Derivative works
 
 As described above, the situation is different for derivative works.
 Both the creator of the original work and the author of the derived work
@@ -1076,7 +1076,7 @@ ask for damages only insofar as the part of the work she created herself
 is concerned.[^88] This can lead to severe, almost insurmountable
 problems regarding the calculation of the damages.
 
-### Courses of action {#_courses_of_action}
+### Courses of action
 
 If right holders wish to receive injunctive relief from a court, German
 law requires them to first institute out-of-court-proceedings: Right
@@ -1143,7 +1143,7 @@ ranges from roughly EUR 9,000 to EUR 12,000 if no oral hearing is
 involved (as often in preliminary injunction cases), and from EUR 12,000
 to EUR 21,000 if an oral hearing takes place.
 
-FOSS cases in Germany {#sec_fosscasesgerman}
+FOSS cases in Germany
 ---------------------
 
 As FOSS is a relatively recent phenomenon, case law is still limited
@@ -1153,7 +1153,7 @@ consequence, most cases where FOSS right holders start proceedings
 against infringers are resolved before even entering the court
 stage.[^95]
 
-### Welte v. Sitecom {#_welte_v_sitecom}
+### Welte v. Sitecom
 
 In 2004 the first case dealing with the violation of a FOSS license was
 brought before a German court;[^96] the District Court of Munich I
@@ -1201,7 +1201,7 @@ latter’s copyrights.[^100]
 
 The preliminary injunction was granted and accepted by the defendant.
 
-### Welte v. D-Link {#_welte_v_d_link}
+### Welte v. D-Link
 
 The fundamental holdings of the *Sitecom* case were reaffirmed in 2006
 by the District Court of Frankfurt/Main (Landgericht Frankfurt/Main),
@@ -1243,7 +1243,7 @@ violation of antitrust law, however, would not have this effect, as it
 would only void the GPLv2 itself, without providing any exploitation
 rights in the programs used.[^105]
 
-### Welte v. Skype {#_welte_v_skype}
+### Welte v. Skype
 
 Another GPLv2 case clarified the question of whether it was sufficient
 to simply present a link to a website in order to provide the license
@@ -1296,7 +1296,7 @@ the GPLv2 would violate antitrust provisions, such a violation would not
 result in releasing a licensee of GPLv2 software from observing the
 conditions of the GPLv2.
 
-### FreeAdhocUDF (WISO Mein Büro 2009) {#_freeadhocudf_wiso_mein_büro_2009}
+### FreeAdhocUDF (WISO Mein Büro 2009)
 
 A recent judgment rendered by the District Court of Bochum (Landgericht
 Bochum) dealt among other issues with whether the violation of the
@@ -1321,7 +1321,7 @@ analogy.
 The parties settled the matter in 2012, agreeing on a payment of EUR
 15,000 as compensation for the damages suffered.
 
-### AVM v. Cybits {#_avm_v_cybits}
+### AVM v. Cybits
 
 In 2011 the District Court of Berlin (Landgericht Berlin) published a
 decision that touched upon more complex questions regarding software
@@ -1375,7 +1375,7 @@ act of unfair competition, insofar as causing the routers to display
 wrong status messages may confuse the user, which could be detrimental
 to AVM’s reputation as the producer of the Fritz!Box.
 
-### Welte v. Fantec {#_welte_v_fantec}
+### Welte v. Fantec
 
 Most recently, the District Court of Hamburg added a few new aspects to
 the picture. Fantec, a German company selling various consumer
@@ -1423,7 +1423,7 @@ code.
 Fantec appealed the decision but withdrew its appeal when the right
 holder agreed to waive its right to receive the requested information.
 
-### Xt:commerce {#_xt_commerce}
+### Xt:commerce
 
 The Higher Regional Court of Düsseldorf (Oberlandesgericht Düsseldorf)
 is responsible for two important decisions dealing with the tricky issue
@@ -1441,7 +1441,7 @@ desired to distribute her own copies of GPL software, she may do so
 under the GPL, but only under a name that did not infringe on third
 parties' trade mark rights.
 
-### Enigma {#_enigma}
+### Enigma
 
 Two years later, in 2012, the same court addressed some more complex
 questions.[^115]
@@ -1519,7 +1519,7 @@ of a work title as an indispensable identifier of the software used;
 therefore, the principles above cannot justify any form of use going
 beyond the narrow scope described in the decision.
 
-### Other cases {#_other_cases}
+### Other cases
 
 In a number of other cases, German courts have granted preliminary
 injunctions against producers and distributors of products that violated
@@ -1534,9 +1534,9 @@ no rights would be granted to the infringer; and that the right holder’s
 rights were not exhausted since the first distribution of the copies at
 hand had occurred without his consent.
 
-### Recommended literature {#_recommended_literature}
+### Recommended literature
 
-#### Recommended literature in English {#_recommended_literature_in_english}
+#### Recommended literature in English
 
 -   J. Höppner: The GPL prevails: An analysis of the first-ever Court
     decision on the validity and effectivity of the GPL,
@@ -1554,7 +1554,7 @@ hand had occurred without his consent.
     General Public License,
     <http://www.twobirds.com/en/news/articles/2007/review-german-gnu-general-public-license>
 
-#### Recommended literature in German {#_recommended_literature_in_german}
+#### Recommended literature in German
 
 Over the course of the years, an increasing number of articles on legal
 aspects of free software under German law have been published. Please
@@ -1568,7 +1568,7 @@ see for an overview:
 
 -   <http://www.ifross.org/en/publikationen/fremdpublikationen/iv-offline-materialien-freie-software-und-recht/b-laenderspezifisch>
 
-#### Comprehensive books {#_comprehensive_books}
+#### Comprehensive books
 
 -   ifrOSS (ed.), Die GPL kommentiert und erklärt, available at
     <http://www.ifross.org/en/Druckfassung/Die_GPL_kommentiert_und_erklaert.pdf>
@@ -1734,7 +1734,7 @@ see for an overview:
 
 [^42]: LOEWENHEIM, in: Schricker/Loewenheim (ed.), Urheberrecht, 4th
     ed., 2010 (hereinafter referred to as “UrhR”), §8 ref. 20; DREIER,
-    in: Dreier/Schulze (ed.), UrhG, §\~8 ref. 21.
+    in: Dreier/Schulze (ed.), UrhG, §~8 ref. 21.
 
 [^43]: DREIER, in: Dreier/Schulze (ed.), UrhG, § 9 ref. 6.
 
