@@ -11,7 +11,7 @@ Any pull request will be authorized only by the copyright holders of the individ
 
 > and work from there
 
-## Some useful commands to generata Markdown:
+## Some useful commands to generate Markdown:
 
 **Requires ASCIIDOC**
 
@@ -55,7 +55,7 @@ So instead of scripting it, you will be content with changing them by hand. You 
 
 and to do two things:
 
-a) Chnage the referenced text (the text between square brackets) so to have it look like:  
+a) Change the referenced text (the text between square brackets) so to have it look like:  
   `  [Moral Rights](#sec_finland_moral_rights) and`
 b) Ad the exact part between round brackets next to the relevant section title (where the reference points to) so it looks like:  
 `#### Moral Rights {#sec_finland_moral_rights}`
@@ -68,3 +68,10 @@ Now you are ready to produce a full HTML or PDF with
 Thank you
 
 Carlo Piana
+
+---
+
+Notes during migration to MarkDown and Pandoc (by Matija Šuklje):
+
+Generating a full-book PDF works by running: `pandoc --pdf-engine=xelatex -s -f markdown_strict+footnotes+auto_identifiers+implicit_header_references+header_attributes+smart -o file.pdf *.md`
+
