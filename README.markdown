@@ -73,5 +73,32 @@ Carlo Piana
 
 Notes during migration to MarkDown and Pandoc (by Matija Šuklje):
 
-Generating a full-book PDF works by running: `pandoc --pdf-engine=xelatex -s -f markdown_strict+footnotes+auto_identifiers+implicit_header_references+header_attributes+smart -o file.pdf *.md`
+This are the working parts:
 
+- `src/` contains the current sources in MarkDown
+- `sorting.meta` seems to be a list of in which order the files should be generated – or at least, that is how I am using it :)
+- `IFOSSLB.pdf` is the PDF of the whole book
+- `PDF_per_chapter/` contains a PDF for each chapter
+- `README.markdown` is this file
+
+These seem to be obsolete, but I am keeping them here just in case for now:
+
+- `archive_XML` contains old sources in XML
+- `archive_TXT` contains old sources in plain text
+- `main.markdown` _seems_ to be a concatenation of all the files in `src/*.markdown`, but I am unsure
+- `main.pdf` is the PDF generated from it – may be useful to compare with the `IFOSSLB.pdf`
+- `main-docinfo.markdown` _seems_ to be some metainfo or cover of some sorts, but I am unsure
+
+Generating a full-book PDF works by running:
+
+```
+cat sorting.meta | xargs pandoc --pdf-engine=xelatex -s -f markdown_strict+footnotes+auto_identifiers+implicit_header_references+header_attributes+smart -o IFOSSLB.pdf
+```
+
+Generating all the PDF per chapter works by running in Fish shell (need someone to port it to basic POSIX shell):
+
+```fish
+for file in (cat sorting.meta);
+	pandoc --pdf-engine=xelatex -s -f markdown_strict+footnotes+auto_identifiers+implicit_header_references+header_attributes+smart -o PDF_per_chapter/(basename $file .markdown).pdf $file;
+end
+```
