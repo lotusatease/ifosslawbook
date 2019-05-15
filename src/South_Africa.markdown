@@ -10,43 +10,43 @@ Introduction to Software Protection under South African Law
 
 The law affecting rights and control over computer programs is
 essentially statutory. Rights in software in South Africa arise
-primarily from the Copyright Act[^1]. Historically South African
+primarily from the Copyright Act[^south_africa_1]. Historically South African
 copyright legislation and judicial interpretation of copyright
 legislation have been influenced by British law. Software is in theory
-not patentable in South Africa[^2], but since South Africa registers
+not patentable in South Africa[^south_africa_2], but since South Africa registers
 patents without substantive examination patents over software have been
-registered[^3]. Although these patents are in principle void it is
+registered[^south_africa_3]. Although these patents are in principle void it is
 necessary to approach a court to declare them void thus they have some
 effect in practice.
 
 Apart from copyright and patent legislation rights to computer programs
 are most affected by the common law of contract. South Africa is a Roman
-Dutch common law jurisdiction[^4] in which the principles underlying the
+Dutch common law jurisdiction[^south_africa_4] in which the principles underlying the
 common law of contract and property are based upon the 'ius civilis’in a
 way analogous to Scotland. It is worth noting that South Africa has a
 fully justiciable Bill of Rights which includes socio-economic rights
 and enables the enforcement of fundamental rights against non-State
 actors. The Constitutional Court has refused to recognize a right to
-intellectual property as a fundamental right.[^5]
+intellectual property as a fundamental right.[^south_africa_5]
 
 ### Copyright Act: Object of Protection
 
 Computer programs are the subject of copyright protection as a
 specifically designated category of work. A computer program is defined
 as a set of instructions which when used directly or indirectly in a
-computer, directs its operation to bring about a result’[^6]. Both
+computer, directs its operation to bring about a result’[^south_africa_6]. Both
 subject and object code therefore fall within the definition of computer
 program. A program need not function correctly to be eligible for
-copyright protection[^7]. The definition of literary works explicitly
+copyright protection[^south_africa_7]. The definition of literary works explicitly
 excludes computer programs. However preparatory materials such as flow
 charts do not fall within the definition of computer program and are
 therefore protected as literary works. Other categories of works such as
 cinematographic films are defined so as to exclude computer
-programs[^8].
+programs[^south_africa_8].
 
 To be eligible for copyright a computer program must be reduced to
-material form[^9]. Recording as ‘digital data’ meets the requirement.
-Copyright is regarded as an immovable intangible[^10].
+material form[^south_africa_9]. Recording as ‘digital data’ meets the requirement.
+Copyright is regarded as an immovable intangible[^south_africa_10].
 
 ### Copyright Holders
 
@@ -54,25 +54,25 @@ The holder of the exclusive rights of copyright is referred to as the
 owner in the Copyright Act.
 
 The author of a computer program is the person who exercised control
-over the making of the computer program[^11]. Copyright in software
-vests in the person regarded as the author[^12] except when it vests in
+over the making of the computer program[^south_africa_11]. Copyright in software
+vests in the person regarded as the author[^south_africa_12] except when it vests in
 the employer of the author because it is regarded as taking place in the
 course of employment. Co-creators are joint-authors and usually
 joint-owners. A computer program made *in the course of the author’s
-employment* vests in the employer[^13]. This has been interpreted very
+employment* vests in the employer[^south_africa_13]. This has been interpreted very
 broadly. A person who was not employed to write code who nevertheless
 wrote code using his own time and computer resources but who used the
 code in his work duties, and modified it to be compatible with software
 used by his employer and as requested by fellow employees was held by a
-court to have acted in the course of his employment[^14]. The default
-rule on employee created software may be modified by contract[^15]. The
+court to have acted in the course of his employment[^south_africa_14]. The default
+rule on employee created software may be modified by contract[^south_africa_15]. The
 statutory provision that copyright in a computer program made by an
 employee vests in the employer does not apply to contractors. However
 the definition of author as the person who exercise control over the
 making of a program has been interpreted so that an independent
 contractor who planned and wrote code was not regarded as the author,
 instead the person who contracted him and decided how he wanted the
-software modified was regarded as the author[^16]. One consequence is
+software modified was regarded as the author[^south_africa_16]. One consequence is
 that an independent contractor might be the author and owner of the
 preparatory materials of a computer program and of literary, artistic,
 musical and cinematographic outputs of a computer program while the
@@ -82,20 +82,20 @@ owner of the computer program.
 However when an independent contractor agrees to create a computer
 program which is clearly specified beforehand and without further
 instructions albeit periodic review then the independent contractor will
-likely be the author[^17]. There is no statutory provision to enable
+likely be the author[^south_africa_17]. There is no statutory provision to enable
 variation by agreement of the default rule that apart from employment
 relationships the person deemed to be author is owner, however an
 agreement to assign copyright in a computer program that hasn’t yet been
-written is valid[^18].
+written is valid[^south_africa_18].
 
 Copyright in computer programs made under the direction or control of
 the State or an international organization vests in the State or
-international organization[^19]. Copyright in software that is produced
+international organization[^south_africa_19]. Copyright in software that is produced
 under the direction or control of South African government departments
 vests in a state held company; the State Information Technology Agency
-(Pty) Ltd.[^20]. If a literary, musical, artistic work or a computer
+(Pty) Ltd.[^south_africa_20]. If a literary, musical, artistic work or a computer
 program is computer generated then the person who made the arrangements
-for the creation of the work is regarded as the author [^21]. The
+for the creation of the work is regarded as the author [^south_africa_21]. The
 category of computer generated computer program is confined to machine
 generated code and doesn’t include use of software tools such as editors
 or compilers.
@@ -107,7 +107,7 @@ a computer program has the exclusive rights (following the sub-paragraph
 designation in the Act) of: -
 
 “(a) reproducing the computer program in any manner or form; (b)
-publishing the computer program if it was hitherto unpublished[^22] (c)
+publishing the computer program if it was hitherto unpublished[^south_africa_22] (c)
 performing the computer program in public; (d) broadcasting the computer
 program; (e) causing the computer program to be transmitted in a
 diffusion service, unless such service transmits a lawful broadcast,
@@ -120,13 +120,13 @@ trade, directly or indirectly, a copy of the computer program.”
 
 Reproduction in any manner or form includes digital forms. Reproducing a
 substantial portion of a computer program is regarded as reproduction
-and the same approach is taken to all the exclusive rights[^23]. An
+and the same approach is taken to all the exclusive rights[^south_africa_23]. An
 adaptation of a computer program is defined to include a version of the
 program in a different programming language, code or notation different
-or fixed in a different medium[^24]. Compiling or decompiling a program
+or fixed in a different medium[^south_africa_24]. Compiling or decompiling a program
 is regarded as making an adaptation. An adaptation must itself be a
 computer program, that is subject code or object code. An adaptation is
-always regarded as also a reproduction.[^25]There is considerable
+always regarded as also a reproduction.[^south_africa_25]There is considerable
 overlap between the definitions of reproduction and adaptation. Thus if
 a user copies a computer program without significant modification he
 will be regarded as having reproduced the program while if he modifies
@@ -138,16 +138,16 @@ license to adapt. If the prior program has not been published then the
 person creating the adaptation will also require a publication license
 in order to distribute the program. An adaptation that is sufficiently
 original will constitute an original computer program , even if it
-infringes the first computer program [^26].
+infringes the first computer program [^south_africa_26].
 
 The output generated by a computer program that is discernible by the
 public is not a computer program but rather a literary, artistic work,
 cinematographic film or sound recording. Performance is defined by
-reference to ‘any mode of visual or acoustic presentation’[^27]. It is
+reference to ‘any mode of visual or acoustic presentation’[^south_africa_27]. It is
 therefore not clear what amounts to performing a computer program in
 public, especially if there is no output.
 
-There is no specific right of distribution[^28].
+There is no specific right of distribution[^south_africa_28].
 
 ### Exceptions to Exclusive Rights
 
@@ -155,7 +155,7 @@ Lawful possessors of computer programs can use the single exception
 specific to computer programs to make copies reasonably necessary for
 back up, exclusively for personal or private purposes. The copies must
 be destroyed when possession of the computer program ceases to be
-lawful[^29].
+lawful[^south_africa_29].
 
 The Copyright Act lists a number of exceptions for literary and artistic
 works. For each other category of work, including computer programs a
@@ -175,7 +175,7 @@ applied. For computer programs these include
 -   reproduction in preparation for broadcast,
 
 -   use in a broadcast where use in a cinematographic film has been
-    authorized[^30].
+    authorized[^south_africa_30].
 
 Precisely how many of these exceptions apply in practise to computer
 programs is unclear. The validity of provisions purporting to restrict
@@ -193,7 +193,7 @@ program has the moral rights, regardless of transfer of the copyright in
 the program, to claim authorship of the computer program, and to object
 to any distortion, mutilation or other modification prejudicial to his
 honour or reputation but may not prevent changes absolutely necessary on
-technical grounds or for the purpose of commercial exploitation[^31].
+technical grounds or for the purpose of commercial exploitation[^south_africa_31].
 Even though the inclusion of clauses purporting to transfer or waiver
 moral rights in copyright agreements is common practice there is no
 provision enabling the assignment or waiver of moral rights in the
@@ -209,11 +209,11 @@ from the making of the program.
 
 ### Copyright Assignment
 
-Copyright may be transferred by assignment or in a will [^32]. An
-assignment or an exclusive license must be in writing and signed[^33].
-The writing requirement can be met by a digital format[^34]. The
+Copyright may be transferred by assignment or in a will [^south_africa_32]. An
+assignment or an exclusive license must be in writing and signed[^south_africa_33].
+The writing requirement can be met by a digital format[^south_africa_34]. The
 signature requirement can only be met by an ‘advanced digital signature’
-facilitated by a registered provider[^35]. Any of the exclusive rights
+facilitated by a registered provider[^south_africa_35]. Any of the exclusive rights
 can be assigned or licensed separately, and assignment can be limited to
 a specific geographic area or to part of the copyright term.
 
@@ -225,7 +225,7 @@ irrevocable for it to be construed as irrevocable, however for a license
 to be irrevocable it must be a contract, and whether it is irrevocable
 will be depend on how the contract as a whole is construed. A contract
 may specify in what circumstances, if any, a license may be
-revoked[^36]. A contractual license may specify that it is irrevocable
+revoked[^south_africa_36]. A contractual license may specify that it is irrevocable
 except for breach, and allow for automatic termination on breach,
 termination on notice and reinstatement. Generally a contract is created
 in South African law when two or more persons with the power to contract
@@ -242,10 +242,10 @@ There are no provisions defining technical protection measures or
 prohibiting circumvention of technical protection measures in South
 African copyright law. However provisions of the Electronic
 Communications and Transactions Act 2003 may operate as
-anti-circumvention measures[^37]. The Act creates a number of statutory
+anti-circumvention measures[^south_africa_37]. The Act creates a number of statutory
 criminal offenses; intentionally accessing, or modifying, deleting or
 de-activating data without authority or permission are criminal
-offenses[^38]. A copyright license constitutes permission to access or
+offenses[^south_africa_38]. A copyright license constitutes permission to access or
 modify data, while accessing or modifying data that falls within a
 copyright exception would be authorized. The definition of the offenses
 is so vague that the provision may be unconstitutional. Production,
@@ -262,7 +262,7 @@ available in other jurisdictions can also be infringing in certain
 circumstances. Knowingly importing (other than for private and domestic
 use), selling, letting, distributing for trade or acquiring a computer
 program produced outside South Africa without the permission of the
-rights holder in South Africa is also an infringement[^39]. As a result
+rights holder in South Africa is also an infringement[^south_africa_39]. As a result
 of the requirement of knowledge a rightsholder who had authorized
 production and distribution of a computer program outside South Africa
 would thus have to give notice to recipients in South Africa of the
@@ -286,9 +286,9 @@ and without permission from the copyright owner to:
 
 infringing copies of a computer program. The owner of copyright in South
 Africa may require the customs authorities to treat imported copyright
-goods as prohibited goods[^40].
+goods as prohibited goods[^south_africa_40].
 
-The Counterfeit Goods Act[^41] definition of counterfeiting includes
+The Counterfeit Goods Act[^south_africa_41] definition of counterfeiting includes
 manufacturing, producing or making whether in South Africa or elsewhere
 copyright infringing copies that are substantially identical to
 copyright protected goods without the permission of the exclusive rights
@@ -332,13 +332,13 @@ making the changes would be an adaptation and a copy of the first
 version of the code. Although South African copyright law permits a bare
 copyright license without requiring a contract, the only way to ensure
 that a non-exclusive license is not revocable at will is through
-incorporating the license in a contract that governs revocation[^42].
+incorporating the license in a contract that governs revocation[^south_africa_42].
 The general rule is that a person accepting an offer to contract must
 communicate acceptance to the person making the offer. However it is
 very well established that when the offer to contract itself sets out a
 means of acceptance which does not require communication with the person
 making the offer then acting in the manner prescribed constitutes
-acceptance[^43]
+acceptance[^south_africa_43]
 
 FOSS licenses can therefore be construed as contracts; use of a computer
 program as permitted by the FOSS license, and adherence to the
@@ -501,10 +501,10 @@ There have been no reported cases as yet (June 2014).
 ### Legal Procedures
 
 Only an owner or exclusive licensor can enforce the exclusive rights of
-copyright[^44]. An owner can claim an interdict [^45], damages, or
-reasonable royalties and delivery up of infringing copies[^46]. If a
+copyright[^south_africa_44]. An owner can claim an interdict [^south_africa_45], damages, or
+reasonable royalties and delivery up of infringing copies[^south_africa_46]. If a
 work was joint-authored all the joint-authors must agree to an
-enforcement action for reasonable royalties or damages[^47] because no
+enforcement action for reasonable royalties or damages[^south_africa_47] because no
 rights holder is entitled to all of the damages. A joint-author may
 therefore apply for an interdict without the consent of the other
 joint-authors. Joint-authors can enter into an agreement that specifies
@@ -518,15 +518,15 @@ that the suspected infringer is likely to dispose of the evidence of the
 infringement may apply to court, without the alleged infringer being
 given an opportunity to oppose the application, for an order authorizing
 the seizure and safe keeping of the evidence pending its production in
-litigation[^48]. Damages will not be awarded against someone who proves
+litigation[^south_africa_48]. Damages will not be awarded against someone who proves
 that there were no reasonable grounds for suspecting that copyright
-subsisted in a computer program[^49].
+subsisted in a computer program[^south_africa_49].
 
 Whether a substantial portion of a computer program has been copied is a
 qualitative question, a few dozen lines of code out of thousands may
 constitute a substantial portion if they solve a particularly difficult
 problem or are crucial in some other way to the functioning of the
-program[^50].
+program[^south_africa_50].
 
 ### Literature
 
@@ -534,23 +534,23 @@ Jeremy Speres: ‘The Enforceability of Open Source Software Licences: Can
 Copyright Licences Be Granted Non-Contractually?’ South African
 Mercantile Law Journal (2009) Vol 21, Number 2, 174
 
-[^1]: Copyright Act No. 98 of 1978
+[^south_africa_1]: Copyright Act No. 98 of 1978
 
-[^2]: The Patents Act of 57 of 1978 stipulates in Section 25 (2)
+[^south_africa_2]: The Patents Act of 57 of 1978 stipulates in Section 25 (2)
     “Anything which consists of— … (f) a program for a computer; ..shall
     not be an invention for the purposes of this Act.”
 
-[^3]: Bob Joliffe ‘The word-processing patent - a sceptical view from a
+[^south_africa_3]: Bob Joliffe ‘The word-processing patent - a sceptical view from a
     person having ordinary skill in the art’ South African Computer
     Journal (2005) 25, 2
 
-[^4]: The other Roman Dutch common law jurisdictions are Lesotho,
+[^south_africa_4]: The other Roman Dutch common law jurisdictions are Lesotho,
     Botswana, Swaziland, Zimbabwe and Sri Lanka.
 
-[^5]: Certification of the Constitution of the Republic of South Africa,
+[^south_africa_5]: Certification of the Constitution of the Republic of South Africa,
     \[1996\] ZACC 26 §75
 
-[^6]: Computer Programs are defined in section 1 of the Copyright Act 98
+[^south_africa_6]: Computer Programs are defined in section 1 of the Copyright Act 98
     of 1978: LDQUOLSQUOcomputer programLSQUO means a set of instructions
     fixed or stored in any manner and which, when used directly or
     indirectly in a computer, directs its operation to bring about a
@@ -559,55 +559,55 @@ Mercantile Law Journal (2009) Vol 21, Number 2, 174
     that of the program; or (ii) a fixation of the program in or on a
     medium different from the medium of fixation of the program;RDQUO
 
-[^7]: Haupt t/a Softcopy v Brewers Marketing Intelligence (Pty) Ltd. and
+[^south_africa_7]: Haupt t/a Softcopy v Brewers Marketing Intelligence (Pty) Ltd. and
     Others (118/05) \[2006\] ZASCA 40 §24
 
-[^8]: Section 1 of the Copyright Act
+[^south_africa_8]: Section 1 of the Copyright Act
 
-[^9]: Section 2 (2) of the Copyright Act stipulates: “A work, except a
+[^south_africa_9]: Section 2 (2) of the Copyright Act stipulates: “A work, except a
     broadcast or programme-carrying signal, shall not be eligible for
     copyright unless the work has been written down, recorded,
     represented in digital data or signals or otherwise reduced to a
     material form”
 
-[^10]: Gallo Africa Ltd v Sting Music (Pty) Ltd 2010 (6) SA 329 (SCA)
+[^south_africa_10]: Gallo Africa Ltd v Sting Music (Pty) Ltd 2010 (6) SA 329 (SCA)
 
-[^11]: Section 1 of the Copyright Act: LDQUOLSQUOauthorRSQUO, in
+[^south_africa_11]: Section 1 of the Copyright Act: LDQUOLSQUOauthorRSQUO, in
     relation to - (i) a computer program, the person who exercised
     control over the making of the computer programRDQUO
 
-[^12]: Section 21 (1) (a) of the Copyright Act
+[^south_africa_12]: Section 21 (1) (a) of the Copyright Act
 
-[^13]: Section 21 (1) (d) of the Copyright Act stipulates “Section 21
+[^south_africa_13]: Section 21 (1) (d) of the Copyright Act stipulates “Section 21
     (d) Where in a case not falling within either paragraph (b) or (c) a
     work is made in the course of the author’s employment by another
     person under a contract of service or apprenticeship, that other
     person shall be the owner of any copyright subsisting in the work by
     virtue of section 3 or 4.”
 
-[^14]: King v South African Weather Services \[2008\] ZASCA 143
+[^south_africa_14]: King v South African Weather Services \[2008\] ZASCA 143
 
-[^15]: Section 21 (1) (e) of the Copyright Act
+[^south_africa_15]: Section 21 (1) (e) of the Copyright Act
 
-[^16]: Haupt t/a Softcopy v Brewers Marketing Intelligence (Pty) Ltd.
+[^south_africa_16]: Haupt t/a Softcopy v Brewers Marketing Intelligence (Pty) Ltd.
     and Others (118/05) \[2006\] ZASCA 40 §41; 2006 (4) SA 458 (SCA)
 
-[^17]: Roux de Villiers ‘Computer Programs and Copyright: The South
+[^south_africa_17]: Roux de Villiers ‘Computer Programs and Copyright: The South
     African Perspective’ (2006) SALJ 123 315-337 at 324
 
-[^18]: Section 22(5) of the Copyright Act
+[^south_africa_18]: Section 22(5) of the Copyright Act
 
-[^19]: Section 5(2) states that works made under direction or control of
+[^south_africa_19]: Section 5(2) states that works made under direction or control of
     the State or prescribed international organization can be eligible
     for copyright while section 21 (2) states that copyright shall vest
     in the State or prescribed international organization.
 
-[^20]: Section 21 of the State Information Technology Agency Act No.88
+[^south_africa_20]: Section 21 of the State Information Technology Agency Act No.88
     of 1998.
 
-[^21]: Section 1 definition of ‘author’ (h) of the Copyright Act
+[^south_africa_21]: Section 1 definition of ‘author’ (h) of the Copyright Act
 
-[^22]: The term publication is defined in section 1(5) of the Copyright
+[^south_africa_22]: The term publication is defined in section 1(5) of the Copyright
     Act to include issuing the work to the public in sufficient
     quantities to reasonably meet the needs of the public. Depending on
     how ‘diffusion service’ is interpreted it might also cover online
@@ -616,36 +616,36 @@ Mercantile Law Journal (2009) Vol 21, Number 2, 174
     distribution is transmission in a diffusion service would have the
     result that online distribution is not publishing.
 
-[^23]: Section 1 (2A) of the Copyright Act
+[^south_africa_23]: Section 1 (2A) of the Copyright Act
 
-[^24]: Section 1 (1) definition of adaptation (d), the Copyright Act
+[^south_africa_24]: Section 1 (1) definition of adaptation (d), the Copyright Act
     goes on to define a copy of a computer program as including an
     adaptation.
 
-[^25]: Section 1 (1) definition of reproduction of the Copyright Act
+[^south_africa_25]: Section 1 (1) definition of reproduction of the Copyright Act
 
-[^26]: Section 2 (3) of the Copyright Act
+[^south_africa_26]: Section 2 (3) of the Copyright Act
 
-[^27]: Section 1(1) definition of performance of the Copyright Act
+[^south_africa_27]: Section 1(1) definition of performance of the Copyright Act
 
-[^28]: The rights of publication and transmission in a diffusion service
+[^south_africa_28]: The rights of publication and transmission in a diffusion service
     affect distribution
 
-[^29]: Section 19B(2) of the Copyright Act
+[^south_africa_29]: Section 19B(2) of the Copyright Act
 
-[^30]: Section 19B (1) read with Section 12 (1) (b) and (c), (2), (3),
+[^south_africa_30]: Section 19B (1) read with Section 12 (1) (b) and (c), (2), (3),
     (4), (5), (12) and (13)
 
-[^31]: Section 20.
+[^south_africa_31]: Section 20.
 
-[^32]: Only copyright, that is the exclusive economic rights vesting in
+[^south_africa_32]: Only copyright, that is the exclusive economic rights vesting in
     a copyright holder, may be transferred according to section 22 of
     the Copyright Act, moral rights remain vested in authors
     “notwithstanding the transfer of copyright” (section 20)
 
-[^33]: Section 22(3) of the Copyright Act
+[^south_africa_33]: Section 22(3) of the Copyright Act
 
-[^34]: Section 1(1) of the Copyright Act: LDQUOLSQUOwritingRSQUO
+[^south_africa_34]: Section 1(1) of the Copyright Act: LDQUOLSQUOwritingRSQUO
     includes any form of notation, whether by hand or by printing,
     typewriting or any similar processRDQUO and section 12 of the
     Electronic Communications and Transactions Act No.25 of 2002
@@ -654,47 +654,47 @@ Mercantile Law Journal (2009) Vol 21, Number 2, 174
     form of a data message; and b. accessible in a manner usable for
     subsequent reference.”
 
-[^35]: Section 13(1) of the Electronic Communications Transactions Act
+[^south_africa_35]: Section 13(1) of the Electronic Communications Transactions Act
     No.25 of 2002.
 
-[^36]: Section 22(4) of the Copyright Act
+[^south_africa_36]: Section 22(4) of the Copyright Act
 
-[^37]: Tana Pistorius ‘Developing countries and copyright in the
+[^south_africa_37]: Tana Pistorius ‘Developing countries and copyright in the
     information age – the functional equivalent implementation of the
     WCT’ (2006) 2 *Potchefstroom Electronic Law Journal* 1-21
 
-[^38]: Electronic Communications and Transactions Act 25 of 2002 section
+[^south_africa_38]: Electronic Communications and Transactions Act 25 of 2002 section
     86.
 
-[^39]: Section 23(2) of the Copyright Act
+[^south_africa_39]: Section 23(2) of the Copyright Act
 
-[^40]: Section 28 of the Copyright Act.
+[^south_africa_40]: Section 28 of the Copyright Act.
 
-[^41]: Counterfeit Goods Act 37 of 1997
+[^south_africa_41]: Counterfeit Goods Act 37 of 1997
 
-[^42]: Section 22 (4) of the Copyright Act.
+[^south_africa_42]: Section 22 (4) of the Copyright Act.
 
-[^43]: Bloom v American Swiss Watch Co. 1915 AD 100 and Withok Small
+[^south_africa_43]: Bloom v American Swiss Watch Co. 1915 AD 100 and Withok Small
     Farms (Pty) Ltd v Amber Sunrise Properties 5 (Pty) \[2008\] ZASCA
     131
 
-[^44]: When an owner brings suit he must give notice to an exclusive
+[^south_africa_44]: When an owner brings suit he must give notice to an exclusive
     licensee.
 
-[^45]: Injunctions are referred to as interdicts in South African law.
+[^south_africa_45]: Injunctions are referred to as interdicts in South African law.
 
-[^46]: Section 24(1) of the Copyright Act
+[^south_africa_46]: Section 24(1) of the Copyright Act
 
-[^47]: Feldman v EMI Music \[2009\] ZASCA 75 (1 June 2009)
+[^south_africa_47]: Feldman v EMI Music \[2009\] ZASCA 75 (1 June 2009)
 
-[^48]: There are both common law and statutory procedures. The common
+[^south_africa_48]: There are both common law and statutory procedures. The common
     law ‘Anton Piller’ order is definitively discussed in Shoba v
     Officer Commanding, Temporary Police Camp, Wagendrift Dam; Maphanga
     v Officer Commanding South African Police Murder and Robbery Unit,
     Pietermaritzburg \[1995\] ZASCA 49, while the statutory procedure is
     set out in section 11 of the Counterfeit Goods Act 37 of 1997.
 
-[^49]: Section 24 (2) of the Copyright Act
+[^south_africa_49]: Section 24 (2) of the Copyright Act
 
-[^50]: Haupt t/a Softcopy v Brewers Marketing Intelligence (Pty) Ltd.
+[^south_africa_50]: Haupt t/a Softcopy v Brewers Marketing Intelligence (Pty) Ltd.
     and Others (118/05) \[2006\] ZASCA 40 §45

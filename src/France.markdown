@@ -34,7 +34,7 @@ software is subject to copyright protection, which implies that the
 source and object code of software are protected in the same manner.
 
 Generally, case law considers that a piece of software is original when
-its author has brought a personal intellectual contribution[^1].
+its author has brought a personal intellectual contribution[^france_1].
 
 However, the ideas and principles, which underlie any element of
 software, including those which underlie its interfaces, are not
@@ -202,7 +202,7 @@ the work was published. This rule also applies to works produced
 anonymously or under a pseudonym.
 
 Finally, a composite work is protected regardless of the preexisting
-work, even if the preexisting work has entered the public domain[^2].
+work, even if the preexisting work has entered the public domain[^france_2].
 
 ### Copyright assignment
 
@@ -215,7 +215,7 @@ assignment of the exclusive rights on software may be total or partial.
 The assigned rights shall be “separately mentioned in the instrument of
 assignment and the field of exploitation of the assigned rights being
 defined as to its scope and purpose, as to place and as to
-duration”[^3].
+duration”[^france_3].
 
 Contrary to the general regime, which imposes that the remuneration of
 an author be proportional to the revenues derived from the sale or
@@ -261,14 +261,14 @@ difficult to apply to a technical work like software.
 
 Some authors agree that such reflection of an author’s personality
 through software would mainly reside in “the choice to use one or
-several possible methods, fulfilled in the final program”[^4].
+several possible methods, fulfilled in the final program”[^france_4].
 
 In this respect, the full assembly of the Court of Cassation held that
 software was original if it contained the “intellectual contribution of
 the author and that originality extended to a personal effort over and
 above the simple implementation of a restrictive and automatic software
 and that the realization of said effort resulted in an individualized
-structure”[^5].
+structure”[^france_5].
 
 Software that fails to meet this criterion is not liable to protection
 under copyright law. This is the case for “applets”, for example, which
@@ -296,7 +296,7 @@ Free software licenses have once been defined as “licenses through which
 the author allows the copy, modification and distribution of the work
 modified or not, concurrently, without transferring the author’s
 copyright and without the user being able to limit the rights attached
-to the original work and any derivatives thereof”[^6].
+to the original work and any derivatives thereof”[^france_6].
 
 Hence, free software is not free of all rights. It is in fact protected
 by copyright, but its source code may be freely executed and modified by
@@ -330,7 +330,7 @@ a concerted action on the part of all contributors is required — an
 idea, which seems incompatible with the very nature of a free license.
 Certain authors consider that this definition is the one that comes the
 closest to the spirit of free work. Indeed, it has the advantage of
-taking “the global evolving work and the equality of the authors”[^7]
+taking “the global evolving work and the equality of the authors”[^france_7]
 into account. The use of this definition does, however, raise
 difficulties, as it offers an indivisible right over the work to each of
 the authors.
@@ -341,8 +341,8 @@ software gives rise to a distinct version of the preceding work. It
 allows the rights of each contributor to be clearly defined, provided
 that each modification made to the original software can indeed be
 individualized. This definition is the most commonly admitted in
-principle[^8]. It is also the one that appears to have been accepted by
-the Court of Paris, in a decision dated 28 March 2007[^9].
+principle[^france_8]. It is also the one that appears to have been accepted by
+the Court of Paris, in a decision dated 28 March 2007[^france_9].
 
 None of the definitions given by the Intellectual Property Code fully
 accounts for the specific nature of free software, due in particular to
@@ -372,7 +372,7 @@ the initial author from those of the contributors.
 The initial author is free to determine the fate of his patrimonial
 rights. Contrary to moral rights, patrimonial rights may be assigned in
 whole or in part, gifted, or licensed. Nothing prevents the author from
-assigning or awarding operating permissions free of charge[^10]. This
+assigning or awarding operating permissions free of charge[^france_10]. This
 gratuitous nature is in accordance with article L. 122-7 of the
 Intellectual Property Code, which provides that “the right of
 performance and the right of reproduction may be transferred, for or
@@ -387,7 +387,7 @@ into consideration. This article states that “the author is free to
 provide his work to the public free of charge subject to the rights of
 any future co-authors and third parties as well as in respect of any
 conventions, which he may conclude”. The “free of charge” provision is
-thus admitted in French law and has been acknowledged by courts[^11].
+thus admitted in French law and has been acknowledged by courts[^france_11].
 
 However, it would appear arguable, under copyright law, whether
 so-called copyleft licenses compel contributors to give up their own
@@ -399,17 +399,17 @@ Moreover, article L. 131-3 of the Intellectual Property Code imposes a
 duty to mention each assignment separately in the instrument of
 assignment and to define the field of exploitation of the assigned
 rights as to its scope and purpose. Case law has thus consistently held
-that general assignment clauses are invalid[^12]. The application of
+that general assignment clauses are invalid[^france_12]. The application of
 this provision to software and licenses entails that a free license
 granting the rights to copy, distribute and modify with no further
-precision, such as the BSD license[^13], should be considered null and
+precision, such as the BSD license[^france_13], should be considered null and
 void. In practice, the principle of strict interpretation of contracts
 shall reduce the scope of such permissions to the methods of
 exploitation defined in the contract.
 
 However, case law has shown proof of flexibility in this field. Certain
-decisions have been based on the real will of the parties[^14] or actual
-use[^15] in order to validate an assignment and to appreciate its scope.
+decisions have been based on the real will of the parties[^france_14] or actual
+use[^france_15] in order to validate an assignment and to appreciate its scope.
 
 ### Moral copyrights
 
@@ -457,7 +457,7 @@ uniformly by all free licenses.
 Copyleft licenses are extremely detailed on paternity issues for
 successive authors.
 
-For example, the GPL license[^16], which is the best known and most
+For example, the GPL license[^france_16], which is the best known and most
 widely used free license, requires contributors to indicate their names
 and to specify the modifications they made to the work to avoid any
 mistaken attribution to a third party. As a result, anonymity rights,
@@ -480,7 +480,7 @@ the work. Indeed, case law underlines the “inalienable right of respect
 for work, a public order principle, which is opposed to the author
 abandoning or assigning in a premature or general manner the exclusive
 enjoyment of use, distribution, withdrawal, addition and changes, which
-this latter may like to carry out”[^17]. Any software modification may
+this latter may like to carry out”[^france_17]. Any software modification may
 therefore expose its author to a future action based on the right to
 respect for the original work.
 
@@ -522,28 +522,28 @@ contracts (“take it or leave it”). Acceptance of the license is often by
 tacit agreement, demonstrated by the carrying out of certain actions
 allowed by the author. Indeed, it is consistently accepted by the courts
 that the performance of an agreement may constitute acceptance of an
-offer.[^18]
+offer.[^france_18]
 
 Turning to consumer laws, numerous standards are contrary to this type
 of license. Consequently, should the licensee be a consumer or a
 non-professional (as defined by French case law), a certain number of
 clauses — such as those excluding all guarantees or those limiting or
-excluding the developer’s liability[^19] — could automatically be
+excluding the developer’s liability[^france_19] — could automatically be
 considered abusive.
 
 Certain licenses could also find themselves in breach of the French law
 imposing the use of the French language (generally referred to as the
-“Toubon law”)[^20], which may lead to the payment of fines and/or the
+“Toubon law”)[^france_20], which may lead to the payment of fines and/or the
 unenforceability of such licenses.
 
 Likewise, certain licenses do not comply with the rules regulating
 online agreements (e.g. prior information of the licensee; “double
-click” requirement to express acceptance…empty)[^21], which may lead to
+click” requirement to express acceptance…empty)[^france_21], which may lead to
 the unenforceability of such licenses.
 
 In spite of these notions of French law, the Court of Appeal of Paris
 indirectly acknowledged the validity of such free licenses in a decision
-dated 16th September 2009[^22].
+dated 16th September 2009[^france_22].
 
 #### Breach of license conditions
 
@@ -556,7 +556,7 @@ condition that the user releasing a modified version of the software
 allows free access to the modified source code and its further
 modification to third parties. According to Professor Gautier, this is a
 sort of condition subsequent to the legal act, which is generally stated
-in the license terms[^23]. If the contributor fails to comply with the
+in the license terms[^france_23]. If the contributor fails to comply with the
 terms of the license, the license is automatically revoked by his fault,
 without prejudice to any future claims on grounds of piracy by the
 original author.
@@ -589,19 +589,19 @@ non-professional or consumer’s legal rights in the event of a failure by
 the professional to comply with any of his obligations” are
 unquestionably deemed abusive and consequently held to be null and void,
 potentially leading the distributor and/or the editor to be considered
-fully liable for all direct damages[^24]. In order to determine the
+fully liable for all direct damages[^france_24]. In order to determine the
 validity of such clauses, it is therefore necessary to determine the
 status of who modifies the software source code: professional or
 consumer.
 
 Finally, there is the question of liability for defective products in
-the realm of free software[^25], whereby the producer is automatically
+the realm of free software[^france_25], whereby the producer is automatically
 responsible for any material damage or personal injury caused by a
 defect in his product. Opinion is divided on this point, as to whether
 such liability can be applied to software. Some authors consider that
 the law only applies to material products and that article 1386-3 of the
 French Civil Code was not intended to include products of intellectual
-origin[^26]. It is not impossible that case law will extend the scope of
+origin[^france_26]. It is not impossible that case law will extend the scope of
 the law to include intangibles.
 
 Where it is admitted that software falls within the scope of liability
@@ -613,7 +613,7 @@ exclusion of liability, as far as the professional may prove that the
 state of scientific and technical knowledge did not allow the existence
 of the defect to be known at the time that the product came into
 circulation. It is within this meaning that the warranty clause in the
-CeCILL license has been produced[^27].
+CeCILL license has been produced[^france_27].
 
 FOSS Cases in France
 --------------------
@@ -635,7 +635,7 @@ Three cases have come before the French courts.
     associated GPL license. The courts have not yet published a decision
     on this case.
 
-2.  The second concerns the CNRS, in a case brought by Educaffix[^28].
+2.  The second concerns the CNRS, in a case brought by Educaffix[^france_28].
     The latter company had concluded software transfer agreements with
     several higher education establishments and the CNRS. The
     transferred software could, however, only work with a free piece of
@@ -713,8 +713,8 @@ or copyright law.
 
 On the basis of contract law, where one of the parties to a license
 agreement fails to perform his obligations, the other party may sue to
-demand the execution of the promised obligations[^29] or the termination
-of the agreement[^30]. That party may also claim damages where the
+demand the execution of the promised obligations[^france_29] or the termination
+of the agreement[^france_30]. That party may also claim damages where the
 execution becomes impossible or where the failure by the licensee to
 carry out his obligations has resulted in repairable damages.
 
@@ -728,7 +728,7 @@ without the consent of its author is a civil tort and a criminal
 offense. As a result, the licensee can take action in civil and criminal
 courts to ensure the compliance with his rights. Before criminal courts,
 the pirate risks up to 3 years in prison and fines of up to 300,000
-Euros[^31].
+Euros[^france_31].
 
 ### Recommended literature
 
@@ -781,85 +781,85 @@ Euros[^31].
 -   CA Paris, 16 September 2009, RG n° 01/24298, SA EDU 4 c/ Association
     AFPA
 
-[^1]: Cass. Ass.plén., March 1986,: JCP G 1986, II, 20631; Cass. Civ.
+[^france_1]: Cass. Ass.plén., March 1986,: JCP G 1986, II, 20631; Cass. Civ.
     1ère, 16 April 1991,: JCP G 1991, II, 21770.
 
-[^2]: Cass. Crim., 27 February 1845: DP 1845, 1, p. 130.
+[^france_2]: Cass. Crim., 27 February 1845: DP 1845, 1, p. 130.
 
-[^3]: Article L. 131-3 of the French Intellectual Property Code.
+[^france_3]: Article L. 131-3 of the French Intellectual Property Code.
 
-[^4]: P-Y Gautier, *Propriété littéraire et artistique*, PUF, 6th
+[^france_4]: P-Y Gautier, *Propriété littéraire et artistique*, PUF, 6th
     edition 2007, n° 532.
 
-[^5]: Cass. Ass.plén., 7 March 1986, op. cit.
+[^france_5]: Cass. Ass.plén., 7 March 1986, op. cit.
 
-[^6]: M. Clément-Fontaine, *Les oeuvres libres*, Thèse Montpellier,
+[^france_6]: M. Clément-Fontaine, *Les oeuvres libres*, Thèse Montpellier,
     2006.
 
-[^7]: M. Clément-Fontaine, *Les oeuvres libres*, op. cit.
+[^france_7]: M. Clément-Fontaine, *Les oeuvres libres*, op. cit.
 
-[^8]: See in particular: Ch. Caron, *Les licences de logiciels dits
+[^france_8]: See in particular: Ch. Caron, *Les licences de logiciels dits
     “libres” à l'épreuve du droit d’auteur français*, Dalloz 2003 p.
     1556; M. Vivant, C. le Stanc, L. Rapp., M. Guibal et J-L. Bilon,
     *Lamy Droit de l’informatique et des réseaux*, Lamy 2010, n° 2942.
 
-[^9]: TGI Paris, 28 March 2007, Educaffix c/ CNRS, Gaz. Pal., n° 22, 22
+[^france_9]: TGI Paris, 28 March 2007, Educaffix c/ CNRS, Gaz. Pal., n° 22, 22
     January 2008, p. 35.
 
-[^10]: M. Vivant, *La pratique de la gratuité en droit d’auteur*, RLDI
+[^france_10]: M. Vivant, *La pratique de la gratuité en droit d’auteur*, RLDI
     mai 2010, n° 60 p. 59.
 
-[^11]: See in particular: CA Versailles, 20 January 1987, D. 1988, somm.
+[^france_11]: See in particular: CA Versailles, 20 January 1987, D. 1988, somm.
     207; Cass. Civ. 1ère, 23 January 2001, Comm. Com. Electr. 2000,
     comm. n° 23.
 
-[^12]: Cass. 1ère. Civ., 15 February 2005: Légipresse 2005, n° 211, I,
+[^france_12]: Cass. 1ère. Civ., 15 February 2005: Légipresse 2005, n° 211, I,
     p. 65.
 
-[^13]: BSD licenses (*Berkeley software distribution license* allow all
+[^france_13]: BSD licenses (*Berkeley software distribution license* allow all
     or part of a software subject to such a license to be used without
     restriction (in particular to be integrated into a free or owned
     software). In 1999, the BSD License was modified to remove a
     publicity clause requiring a copyright mention in all advertising or
     documentation supplied with the software.
 
-[^14]: Cass. Civ. 1ère, 27 May 1986, Bull. Civ. 1986, I, n° 142.
+[^france_14]: Cass. Civ. 1ère, 27 May 1986, Bull. Civ. 1986, I, n° 142.
 
-[^15]: Cass. Civ 1ère, 15 May 2002, JurisData n° 2002-014336.
+[^france_15]: Cass. Civ 1ère, 15 May 2002, JurisData n° 2002-014336.
 
-[^16]: Otherwise known as “GNU General Public License” or “Licence
+[^france_16]: Otherwise known as “GNU General Public License” or “Licence
     générale publique GNU”.
 
-[^17]: Cass. 1ère civ., 28 January 2003, Bull. civ. I, n° 28.
+[^france_17]: Cass. 1ère civ., 28 January 2003, Bull. civ. I, n° 28.
 
-[^18]: Cass. Com., 25 June 1991, Bull. Civ. IV, n° 234.
+[^france_18]: Cass. Com., 25 June 1991, Bull. Civ. IV, n° 234.
 
-[^19]: Articles L. 132-1 and seq., and R. 132-1 and seq. of the Consumer
+[^france_19]: Articles L. 132-1 and seq., and R. 132-1 and seq. of the Consumer
     Code.
 
-[^20]: Law n °94-665 of 4 August 1994 concerning use of the French
+[^france_20]: Law n °94-665 of 4 August 1994 concerning use of the French
     language.
 
-[^21]: L. 121-16 and seq. of the Consumer Code.
+[^france_21]: L. 121-16 and seq. of the Consumer Code.
 
-[^22]: CA Paris, 16 September 2009, RG n° 01/24298, SA EDU 4 c/
+[^france_22]: CA Paris, 16 September 2009, RG n° 01/24298, SA EDU 4 c/
     Association AFPA.
 
-[^23]: P-Y. Gautier, *Propriété littéraire et artistique*, op. cit.
+[^france_23]: P-Y. Gautier, *Propriété littéraire et artistique*, op. cit.
 
-[^24]: Article R. 132-1, 6° of the Consumer Code.
+[^france_24]: Article R. 132-1, 6° of the Consumer Code.
 
-[^25]: Articles 1386-1 and following of the Civil Code resulting from
+[^france_25]: Articles 1386-1 and following of the Civil Code resulting from
     Law n° 98-389 of 19 May 1998 applying Community Directive n° 85-374
     of 25 July 1985 concerning the unification of legislative,
     regulatory and administrative provisions in Member States on
     liability for defective products.
 
-[^26]: P. Oudot, *Le risque de développement. Contribution au maintien
+[^france_26]: P. Oudot, *Le risque de développement. Contribution au maintien
     du droit à réparation*, thèse Dijon, 2005; Ph. Le Tourneau, *Droit
     de la responsabilité et des contrats*, Dalloz Action, 2009-2010.
 
-[^27]: Article 9.1: “The Licensee acknowledges that the scientific and
+[^france_27]: Article 9.1: “The Licensee acknowledges that the scientific and
     technical state-of-the-art when the Software was distributed did not
     enable all possible uses to be tested and verified, nor for the
     presence of possible defects to be detected. In this respect, the
@@ -867,10 +867,10 @@ Euros[^31].
     loading, using, modifying and/or developing and reproducing the
     Software which are reserved for experienced users”.
 
-[^28]: TGI Paris, 28 March 2007, op. cit.
+[^france_28]: TGI Paris, 28 March 2007, op. cit.
 
-[^29]: Article 1142 of the Civil Code.
+[^france_29]: Article 1142 of the Civil Code.
 
-[^30]: Article 1184 of the Civil Code.
+[^france_30]: Article 1184 of the Civil Code.
 
-[^31]: Article 335-3 of the Intellectual Property Code.
+[^france_31]: Article 335-3 of the Intellectual Property Code.

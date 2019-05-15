@@ -12,28 +12,28 @@ Copyright protection of software in Taiwan is regulated under the
 general Copyright Act of 10 Feb. 2010. Instead of drafting specialized
 regulations for computer programs, the legislature in Taiwan made all
 related norms and standards merge into the established provisions in
-Copyright Act[^1].
+Copyright Act[^taiwan_1].
 
 The civil and commercial legislative system in Taiwan is designed as one
 integrated infrastructure. This means when it comes to copyright
 protection and infringement issues, treatments and procedures should be
-taken under the principles of the Civil Code[^2]. However, some articles
+taken under the principles of the Civil Code[^taiwan_2]. However, some articles
 of Copyright Act are also deemed as special provisions to the general
 Criminal Code, that is to say, when a criminal prosecution of unlawful
 copyright infringement has been impleaded by prosecutor, Criminal Code
 as well as the Copyright Act should be put into reference. Moreover,
 when the computer programs are involved in the commercial use, the
-Consumer Protection Law[^3] is the principal supplementary regulations
+Consumer Protection Law[^taiwan_3] is the principal supplementary regulations
 to general laws. Besides, when a copyright issue occurs in Taiwan, there
 is also an optional dispute mediation procedure could be chosen in the
 adjective law area, the details of this mediation mechanism are defined
-in the Regulations of Copyright Dispute Mediation[^4], in brief,
+in the Regulations of Copyright Dispute Mediation[^taiwan_4], in brief,
 considering that the formal lawsuit abiding by the Intellectual Property
-Case Adjudication Act[^5], Taiwan Code of Civil Procedure[^6], and The
-Code of Criminal Procedure[^7] might take litigants too much time and
+Case Adjudication Act[^taiwan_5], Taiwan Code of Civil Procedure[^taiwan_6], and The
+Code of Criminal Procedure[^taiwan_7] might take litigants too much time and
 expense, both parties in a copyright dispute event could choose this
 mediation procedure in consensus as an alternative solution. After a
-settlement of the mediation has been reached and ratified[^8] by the
+settlement of the mediation has been reached and ratified[^taiwan_8] by the
 Intellectual Property Court, the written mediation settlement statement
 shall have the same force as a final and unappeasable court judgment and
 constitute a writ of execution by itself as well.
@@ -57,7 +57,7 @@ should be and by which method it could be measured is yet to be
 extensive interpreted. By now, analyzed on most rulings by the courts
 and most comments from the jurists, there is only one clear line has
 been drawn on this topic, that is sweat of the brow doctrine should not
-be applied directly without proper elaboration in copyright area[^9],
+be applied directly without proper elaboration in copyright area[^taiwan_9],
 which means, pure labour service output without originalities should not
 be deemed as intellectual creation, although the threshold of
 originality for copyright protection is fairly low by the courts, it is
@@ -180,7 +180,7 @@ permitted to waive in Taiwan. Although they are treated as inalienable
 rights, this does not mean that it is impossible for rightholder to
 renounce under certain circumstances. From the standpoints explained in
 official documents issued by the Ministry of the Interior in
-Taiwan[^10], global renouncement of the future exercise of moral rights
+Taiwan[^taiwan_10], global renouncement of the future exercise of moral rights
 should be void. However, if the renouncement of the scope could be
 stipulated with well-defined boundaries, such as subject, duration, and
 applied area being prearranged for the renouncement, the renouncement of
@@ -412,7 +412,7 @@ quite a number of FOSS projects actually do not have anything to do with
 this prerequisite. In fact, many participants of a FOSS project might
 just take part in the code committing merely under the same coding style
 and licensing rules without knowing each other. This is so-called
-“Cooperation without Coordination”[^11] mechanism of the FOSS projects.
+“Cooperation without Coordination”[^taiwan_11] mechanism of the FOSS projects.
 From this point of view, the type of joint work defined by the current
 Copyright Act can’t not cover all the well-known features of a FOSS
 project.
@@ -465,7 +465,7 @@ co-authors in consultation, and a derivative work should be made with
 certain originalities to some extent. With regard to these two criteria,
 some FOSS projects might not be able to pass the evaluation in full.
 
-In that case, according to article 1 of the Civil Code[^12], one can
+In that case, according to article 1 of the Civil Code[^taiwan_12], one can
 always apply the related provisions mutatis mutandis for a better
 resolution in the civil law area. That is to say, if a FOSS project
 fulfills the whole legal requirements as to the joint work or to the
@@ -589,12 +589,12 @@ law. According to article 21 and 36 of the Copyright Act, economic
 rights of copyrights can be transferred in whole or in part to another
 natural person or legal entity, only if the details of the transferring
 have been clearly recorded between the both parties. Besides that,
-according to article 1 and 2 of the Trust Law[^13], a right of property
+according to article 1 and 2 of the Trust Law[^taiwan_13], a right of property
 can be transferred to the trustee for administration or disposal
 purposes by a contract. Furthermore, none of the legal formalities are
 required at law for an economic right transfer or fiduciary contract in
 Taiwan. And if both parties agree, according to the Electronic
-Signatures Act[^14], the contract can also be made in an electronic
+Signatures Act[^taiwan_14], the contract can also be made in an electronic
 record way without losing its validities. In a nutshell, the assignment
 of economic rights of copyrights for a FOSS project could be
 successfully sustained at law in Taiwan, there isn’t any known legal
@@ -605,7 +605,7 @@ holders may, with the approval of the Intellectual Property Office,
 establish copyright collective management organizations for the purpose
 of exercising rights or for collecting and distributing compensation for
 use. Details about this copyright collective management organization can
-be found in the Copyright Collective Management Organization Act[^15].
+be found in the Copyright Collective Management Organization Act[^taiwan_15].
 Although this Act is currently put into practice mainly for
 organizations dabbling in pop music or motion pictures, the computer
 program is nevertheless not excluding from the applicable list.
@@ -711,7 +711,7 @@ management and disposal aspect. Even so, most of the FOSS licenses have
 been proved to be of assistance to deal with those puzzles, with the
 help of its complementary contractual stipulations. Take MIT license and
 Apache License 2.0 of BSD-like FOSS licenses for example, in these two
-licenses sublicense mechanism on copyright[^16] is expressly provided,
+licenses sublicense mechanism on copyright[^taiwan_16] is expressly provided,
 therefore no matter how far the modification to an original MIT License
 or Apache-2.0 project has been reached, the modifier will always be
 entitled to license a derivative work or merely a modification one in
@@ -831,7 +831,7 @@ according to article 222 and 111 of the Civil Code will be deemed as
 void at law. However, for this FOSS license, the other part within the
 scope permitted at law shall remain valid. This “partly void yet partly
 valid” mechanism presented in article 111 happens to echo article 7,
-paragraph 2 of the GPL-2.0[^17]. All in all, if the FOSS project is
+paragraph 2 of the GPL-2.0[^taiwan_17]. All in all, if the FOSS project is
 distributed as noncommercial purpose and free of charge, then the
 disclaimer of warranty and limitation of liability clauses will be
 respected to a maximum extent. However, the responsibility for
@@ -886,7 +886,7 @@ same rules to the public.”
 #### Principle
 
 The classic model of such a licensing mechanism is the respective
-versions of GNU licenses[^18] drafted by Free Software Foundation. Some
+versions of GNU licenses[^taiwan_18] drafted by Free Software Foundation. Some
 critics even give the characteristic supported by copyleft principle in
 the GNU licenses a new term, such as “License Capture” or “License
 Inheritance”. Take GPL for example, License Inheritance means an
@@ -1006,7 +1006,7 @@ Based on the above legal deduction, copyleft principle stipulated in the
 FOSS licenses could be supported at law as a resolutory condition
 provided by the Civil Code in Taiwan. To be precisely specified, a FOSS
 license agreement can be deemed to be a “bilateral contract with
-resolutory conditions”[^19]. However, according to the legal principles,
+resolutory conditions”[^taiwan_19]. However, according to the legal principles,
 there is no rights entitled at law can be abused by the holders in any
 extreme ways, this is also fairly elaborated in article 148 of the Civil
 Code in Taiwan as *“A right can not be exercised for the main purpose of
@@ -1133,47 +1133,47 @@ courts should be sustained thereafter in FOSS cases as well, because the
 “taking/downloading without additional notice of acceptance” mechanism
 is fairly applied to them without a difference to Freewares.
 
-[^1]: Taiwan Copyright Act, Art. 5(1)(j), 22(2)(3), 59, 60, 80-2, and
+[^taiwan_1]: Taiwan Copyright Act, Art. 5(1)(j), 22(2)(3), 59, 60, 80-2, and
     87.The official translations in English can be reached by “Laws &
     Regulations Database of The Republic of China” at:
     <http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?PCode=J0070017>
 
-[^2]: The official translations of the Taiwan Civil Code in English can
+[^taiwan_2]: The official translations of the Taiwan Civil Code in English can
     be reached by “Laws & Regulations Database of The Republic of China”
     at: <http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?PCode=B0000001>
 
-[^3]: The official translations of the Taiwan Consumer Protection Law in
+[^taiwan_3]: The official translations of the Taiwan Consumer Protection Law in
     English can be reached by “Laws & Regulations Database of The
     Republic of China” at:
     <http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?PCode=J0170001>
 
-[^4]: The official translations of the Taiwan Regulations of Copyright
+[^taiwan_4]: The official translations of the Taiwan Regulations of Copyright
     Dispute Mediation in English can be reached by “Laws & Regulations
     Database of The Republic of China” at:
     <http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?PCode=J0070020>
 
-[^5]: The official translations of the Taiwan Intellectual Property Case
+[^taiwan_5]: The official translations of the Taiwan Intellectual Property Case
     Adjudication Act in English can be reached by “Laws & Regulations
     Database of The Republic of China” at:
     <http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?PCode=A0030215>
 
-[^6]: The official translations of the Taiwan Code of Civil Procedure in
+[^taiwan_6]: The official translations of the Taiwan Code of Civil Procedure in
     English can be reached by “Laws & Regulations Database of The
     Republic of China” at:
     <http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?PCode=B0010001>
 
-[^7]: The official translations of the Taiwan Code of Criminal Procedure
+[^taiwan_7]: The official translations of the Taiwan Code of Criminal Procedure
     in English can be reached by “Laws & Regulations Database of The
     Republic of China” at:
     <http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?PCode=C0010001>
 
-[^8]: The court shall review the written mediation settlement statement
+[^taiwan_8]: The court shall review the written mediation settlement statement
     with due dispatch. Unless it is contrary to act or regulation,
     public order, or good morals, or compulsory execution would be
     impossible, judge shall sign copies thereof and affix the seal of
     the court thereto.
 
-[^9]: Take the verdict documented as “Intellectual Property Related
+[^taiwan_9]: Take the verdict documented as “Intellectual Property Related
     Criminal Appealing Litigation Number 41 by Intellectual Property
     Court in 2008.” For example, judges of the trial bench made a clear
     statement in their court judgment about legal opinions for not
@@ -1181,42 +1181,42 @@ is fairly applied to them without a difference to Freewares.
     without proper and sufficient expression about minimum originality
     requirement.
 
-[^10]: Cited from the “Copyright Related Explanation Letter Number
+[^taiwan_10]: Cited from the “Copyright Related Explanation Letter Number
     8118200 by Ministry of the Interior of 2 Oct. 1992.”
 
-[^11]: Cited from the speech given by Clay Shirky, How the Internet will
+[^taiwan_11]: Cited from the speech given by Clay Shirky, How the Internet will
     (one day) transform government at TED:
     <http://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government.html>
 
-[^12]: If there is no applicable act for a civil case, the case shall be
+[^taiwan_12]: If there is no applicable act for a civil case, the case shall be
     decided according to customs. If there is no such custom, the case
     shall be decided according to the jurisprudence.
 
-[^13]: The official translations of the Taiwan Trust Law in English can
+[^taiwan_13]: The official translations of the Taiwan Trust Law in English can
     be reached by “Laws & Regulations Database of The Republic of China”
     at: <http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?PCode=I0020024>
 
-[^14]: The official translations of the Taiwan Electronic Signatures Act
+[^taiwan_14]: The official translations of the Taiwan Electronic Signatures Act
     in English can be reached by “Laws & Regulations Database of The
     Republic of China” at:
     <http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?PCode=J0080037>
 
-[^15]: The official translations of the Taiwan Copyright Collective
+[^taiwan_15]: The official translations of the Taiwan Copyright Collective
     Management Organization Act in English can be reached by “Laws &
     Regulations Database of The Republic of China” at:
     <http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?PCode=J0070019>
 
-[^16]: However, the patent sublicense is expressly declared and provided
+[^taiwan_16]: However, the patent sublicense is expressly declared and provided
     in the GPL-3.0, LGPL-3.0, and AGPL-3.0, such a mechanism is
     currently seldom to be observed in other FOSS licenses.
 
-[^17]: If any portion of this section is held invalid or unenforceable
+[^taiwan_17]: If any portion of this section is held invalid or unenforceable
     under any particular circumstance, the balance of the section is
     intended to apply and the section as a whole is intended to apply in
     other circumstances.
 
-[^18]: GPL-2.0, GPL-3.0, LGPL-2.1, LGPL-3.0, AGPL-3.0.
+[^taiwan_18]: GPL-2.0, GPL-3.0, LGPL-2.1, LGPL-3.0, AGPL-3.0.
 
-[^19]: Chyan Yang, Hsien-Jyh Liao, and Chung-Chen Chen, “Analysis on GPL
+[^taiwan_19]: Chyan Yang, Hsien-Jyh Liao, and Chung-Chen Chen, “Analysis on GPL
     in terms of the legal system in Taiwan” at:
     [http://ccckmit.wdfiles.com/local—files/re%3Apaper/GPL.pdf](http://ccckmit.wdfiles.com/local—files/re%3Apaper/GPL.pdf)

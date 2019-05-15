@@ -10,7 +10,7 @@ Introduction to software protection under Spanish law
 
 Copyright protection of software is regulated in Spain under Royal
 Legislative Decree 1/1996 of 12 April, approving the consolidated text
-of the Copyright Act (hereinafter, the “Copyright Act”)[^1]. This law
+of the Copyright Act (hereinafter, the “Copyright Act”)[^spain_1]. This law
 transposes the EU Copyright Directives (Directive 2001/29/EC on the
 harmonisation of certain aspects of copyright and related rights in the
 information society, Directive 2004/48/EC on the enforcement of
@@ -22,7 +22,7 @@ to as the “Software Directive”).
 Title VII of Book I of the Copyright Act (Articles 95-104) specifically
 regulates copyright in computer programs. These provisions are
 considered *lex specialis* with respect to the general provisions of
-Copyright Act, as *lex generalis*.[^2] This means that the general
+Copyright Act, as *lex generalis*.[^spain_2] This means that the general
 provisons of the Copyright Act will apply to computer programs to the
 extent that Book I, Title VII does not contain any specific provisions.
 
@@ -36,29 +36,29 @@ indirectly in a computer system to performe a function or task or obtain
 a determined result, whatsoever its form of expression or fixation”, and
 include their preparatory material. Computer Program copyright
 protection is also extended to technical documentation and user manuals.
-Only original computer programs benefit copyright protection[^3].
+Only original computer programs benefit copyright protection[^spain_3].
 According to Article 96.2 of the Copyright Act, the computer program
 needs to be the own intellectual creation of the author, which has led
 authors and judges to hold that the work must be new and bear, in some
 manner, the print of the author’s persona (which, in computer
-programming, does not have to be a high level at all)[^4]. The ideas and
+programming, does not have to be a high level at all)[^spain_4]. The ideas and
 principles behind computer programs including those which serve as the
-basis for its interfaces are explicitly denied copyright protection[^5].
+basis for its interfaces are explicitly denied copyright protection[^spain_5].
 Malware such as computer viruses, is also excluded from protection.
 
 ### Authors/Beneficiaries
 
 The Copyright Act generally provides that copyrights in a work belong to
 the author, who is the person or group of persons who creates the
-work[^6]. In respect of computer programs, Article 97.4 adds, however,
+work[^spain_6]. In respect of computer programs, Article 97.4 adds, however,
 that where computer programs are created by one or more employees in the
 execution of their duties or following the instructions given by their
 employer, the employer will be deemed to be the exclusive rightsholder
 of the economic rights in the computer programs so created, unless
-expressly provided otherwise[^7]. In these circumstances, employee
+expressly provided otherwise[^spain_7]. In these circumstances, employee
 authors will maintain their moral rights over the work (see below),
 while the economic rights belong — by legislated automatic transmission
-of rights — to the employer[^8].
+of rights — to the employer[^spain_8].
 
 The law also provides for works with multiple authors. Joint works
 (works that are the unique result of the collaborative efforts of a
@@ -66,7 +66,7 @@ variety of persons) are the property of all the authors and the rights
 correspond to them as they may agree. In default, the rights are held
 equally. Each author may exploit his/her contribution to the work,
 provided this exploitation does not prejudice exploitation of the work
-as a whole[^9].
+as a whole[^spain_9].
 
 The rights over a “collective work” — a program created by initiative
 and under the coordination of a person that edits and disseminates it
@@ -74,14 +74,14 @@ and under the coordination of a person that edits and disseminates it
 contributions (made for this purpose by different authors) which merge
 into a single and unique work --- without being able to attribute
 ownership rights to one author in particular — belong to the editor,
-unless contractually provided otherwise[^10].
+unless contractually provided otherwise[^spain_10].
 
 Finally, the Copyright Act also establises the concept of a “composed”
 or “composite” work, being a work which incorporates one or more
 previously existing works without the colaboration of the prior author.
 Rights in the composed work belong to the person who performs such
 composition, without prejudice to the rights of (and the need for
-authorisation from) the prior author[^11].
+authorisation from) the prior author[^spain_11].
 
 ### Economic rights
 
@@ -116,7 +116,7 @@ Community, with the exception of the right to control further rental of
 the program or a copy thereof. This is understood to apply only to
 tangible copies (i.e. programs on a CD or DVD, flashcard, etc.), as the
 distribution right is limited to the computer programs in tangible
-media.[^12] And it does not exhaust the reprodution and transformation
+media.[^spain_12] And it does not exhaust the reprodution and transformation
 rights.
 
 The other exceptions are set out in Article 100 of the Copyright Act:
@@ -145,7 +145,7 @@ circumstances in which a legitimate user of a computer program may
 reproduce and/or translate a computer program without the prior
 authorisation of the rightsholder, in order to obtain the information
 necessary to achieve the interoperability of an independently created
-computer program with other programs[^13].
+computer program with other programs[^spain_13].
 
 The Act expressly provides that these exceptions, except that set out in
 Article 100.1 (reproduction and transformation necessary for use) are
@@ -160,10 +160,10 @@ this access legally.
 The Copyright Act makes no mention of moral rights in relation to
 computer programs. These are regulated by Article 14 of the Act, which
 is understood to apply to computer programs like any other protected
-work[^14]. These rights include the paternity right and the right to
+work[^spain_14]. These rights include the paternity right and the right to
 oppose modifications and applications which might affect the honor or
-reputation of the author[^15]. These rights are inaliable and
-unwaivable[^16], and remain in force following the death of the author.
+reputation of the author[^spain_15]. These rights are inaliable and
+unwaivable[^spain_16], and remain in force following the death of the author.
 
 ### Term of protection
 
@@ -173,7 +173,7 @@ following the 1st January after the death of the author. For juridical
 persons holding rights (employers or rightsholder in a collective work),
 the term is 70 years from the 1st January of the year after first
 legitimate public dissemination of the program (or its creation, if it
-is not published)[^17].
+is not published)[^spain_17].
 
 Rights in a co-authored (joint) work last until 70 years after the death
 of the last co-author. As regards collective works, having a unique
@@ -185,10 +185,10 @@ general term: life (or dissemination) plus 70 years.
 ### Copyright assignment
 
 Economic rights in computer programs may be transferred to third
-parties, *mortis causa* or *inter vivos*[^18]. This is done by operation
+parties, *mortis causa* or *inter vivos*[^spain_18]. This is done by operation
 of law in the case of employee created works, as we have seen above.
 Otherwise, all *inter vivos* transfers must be formalised in writing
-(paper or electronic)[^19]. The transfer of rights is limited to the
+(paper or electronic)[^spain_19]. The transfer of rights is limited to the
 specific rights, use, term and geographic scope stated in the
 contract/license. If the contract does not state these terms, transfers
 are deemed non-exclusive, for 5 years, for the country where the
@@ -196,11 +196,11 @@ transfer is made, and only for the purposes that are necessarily deduced
 from the contract and necessary for fulfilling its purpose.
 
 If there is no contract for the transfer of rights, no rights are
-transfered.[^20] However, in the case of commissioned works (e.g. from
+transfered.[^spain_20] However, in the case of commissioned works (e.g. from
 consultant programmers), the commissioner will have a limited use right,
 limited in the same manner as above: having only such rights as are
 necessarily deduced from the circumstances of the engagement, and
-necessary for fulfilling its purpose[^21]. In addition, depending on the
+necessary for fulfilling its purpose[^spain_21]. In addition, depending on the
 degree of participation of the commissioning party (client) (e.g.
 providing the program design and detailed specifications), one could
 consider the resulting work to be either a collective work, for which
@@ -210,7 +210,7 @@ collaborative work in which the client is co-author.
 Transfers of rights can be exclusive or non-exclusive. There is no such
 concept as “assignment” or “sale” of all the rights or copyright
 property to a third party (this is contradictory to the concept of moral
-rights)[^22]. The closest transfer to an “assignment” is an irrevocable,
+rights)[^spain_22]. The closest transfer to an “assignment” is an irrevocable,
 exclusive transfer or license of all the rights, for all purposes, for
 all the duration of the rights and all the countries of the world.
 
@@ -224,13 +224,13 @@ its license.
 The Copyright Act establishes specifically that, unless proof is
 provided to the contrary, the granting of any use license will be
 considered non-exclusive and non-transferable, only for the purpose of
-satisfying the needs of the user[^23]. Non-exclusive rights may not be
+satisfying the needs of the user[^spain_23]. Non-exclusive rights may not be
 onwards-transfered, nor sub-licensed.
 
 Copyright transfers may be royalty bearing or for free. This issue is
 independent of the rights that are granted. Payments may be one-off, or
 a proportional participation in the profits of exploitation of the work
-(royalties)[^24].
+(royalties)[^spain_24].
 
 ### Copyright enforcement
 
@@ -247,14 +247,14 @@ program which the marketer knows or could be deemed to know are illegal
 (c) the commercialisation or possession for commercial purposes of tools
 which are exclusively aimed at facilitating the unlawful removal or
 avoidance of technical means which protect the computer program
-(TPMs)[^25].
+(TPMs)[^spain_25].
 
 This latter provision (Article 102(c)) is specifically aimed at
 protecting DRM and technical protection measures, and it was not
 considered necessary to change these provision in 2004 or 2006 to
 implement the EU Copyright Directives. Criminal law also penalises any
 copyright infringement for commercial purposes (“for profit” motive),
-with specific emphasis on removing TPMs[^26].
+with specific emphasis on removing TPMs[^spain_26].
 
 Unprotected software and public domain software
 -----------------------------------------------
@@ -266,10 +266,10 @@ protection and can, in principle, be used freely. Due to the functional
 nature of many programs, the degree of originality for software is not
 considered to have to be particularly high, and basically a subjective
 criteria: of being the result of personal effort that is not copied from
-another work, is sufficient[^27].
+another work, is sufficient[^spain_27].
 
 Under Spanish law, public domain is limited to works for which the
-copyrights have expired[^28]. This software — if there is any
+copyrights have expired[^spain_28]. This software — if there is any
 today! — can be used, reproduced or executed freely, without permission
 or the payment of a fee. It can in certain cases even be presented by
 third parties as their own work, and by modifying the original work,
@@ -291,7 +291,7 @@ which he or she licenses a computer program to third parties.
 
 Under Spanish law, FOSS would be considered as software to which users
 generally have more rights, via the FOSS license agreement, than they
-would have with a proprietary or “non-free” software license[^29]. And,
+would have with a proprietary or “non-free” software license[^spain_29]. And,
 like any other software license, the FOSS license conditions must be
 respected by the licensee (user), or the license permissions may be
 revoked.
@@ -301,7 +301,7 @@ revoked.
 #### Multiple authorship
 
 Although FOSS can be written by one person or be owned by one legal
-entity[^30], generally speaking, after some time it is extended,
+entity[^spain_30], generally speaking, after some time it is extended,
 improved, corrected and generally transformed, becoming the result of
 the work of several authors who can make claims to it. The question is
 whether later additions create a collaborative work (a work created by
@@ -314,14 +314,14 @@ different.
 
 For FOSS to be a work created by means of a collaborative process, i.e.
 to be considered a “collaborative work” of co-authors, it is not
-necessary for every co-author to have contributed equally[^31] (rarely
+necessary for every co-author to have contributed equally[^spain_31] (rarely
 the case), nor are co-authors required to work on it at the same time
 (in most cases, not the case) although to be considered an author the
 contributor must intervene during the creative process (i.e not a tester
 or non-substantial bug-fixer). However, to be a co-author, the
 contribution needs to be worthy of protection by copyright. The provider
 of an idea is not a co-author, nor is the person who corrects a
-technical error or merely follows instructions[^32].
+technical error or merely follows instructions[^spain_32].
 
 Whereas the first version of a software program, if written by several
 people, can in many cases be qualified as a collaborative work
@@ -339,13 +339,13 @@ on the original.
 #### Rights of the original co-authors
 
 Co-authorship usually concerns the creation of a single “unique” work
-that is more than the collection of its component parts[^33]. The
+that is more than the collection of its component parts[^spain_33]. The
 contributions may be indivisible, i.e. each individual contribution is
 not clearly identifiable, e.g. when two authors write a text together.
 But it is not necessarily the case: under Spanish law there may be
 co-authorship even when the several components are distinguishable, but
 brought together in a single work in which all the authors are involved
---- what one may call “horizontal” collaboration[^34].
+--- what one may call “horizontal” collaboration[^spain_34].
 
 As we have seen above, in the case of collaborative works, the authors
 are free to regulate the exercise of the copyrights by agreement.
@@ -354,7 +354,7 @@ license) and how decisions regarding the copyrights are made, e.g. by
 normal or special majorities, or give one of them the right to make all
 decisions regarding this work. They can also reach an agreement as to
 the economic rights, such as royalty payments, and moral rights e.g.
-under whose name the work will be published[^35].
+under whose name the work will be published[^spain_35].
 
 If the co-authors have not reached an agreement, neither of the authors
 is allowed to exercise the copyright separately, however each may
@@ -365,22 +365,22 @@ possible, provided this does not create, for example, a competing
 product. In the absence of agreement, unanimity is required for
 decisions, and in the absence of unanimity the court decides, and the
 court will decide according to the provisions of the Civil Code in
-relation joint properties[^36] (which usually means a majority rule, and
+relation joint properties[^spain_36] (which usually means a majority rule, and
 by default contributions are deemed equal unless proof to the contrary
 is provided). The court will also weigh different factors to be taken
 into account, including good faith, the degree of collaboration, the
-degree of substitution of the different contributions, etc.[^37]
+degree of substitution of the different contributions, etc.[^spain_37]
 
 As each author has the right to exploit his/her contribution, it is
 clear that he/she may, in his/her name and without intervention of the
 other authors, institute legal proceedings for an infringement of
 copyright in the work, and in her contribution. This is clear in so far
-as such proceedings are for an injunction to end the infringement[^38].
+as such proceedings are for an injunction to end the infringement[^spain_38].
 What is not so clear is the right to individual compensation and it is
 thought that for these cases, the consent of the co-authors is required
 (see above). However, in some cases the lack of unanimity may result in
 the inadmissibility of this claim, e.g. if heirs of a programmer are
-unable to agree as to whether to institute a claim[^39].
+unable to agree as to whether to institute a claim[^spain_39].
 
 #### Authors of derivative / composed FOSS works
 
@@ -395,7 +395,7 @@ are, however, restricted because the derivative or composed work cannot
 be exploited without the consent of the holder of the copyright on the
 original work. Under FOSS licenses this consent is not a problem,
 subject to respecting the terms and conditions (e.g. regarding further
-distribution of the derivative work)[^40]. This issue gives rise to
+distribution of the derivative work)[^spain_40]. This issue gives rise to
 certain difficulties as it is not always clear if the use of the
 previous work is by way of mere reproduction (or compilation into a new
 work), or by transformation of the previous work — depending on the FOSS
@@ -407,7 +407,7 @@ understanding the impact of copyleft obligations in the GPL (v2 or v3).
 In order to manage copyrights in FOSS better, it may be useful to
 collect all copyrights concerning a FOSS project within one person or
 organisation. The existence of this organisation will simplify the
-management and enforcement of the (eventually joint) copyrights[^41].
+management and enforcement of the (eventually joint) copyrights[^spain_41].
 The collective management of copyrights is perfectly possible under
 Spanish law, and is usually, but not necessarily, regulated by an
 exclusive license or transfer of copyrights to the person or
@@ -415,25 +415,25 @@ organisation in question. As an alternative, the rightsholders may
 authorise an organisation to take legal action in respect of their
 work — as a fiduciary, the party to whom the legitimation is granted
 shall not act for himself but on account of others who have so
-authorised him/her (being the current rightsholders)[^42].
+authorised him/her (being the current rightsholders)[^spain_42].
 
 ### Moral copyrights
 
 Generally speaking, FOSS originated in the United States, and FOSS
 licensing tends to attach less importance to the question of moral
-rights of the author[^43], however it must be noted that one common
+rights of the author[^spain_43], however it must be noted that one common
 factor among all FOSS licenses is the obligation to maintain attribution
 to the original authors, and indicate any modifications — a contractual
 form of guaranteeing certain moral rights (paternity and integrity).
 
 The Open Source Definition specifies that the author of software
 distributed under a FOSS license cannot oppose the use of the software
-by certain people and groups[^44] or for certain areas of
-application[^45]. This runs contrary to the moral rights of an author
+by certain people and groups[^spain_44] or for certain areas of
+application[^spain_45]. This runs contrary to the moral rights of an author
 with respect to the uses to be made of his/her work. It is clear under
 Spanish law that an author is not able to give up his/her moral rights
-in his/her work[^46]: any waiver to exercise in the future one’s moral
-rights is void, including moral rights on software[^47]. The author of a
+in his/her work[^spain_46]: any waiver to exercise in the future one’s moral
+rights is void, including moral rights on software[^spain_47]. The author of a
 work distributed under the FOSS license should theoretically therefore
 be able to oppose any use of his/her work by people or groups or for
 certain purposes which affect his honour or reputation, based on his/her
@@ -457,7 +457,7 @@ acceptance, being a manifestation of consent to be bound by the terms,
 often absent in FOSS practice), or seen as merely conditions to an
 authorisation or form of donation (donation not of the software, but of
 the non-exclusive rights to use them). Doctrine in Spain generally holds
-that copyright licenses are contracts[^48], although there may be scope
+that copyright licenses are contracts[^spain_48], although there may be scope
 in Spanish law for arguing against the need to prove the requisites of a
 contract, and merely defend the instrument as establishing the
 conditions to be applied to the authorisation to use the software
@@ -480,14 +480,14 @@ answer as to parties is usually clear: the license is reached between
 the rightsholder and the licensee. In case of several co-authors, the
 situation may be more complicated, and the question as to with whom the
 licensee reaches a contract depends on the mutual agreement between the
-co-authors[^49].
+co-authors[^spain_49].
 
 Often, a FOSS program will be the work of several authors who did not
 work in joint collaboration. After all, FOSS is usually created via a
 chain of authors who all contribute to the creation of the program that
 is, in the end, licensed to the user/licensee. In so far as each new
 author makes an original contribution to the work, a derivative work is
-produced[^50]. The licensee of the eventual work will need to have the
+produced[^spain_50]. The licensee of the eventual work will need to have the
 consent of every author in the chain who made an original contribution
 to the final work, starting with the author of the first work or
 version. This consent can be direct, or indirect by giving consent in
@@ -503,10 +503,10 @@ Most FOSS licenses solve this by creating binding conditions between the
 licensee and all authors in the chain. GPL version 3, for instance,
 contains the following clause: “Each time you convey a covered work, the
 recipient automatically receives a license from the original licensors,
-to run, modify and propagate that work, subject to this License”[^51]
+to run, modify and propagate that work, subject to this License”[^spain_51]
 and GPL version 2: “each time you redistribute the Program (or any work
 based on the Program), the recipient automatically receives a license
-from the original licensor”[^52].
+from the original licensor”[^spain_52].
 
 In this way the user of the software obtains a license of all authors in
 the chain. This chain of licenses is valid under Spanish law, and it is
@@ -518,13 +518,13 @@ sublicense the original work.
 
 Contracts in Spanish law require an offer and acceptance of the offer by
 way of a manifestation of a consent to be bound by the terms of the
-offer[^53]. Conventional IT agreements are reached by the explicit
+offer[^spain_53]. Conventional IT agreements are reached by the explicit
 acceptance of the terms and conditions by the licensee through signing
 the terms and conditions, by opening the packaging, by clicking or
 selecting an “I agree” button, or indeed by any other action from which
 acceptance can be deduced. These methods to reach a licensing agreement
 have been sufficiently tried and tested and, at least between commercial
-parties, are generally considered to be valid[^54].
+parties, are generally considered to be valid[^spain_54].
 
 Typically, in a FOSS environment, however, software is made available
 with the simple specification on a website (“licensed under the GPLv2
@@ -533,9 +533,9 @@ header and with luck, in a “COPYING.txt” file or a `/legal/` folder).
 The license is not usually required to be explicitly accepted, nor are
 the terms presented to the licensee/user. Having to click and confirm
 every time could in some cases interfere with the use of the
-software[^55]. In addition, the Open Source Definition opposes demanding
+software[^spain_55]. In addition, the Open Source Definition opposes demanding
 explicit agreement to the license conditions with the aim of confirming
-the agreement between licensor and licensee[^56].
+the agreement between licensor and licensee[^spain_56].
 
 The question is double: whether in these cases a valid license has been
 entered into, and what are the applicable terms. The answer to the first
@@ -545,7 +545,7 @@ is authorised to use the work. As we have seen, using software without
 the rightsholder’s consent implies a copyright infringement. This
 implies that everyone who wants to use software which they find via the
 internet, needs to actively look for a license. If the user cannot prove
-he/she has a license[^57], he/she must refrain from using it.
+he/she has a license[^spain_57], he/she must refrain from using it.
 
 The trouble is that, without having had an opportunity to review the
 terms and thus consent to them (and, sometimes in the case of FOSS, the
@@ -565,7 +565,7 @@ available to be read in the source code or on the project website, and
 most software developers know and apply this custom. Accordingly, as
 regards professional developers who are FOSS licensees, it would be very
 difficult to argue that there was no binding license between the
-parties, or that the terms are unknown[^58].
+parties, or that the terms are unknown[^spain_58].
 
 As we have noted above, it is doubtful whether any user would benefit
 from disputing the existence of a FOSS license (except with regard to
@@ -582,22 +582,22 @@ obligations, and breach of copyrights of the rightsholder. The
 rightsholder may take action in civil courts under both claims (and due
 to the possibility of arguing against the existence or need for a
 contract, it would be recommended to sue on both grounds). In addition,
-breach of copyright provides several interesting remedies[^59].
+breach of copyright provides several interesting remedies[^spain_59].
 
 ### Disclaimers and liability
 
 Typically, FOSS licenses contain very strong disclaimer clauses, which
-attempt to discharge the author from all liability[^60]. The argument
+attempt to discharge the author from all liability[^spain_60]. The argument
 given for this is that FOSS is often made available without a fee, as a
 result of which the author/rightsholder generates insufficient income to
-pay for liability insurance and legal costs[^61].
+pay for liability insurance and legal costs[^spain_61].
 
 Although this reasoning is certainly valid for the amateur programmer,
 it applies much less for professional programmers who build their
-business model around FOSS[^62]. To cover the eventuality of being held
+business model around FOSS[^spain_62]. To cover the eventuality of being held
 liable for a warranty of title or quality, professional suppliers of
 FOSS or related services often provide guarantees and technical
-support[^63].
+support[^spain_63].
 
 Article 1902 of the Spanish Civil Code provides for strict liability and
 indemnities for wilful misconduct (“culpa”) or negligence
@@ -616,7 +616,7 @@ such concept as a “warranty of title”, it is implicit that a licensor
 must have sufficient rights to be able to grant a FOSS license — in
 absence of which, the supplier will not only be in breach of the third
 party’s copyright (and thus, in breach of the obligation to ensure the
-licensee’s right of quite enjoyment[^64]) but also liable under the
+licensee’s right of quite enjoyment[^spain_64]) but also liable under the
 aforementioned provisions relating to fraud or negligence.
 
 However, between professionals, the law allows parties to regulate
@@ -648,12 +648,12 @@ also important to look at how the licensor presents the product
 MySQL, and end-user products such as Firefox or the GIMP). For a product
 that is presented as finished and ready for use, the exoneration clause
 will be considered invalid much more easily, than for a product for
-which the licensor clearly formulated a reservation[^65].
+which the licensor clearly formulated a reservation[^spain_65].
 
 In so far as the aforementioned conditions have been complied with,
 exoneration provisions will be enforceable in principle, unless the
 stipulating party could be considered as a professional seller in a
-relationship with a consumer purchaser[^66]. As mentioned above,
+relationship with a consumer purchaser[^spain_66]. As mentioned above,
 professional sellers are required to repair hidden defects in the
 products they sell, except if the purchaser is a specialist in the
 sector, under Article 1484 of the Spanish Civil Code. Contractual
@@ -662,7 +662,7 @@ contract and not invalidated for other reasons (see above, and in
 particular by consumer protection laws). If the hidden defects are
 known, and this state is not declared to the purchaser, then the
 supplier will be liable not only to repair the defect but also for
-damages and interest[^67]. The professional seller of FOSS may therefore
+damages and interest[^spain_67]. The professional seller of FOSS may therefore
 be liable in principle, unless he can provide proof of his ignorance of
 the bugs/mistakes. In practice while this proof will be hard to provide
 (through due diligence in testing, programming process and methodology,
@@ -671,29 +671,29 @@ buggy and virtually impossible to make perfectly.
 
 Finally, these disclaimers will usually be held invalid with respect to
 consumer users, both due to the scope of the disclaimers (being deemed
-abusive[^68]) and due to the fact that a consumer in Spain would not be
+abusive[^spain_68]) and due to the fact that a consumer in Spain would not be
 expected to be able to understand a disclaimer in English (the language
 of most FOSS licenses) and thus held not to be incorporated in the
 consumer contract. On the other hand, it could be argued that as there
 is no commercial relationship between the parties (and thus, the
 licensor is not a “seller” of a product), then consumer protection law
-may not apply to the full extent[^69]. This argument is reinforced by
+may not apply to the full extent[^spain_69]. This argument is reinforced by
 the free (gratis) nature of most FOSS.
 
 ### The copyleft principle
 
 #### Principle
 
-A characteristic found in several (but not all[^70]) FOSS licenses is
+A characteristic found in several (but not all[^spain_70]) FOSS licenses is
 the so-called “copyleft” principle. Copyleft FOSS licenses, in return
 for the use rights that are granted, require anyone who redistributes
 the copylefted software or any derivative works of it to third parties,
-to do so under the same license conditions[^71]. Thus, usually it would
+to do so under the same license conditions[^spain_71]. Thus, usually it would
 not be legally possible to incorporate and redistribute copyright
 protected parts of copylefted software in a proprietary licensed work.
 
 It has been argued that this copyleft principle can restrict the
-commercial use possibilities of the software[^72]. Warnings have also
+commercial use possibilities of the software[^spain_72]. Warnings have also
 been issued regarding the dangers that companies may run if a negligent
 or vindictive employee were to incorporate a piece of copyleft code in a
 proprietary software program. In theory this could mean that the company
@@ -707,7 +707,7 @@ distribute the software whose license has been breached or (b) the
 obligation to remove this piece of code from the program. In addition,
 if the unlawful use has caused damage to the author, this damage will
 need to be reimbursed, but not more than the damage actually suffered
-(e.g. indemnities to the original copyright holder)[^73]. But in all
+(e.g. indemnities to the original copyright holder)[^spain_73]. But in all
 events it is unlikely the owner of the proprietary software would be
 obliged to release all its code under the copyleft FOSS license.
 
@@ -720,13 +720,13 @@ distributed. The answer to this question is affirmative: while the
 righsholder of the original work does not hold any copyright in the
 derivative work, he or she is entitled to determine the conditions for
 the creation and redistribution of a derivative work of his/her original
-work[^74]. A derivative work can therefore only be exploited subject to
-the consent of the copyright owner of the original work[^75].
+work[^spain_74]. A derivative work can therefore only be exploited subject to
+the consent of the copyright owner of the original work[^spain_75].
 
 As copyright holder, an author is thus able to authorise the use of
 his/her work for a particular use, and link certain conditions to this.
 This right to determine the destined use or conditions of use of a work
-is clearly stated in the Copyright Act, in Article 43[^76]. The
+is clearly stated in the Copyright Act, in Article 43[^spain_76]. The
 rightsholder can therefore impose the copyleft condition based on these
 rights.
 
@@ -737,7 +737,7 @@ order. An author cannot therefore randomly exercise his/her economic and
 moral rights. However, exercising his/her copyrights (by determining the
 conditions of exploitation) cannot be considered as an abuse of rights
 “as such”: only in exceptional cases will an author who invokes his/her
-copyrights be guilty of an abuse of rights[^77]. We consider that
+copyrights be guilty of an abuse of rights[^spain_77]. We consider that
 licensing a work under a copyleft restriction will in principle not
 constitute an abuse of right, because the author, in general, will be
 able to prove a legitimate moral or tangible interest (and indeed a
@@ -754,7 +754,7 @@ rights trying to extend those conditions or provisions beyond that which
 the Copyright Law has permitted the author to control. Including for
 example, works in the public domain, works not protected by copyright,
 and independent works e.g. stored on the same carrier as the licensed
-work[^78].
+work[^spain_78].
 
 However there is also an argument that, the license being considered a
 contract, the licensee may be bound by whatever (legally valid)
@@ -762,7 +762,7 @@ conditions are imposed in the license, even outside the scope of
 copyright law and including as to “non-derivative/composite/collective”
 works. This is subject to limitations, of course. Competition law, for
 example, would prohibit certain forms of product bundling or
-restrictions on legitimate uses[^79], and consumer protection law would
+restrictions on legitimate uses[^spain_79], and consumer protection law would
 prohibit restrictions imposing conditions on certain forms of claims for
 redress or indemnities.
 
@@ -773,7 +773,7 @@ European Union of a copy of a program by the copyright owner or with his
 consent results in the exhaustion of the right to control the
 distribution of that copy in the European Union, with the exception of
 the right to control the further leasing and lending out of the program
-or a copy thereof.”[^80] Note that his “exhaustion” only applies to
+or a copy thereof.”[^spain_80] Note that his “exhaustion” only applies to
 controlling the tangible copy which has been lawfully released in the
 European market. This does not affect the right of the author to lay
 down certain conditions regarding the use of the (intangible) work on
@@ -786,7 +786,7 @@ FOSS cases in Spain
 
 While there have been several cases regarding the use of free content
 (specifically within the context of paying collecting societies' levies,
-or not, and the burden of proof[^81]), there have been no cases
+or not, and the burden of proof[^spain_81]), there have been no cases
 regarding free and/or open source software. The judicial consideration
 of “copyleft” as a concept within the aforementioned free content cases
 is interesting, showing an increasing awareness of judges with respect
@@ -821,16 +821,16 @@ action on his/her behalf. Only authors may claim for breach of moral
 rights.
 
 Proceedings are taken before the Civil Courts, in accordance with the
-standard procedures of the Civil Procedure[^82]. While the principles of
+standard procedures of the Civil Procedure[^spain_82]. While the principles of
 international private law applicable to software (applicable in Spain as
 in any other EU jurisdiction) may complicate the question as to where a
 case may be brought, Spanish courts follow EU Regulations in the matter
-(Brussels and Rome I and II Regulations[^83]). Depending on the cause of
+(Brussels and Rome I and II Regulations[^spain_83]). Depending on the cause of
 action taken (IPR breach, contractual breach) and the nature and
 domiciles of the parties, the courts and applicable law may vary.
 
 Criminal law also sanctions copyright breaches for commercial (profit)
-purposes[^84], providing jail sentences up to two years and/or
+purposes[^spain_84], providing jail sentences up to two years and/or
 equivalent fines (12-24 months) for those who, for profit and in
 prejudice to a third party, reproduce, distribute or publically
 communicate a work or its derivative, in any media, without the
@@ -845,21 +845,21 @@ measures applied to protect software or other protected works.
 Damage caused by copyright violations are compensated under Spanish law
 in accordance with the Articles 138 and 140 Copyright Act, and generally
 applicable principles of law relating to unlawful acts (extracontractual
-infringements) and breaches of contract[^85]. According to the specific
+infringements) and breaches of contract[^spain_85]. According to the specific
 provisions of Article 140 of the Copyright Act, an injured party of a
 copyright breach may request compensation for the loss actually suffered
 and profits that were not gained. This can be calculated as either a)
 the negative economic consequences (including loss of profit / profits
 made by the infringer) or b) the amount the licensor would have received
 had the infringer asked for consent to use the protected work in the
-infringing manner[^86]. Dual damages, triple damages or other forms of
+infringing manner[^spain_86]. Dual damages, triple damages or other forms of
 punitive or special damages are not awarded under Spanish law. Costs
 spent on tracing and prosecuting infringements may also be
-compensated[^87] and authors, when involved may also claim for breach of
+compensated[^spain_87] and authors, when involved may also claim for breach of
 moral rights, giving rise to further damages.
 
 Infringements of software copyrights follow the same regime as
-infringements of every other copyright[^88]. The aforementioned
+infringements of every other copyright[^spain_88]. The aforementioned
 principle is therefore applicable in the case of copyright infringements
 of software. Infringements of copyright protected software distributed
 under a FOSS license would be sanctioned in the same manner (including
@@ -871,20 +871,20 @@ It is yet to be seen whether the argument that, having given up rights
 to royalties in the FOSS license, the licensor’s right to damages would
 be limited, is correct. We would differ. Besides establishing his/her
 reputation and recognition, an author can have other reasons to make a
-work “freely” available[^89]. The author may also have a direct monetary
+work “freely” available[^spain_89]. The author may also have a direct monetary
 advantage from the free distribution of his work. The simplest way is
 circulating the free works with advertising. Another way is providing
 specific services relating to the work. The free circulation of the work
 ensures the work has many users. The author generates his/her income
 from the provision of support and consulting services, licensing
-“proprietary” add-ons[^90], or so-called “dual licensing” the code. This
+“proprietary” add-ons[^spain_90], or so-called “dual licensing” the code. This
 model uses --- as the name indicates — two different licenses for
 distribution of the software. The first license is often a FOSS copyleft
 license and ensures the work is circulated quickly and has a wide range
 of users. A second license (without the copyleft obligations) can then
 be obtained against payment by interested parties who want to use the
 work without their own additions or modifications being affected by
-copyleft[^91].
+copyleft[^spain_91].
 
 ### Recommended literature
 
@@ -903,41 +903,41 @@ copyleft[^91].
     AUTOR, <http://www.informatica-juridica.com>, last
     visited 10.08.2010.
 
-[^1]: Official State Bulletin (BOE) Nº 97 of 22/April/1996. Last amended
+[^spain_1]: Official State Bulletin (BOE) Nº 97 of 22/April/1996. Last amended
     by Law 23/2006 of 7 July. While the name in Spanish is “Ley de
     Propiedad Intelectual”, which confusingly seems to refer to the
     concept of Intellectual Property, a more correct translation of
     “Propiedad Intelectual” is Copyright (and neighbouring rights), and
     this is the name we are using.
 
-[^2]: Copyright Act, Art. 95.
+[^spain_2]: Copyright Act, Art. 95.
 
-[^3]: Copyright Act, Art.10: “Are object o copyright any *original*
+[^spain_3]: Copyright Act, Art.10: “Are object o copyright any *original*
     literary, artistic or scientific works…”
 
-[^4]: Implementing Art. 1.3 of the EC Software Directive. Real Marquez,
+[^spain_4]: Implementing Art. 1.3 of the EC Software Directive. Real Marquez,
     M: *The requirements of originality in Copyright*, UAIPIT, December
     2001.
 
-[^5]: Copyright Act, Art. 96.4.
+[^spain_5]: Copyright Act, Art. 96.4.
 
-[^6]: Copyright Act, Art.1 (also Arts. 2, 14 and 17 and for computer
+[^spain_6]: Copyright Act, Art.1 (also Arts. 2, 14 and 17 and for computer
     programs, Art. 97.1).
 
-[^7]: Copyright Act, Art. 97.4.
+[^spain_7]: Copyright Act, Art. 97.4.
 
-[^8]: Castro Bonilla, A: “Autoría y Titularidad en el derecho de autor”,
+[^spain_8]: Castro Bonilla, A: “Autoría y Titularidad en el derecho de autor”,
     <http://www.informatica-juridica.com/> (last visited, 01.08.2010).
 
-[^9]: Copyright Act, Arts. 7 and 97.3.
+[^spain_9]: Copyright Act, Arts. 7 and 97.3.
 
-[^10]: Copyright Act, Arts. 8 and 97.2.
+[^spain_10]: Copyright Act, Arts. 8 and 97.2.
 
-[^11]: Copyright Act, Art. 9.
+[^spain_11]: Copyright Act, Art. 9.
 
-[^12]: Copyright Act, Art. 19.
+[^spain_12]: Copyright Act, Art. 19.
 
-[^13]: Copyright Act, Art. 100.5. The authorization of the rightholder
+[^spain_13]: Copyright Act, Art. 100.5. The authorization of the rightholder
     shall not be required where reproduction of the code and translation
     of its form within the meaning of article 99, a) and b) are
     indispensable to obtain the information necessary to achieve the
@@ -964,25 +964,25 @@ copyleft[^91].
     exploitation of the computer program. (unofficial translation by the
     author)
 
-[^14]: In application of Article 6bis 1 of the Berner Convention. See
+[^spain_14]: In application of Article 6bis 1 of the Berner Convention. See
     also Preinfalk Lavagni, I: *El derecho moral del autor de programas
     infromáticos*, Tirant Monografías, 2010.
 
-[^15]: The Copyright Act also contains the right moral right to make the
+[^spain_15]: The Copyright Act also contains the right moral right to make the
     work known to the public.
 
-[^16]: Copyright Act, Art. 14, first line.
+[^spain_16]: Copyright Act, Art. 14, first line.
 
-[^17]: Copyright Act, Art. 98.2.
+[^spain_17]: Copyright Act, Art. 98.2.
 
-[^18]: Copyright Act, Arts. 42 and 43.
+[^spain_18]: Copyright Act, Arts. 42 and 43.
 
-[^19]: Copyright Act, Art 45.
+[^spain_19]: Copyright Act, Art 45.
 
-[^20]: See e.g. Galán Corona, “La protección jurídica del software”,
+[^spain_20]: See e.g. Galán Corona, “La protección jurídica del software”,
     Noticias / CEE, Valencia, Ed CISS Nº73, Año VII, February 1991.
 
-[^21]: See Ribas Alejandro, J: “Protección de los Programas de
+[^spain_21]: See Ribas Alejandro, J: “Protección de los Programas de
     Ordenador”, in Informática y Derecho, Merida, Ed. UNED, Nº 9, 10 and
     11, 1996. Delgado Echevarría, J: *Comentario a la Sentencia del 12
     de diciembre del 1988*, in CCJC, Madrid, Ed. Civitas Nº 18, sept-dic
@@ -991,89 +991,89 @@ copyleft[^91].
     transfer of a use right in the software is deemed non-exclusive,
     non-transferable and only to satisfy the needs of the user.
 
-[^22]: Ródriguez Tapia (Ed), *Comentarios a la Ley de Propiedad
+[^spain_22]: Ródriguez Tapia (Ed), *Comentarios a la Ley de Propiedad
     Intelectual*, “La Cesión”.
 
-[^23]: Copyright Act, Art. 99 last paragraph.
+[^spain_23]: Copyright Act, Art. 99 last paragraph.
 
-[^24]: Copyright Act, Art. 44.
+[^spain_24]: Copyright Act, Art. 44.
 
-[^25]: In line with the Software Directive.
+[^spain_25]: In line with the Software Directive.
 
-[^26]: Spanish Penal Code, Art. 270. Note that the technical protection
+[^spain_26]: Spanish Penal Code, Art. 270. Note that the technical protection
     measures do not have to be “effective”.
 
-[^27]: Rodríguez Tapia, “Artículo 10 TRLPI”, in *Comentarios a la Ley de
+[^spain_27]: Rodríguez Tapia, “Artículo 10 TRLPI”, in *Comentarios a la Ley de
     Propiedad Intelectual*, op cit, p. 56.
 
-[^28]: Copyright Act, Art. 41.
+[^spain_28]: Copyright Act, Art. 41.
 
-[^29]: Nonius, J. (2002). *Introducción a las licencias de software
+[^spain_29]: Nonius, J. (2002). *Introducción a las licencias de software
     libre*. Online now at
     <http://campusvirtual.unex.es/cala/epistemowikia/images/d/d2/Introducci%C3%B3n_a_la_propiedad_intelectual_%28por_Jorge_Nonius%2C_20_de_abril_de_2002%29.pdf>
     (last visited 10.02.2011).
 
-[^30]: Such as software developed by employees (Copyright Act, Art. 96),
+[^spain_30]: Such as software developed by employees (Copyright Act, Art. 96),
     and software developed for hire under a contractual transfer of
     copyrights.
 
-[^31]: Carrasco Perrera, A, *Comentario al Artículo 7 TRPLI*, en
+[^spain_31]: Carrasco Perrera, A, *Comentario al Artículo 7 TRPLI*, en
     Bercovitz Rodríguez Cano, R (Coordinador) *Comentarios a la ley de
     propiedad Intelectual*, op cit, p. 124.
 
-[^32]: Case 24th July 1995, Audiencia Provincial de Valencia (Civil).
+[^spain_32]: Case 24th July 1995, Audiencia Provincial de Valencia (Civil).
 
-[^33]: Bercovitz Rodriguez Cano, R: *Comentarios a la Ley de Propiedad
+[^spain_33]: Bercovitz Rodriguez Cano, R: *Comentarios a la Ley de Propiedad
     Intelectual*, 3rd Ed, 2007, p.114 ss.
 
-[^34]: Case 17th December 1998, Audiencia Provincial of Asturias,
+[^spain_34]: Case 17th December 1998, Audiencia Provincial of Asturias,
     Section 5 (Civil).
 
-[^35]: Bercovitz Rodriguez Cano, R: op cit, p. 136 ss.
+[^spain_35]: Bercovitz Rodriguez Cano, R: op cit, p. 136 ss.
 
-[^36]: “Comunidades de bien”, Spanish Civil Code, Arts. 392 ss.
+[^spain_36]: “Comunidades de bien”, Spanish Civil Code, Arts. 392 ss.
 
-[^37]: Bercovitz Rodriguez Cano, R: op cit, p. 134 ss.
+[^spain_37]: Bercovitz Rodriguez Cano, R: op cit, p. 134 ss.
 
-[^38]: Copyright Act, Art. 4, al. 2.
+[^spain_38]: Copyright Act, Art. 4, al. 2.
 
-[^39]: J. Miquel, in Bercovitz Rodriguez Cano, op cit, pp. 139-140.
+[^spain_39]: J. Miquel, in Bercovitz Rodriguez Cano, op cit, pp. 139-140.
 
-[^40]: The copyright holders on the original work don’t obtain any
+[^spain_40]: The copyright holders on the original work don’t obtain any
     rights in the derivative work. They can however, restrict or stop
     the exploitation of the derivative work (Art 9, Copyright Act).
 
-[^41]: FSFE (Free Software Foundation Europe) recommends that developers
+[^spain_41]: FSFE (Free Software Foundation Europe) recommends that developers
     of Free Software projects use its Fiduciary License Agreement (FLA)
     to assign their rights to a fiduciary (preferably the FSFE). For an
     analysis of the FLA also under Belgian law, see Y., VAN DEN BRANDE,
     “The Fiduciary Licence Agreement: Appointing legal guardians for
     Free Software Projects”, IFOSS L. Rev., Vol 1, Issue 1, p. 9.
 
-[^42]: An analogy is the right of collecting societies to take action in
+[^spain_42]: An analogy is the right of collecting societies to take action in
     respect of the rights they manage.
 
-[^43]: Creative Commons tried to solve the moral rights issue when
+[^spain_43]: Creative Commons tried to solve the moral rights issue when
     transposing the — original American --- licenses to local law.
     Xalabarder Plantada, R: *Las licencias Creative Commons: ¿una
     alternativa al copyright?*; UOC Papers. N.º 2. UOC.
     <http://www.uoc.edu/uocpapers/2/dt/esp/xalabarder.pdf> (last visited
     10.02.2011).
 
-[^44]: OSD Clause 5.
+[^spain_44]: OSD Clause 5.
 
-[^45]: OSD Clausule 6. Bruce Perens indicates, e.g., that an author of
+[^spain_45]: OSD Clausule 6. Bruce Perens indicates, e.g., that an author of
     FOSS cannot provide a clause that prohibits the use of the software
     by regimes such as the former South African apartheids regime (B.,
     PERENS, “The FOSS Definition”, <http://perens.com/OSD.html>).
 
-[^46]: See above, [section\_title](#sec_spain_moralrights).
+[^spain_46]: See above, [section\_title](#sec_spain_moralrights).
 
-[^47]: As an example, the Fiduciary License Agreemet of FSFE expressly
+[^spain_47]: As an example, the Fiduciary License Agreemet of FSFE expressly
     stipulates that it leaves the moral and/or personal rights of the
     author unaffected (FLA §1 (2)).
 
-[^48]: Rodríguez Tapía, JM, in Rodríguez Tapía, op cit, *Comentarios*,
+[^spain_48]: Rodríguez Tapía, JM, in Rodríguez Tapía, op cit, *Comentarios*,
     p. 407 and Gete Alonso y Carrera, Mª del Carmen, in Bercovitz
     Rodríguez Cano, op cit, p. 765. This is based on both the wording of
     the Copyright Act as to licenses (“cesiones”, in Articles 42-50),
@@ -1081,19 +1081,19 @@ copyleft[^91].
     being seen as obligations imposed on the licensee by the
     rightsholder.
 
-[^49]: See above on “Authors/Beneficiaries”.
+[^spain_49]: See above on “Authors/Beneficiaries”.
 
-[^50]: See above, “Authors of derivative / composed FOSS works”.
+[^spain_50]: See above, “Authors of derivative / composed FOSS works”.
 
-[^51]: GNU GENERAL PUBLIC LICENSE (GPL) version 3, article 10,
+[^spain_51]: GNU GENERAL PUBLIC LICENSE (GPL) version 3, article 10,
     <http://www.gnu.org/copyleft/gpl.html>.
 
-[^52]: GNU GENERAL PUBLIC LICENSE (GPL) version 2, article 6,
+[^spain_52]: GNU GENERAL PUBLIC LICENSE (GPL) version 2, article 6,
     <http://www.gnu.org/licenses/old-licenses/gpl-2.0.html>.
 
-[^53]: Spanish Civil Code, Arts. 1254 ss.
+[^spain_53]: Spanish Civil Code, Arts. 1254 ss.
 
-[^54]: Aurelio López-Tarruella Martínez: *Contratos internacionales de
+[^spain_54]: Aurelio López-Tarruella Martínez: *Contratos internacionales de
     software*, Editorial Tirant Lo Blanch. Barriuso Ruiz, C: *La
     Contratación Electrónica*, Dykinson 1998, p. 161. RUIZ PERIS,
     (Dir.): *Oferta, perfección y prueba del contrato electrónico*, in
@@ -1101,24 +1101,24 @@ copyleft[^91].
     familiar”, Madrid: Consejo General del Poder Judicial, 2004, pp.
     215-242.
 
-[^55]: This created signficant debate within the Debian community when
+[^spain_55]: This created signficant debate within the Debian community when
     Mozilla Foundation required acceptance of the Firefox/Thunderbird
     end user license as part of the installation process, and thus led
     to the creation of a fork, Iceweasel.
 
-[^56]: OSD Criteria 10, online at <http://opensource.org/docs/osd>.
+[^spain_56]: OSD Criteria 10, online at <http://opensource.org/docs/osd>.
 
-[^57]: Unless a legal exception applies.
+[^spain_57]: Unless a legal exception applies.
 
-[^58]: They may be some doubt as to certainty, as the FOSS licenses are
+[^spain_58]: They may be some doubt as to certainty, as the FOSS licenses are
     in English, however it is also a use and custom of the sector that
     most technical documentation is in English, thus a court may accept
     that use of English language for the license is acceptable. This
     would not apply to consumer licensees.
 
-[^59]: See [section\_title](#sec_spain_legalprocedures) below.
+[^spain_59]: See [section\_title](#sec_spain_legalprocedures) below.
 
-[^60]: See e.g., the BSD license
+[^spain_60]: See e.g., the BSD license
     (<http://www.opensource.org/licenses/bsd-license>): THIS SOFTWARE IS
     PROVIDED BY &lt;copyright holder&gt; “AS IS” AND ANY EXPRESS OR
     IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
@@ -1132,39 +1132,39 @@ copyleft[^91].
     NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
     SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-[^61]: B., PERENS, “The Open Source Definition”, *Open Sources: Voices
+[^spain_61]: B., PERENS, “The Open Source Definition”, *Open Sources: Voices
     from the Open Source Revolution*, <http://perens.com/OSD.html> (last
     visited 10.02.2011).
 
-[^62]: See e.g., M., OLSON, “Dual Licensing”, in *Open Sources 2.0: The
+[^spain_62]: See e.g., M., OLSON, “Dual Licensing”, in *Open Sources 2.0: The
     Continuing Evolution* (Ed. C., DiBona, D., Cooper and M., Stone),
     O’Reilly, 2006, p. 35.
 
-[^63]: The GNU General Public License expressly allows this (GPL v. 2,
+[^spain_63]: The GNU General Public License expressly allows this (GPL v. 2,
     art. 11; GPL v. 3, art. 7).
 
-[^64]: “Goce pacífico” by analogy with rental agreements, under Spanish
+[^spain_64]: “Goce pacífico” by analogy with rental agreements, under Spanish
     Civil Code, Article 1552.
 
-[^65]: To this extent, the EUPL establishes that the work is “in
+[^spain_65]: To this extent, the EUPL establishes that the work is “in
     development” and not finished.
 
-[^66]: Many FOSS projects would not be seen as “sellers”.
+[^spain_66]: Many FOSS projects would not be seen as “sellers”.
 
-[^67]: Spanish Civil Code, Art. 1486.
+[^spain_67]: Spanish Civil Code, Art. 1486.
 
-[^68]: RDL 1/2007 on Consumer Protection, Arts. 82 et seq.
+[^spain_68]: RDL 1/2007 on Consumer Protection, Arts. 82 et seq.
 
-[^69]: RDL 1/2007 on Consumer Protection, Art. 114 et seq, and in
+[^spain_69]: RDL 1/2007 on Consumer Protection, Art. 114 et seq, and in
     particular Art. 115.
 
-[^70]: Neither the principles (freedoms) of the Free Software movement,
+[^spain_70]: Neither the principles (freedoms) of the Free Software movement,
     nor the Open Source Definition mandate the copyleft clause. Several
     FOSS licenses don’t contain a copyleft clause. Examples of
     permissive (non copyleft) licenses are the modified Berkeley
     Software Distribution (BSD) license and the Apache 2.0 license.
 
-[^71]: E.g., GPL version 3, Art. 5 stipulates: “You must license the
+[^spain_71]: E.g., GPL version 3, Art. 5 stipulates: “You must license the
     entire work, as a whole, under this License to anyone who comes into
     possession of a copy. This License will therefore apply, along with
     any applicable section 7 additional terms, to the whole of the work,
@@ -1177,66 +1177,66 @@ copyleft[^91].
     whole at no charge to all third parties under the terms of this
     License”.
 
-[^72]: See e.g., M., OLSON, “Dual Licensing”, in *Open Sources 2.0: The
+[^spain_72]: See e.g., M., OLSON, “Dual Licensing”, in *Open Sources 2.0: The
     Continuing Evolution* (Ed. C., DiBona, D., Cooper and M., Stone),
     O’Reilly, 2006.
 
-[^73]: See “Damages” below.
+[^spain_73]: See “Damages” below.
 
-[^74]: Copyright Act, Article 99.b.
+[^spain_74]: Copyright Act, Article 99.b.
 
-[^75]: Bercovitz Rodríguez Cano, op cit, pp. 1349 et seq.
+[^spain_75]: Bercovitz Rodríguez Cano, op cit, pp. 1349 et seq.
 
-[^76]: Copyright Act, Article 43: “licenses are limited to the right or
+[^spain_76]: Copyright Act, Article 43: “licenses are limited to the right or
     rights expressly granted, the modes of use expressly provided and
     the time and territory which are determined”. To be read in line
     with Article 1.255 of the Spanish Civil Code regarding the autonomy
     of contracting parties to determine the conditions of contract,
     subject to other laws, morality and public order.
 
-[^77]: Spanish Civil Code, Article 1.255. See Mª del Carmen
+[^spain_77]: Spanish Civil Code, Article 1.255. See Mª del Carmen
     Gente-Alonso, in Bercovitz Rodríguez Cano (Ed), “Comentarios” op
     cit, p. 772.
 
-[^78]: Note that the Open Source Definition prohibits this under
+[^spain_78]: Note that the Open Source Definition prohibits this under
     criteria 9.
 
-[^79]: Ley 15/2007 de 3 de julio de Defensa de Competencia (e.g. Art.
+[^spain_79]: Ley 15/2007 de 3 de julio de Defensa de Competencia (e.g. Art.
     2.2.e, on bundling in certain conditions)
 
-[^80]: Copyright Act, Art. 99 in fin. See also Software Directive, Art.
+[^spain_80]: Copyright Act, Art. 99 in fin. See also Software Directive, Art.
     4, c.
 
-[^81]: E.g. Decisions of 21st February and 8th May 2008, Audiencia
+[^spain_81]: E.g. Decisions of 21st February and 8th May 2008, Audiencia
     Provincial de Madrid, or Decision 28th of July 2009, A.P. Guipúzcoa.
 
-[^82]: Law 1/2000, 7th January 2000.
+[^spain_82]: Law 1/2000, 7th January 2000.
 
-[^83]: “Brussels Regulation” Reg. (EC) No. 44/2001 on Jurisdictional
+[^spain_83]: “Brussels Regulation” Reg. (EC) No. 44/2001 on Jurisdictional
     Competency, and “Rome I adn II Regulations”, Reg. (EC) No. 593/2008
     and Reg. (EC) No. 864/2007 respectively.
 
-[^84]: Spanish Criminal Code, Fundamental Law 10/1995, as amended,
+[^spain_84]: Spanish Criminal Code, Fundamental Law 10/1995, as amended,
     Articles 270-272.
 
-[^85]: Article 1902 of the Spanish Civil Code for breach of
+[^spain_85]: Article 1902 of the Spanish Civil Code for breach of
     non-contractual obligations (negligence, wilful misconduct) and 1101
     for contractual obligations.
 
-[^86]: This is in line with Arts. 13 and 14, IPR Enforcement Directive
+[^spain_86]: This is in line with Arts. 13 and 14, IPR Enforcement Directive
     2004/48/EC.
 
-[^87]: Copyright Act, Art. 140.1.
+[^spain_87]: Copyright Act, Art. 140.1.
 
-[^88]: Copyright Act, Art. 103.
+[^spain_88]: Copyright Act, Art. 103.
 
-[^89]: See e.g. C., DIBONA, D., COOPER and M., STONE, “Introduction”, in
+[^spain_89]: See e.g. C., DIBONA, D., COOPER and M., STONE, “Introduction”, in
     *Open Sources 2.0: The Continuing Evolution* (Ed. C., DiBona, D.,
     Cooper and M., Stone), O’Reilly, 2006.
 
-[^90]: Extensions or additions to the free work to which the author
+[^spain_90]: Extensions or additions to the free work to which the author
     reserves all rights, and which can only be used against payment.
 
-[^91]: See e.g. M., OLSON, “Dual Licensing”, in *Open Sources 2.0: The
+[^spain_91]: See e.g. M., OLSON, “Dual Licensing”, in *Open Sources 2.0: The
     Continuing Evolution* (Ed. C., DiBona, D., Cooper and M., Stone),
     O’Reilly, 2006, p. 35.

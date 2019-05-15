@@ -17,26 +17,26 @@ software is subject to contract law, bankruptcy law, antitrust
 other specialized federal and state statues.
 
 Copyright and patent protection of software arises under Section 8,
-Article 1 of the U.S. Constitution.[^1] The Copyright Act is embodied in
+Article 1 of the U.S. Constitution.[^usa_1] The Copyright Act is embodied in
 Title 17 of the U.S. Code, the statutes that implement the
-Constitutional directive.[^2] The Patent Act is embodied in Title 35 of
-the U.S. Code.[^3] Both copyright and patent law fall within the
+Constitutional directive.[^usa_2] The Patent Act is embodied in Title 35 of
+the U.S. Code.[^usa_3] Both copyright and patent law fall within the
 exclusive jurisdiction of the U.S. Federal government.
 
 To the extent the publisher of software claims a trademark applicable to
 that software, such trademark rights may arise under federal trademark
 law, state trademark law, or common law rights in trademarks. Federal
 trademark law is embodied in the Lanham Act, Title 15, Chapter 22 of the
-U.S. Code.[^4] State trademark law is generally embodied in state
+U.S. Code.[^usa_4] State trademark law is generally embodied in state
 statutes of the various states. In the U.S. rights in a trademark may
 arise under common law from mere usage.
 
 Software may also be protected by trade secret law. Trade secrets are
 most commonly protected under a uniform state law (that is, a law that
 has been adopted in substantially the same form among a large number of
-states) like the Uniform Trade Secrets Act.[^5] There is a federal
+states) like the Uniform Trade Secrets Act.[^usa_5] There is a federal
 statute on trade secrets, as well, but it is less commonly relied upon
-for contractual protection of software.[^6]
+for contractual protection of software.[^usa_6]
 
 Of the remaining areas of law that may govern a software license, none
 is more important than contract law. Contract law in the U.S. is largely
@@ -51,31 +51,31 @@ under copyright, patent, trademark or trade secret law.
 Software is protected by copyright and is equivalent to literary works
 within the meaning of the Berne Convention for the Protection of
 Literary and Artistic Works as established by the World Intellectual
-Property Treaty of 1996.[^7] Software was recommended for formal
+Property Treaty of 1996.[^usa_7] Software was recommended for formal
 inclusion under copyright in the U.S. in the final report of the
 National Commission on New Technological Uses of Copyrighted Works
-(CONTU)[^8], the recommendations of which were incorporated in the
-Copyright Act of 1976.[^9] Inclusion of software under copyright was
+(CONTU)[^usa_8], the recommendations of which were incorporated in the
+Copyright Act of 1976.[^usa_9] Inclusion of software under copyright was
 further clarified with amendments to the Copyright Act adopted in 1980
 that defined a computer program as “… a set of statements or
 instructions to be used directly or indirectly in a computer in order to
 bring about a certain result” and by limiting the rights in computer
 programs to assure the right of a lawful possessor to make a back-up or
-archival copy of the program.[^10]
+archival copy of the program.[^usa_10]
 
 It is important to note that in the U.S. copyright protection of
 software extends to each of the source code and binary versions of the
 software. While copyright in software arises automatically when it is
 “… created and fixed in a tangible form that it is perceptible either
-directly or with the aid of a machine or device”[^11], enforcement of
+directly or with the aid of a machine or device”[^usa_11], enforcement of
 copyright in the U.S. requires registration of the copyright with the
-U.S. Copyright Office.[^12]
+U.S. Copyright Office.[^usa_12]
 
 ### Authors/Beneficiaries
 
 Section 102 of the U.S. Copyright Act (the “Act”) provides copyright
 protection for “original works of authorship fixed in any tangible
-medium of expression.”[^13] Nothing more is required. Thus, whatever
+medium of expression.”[^usa_13] Nothing more is required. Thus, whatever
 ownership interests exist in the copyright commences with the reduction
 of the expression to some tangible medium, whether paper or an
 electronic file.
@@ -83,7 +83,7 @@ electronic file.
 #### The sole developer
 
 Section 201(a) of the Act provides that copyright protection in a work
-“vests initially in the author or authors of the work.”[^14] In the case
+“vests initially in the author or authors of the work.”[^usa_14] In the case
 of a sole developer, copyright in the software code will vest with her
 as the sole owner upon fixation of the code in a tangible medium of
 expression. That is, once she types and saves the code, fixing it in the
@@ -96,10 +96,10 @@ In the case of a developer writing software code within the scope of her
 employment, the resulting work is known as a “work made for hire.” With
 a work made for hire, “the employer or other person for whom the work
 was prepared is considered the author for purposes of \[the Act\],” and
-the owner of the copyright in the work.[^15] The developer and her
+the owner of the copyright in the work.[^usa_15] The developer and her
 employer may agree otherwise, where ownership remains with the
 developer, through an express agreement in a written instrument signed
-by both parties.[^16] The intention of the developer and her employer,
+by both parties.[^usa_16] The intention of the developer and her employer,
 expressed before the code is written, will dictate who owns the
 copyright in the resulting work.
 
@@ -107,46 +107,46 @@ The result changes where the software developer is not an employee.
 Software is not a form of copyrightable material that statutorily falls
 under the list of special order or commissioned works within the scope
 of works made for hire unless it constitutes a commissioned contribution
-to a collective work.[^17] Thus, the transfer of ownership of software
+to a collective work.[^usa_17] Thus, the transfer of ownership of software
 produced outside of the scope of employment must be supported by express
-contractual language in writing.[^18]
+contractual language in writing.[^usa_18]
 
 #### Joint ownership
 
 Section 201(a) of the Act further provides that “\[t\]he authors of a
-joint work are co-owners of copyright in the work.”[^19] Joint
+joint work are co-owners of copyright in the work.”[^usa_19] Joint
 authorship in a work arises when “a work is prepared by two or more
 authors *with the intention that their contribution be merged into
 inseparable and interdependent parts of a unitary whole* \[emphasis
-added\].”[^20] The hallmark of joint authorship is the authors' “joint
-laboring in furtherance of a preconcerted common design.”[^21] That is,
+added\].”[^usa_20] The hallmark of joint authorship is the authors' “joint
+laboring in furtherance of a preconcerted common design.”[^usa_21] That is,
 each contributor must intend for their contributions to be merged;
 however, it is not necessary that the contributors “work in physical
 propinquity, or in concert, nor that the respective contributions made
-by each joint author must be equal in quantity or quality.”[^22]
+by each joint author must be equal in quantity or quality.”[^usa_22]
 Furthermore, it is not necessary that the contributors expressly agree,
-in writing, to create a joint work.[^23]
+in writing, to create a joint work.[^usa_23]
 
 The touchstone of joint authorship is the intention of the joint authors
 that their contributions be merged at, or before, the moment in time
-when the contribution of each joint author is created.[^24] That is, two
+when the contribution of each joint author is created.[^usa_24] That is, two
 developers, who intend that the code they contribute to a project be
 merged into inseparable and interdependent parts of a unitary whole must
 express that intent before development commences, and each will own an
-equal and “undivided ownership in the entire work.”[^25]
+equal and “undivided ownership in the entire work.”[^usa_25]
 
 So long as the intent to create a joint work exists prior to the
 commencement of work, it is even possible for joint authorship to occur
 “even though the joint authors do not work together in their common
 design, do not make their respective contributions during the same
 period, and indeed even if they are complete strangers to each
-other.”[^26] This situation is common among developers working
+other.”[^usa_26] This situation is common among developers working
 independently in developing software modules that are to be included in
 a unified open-source project. The intent and timing of these developers
 will dictate who owns the copyright in the resulting work.
 
 The joint authors are the co-owners of a single copyright in the joint
-work.[^27] However, joint authorship is not the only means by which
+work.[^usa_27] However, joint authorship is not the only means by which
 joint ownership of a work may arise.
 
 > A joint work will result under any one of the following circumstances:
@@ -164,28 +164,28 @@ joint ownership of a work may arise.
 > —  1-6 Nimmer §6.01.
 
 Each co-owner of a joint work “obtains an undivided ownership in the
-whole of the joint work, including any portion thereof.”[^28] In other
+whole of the joint work, including any portion thereof.”[^usa_28] In other
 words, each co-owner may use or license the work, without the consent of
-other co-owners, in any way she may wish.[^29] Co-owners of a copyright
+other co-owners, in any way she may wish.[^usa_29] Co-owners of a copyright
 do, however, owe to each other a duty to account for any income derived
-from their use or license of the work.[^30]
+from their use or license of the work.[^usa_30]
 
 #### The derivative work
 
-The Act also protects derivative works and compilations.[^31] A
+The Act also protects derivative works and compilations.[^usa_31] A
 derivative work is a work based in whole, or in substantial part, upon a
 pre-existing work that recasts, transforms, or adapts the underlying
-work in some way.[^32] For copyright protection to extend to a
+work in some way.[^usa_32] For copyright protection to extend to a
 derivative work, “the additional matter injected in a prior work, or the
 manner of rearranging or otherwise transforming a prior work, must
-constitute more than a minimal contribution.”[^33] Since most new works
+constitute more than a minimal contribution.”[^usa_33] Since most new works
 are influenced, in some way, by a pre-existing work, there exists a fine
-line between a derivative work and an entirely new work.[^34] If a
+line between a derivative work and an entirely new work.[^usa_34] If a
 developer uses very little of a pre-existing work, taking only code not
 protected by copyright (like a basic function), or if she uses the
 pre-existing code in such a way that the resulting program is
 substantially different from the original, the new creation is simply a
-new, original work of authorship and not a derivative work.[^35]
+new, original work of authorship and not a derivative work.[^usa_35]
 
 Ownership of a separate copyright in a derivative work not only requires
 more than a minimal contribution to the prior work, but also permission
@@ -193,17 +193,17 @@ from the owner or owners of the copyright in the prior work. Even with
 such permission, the creator of the derivative work will own the
 copyright in only that portion of the derivative work he contributed and
 not in any portion of the pre-existing work upon which the derivative
-work is based.[^36]
+work is based.[^usa_36]
 
 #### Compilations and collective works
 
 Finally, the Act protects interests in compilations, including
-collective works.[^37] A compilation is “a work formed by the collection
+collective works.[^usa_37] A compilation is “a work formed by the collection
 and assembling of preexisting materials or of data that are selected,
 coordinated, or arranged in such a way that the resulting work as a
-whole constitutes an original work of authorship.”[^38] The preexisting
+whole constitutes an original work of authorship.”[^usa_38] The preexisting
 materials or data incorporated in a compilation may or may not, on their
-own, be capable of being protected by copyright.[^39] For example, a
+own, be capable of being protected by copyright.[^usa_39] For example, a
 program created by stringing together a set of basic functions (which in
 themselves are not protected by copyright) may receive copyright
 protection in the selection, coordination, and arrangement of such basic
@@ -211,10 +211,10 @@ functions.
 
 Those compilations that do, however, incorporate preexisting material
 capable of receiving copyright protection are known as collective
-works.[^40] The Act defines a collective work as “a work, such as a
+works.[^usa_40] The Act defines a collective work as “a work, such as a
 periodical issue, anthology, or encyclopedia, in which a number of
 contributions, constituting separate and independent works in
-themselves, are assembled into a collective whole.”[^41] For example, a
+themselves, are assembled into a collective whole.”[^usa_41] For example, a
 program that includes preexisting modules (which in themselves are
 protected by copyright) may receive copyright protection in the
 selection, coordination, and arrangement of the modules.
@@ -222,46 +222,46 @@ selection, coordination, and arrangement of the modules.
 As with derivative works, for copyright protection to extend to a
 compilation or collective work, “the additional matter injected in a
 prior work, or the manner of rearranging or otherwise transforming a
-prior work, must constitute more than a minimal contribution.”[^42] In
+prior work, must constitute more than a minimal contribution.”[^usa_42] In
 the case of a collective work, the copyright in the prior work and
 copyright in the collective work as a whole are separate and distinct;
 the author of the prior work retains copyright ownership in her work,
 while ownership of the collective work, including contributions made by
 the author of the collective work, vests in the author of the collective
-work.[^43]
+work.[^usa_43]
 
 #### Joint works vs. derivative works vs. compilations
 
 Joint works of authorship share similarities with derivative works and
 compilations and, but for the intention of the authors, could be seen as
-one and the same.[^44] Depending on the intent at the time of creation,
+one and the same.[^usa_44] Depending on the intent at the time of creation,
 one author’s recasting, transforming, or adapting of another author’s
 preexisting work may create either a derivative work or a joint work
-consisting of inseparable parts.[^45] Similarly, depending on the intent
+consisting of inseparable parts.[^usa_45] Similarly, depending on the intent
 at the time of creation the assembling of the works of several different
 authors into a collective whole may create either a compilation or a
-joint work consisting of interdependent parts.[^46] Which case applies
+joint work consisting of interdependent parts.[^usa_46] Which case applies
 in each instance “lies in the intent of each contributing author at the
-time his contribution is written.”[^47] If, at the time of creation, the
+time his contribution is written.”[^usa_47] If, at the time of creation, the
 author intends his contribution and those contributions of others “be
 merged into inseparable or interdependent parts of a unitary whole” then
-such a merger creates a joint work.[^48] On the other hand, if the
+such a merger creates a joint work.[^usa_48] On the other hand, if the
 intention to merge occurs only after creation of the work, then such a
-merger results in a derivative work or a compilation.[^49]
+merger results in a derivative work or a compilation.[^usa_49]
 
 ### Exclusive rights
 
 The right holder’s exclusive rights to do or to authorize are set out in
-Sec. 106 of the Act.[^50] The author of software has the exclusive right
+Sec. 106 of the Act.[^usa_50] The author of software has the exclusive right
 to reproduce the copyrighted work, to prepare derivative works based on
 the copyrighted work, and to distribute copies of the copyrighted work
 to the public by sale or other transfer or ownership, or by rental,
-lease, or lending.[^51] The exclusive right to distribute only pertains
+lease, or lending.[^usa_51] The exclusive right to distribute only pertains
 to the original public distribution of a work and does not extend to a
 subsequent distribution by a party holding legal rights in a copy of the
-work.[^52] However, a party receiving a copy under such subsequent
+work.[^usa_52] However, a party receiving a copy under such subsequent
 distribution remains bound by any contractual limitations to which the
-original recipient agreed.[^53]
+original recipient agreed.[^usa_53]
 
 ### Exceptions to exclusive rights
 
@@ -271,32 +271,32 @@ When developing computer programs it is inevitable that some of the code
 will be functional in nature. As stated earlier, the Act awards
 copyright protection to creative expression. “Functional elements and
 elements taken from the public domain do not qualify for copyright
-protection.”[^54] Therefore, there is no striking similarity even
+protection.”[^usa_54] Therefore, there is no striking similarity even
 between two identical works so as to warrant an inference of copying to
 the extent that, albeit copyrightable, functional considerations can
-account for the identity.[^55] What makes an element “functional?”
+account for the identity.[^usa_55] What makes an element “functional?”
 Elements are functional if they are necessary to the program and do not
 exhibit any creativity. Aspects of a program’s structure which are
 dictated by the nature of other programs with which they were designed
 to interact are functional in nature and, thus, not protected by
-copyright.[^56]
+copyright.[^usa_56]
 
 Functional elements may also be dictated by the nature of the program
 being developed. In *Computer Associates*, “the district court found
 that the overlap exhibited between the list of services required for
 both ADAPTER and OSCAR 3.5 was determined by the demands of the
 operating system and of the applications program to which it was to be
-linked through ADAPTER or OSCAR.”[^57] These aspects of the program’s
+linked through ADAPTER or OSCAR.”[^usa_57] These aspects of the program’s
 structure are therefore functional in nature and not copyrightable.
 
 For example, graphical user interfaces \[GUI’s\] generated by computer
 programs are partly artistic and partly functional. They are a tool to
 facilitate communication between the user and the computer. GUIs do
 graphically what a character-based interface, which requires a user to
-type in alphanumeric commands, does manually.[^58]
+type in alphanumeric commands, does manually.[^usa_58]
 
 In Lotus the court held that the Lotus menu command hierarchy is an
-uncopyrightable method of operation.[^59]
+uncopyrightable method of operation.[^usa_59]
 
 > The Lotus menu command hierarchy provides the means by which users
 > control and operate Lotus 1-2-3. If users wish to copy material, for
@@ -309,7 +309,7 @@ uncopyrightable method of operation.[^59]
 > —  Id. at 815.
 
 The menu command hierarchy in Lotus 1-2-3 is functional by nature of the
-program and therefore not copyrightable.[^60]
+program and therefore not copyrightable.[^usa_60]
 
 Other areas to consider when determining whether an element is purely or
 primarily functional include:
@@ -322,21 +322,21 @@ primarily functional include:
 
 4.  target industry practices; and
 
-5.  computer industry programming practices.[^61]
+5.  computer industry programming practices.[^usa_61]
 
 An extensive discussion on the functionality exception to copyright in
 software and its application may be found in an order of the Court in
-*Oracle America, Inc. v. Google, Inc.*[^62]
+*Oracle America, Inc. v. Google, Inc.*[^usa_62]
 
 #### Idea/Expression merger exception to copyright protection
 
 Under the Act, in no case does copyright protection extend to any idea
 regardless of the form in which it is described, explained, illustrated,
-or embodied in such work.[^63] “It is a fundamental precept of copyright
+or embodied in such work.[^usa_63] “It is a fundamental precept of copyright
 that only the expression of ideas, and not the ideas themselves, are
-copyrightable.”[^64] “Merely stating the rule, however, does not make
+copyrightable.”[^usa_64] “Merely stating the rule, however, does not make
 any easier the task of drawing the line between where idea ends and
-expression begins.”[^65]
+expression begins.”[^usa_65]
 
 > The line between idea and expression may be drawn with reference to
 > the end sought to be achieved by the work in question. In other words,
@@ -352,7 +352,7 @@ expression begins.”[^65]
 The characteristics of computer software, a utilitarian work, make the
 determination of idea and expression more complicated. Competitive
 forces that exist in the software marketplace lead to the problem that
-multiple programmers may design identical or highly similar works.[^66]
+multiple programmers may design identical or highly similar works.[^usa_66]
 
 > Efficiency is an industry-wide goal. Since, as we have already noted,
 > there may be only a limited number of efficient implementations for
@@ -365,17 +365,17 @@ multiple programmers may design identical or highly similar works.[^66]
 
 The merger doctrine is as an exception to the idea-expression dichotomy
 which holds that, when there are so few ways of expressing an idea, not
-even the expression is protected by copyright.[^67] When idea and
+even the expression is protected by copyright.[^usa_67] When idea and
 expression merge such that a given idea is inseparably tied to a
 particular expression, rigorously protecting the expression would confer
 a monopoly over the idea itself, in contravention of the statutory
 command. To prevent such an occurrence, courts have invoked the merger
-doctrine.[^68]
+doctrine.[^usa_68]
 
 In the realm of computer programs, merger issues may arise in unusual
 ways. Although, there may be many ways to implement a particular idea,
 efficiency concerns can make one or two choices so compelling, as to
-virtually eliminate any other form of expression.[^69]
+virtually eliminate any other form of expression.[^usa_69]
 
 > Computer searching and sorting algorithms provide good examples of
 > this phenomenon. Any computer system that deals with significant
@@ -398,19 +398,19 @@ virtually eliminate any other form of expression.[^69]
 While the merger doctrine and the functionality exception to copyright
 protection are similar, there is a slight difference which distinguishes
 the two. “Under the merger doctrine, when an idea can be expressed in
-only one fashion, that expression is not protected by copyright.”[^70]
+only one fashion, that expression is not protected by copyright.”[^usa_70]
 Here the focus is on the limitations of the expression of an idea which
 results in the merger of that idea and its expression. In contrast,
 elements are functional if they are necessary to the program and do not
-exhibit any creativity.[^71] In reference to the functionality
+exhibit any creativity.[^usa_71] In reference to the functionality
 exception, the focus is not on the limitations on expression of an idea
 resulting in merger of the two, but on aspects of a program’s structure
 which are dictated by the nature of other programs with which they were
-designed to interact.[^72]
+designed to interact.[^usa_72]
 
 An extensive discussion on the idea/expression merger exception to
 copyright in software and its application may be found in an order of
-the Court in *Oracle America, Inc. v. Google, Inc.*[^73]. One important
+the Court in *Oracle America, Inc. v. Google, Inc.*[^usa_73]. One important
 aspect of this holding by the Court was that Java specifications
 constitute unprotectable ideas and that it is only an implementation of
 a specification that constitutes protected expression.
@@ -419,11 +419,11 @@ a specification that constitutes protected expression.
 
 The Act does not directly define the scènes à faire doctrine. Scènes à
 faire refers to aspects of a work that are indispensable or standard
-parts of the material to be copyrighted.[^74] “The \[scènes à faire\]
+parts of the material to be copyrighted.[^usa_74] “The \[scènes à faire\]
 doctrine is often invoked to immunize from liability similarity of
 incidents or plot that necessarily follows from a common theme or
-setting.”[^75] “Judge Leon Yankwich has called such incidents scènes à
-faire, i.e., scenes which must be done.”[^76]
+setting.”[^usa_75] “Judge Leon Yankwich has called such incidents scènes à
+faire, i.e., scenes which must be done.”[^usa_76]
 
 > As was remarked above concerning merger, this doctrine does not limit
 > the subject matter of copyright; instead, it defines the contours of
@@ -437,25 +437,25 @@ faire, i.e., scenes which must be done.”[^76]
 
 In *Durang*, the court found that alleged similarities that follow
 obviously from the unprotected idea are therefore unprotected “scènes à
-faire.”[^77] The *Durang* court held that the lower court properly
+faire.”[^usa_77] The *Durang* court held that the lower court properly
 applied the scènes à faire doctrine to hold unprotectable, forms of
 expression that were either stock scenes or scenes that flowed
-necessarily from common unprotectable ideas.[^78] The *Durang* court
+necessarily from common unprotectable ideas.[^usa_78] The *Durang* court
 went on to explain that common in that context means common to the works
-at issue, not necessarily commonly found in other artistic works.[^79]
+at issue, not necessarily commonly found in other artistic works.[^usa_79]
 
 Further, under the doctrine of scènes à faire, elements of an original
 work are not protected if the “common idea is only capable of expression
-in more or less stereotyped form.”[^80] “Beyond mere plot incidents
+in more or less stereotyped form.”[^usa_80] “Beyond mere plot incidents
 applicable to works of fiction, the scènes à faire doctrine can be
 invoked throughout other copyright contexts as well; from guidebooks to
-infomercials to Frequently Asked Questions web pages and beyond.”[^81]
+infomercials to Frequently Asked Questions web pages and beyond.”[^usa_81]
 
 In *Gilley’s European Tan Spa*, “\[the\] plaintiff contended that
 defendants infringed plaintiff’s exclusive rights under the Copyright
 Act by preparing and displaying on their web page an unauthorized
 Frequently Asked Questions page that mirrors the Frequently Asked
-Questions page found on plaintiff’s web page.”[^82].
+Questions page found on plaintiff’s web page.”[^usa_82].
 
 > The Gilley’s court held a business cannot copyright a Frequently Asked
 > Questions page as such or copyright words or phrases commonly used to
@@ -472,12 +472,12 @@ Applied to computer programs, the merger and scènes à faire doctrines
 suggest that if a limited number of options exist to achieve a given
 function efficiently, interoperate with another application, or run in a
 given environment, copyright will not permit exclusive control over
-those program elements.[^83] Scènes à faire is distinguishable from the
+those program elements.[^usa_83] Scènes à faire is distinguishable from the
 merger doctrine because, the merger doctrine holds that when there are
 so few ways of expressing an idea, not even the expression is protected
-by copyright.[^84] The idea and expression are in essence, fused. In
+by copyright.[^usa_84] The idea and expression are in essence, fused. In
 contrast, scènes à faire relates to alleged similarities that follow
-obviously from the unprotected idea.[^85] The focus in scènes à faire is
+obviously from the unprotected idea.[^usa_85] The focus in scènes à faire is
 not on the merged idea and expression or the limited number of ways to
 express the idea, but on the similarities between expression in question
 which are a natural result of the idea being expressed.
@@ -487,7 +487,7 @@ exception to copyright protection. While scènes à faire is expression
 that relates to stock scenes or elements which are necessary to the idea
 such as frequently asked questions or readme files, functionality
 relates to aspects of a program’s structure which are dictated by the
-nature of other programs with which they were designed to interact,[^86]
+nature of other programs with which they were designed to interact,[^usa_86]
 such as hardware or software standards. As software development
 languages become more and more sophisticated in the ready-made tools
 they provide developers and as more and more developers, especially open
@@ -505,19 +505,19 @@ Similarly, a work may have entered the public domain by reason of the
 failure to satisfy certain statutory formalities of the Act as it
 existed prior to 1978. In addition, an author may choose to lift the
 protections of copyright and voluntary place the work into the public
-domain.[^87] “Moreover, copyright protection under the Act is not
+domain.[^usa_87] “Moreover, copyright protection under the Act is not
 available for any work of the United States Government, but the United
 States Government is not precluded from receiving and holding copyrights
-transferred to it by assignment, bequest, or otherwise.”[^88]
+transferred to it by assignment, bequest, or otherwise.”[^usa_88]
 
 What is the public domain? “A work of authorship is in the public domain
 if it is no longer under copyright protection, it failed to meet the
 requirements for copyright protection, or the holder of the copyright
-disclaimed copyright in the work.”[^89] Works in the public domain are
+disclaimed copyright in the work.”[^usa_89] Works in the public domain are
 free for anyone to use without permission from the former owners(s) of
-the copyright.[^90] Material found in the public domain is free for the
+the copyright.[^usa_90] Material found in the public domain is free for the
 taking and cannot be appropriated by a single author even though it is
-included in a copyrighted work.[^91]
+included in a copyrighted work.[^usa_91]
 
 > An enormous amount of public domain software exists in the computer
 > industry, perhaps to a much greater extent than is true of other
@@ -532,9 +532,9 @@ included in a copyrighted work.[^91]
 > —  4-13 Nimmer §13.03(F)(4).
 
 Copyright protection is automatic and vested in the author the moment it
-is created and fixed in a tangible form.[^92] Voluntarily placing a
+is created and fixed in a tangible form.[^usa_92] Voluntarily placing a
 copyrighted work in the public domain requires some manifest expression
-of the author’s intent.[^93] Consequently, anyone considering reusing
+of the author’s intent.[^usa_93] Consequently, anyone considering reusing
 code purportedly in the public domain should be cautious about assuming
 that code to be in the public domain without some express statement from
 the copyright holder declaring the code to be in the public domain. An
@@ -546,7 +546,7 @@ I disclaim the copyright in the work and declare the work to be in the
 public domain” would leave little doubt as to the copyright holder’s
 intent. The Creative Commons Copyright-Only Dedication statement gives
 some indication of the complexity of committing a work to the public
-domain.[^94]
+domain.[^usa_94]
 
 #### Facts in software exception to copyright protection
 
@@ -560,7 +560,7 @@ domain.[^94]
 
 “In no case does copyright protection for an original work of authorship
 extend to any … discovery, regardless of the form in which it is
-described, explained, illustrated, or embodied in such work.”[^95]
+described, explained, illustrated, or embodied in such work.”[^usa_95]
 Nimmer explains that the discoverer merely finds and records.
 
 > He may not claim that the facts are original with him, although there
@@ -571,7 +571,7 @@ Nimmer explains that the discoverer merely finds and records.
 >
 > —  1-2 Nimmer §2.03(E).
 
-> (The Court in *Fiest*)[^96] noted\] the tension between two
+> (The Court in *Fiest*)[^usa_96] noted\] the tension between two
 > well-established copyright propositions, … facts are not
 > copyrightable, whereas compilations of facts generally are. As the
 > tool for untangling those disparate strands, the Court relied on the
@@ -588,11 +588,11 @@ Nimmer explains that the discoverer merely finds and records.
 > —  1-3 Nimmer §3.04(2)(a).
 
 How does this relate to computer software? In *WIREdata* an owner of a
-copyright attempted to hide data in its copyrighted program.[^97]
+copyright attempted to hide data in its copyrighted program.[^usa_97]
 Specifically, the copyright owner attempted to use copyright law to
 “block access to data that not only are neither copyrightable nor
 copyrighted, but were not created or obtained by the copyright
-owner.”[^98]
+owner.”[^usa_98]
 
 > The information at issue in \[*WIREdata*\] was collected and then was
 > slotted into plaintiff’s database. Defendant did not want that
@@ -616,13 +616,13 @@ for copyright protection.
 Originally developed by the courts through case law, certain uses or
 reproductions of a work protected by copyright are considered to be
 fair, and thus, not an infringement of the owner’s exclusive rights
-granted by copyright law.[^99] In other words, fair use is a defense to
+granted by copyright law.[^usa_99] In other words, fair use is a defense to
 copyright infringement.
 
 Section 107 of the Act contains a list of the various purposes for which
 the reproduction of a particular work may be considered fair, such as
 criticism, comment, news reporting, teaching, scholarship, and
-research.[^100] In addition, the Act sets out four factors to be
+research.[^usa_100] In addition, the Act sets out four factors to be
 considered by a court determining whether or not a particular use is
 fair:
 
@@ -635,7 +635,7 @@ fair:
     copyrighted work as a whole; and
 
 -   the effect of the use upon the potential market for or value of the
-    copyrighted work.[^101]
+    copyrighted work.[^usa_101]
 
 From a practical perspective, it is important to recognize that the fair
 use doctrine is malleable — the court has wide discretion in its
@@ -655,18 +655,18 @@ Sec. 117 of the Copyright Act imposes statutory limitations on the
 rights of authors or holders of copyright in computer programs by
 assuring the right of a lawful owner of a copy of the software to load
 that software onto a computing device and to make an archival copy of
-that software.[^102] This right to use or make a temporary copy also
+that software.[^usa_102] This right to use or make a temporary copy also
 extends to the so-called “maintenance or repair exception,” i.e., it is
 not an infringement to activate a machine for maintenance and repair
 purposes and incidental to such activation run the software installed on
-the machine.[^103]
+the machine.[^usa_103]
 
 ### Moral rights
 
 Unlike the copyright laws of many European nations, the United States
 does not generally recognize moral rights in copyrighted works. The
 exception lies with works of visual arts, such as posters, maps, globes,
-motion pictures, electronic publications, and applied art.[^104] As a
+motion pictures, electronic publications, and applied art.[^usa_104] As a
 consequence, the ability to assert moral rights under copyright in
 computer programs would be rare.
 
@@ -675,16 +675,16 @@ computer programs would be rare.
 In the United States the duration of copyright in computer programs is
 dependent on the nature of the authorship. Where the computer program
 was written by a single author on or after January 1, 1978, the
-copyright expires 70 years following the death of the author.[^105] If a
+copyright expires 70 years following the death of the author.[^usa_105] If a
 work was created by joint authors, the 70-year period is calculated from
-the date of the death of the last surviving author.[^106] Where the
+the date of the death of the last surviving author.[^usa_106] Where the
 computer program was written anonymously, under a pseudonym, or as a
 work made for hire, the copyright endures for a term of 95 years from
 the year of its first publication, or a term of 120 years from the year
 of its creation, whichever expires first. Should the author or his/her
 legal successor record his/her identity with the U.S. Copyright Office
 prior to the date of expiration, the copyright term is calculated under
-the general rules for known authors.[^107] As to derivative works,
+the general rules for known authors.[^usa_107] As to derivative works,
 compilations or collective works, there is no special rule as both the
 author of the preexisting works (if any) and the author of the
 derivative work, compilation or collective work hold independent
@@ -696,37 +696,37 @@ the general rule.
 Under U.S. copyright law the ownership of a copyright may be transferred
 in whole or in part by any means of conveyance or by operation of law,
 and may be bequeathed by will or pass as personal property by the
-applicable laws of intestate succession.[^108] Rights in copyright are
+applicable laws of intestate succession.[^usa_108] Rights in copyright are
 considered bundled and may be unbundled for purposes of license or
 transfer, i.e., they may be licensed or transferred outright either
-individually or in their entirety.[^109]
+individually or in their entirety.[^usa_109]
 
 To be effective, any transfer of rights under copyright, whether by
 license or complete assignment, must be in writing and signed by the
 holder of the rights in the copyright or that holder’s authorized
-agent.[^110] Such transfers may, but are not required to be recorded
+agent.[^usa_110] Such transfers may, but are not required to be recorded
 with the U.S. Copyright Office; however, a failure to record an
 exclusive grant may result in a preemption of such grant by a subsequent
 grant if such subsequent grant is the first to be recorded, provided the
 exclusive grant is not recorded within one month of its execution (two
-months if executed outside the U.S.).[^111] Nonexclusive licenses
-embodied in a writing are not subject to such preemption.[^112]
+months if executed outside the U.S.).[^usa_111] Nonexclusive licenses
+embodied in a writing are not subject to such preemption.[^usa_112]
 
 A unique provision of U.S. copyright law pertaining to licenses and
 assignments is that all such licenses and assignments, except those made
 pursuant to a work for hire, are subject to revocation by the author or
-the author’s estate under certain conditions.[^113] Such revocation may
+the author’s estate under certain conditions.[^usa_113] Such revocation may
 occur only during a period commencing with the end of the 35th year
 following the date of the grant (or if the grant includes a right of
 publication, the end of the 35th year following such publication) and
 ending at the end of the 40th year following the date of the
-grant.[^114] To effect the revocation, the empowered party(ies) must
+grant.[^usa_114] To effect the revocation, the empowered party(ies) must
 serve notice of termination on the grantee under the license or
-assignment.[^115] An important exception to such termination is that
+assignment.[^usa_115] An important exception to such termination is that
 rights in any derivative works prepared under such grant and existing
 prior to the date of termination shall survive such termination, but
 only in the form in which the derivative work existed at the time of
-such termination.[^116]
+such termination.[^usa_116]
 
 ### Enforcement
 
@@ -735,29 +735,29 @@ such termination.[^116]
 Enforcement of copyright in software where infringement occurs is no
 different than for other matter subject to copyright protection.
 Infringement may be found where any of the exclusive rights of the
-copyright holder have been undertaken without authorization.[^117] In
+copyright holder have been undertaken without authorization.[^usa_117] In
 order to bring a civil action for infringement the copyright holder must
-record the copyright with the U.S. Copyright Office.[^118] Registration
+record the copyright with the U.S. Copyright Office.[^usa_118] Registration
 serves the dual purpose of establishing the earliest date for liability
-for statutory damages and attorney’s fees.[^119]
+for statutory damages and attorney’s fees.[^usa_119]
 
 Only the exclusive holder of a right or all of the rights (whether the
 original author, an assignee, or licensee) in copyright has standing to
-bring a civil action for infringement.[^120] The exclusive holder of
+bring a civil action for infringement.[^usa_120] The exclusive holder of
 less than all of the rights may only claim infringement of those rights
 held; it is not necessary for the exclusive holder of a right to join
-the primary copyright holder.[^121] Nonexclusive licenses have no right
-to bring an action for infringement.[^122]
+the primary copyright holder.[^usa_121] Nonexclusive licenses have no right
+to bring an action for infringement.[^usa_122]
 
 Remedies available to a successful complainant may include injunctive
 relief, impoundment and disposition of the infringing articles,
 statutory damages or actual damages and lost profits, and costs of court
-and attorney’s fees.[^123]
+and attorney’s fees.[^usa_123]
 
 Jurisdiction and venue in copyright cases only lies with the federal
-courts.[^124] This will be true even when breach of contract claims are
+courts.[^usa_124] This will be true even when breach of contract claims are
 asserted so long as at least one claim lies solely in copyright and such
-copyright claim is the primary basis of the suit.[^125]
+copyright claim is the primary basis of the suit.[^usa_125]
 
 #### Breach of contract
 
@@ -789,16 +789,16 @@ changed in 1981 in the *Diamond v. Diehr* case when the U.S. Supreme
 Court held that the use of an algorithm in software does not preclude it
 as patentable subject matter so long as the claimed invention related
 solely to the use of the software to solve a specific technological
-problem and did not preclude all other uses of the algorithm.[^126]
+problem and did not preclude all other uses of the algorithm.[^usa_126]
 
 The interpretations of patent eligibility of software inventions
 continue to evolve. The U.S. Supreme Court in the case of *In re
-Bilski*[^127] held that the machine or transformation test previously
+Bilski*[^usa_127] held that the machine or transformation test previously
 adopted by the U.S. Court of Appeals for the Federal Circuit, i.e., “(a)
 claimed process is surely patent-eligible under § 101 if: (1) it is tied
 to a particular machine or apparatus, or (2) it transforms a particular
 article into a different state or thing,” constituted a test, although
-not the sole test, of whether a process is patent eligible.[^128] In any
+not the sole test, of whether a process is patent eligible.[^usa_128] In any
 case, inventions embodied in software remain patent eligible in the
 U.S., but the scope of that patent protection appears to be narrowing.
 
@@ -817,7 +817,7 @@ patents.
 
 A patent holder in the U.S. has the exclusive right to make, have made,
 use, sell, or import any product made by means of a claimed process or
-product embodying the claimed invention.[^129] As with copyright, these
+product embodying the claimed invention.[^usa_129] As with copyright, these
 rights may be assigned or licensed to another either in whole or in
 part.
 
@@ -834,16 +834,16 @@ the grant of license since the patent holder essentially invites
 infringement. There is a line of cases in the U.S. that interprets the
 boundaries of such exhaustion and implied licenses:
 
--   *Adams v. Burke*[^130]  — claims that are directly infringed by the
+-   *Adams v. Burke*[^usa_130]  — claims that are directly infringed by the
     product are exhausted at the time of sale.
 
--   *Univis Lens*[^131] — implied license in claims necessary to finish
+-   *Univis Lens*[^usa_131] — implied license in claims necessary to finish
     an incomplete product.
 
--   *Intel v. ULSI*[^132] — implied license accompanies the sale of
+-   *Intel v. ULSI*[^usa_132] — implied license accompanies the sale of
     infringing goods by a licensed manufacturer.
 
--   *Cyrix v. Intel*[^133] — implied license in claims necessary to make
+-   *Cyrix v. Intel*[^usa_133] — implied license in claims necessary to make
     a complete product commercially viable (use for intended purpose).
 
 In addition to these cases specifically related to patent claims,
@@ -861,17 +861,17 @@ consideration, and then sought to derogate from the right granted.
 
 Patent protection in the U.S. is granted for a term of 20 years measured
 from the date of the filing of the patent application for all patents
-issued on or after June 9, 1995.[^134] For patents issued prior to that
+issued on or after June 9, 1995.[^usa_134] For patents issued prior to that
 date the term is the longer of 20 years from the date of filing or 17
 years from the date of issue; this transition term phasing out on June
 9, 2012.
 
 Effective March 13, 2013, the U.S. joined most other national patent
-bodies in granting patent protection to the first party to file.[^135]
+bodies in granting patent protection to the first party to file.[^usa_135]
 
 #### Extraterritorial reach
 
-Sec. 271(f) of the Patent Act[^136] extends infringement liability to
+Sec. 271(f) of the Patent Act[^usa_136] extends infringement liability to
 any party who “without authority supplies or causes to be supplied in or
 from the United States all or a substantial portion of the components of
 a patented invention, where such components are uncombined in whole or
@@ -882,7 +882,7 @@ provision had been read to imply that the making outside the U.S. of
 copies from of an infringing gold master provided by a U.S. software
 developer would constitute additional infringing acts increasing the
 liability of the U.S. developer. In the case of *AT&T v.
-Microsoft*[^137] the Supreme Court held that so long as the copies were
+Microsoft*[^usa_137] the Supreme Court held that so long as the copies were
 made outside the U.S. from a gold master provided from the U.S. no
 liability accrued where the infringing act arises from the actual
 loading of the software onto a computer or the operation of the software
@@ -893,11 +893,11 @@ on that computer.
 Liability for patent infringement arises when a party “without authority
 makes, uses, offers to sell, or sells any patented invention, within the
 United States or imports into the United States any patented invention
-during the term of the patent therefor, infringes the patent.”[^138] The
-Patent Act also recognizes liability for inducing infringement.[^139]
+during the term of the patent therefor, infringes the patent.”[^usa_138] The
+Patent Act also recognizes liability for inducing infringement.[^usa_139]
 
 A patent that is asserted in an infringement action is presumed to be
-valid,[^140] and at present such validity may only be overcome by clear
+valid,[^usa_140] and at present such validity may only be overcome by clear
 and convincing evidence of invalidity. This clear and convincing
 evidence standard is higher than the preponderance of the evidence
 standard used by patent examiners at the time of examination even if the
@@ -906,14 +906,14 @@ of examination.
 
 Remedies for patent infringement include injunctive relief, monetary
 damages in the form of a reasonable royalty, and attorney’s fees and
-costs of court.[^141] Where infringement is found to be willful the
-court may award treble damages.[^142] Damages for patent infringement
+costs of court.[^usa_141] Where infringement is found to be willful the
+court may award treble damages.[^usa_142] Damages for patent infringement
 only begin to accrue when a party has been placed on notice of their
 infringement. While such notice may be provided by marking the goods for
 patents, such marking rarely occurs with respect to software.
 Consequently, notice of infringement of patents related to software
 usually only arises upon the giving of written notice to the
-infringer.[^143]
+infringer.[^usa_143]
 
 ### Other matters of law
 
@@ -944,7 +944,7 @@ held valid under principles of contract law. You will often see such
 disclaimers stated in all capital letters or bold print; this is
 commonly done to conform to the safe harbor provisions of laws
 pertaining to warranties, including the Uniform Commercial Code and the
-Magnuson-Moss Warranty Act.[^144]
+Magnuson-Moss Warranty Act.[^usa_144]
 
 #### Liability and limitation
 
@@ -958,7 +958,7 @@ Although there are numerous other laws that are applicable to the
 licensing of software, we only make mention of one here — export
 control. U.S. law prohibits the exporting of software incorporating
 cryptographic code except under a license issued by the Bureau of
-Industry and Security.[^145] Obligations and liability under the statute
+Industry and Security.[^usa_145] Obligations and liability under the statute
 extend beyond the original distributor to any downstream party that
 redistributes the software. As a consequence, most original distributors
 include in their license a notice of such obligations and liability.
@@ -993,7 +993,7 @@ and open source cases have dealt primarily with trademark issues.
 
 ### Jacobsen v. Katzer
 
-*Jacobsen v. Katzer*[^146] is undoubtedly the most important of the
+*Jacobsen v. Katzer*[^usa_146] is undoubtedly the most important of the
 cases addressing free and open source software in the U.S. At issue was
 the provision of the Artistic license that requires licensees to include
 both copyright notices and a tracking of modifications in derivative
@@ -1004,7 +1004,7 @@ stated: “An express (or possibly an implied) condition that a licensee
 must affix a proper copyright notice to all copies of the work that he
 causes to be published will render a publication devoid of such notice
 without authority from the licensor and therefore, an infringing
-act.”[^147]
+act.”[^usa_147]
 
 In broad language that would support most, if not all, open source
 licenses the court stated:
@@ -1030,7 +1030,7 @@ exercise one or more rights granted under a copyright license.
 ### Wallace v. International Business Machines Corp.
 
 Although a bit of an odd case and one not directly related to the
-enforcement of a free and open source license, *Wallace v. IBM*[^148] is
+enforcement of a free and open source license, *Wallace v. IBM*[^usa_148] is
 worth mentioning because of the antitrust (anti-competition) issue
 raised by the plaintiff, Mr. Wallace, i.e., that the distribution of
 free and open source software at no cost constitutes illegal price
@@ -1038,7 +1038,7 @@ fixing within the terms of U.S. antitrust law. The court found no such
 price fixing or restraint and found the GPL to be “a cooperative
 agreement that facilitates production of new derivative works, and
 agreements that yield new products that would not arise through
-unilateral action are lawful.”[^149]
+unilateral action are lawful.”[^usa_149]
 
 ### Recommended literature
 
@@ -1079,88 +1079,88 @@ unilateral action are lawful.”[^149]
 -   Heather J. Meeker: The Open Source Alternative: Understanding Risks
     and Leveraging Opportunities (2008 John Wiley & Sons)
 
-[^1]: “(Congress shall have the power…) To promote the Progress of
+[^usa_1]: “(Congress shall have the power…) To promote the Progress of
     Science and useful Arts, by securing for limited Times to Authors
     and Inventors the exclusive Right to their respective Writings and
     Discoveries.”
 
-[^2]: 17 U.S. Code may be found at
+[^usa_2]: 17 U.S. Code may be found at
     <http://www.law.cornell.edu/uscode/html/uscode17/usc_sup_01_17.html>.
 
-[^3]: 35 U.S. Code may be found at
+[^usa_3]: 35 U.S. Code may be found at
     <http://www.law.cornell.edu/uscode/html/uscode35/usc_sup_01_35.html>.
 
-[^4]: 15 U.S. Code Chapter 22 may be found at
+[^usa_4]: 15 U.S. Code Chapter 22 may be found at
     <http://www.law.cornell.edu/uscode/15/usc_sup_01_15_10_22.html>.
 
-[^5]: For example, the Uniform Trade Secrets Act as embodied in
+[^usa_5]: For example, the Uniform Trade Secrets Act as embodied in
     California state law may be found at
     <http://www.leginfo.ca.gov/cgi-bin/displaycode?section=civ&group=03001-04000&file=3426-3426.11>.
 
-[^6]: The Economic Espionage Act of 1996 found at 18 U.S. Code
+[^usa_6]: The Economic Espionage Act of 1996 found at 18 U.S. Code
     §§1831-1839, <http://www.law.cornell.edu/uscode/18/1831.html>.
 
-[^7]: World Intellectual Property Copyright Treaty of 1996 found at
+[^usa_7]: World Intellectual Property Copyright Treaty of 1996 found at
     <http://www.wipo.int/treaties/en/ip/wct/trtdocs_wo033.html#P45_2379>.
 
-[^8]: The final report of the National Commission on New Technological
+[^usa_8]: The final report of the National Commission on New Technological
     Uses of Copyrighted Works found at
     <http://digital-law-online.info/CONTU/contu1.html>.
 
-[^9]: The U.S. Copyright Act of 1976 found at
+[^usa_9]: The U.S. Copyright Act of 1976 found at
     <http://en.wikisource.org/wiki/Copyright_Act_of_1976>.
 
-[^10]: Public Law 96-517 found at
+[^usa_10]: Public Law 96-517 found at
     <http://law.copyrightdata.com/amendments.php>.
 
-[^11]: 17 U.S.C. §102(a).
+[^usa_11]: 17 U.S.C. §102(a).
 
-[^12]: 17 U.S.C. §411(a).
+[^usa_12]: 17 U.S.C. §411(a).
 
-[^13]: 17 U.S. Code §102(a).
+[^usa_13]: 17 U.S. Code §102(a).
 
-[^14]: 17 U.S. Code §201(a).
+[^usa_14]: 17 U.S. Code §201(a).
 
-[^15]: 17 U.S. Code §201(b).
+[^usa_15]: 17 U.S. Code §201(b).
 
-[^16]: *Id.*
+[^usa_16]: *Id.*
 
-[^17]: 17 U.S. Code §101.
+[^usa_17]: 17 U.S. Code §101.
 
-[^18]: 17 U.S. Code §204.
+[^usa_18]: 17 U.S. Code §204.
 
-[^19]: 17 U.S. Code §201(a).
+[^usa_19]: 17 U.S. Code §201(a).
 
-[^20]: 17 U.S. Code §101.
+[^usa_20]: 17 U.S. Code §101.
 
-[^21]: 1-6 Melville B. Nimmer, Nimmer on Copyright §6.03. Nimmer is only
+[^usa_21]: 1-6 Melville B. Nimmer, Nimmer on Copyright §6.03. Nimmer is only
     available in hard copy from LexisNexis or in electronic form from
     either the LexisNexis or Westlaw legal research services. Nimmer is
     widely considered the authoritative treatise on U.S. copyright law.
 
-[^22]: *Id.*
+[^usa_22]: *Id.*
 
-[^23]: *See, Id.*
+[^usa_23]: *See, Id.*
 
-[^24]: 1-6 Nimmer §§6.02, 6.03.
+[^usa_24]: 1-6 Nimmer §§6.02, 6.03.
 
-[^25]: *Id.*
+[^usa_25]: *Id.*
 
-[^26]: 1-6 Nimmer §6.03.
+[^usa_26]: 1-6 Nimmer §6.03.
 
-[^27]: 17 U.S.C. §201(a).
+[^usa_27]: 17 U.S.C. §201(a).
 
-[^28]: 1-6 Nimmer §6.06(A).
+[^usa_28]: 1-6 Nimmer §6.06(A).
 
-[^29]: *Id.*
+[^usa_29]: *Id.*
 
-[^30]: *Id.*
+[^usa_30]: *Id.*
 
-[^31]: 17 U.S.C. §103(a).
+[^usa_31]: 17 U.S.C. §103(a).
 
-[^32]: 17 U.S.C. §101.
+[^usa_32]: 17 U.S.C. §101.
 
-[^33]: 1-3 Nimmer § 3.03(A) (citing Feist Publications, Inc. v. Rural
+[^usa_33]: 1-3 Nimmer § 3.03(A) (citing Feist Publications, Inc. v. Rural
     Tel. Serv. Co., 499 U.S. 340, 348, 111 S. Ct. 1282, 113 L. Ed. 2d
     358 (1991); Siegel v. Time Warner Inc., 496 F. Supp. 2d 1111, 1151
     (C.D. Cal. 2007); Sherry Mfg. Co. v. Towel King of Fla., Inc., 753
@@ -1168,26 +1168,26 @@ unilateral action are lawful.”[^149]
     n.12 (11th Cir. 1999); Moore Pub., Inc. v. Big Sky Mktg., Inc., 756
     F. Supp. 1371, 1374, 1378 (D. Idaho 1990)).
 
-[^34]: Lothar Determan, *Dangerous Liaisons — Software Combinations as
+[^usa_34]: Lothar Determan, *Dangerous Liaisons — Software Combinations as
     Derivative Works? Distribution, Installation, and Execution of
     Linked Programs Under Copyright Law, Commercial Licenses, and the
     GPL*, 21 Berkeley Tech. L. J. 1421, 1430 (2006).
 
-[^35]: *Id.*
+[^usa_35]: *Id.*
 
-[^36]: 1-6 Nimmer, §6.05.
+[^usa_36]: 1-6 Nimmer, §6.05.
 
-[^37]: 17 U.S.C. §103(a).
+[^usa_37]: 17 U.S.C. §103(a).
 
-[^38]: *Id.*
+[^usa_38]: *Id.*
 
-[^39]: 1-3 Nimmer §3.02.
+[^usa_39]: 1-3 Nimmer §3.02.
 
-[^40]: *Id.*
+[^usa_40]: *Id.*
 
-[^41]: 17 U.S.C.§ 101.
+[^usa_41]: 17 U.S.C.§ 101.
 
-[^42]: 1-3 Nimmer § 3.03(A) (citing Feist Publications, Inc. v. Rural
+[^usa_42]: 1-3 Nimmer § 3.03(A) (citing Feist Publications, Inc. v. Rural
     Tel. Serv. Co., 499 U.S. 340, 348, 111 S. Ct. 1282, 113 L. Ed. 2d
     358 (1991); Siegel v. Time Warner Inc., 496 F. Supp. 2d 1111, 1151
     (C.D. Cal. 2007); Sherry Mfg. Co. v. Towel King of Fla., Inc., 753
@@ -1195,231 +1195,231 @@ unilateral action are lawful.”[^149]
     n.12 (11th Cir. 1999); Moore Pub., Inc. v. Big Sky Mktg., Inc., 756
     F. Supp. 1371, 1374, 1378 (D. Idaho 1990)).
 
-[^43]: 17 U.S.C. §201(c).
+[^usa_43]: 17 U.S.C. §201(c).
 
-[^44]: 1-6 Nimmer §6.05.
+[^usa_44]: 1-6 Nimmer §6.05.
 
-[^45]: *Id.*
+[^usa_45]: *Id.*
 
-[^46]: *Id.*
+[^usa_46]: *Id.*
 
-[^47]: *Id.*
+[^usa_47]: *Id.*
 
-[^48]: *Id.*
+[^usa_48]: *Id.*
 
-[^49]: *Id.*
+[^usa_49]: *Id.*
 
-[^50]: 17 U.S.C. §106.
+[^usa_50]: 17 U.S.C. §106.
 
-[^51]: *Id.*
+[^usa_51]: *Id.*
 
-[^52]: 17 U.S.C. §109(a).
+[^usa_52]: 17 U.S.C. §109(a).
 
-[^53]: 2-8 Nimmer §8.12.
+[^usa_53]: 2-8 Nimmer §8.12.
 
-[^54]: Computer Assoc., 982 F.2d at 714.
+[^usa_54]: Computer Assoc., 982 F.2d at 714.
 
-[^55]: *See*, 4-13 Nimmer §13.02(B).
+[^usa_55]: *See*, 4-13 Nimmer §13.02(B).
 
-[^56]: *See*, Computer Assoc., 982 F.2d at 715.
+[^usa_56]: *See*, Computer Assoc., 982 F.2d at 715.
 
-[^57]: *Id.*
+[^usa_57]: *Id.*
 
-[^58]: Apple Computer, Inc v. Microsoft Corp., 35 F.3d 1435, 1445 (9th
+[^usa_58]: Apple Computer, Inc v. Microsoft Corp., 35 F.3d 1435, 1445 (9th
     Cir. 1994).
 
-[^59]: *See*, Lotus Dev. Corp. v. Borland Int’l, 49 F.3d 807, 819 (1st
+[^usa_59]: *See*, Lotus Dev. Corp. v. Borland Int’l, 49 F.3d 807, 819 (1st
     Cir. 1995).
 
-[^60]: *See, Id.* at 815.
+[^usa_60]: *See, Id.* at 815.
 
-[^61]: 4-13 Nimmer §13.03(F).
+[^usa_61]: 4-13 Nimmer §13.03(F).
 
-[^62]: *See,* Order Re Copyrightability Of Certain Replicated Elements
+[^usa_62]: *See,* Order Re Copyrightability Of Certain Replicated Elements
     Of The Java Application Programming Interface (hereinafter *Order*)
     found at <http://www.groklaw.net/pdf3/OraGoogle-1202.pdf>.
 
-[^63]: 17 U.S.C. §102(b).
+[^usa_63]: 17 U.S.C. §102(b).
 
-[^64]: 1-2 Nimmer §2.02.
+[^usa_64]: 1-2 Nimmer §2.02.
 
-[^65]: 4-13 Nimmer §13.03(B)(2)(a).
+[^usa_65]: 4-13 Nimmer §13.03(B)(2)(a).
 
-[^66]: Computer Assoc., 982 F.2d at 708.
+[^usa_66]: Computer Assoc., 982 F.2d at 708.
 
-[^67]: *See,* BUC Int’l Corp. v. Int’l Yacht Council Ltd., 489 F.3d
+[^usa_67]: *See,* BUC Int’l Corp. v. Int’l Yacht Council Ltd., 489 F.3d
     1129, 1143 (11th Cir. 2007).
 
-[^68]: *See*, 4-13 Nimmer §13.03(B)(3).
+[^usa_68]: *See*, 4-13 Nimmer §13.03(B)(3).
 
-[^69]: *See*, 4-13 Nimmer §13.03(F)(2).
+[^usa_69]: *See*, 4-13 Nimmer §13.03(F)(2).
 
-[^70]: 4-13 Nimmer §13.03(F)(2).
+[^usa_70]: 4-13 Nimmer §13.03(F)(2).
 
-[^71]: *See,* Computer Assoc., 982 F.2d at 715.
+[^usa_71]: *See,* Computer Assoc., 982 F.2d at 715.
 
-[^72]: *See*, Computer Assoc., 982 F.2d at 715.
+[^usa_72]: *See*, Computer Assoc., 982 F.2d at 715.
 
-[^73]: Order *supra* Note XXX
+[^usa_73]: Order *supra* Note XXX
 
-[^74]: *See, Id.* at 710.
+[^usa_74]: *See, Id.* at 710.
 
-[^75]: 4-13 Nimmer §13.03(B)(4).
+[^usa_75]: 4-13 Nimmer §13.03(B)(4).
 
-[^76]: *Id.*
+[^usa_76]: *Id.*
 
-[^77]: *See*, John William See v. Christopher Durang and LA. Stage Co.,
+[^usa_77]: *See*, John William See v. Christopher Durang and LA. Stage Co.,
     711 F.2d 141, 143 (9th Cir. 1983).
 
-[^78]: *Id.*
+[^usa_78]: *Id.*
 
-[^79]: *Id.*
+[^usa_79]: *Id.*
 
-[^80]: Mist-On Sys. v. Gilley’s European Tan Spa, 303 F. Supp. 2d 974,
+[^usa_80]: Mist-On Sys. v. Gilley’s European Tan Spa, 303 F. Supp. 2d 974,
     978 (W.D. Wis. 2002).
 
-[^81]: 4-13 Nimmer §13.03(B)(4).
+[^usa_81]: 4-13 Nimmer §13.03(B)(4).
 
-[^82]: Mist-On Sys., 303 F. Supp. 2d at 976 (W.D. Wis. 2002)
+[^usa_82]: Mist-On Sys., 303 F. Supp. 2d at 976 (W.D. Wis. 2002)
 
-[^83]: Computer Assocs., 982 F.2d at 709-10.
+[^usa_83]: Computer Assocs., 982 F.2d at 709-10.
 
-[^84]: BUC Int’l Corp. v. Int’l Yacht Council Ltd., 489 F.3d 1129, 1143
+[^usa_84]: BUC Int’l Corp. v. Int’l Yacht Council Ltd., 489 F.3d 1129, 1143
     (11th Cir. 2007).
 
-[^85]: *See* v. Durang, 711 F.2d at 143.
+[^usa_85]: *See* v. Durang, 711 F.2d at 143.
 
-[^86]: Computer Assoc., 982 F.2d at 715.
+[^usa_86]: Computer Assoc., 982 F.2d at 715.
 
-[^87]: *See*, 1-2 Nimmer §2.03(G).
+[^usa_87]: *See*, 1-2 Nimmer §2.03(G).
 
-[^88]: 17 U.S.C §105.
+[^usa_88]: 17 U.S.C §105.
 
-[^89]: <http://copyright.gov/help/faq/faq-definitions.html>.
+[^usa_89]: <http://copyright.gov/help/faq/faq-definitions.html>.
 
-[^90]: *See, Id.*
+[^usa_90]: *See, Id.*
 
-[^91]: *See*, Computer Assocs., 982 F.2d at 710.
+[^usa_91]: *See*, Computer Assocs., 982 F.2d at 710.
 
-[^92]: <http://www.copyright.gov/help/faq/faq-general.html>.
+[^usa_92]: <http://www.copyright.gov/help/faq/faq-general.html>.
 
-[^93]: 4-13 Nimmer §13.03(F)(4).
+[^usa_93]: 4-13 Nimmer §13.03(F)(4).
 
-[^94]: <http://creativecommons.org/licenses/publicdomain/>.
+[^usa_94]: <http://creativecommons.org/licenses/publicdomain/>.
 
-[^95]: 17 U.S.C. §102(b).
+[^usa_95]: 17 U.S.C. §102(b).
 
-[^96]: Feist, 499 U.S. at 350 (1991).
+[^usa_96]: Feist, 499 U.S. at 350 (1991).
 
-[^97]: Assessment Techs. of WI, LLC v. WIREdata, Inc., 350 F.3d 640 (7th
+[^usa_97]: Assessment Techs. of WI, LLC v. WIREdata, Inc., 350 F.3d 640 (7th
     Cir. 2003).
 
-[^98]: 1-3 Nimmer §3.04(B)(3)(a).
+[^usa_98]: 1-3 Nimmer §3.04(B)(3)(a).
 
-[^99]: 17 U.S.C. § 107.
+[^usa_99]: 17 U.S.C. § 107.
 
-[^100]: *Id.*
+[^usa_100]: *Id.*
 
-[^101]: *Id.*
+[^usa_101]: *Id.*
 
-[^102]: 17 U.S. Code §117(a).
+[^usa_102]: 17 U.S. Code §117(a).
 
-[^103]: 17 U.S. Code §117(c).
+[^usa_103]: 17 U.S. Code §117(c).
 
-[^104]: Visual Artists Rights Act of 1990, 17 U.S. Code §106A.
+[^usa_104]: Visual Artists Rights Act of 1990, 17 U.S. Code §106A.
 
-[^105]: 17 U.S. Code §302(a).
+[^usa_105]: 17 U.S. Code §302(a).
 
-[^106]: 17 U.S. Code §302(b).
+[^usa_106]: 17 U.S. Code §302(b).
 
-[^107]: 17 U.S. Code §302(c).
+[^usa_107]: 17 U.S. Code §302(c).
 
-[^108]: 17 U.S. Code §201(d)(1).
+[^usa_108]: 17 U.S. Code §201(d)(1).
 
-[^109]: 17 U.S. Code §201(d)(2).
+[^usa_109]: 17 U.S. Code §201(d)(2).
 
-[^110]: 17 U.S. Code §204(a).
+[^usa_110]: 17 U.S. Code §204(a).
 
-[^111]: 17 U.S. Code §205(d).
+[^usa_111]: 17 U.S. Code §205(d).
 
-[^112]: 17 U.S. Code §205(e).
+[^usa_112]: 17 U.S. Code §205(e).
 
-[^113]: 17 U.S. Code §203(a)(1-2).
+[^usa_113]: 17 U.S. Code §203(a)(1-2).
 
-[^114]: 17 U.S. Code §203(a)(3).
+[^usa_114]: 17 U.S. Code §203(a)(3).
 
-[^115]: 17 U.S. Code §203(a)(4).
+[^usa_115]: 17 U.S. Code §203(a)(4).
 
-[^116]: 17 U.S. Code §203(b)(1).
+[^usa_116]: 17 U.S. Code §203(b)(1).
 
-[^117]: 17 U.S. Code §501(a).
+[^usa_117]: 17 U.S. Code §501(a).
 
-[^118]: 17 U.S. Code §411.
+[^usa_118]: 17 U.S. Code §411.
 
-[^119]: 17 U.S. Code §412.
+[^usa_119]: 17 U.S. Code §412.
 
-[^120]: 17 U.S. Code §501(b).
+[^usa_120]: 17 U.S. Code §501(b).
 
-[^121]: *Id.*; Eden Toys, Inc. v. Florelee Undergarment Co., 697 F.2d 27
+[^usa_121]: *Id.*; Eden Toys, Inc. v. Florelee Undergarment Co., 697 F.2d 27
     (2d Cir. 1982); Random House, Inc. v. Rosetta Books LLC, 150 F.
     Supp. 2d 613, 617 (S.D.N.Y. 2001), aff’d per curiam, 283 F.3d 490
     (2d Cir. 2002)
 
-[^122]: Eden Toys, 697 F.2d at 32 (1982).
+[^usa_122]: Eden Toys, 697 F.2d at 32 (1982).
 
-[^123]: 17 U.S. Code §§502-505.
+[^usa_123]: 17 U.S. Code §§502-505.
 
-[^124]: 28 U.S. Code §1338.
+[^usa_124]: 28 U.S. Code §1338.
 
-[^125]: Wooster v. Crane & Co., 147 F. 15 (8th Cir. 1906).
+[^usa_125]: Wooster v. Crane & Co., 147 F. 15 (8th Cir. 1906).
 
-[^126]: Diamond v. Diehr, 450 U.S. 175 (1981).
+[^usa_126]: Diamond v. Diehr, 450 U.S. 175 (1981).
 
-[^127]: In re Bilski, 130 S. Ct. 3218 (2010).
+[^usa_127]: In re Bilski, 130 S. Ct. 3218 (2010).
 
-[^128]: In re Bilski, 130 S. Ct. at 3226 (2010).
+[^usa_128]: In re Bilski, 130 S. Ct. at 3226 (2010).
 
-[^129]: 35 U.S.C. §271(a)&(g).
+[^usa_129]: 35 U.S.C. §271(a)&(g).
 
-[^130]: Adams v. Burke, 84 U.S. 453 (1873).
+[^usa_130]: Adams v. Burke, 84 U.S. 453 (1873).
 
-[^131]: United States v. Univis lens, 316 U.S. 241 (1942).
+[^usa_131]: United States v. Univis lens, 316 U.S. 241 (1942).
 
-[^132]: Intel Corp. v. ULSI System Technology, 995 F.2d 1566 (Fed. Cir.
+[^usa_132]: Intel Corp. v. ULSI System Technology, 995 F.2d 1566 (Fed. Cir.
     1993).
 
-[^133]: Cyrix Corp. v. Intel Corp., 77 F.3d 1381 (Fed. Cir. 1996).
+[^usa_133]: Cyrix Corp. v. Intel Corp., 77 F.3d 1381 (Fed. Cir. 1996).
 
-[^134]: 35 U.S.C. §154.(a)(2).
+[^usa_134]: 35 U.S.C. §154.(a)(2).
 
-[^135]: America Invents Act, Public Law 112-29 found at
+[^usa_135]: America Invents Act, Public Law 112-29 found at
     <http://www.gpo.gov/fdsys/pkg/PLAW-112publ29/html/PLAW-112publ29.htm>.
 
-[^136]: 35 U.S.C. §271(f)(1).
+[^usa_136]: 35 U.S.C. §271(f)(1).
 
-[^137]: AT&T v. Microsoft, 550 U.S. 437 (2007).
+[^usa_137]: AT&T v. Microsoft, 550 U.S. 437 (2007).
 
-[^138]: 35 U.S.C. §271(a).
+[^usa_138]: 35 U.S.C. §271(a).
 
-[^139]: 35 U.S.C. §271(b).
+[^usa_139]: 35 U.S.C. §271(b).
 
-[^140]: 35 U.S.C. §282.
+[^usa_140]: 35 U.S.C. §282.
 
-[^141]: 35 U.S.C. §§283-285.
+[^usa_141]: 35 U.S.C. §§283-285.
 
-[^142]: 35 U.S.C. §284.
+[^usa_142]: 35 U.S.C. §284.
 
-[^143]: 35 U.S.C. §287.
+[^usa_143]: 35 U.S.C. §287.
 
-[^144]: Magnuson-Moss, 15 U.S.C. §2301 *et seq.*.
+[^usa_144]: Magnuson-Moss, 15 U.S.C. §2301 *et seq.*.
 
-[^145]: 15 Code of Federal Regulations §742.15.
+[^usa_145]: 15 Code of Federal Regulations §742.15.
 
-[^146]: Jacobsen v. Katzer, 535 F.3d 1373 (Fed. Cir. 2008).
+[^usa_146]: Jacobsen v. Katzer, 535 F.3d 1373 (Fed. Cir. 2008).
 
-[^147]: 3-10 Nimmer on Copyright §10.15 .
+[^usa_147]: 3-10 Nimmer on Copyright §10.15 .
 
-[^148]: Wallace v. International Business Machines Corp., 467 F.3d 1104
+[^usa_148]: Wallace v. International Business Machines Corp., 467 F.3d 1104
     (CA 7 2006).
 
-[^149]: Wallace, 467 F.3d at 1107 (2006).
+[^usa_149]: Wallace, 467 F.3d at 1107 (2006).

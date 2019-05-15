@@ -11,7 +11,7 @@ Introduction to software protection under Finnish law
 In Finland, copyright protection of software is regulated under the
 Copyright Act, originally enacted on 8 July 1961 and amended multiple
 times thereafter. The current version of the Act is available in Finnish
-and Swedish via the Finlex website of the Ministry of Justice.[^1] An
+and Swedish via the Finlex website of the Ministry of Justice.[^finland_1] An
 unofficial translation of the Act by the Ministry of Justice is also
 available, although it is not as up to date as the Finnish and Swedish
 versions. The Copyright Act provides for stipulations on copyright and
@@ -23,7 +23,7 @@ stipulations.
 The Finnish Copyright Act implements the Council Directive of 14 May
 1991 on the legal protection of computer programs (91/250/EEC, as
 amended) by way of amendments enacted on 11 January 1991 and 7 May
-1993.[^2]
+1993.[^finland_2]
 
 In the current Copyright Act, the relevant articles containing computer
 program specific stipulations are:
@@ -53,13 +53,13 @@ Art 50c, fifth paragraph and Art 56a, second paragraph.
 Computer programs are protected by copyright as literary works, as
 stipulated in Article 1 of the Copyright Act. In order to benefit from
 the protection, a computer program needs to be original in the sense
-that it is the author’s own intellectual creation.[^3] As stipulated in
+that it is the author’s own intellectual creation.[^finland_3] As stipulated in
 paragraph 3 of Article 1 of the Computer Programs Directive, no other
 criteria may be used to determine whether the program can be subject to
 copyright protection. Based on this, it has been argued that computer
 programs are eligible for copyright protection under less stringent
 requirements compared to other literary works which need to surpass a
-certain threshold of originality.[^4]
+certain threshold of originality.[^finland_4]
 
 According to the preparatory works to amendments of the Copyright Act
 (Government Proposal HE 161/90; Committee Report KM 1987:8) as well as
@@ -75,11 +75,11 @@ program does not represent the author’s original creative contribution
 and is not eligible for copyright protection. The same goes for “simple
 programs containing only a series of measures that can be deemed as
 axiomatic by a professional” as well as “commonly applied solutions” to
-programming tasks.[^5]
+programming tasks.[^finland_5]
 
 The case-law on computer programs and eligibility for copyright
 protection is somewhat scarce, consisting mainly of opinions issued by
-the Copyright Council.[^6] In cases where the Copyright Council has
+the Copyright Council.[^finland_6] In cases where the Copyright Council has
 stated its opinion on whether a particular program is eligible for
 copyright protection, the Council has mainly relied on one of the two
 following tests, i.e., assessing (a) whether there would have been
@@ -108,7 +108,7 @@ code and binary form. Source code commentaries in the code fall under
 the definition of computer software, or at least under the concept of
 “works that directly relate to” computer software. Source code
 documentation as well as other supporting material classify as works
-directly related to computer software.[^7] Supporting material can
+directly related to computer software.[^finland_7] Supporting material can
 consist of, e.g., user manuals, instructions and the like. Other works
 contained in the software (such as text, music, pictures, forms and
 movies) may fall under the definition of “works that directly relate to
@@ -200,7 +200,7 @@ Due to the nature of computer programs, the moral rights are considered
 to have only minor importance. Computer programs can hardly be modified
 in a way offending the author, and good practice in the field does not
 normally require stating the name of the author where the author is an
-employee and the copyright holder is the employer.[^8]
+employee and the copyright holder is the employer.[^finland_8]
 
 Moral rights cannot be transferred, and they may be waived only where
 the use of the work is limited in scope and character. This applies
@@ -215,7 +215,7 @@ calculated from the year of death of the last living author. In the case
 of derivative works, the copyright term of the right of the modifier is
 independent of the copyright term of the original work, i.e., the
 copyright to the modifications lasts for 70 years following the death of
-the author of the modifications.[^9]
+the author of the modifications.[^finland_9]
 
 ### Copyright assignment
 
@@ -242,7 +242,7 @@ aspects of a right based on law.
 
 In the relationship between an employer and an employee, copyright to a
 computer program and a related work passes automatically to the employer
-based on Article 40 b of the Copyright Act.[^10] Copyright to any other
+based on Article 40 b of the Copyright Act.[^finland_10] Copyright to any other
 type of work will remain with the employee, unless a specific agreement
 on copyright assignment has been entered into in the form of an
 employment agreement or otherwise. In lack of a specific agreement on
@@ -287,16 +287,16 @@ Unprotected software and public domain software
 Only software that is original in the sense that it is an intellectual
 creation of the author is eligible for copyright protection.
 Non-original software, then, is not eligible for such protection and can
-be used freely from a copyright perspective.[^11]
+be used freely from a copyright perspective.[^finland_11]
 
-There is no concept of public domain in the Finnish Copyright Act,[^12]
+There is no concept of public domain in the Finnish Copyright Act,[^finland_12]
 although based on the general principles of law, it can be concluded
 that it is possible for an author to grant a computer program into the
 public domain. However, this grant is possible only vis-à-vis the
 economic rights but not vis-à-vis the moral rights. Public domain
 computer programs are generally understood to mean such works to which
 the author has renounced all copyrights and which can therefore be
-freely used with the exception of moral rights.[^13]
+freely used with the exception of moral rights.[^finland_13]
 
 Although there is some uncertainty as to what is required of a notice in
 order to fully place a program into the public domain, the authors of
@@ -349,7 +349,7 @@ A work that has been originally created by several parties is a jointly
 created work. In addition, any work in which the end result is such that
 the individual contributions cannot be separated from each other is a
 joint work. Contributions to a joint work can occur either
-simultaneously or successively.[^14]
+simultaneously or successively.[^finland_14]
 
 FOSS can also consist of an original work and the modifications made to
 it. In such case, the end result is a derivative of the original work.
@@ -426,9 +426,9 @@ only in relation to the part in which they hold the copyright.
 In order to control the project in an organised manner, it may be useful
 to collect all copyrights concerning a FOSS project within one
 organisation (i.e. a legal entity). The existence of such organisation
-will simplify the management and enforcement of the joint rights.[^15]
+will simplify the management and enforcement of the joint rights.[^finland_15]
 The assignment of copyright is perfectly possible under Finnish law as
-long as the legal requirements have been fulfilled.[^16] Assignment can
+long as the legal requirements have been fulfilled.[^finland_16] Assignment can
 also be carried out by way of a fiduciary assignment of copyrights. A
 fiduciary assignment means that the party to whom the copyrights are
 assigned shall not act for himself but on account of others who have
@@ -507,7 +507,7 @@ discharge all liability for quality faults in the software and many
 clauses discharge liability for issues in the title to the FOSS, as
 well. The reason for this is that FOSS is mostly made available without
 a fee, and as a result, the author generates insufficient income to pay
-for liability insurances and legal costs.[^17]
+for liability insurances and legal costs.[^finland_17]
 
 Where business models are built around FOSS, guarantees are often
 offered against a fee or as a part of chargeable services.
@@ -540,9 +540,9 @@ particular software licensing regimes.
 
 #### Principle
 
-A characteristic found in different (but not all[^18]) FOSS licenses is
+A characteristic found in different (but not all[^finland_18]) FOSS licenses is
 the so-called “copyleft” principle. FOSS licenses incorporating the
-copyleft principle[^19] lay down as a license provision that in order
+copyleft principle[^finland_19] lay down as a license provision that in order
 for the licensee to be entitled to further distribute the program with
 his or her modifications, such modifications must be licensed under the
 same terms as the original program. The extent of “modifications”
@@ -644,7 +644,7 @@ precedents.
 
 ### Copyright Council
 
-Opinions of the Copyright Council[^20] (in Finnish) can be accessed via
+Opinions of the Copyright Council[^finland_20] (in Finnish) can be accessed via
 the following website:
 <http://www.okm.fi/OPM/Tekijaenoikeus/tekijaenoikeusneuvosto/tekijaenoikeusneuvoston_lausunnot/>
 
@@ -791,7 +791,7 @@ touching upon issues related to computer programs.
 -   Oesch, Rainer – Vesala Juha: Ohjelmistolisenssit ja
     tekijänoikeuden raukeaminen. Defensor Legis 2/2004.
 
-[^1]: Official Finnish version:
+[^finland_1]: Official Finnish version:
     <http://www.finlex.fi/fi/laki/ajantasa/1961/19610404>. Official
     Swedish version
     <http://www.finlex.fi/sv/laki/ajantasa/1961/19610404> and the
@@ -799,25 +799,25 @@ touching upon issues related to computer programs.
     <http://www.finlex.fi/en/laki/kaannokset/1961/en19610404>. Links
     retrieved on 8 November 2013.
 
-[^2]: The first of the amendments was enacted prior to the Directive, as
+[^finland_2]: The first of the amendments was enacted prior to the Directive, as
     many principles of the Directive were already anticipated at the
     time. The original paragraphs enacted then have thereafter been
     modified and replaced in subsequent amendments.
 
-[^3]: Article 1, paragraph 3 of the Computer Programs Directive
+[^finland_3]: Article 1, paragraph 3 of the Computer Programs Directive
     (91/250/EEC).
 
-[^4]: See Haarmann 2005, pages 62 and 74. This interpretation, however,
+[^finland_4]: See Haarmann 2005, pages 62 and 74. This interpretation, however,
     is not supported by the preparatory works to the Copyright Act which
     indicate that the same criteria of originality should be applied to
     computer programs and other works protected under the Act (HE
     211/1992, p. 3).
 
-[^5]: Preparatory works HE 161/90 (Government Proposal for amending the
+[^finland_5]: Preparatory works HE 161/90 (Government Proposal for amending the
     Copyright Act) and KM 1987:8 (Report of the Copyright Committee);
     for decisions by the Copyright Council, see the following footnote.
 
-[^6]: There are no Supreme Court prejudicates where the Court would have
+[^finland_6]: There are no Supreme Court prejudicates where the Court would have
     assessed a particular computer program’s eligibility for copyright
     protection or discussed the matter in detail. However, this question
     is discussed in two decisions by the Appeal Court of Helsinki,
@@ -828,54 +828,54 @@ touching upon issues related to computer programs.
     1989:7, TN 1996:3, 1997:12, TN 1997:18, TN 2005:7, TN 2008:13 and TN
     2011:15).
 
-[^7]: See preparatory works Government Proposal HE 161/90, under Article
+[^finland_7]: See preparatory works Government Proposal HE 161/90, under Article
     40 b of the detailed argumentation.
 
-[^8]: These arguments have been presented in the preparatory works of
+[^finland_8]: These arguments have been presented in the preparatory works of
     Article 40 b (Government Proposal HE 161/90), under specific
     argumentation on the Article.
 
-[^9]: This is a logical conclusion based on the wording of Article 4 of
+[^finland_9]: This is a logical conclusion based on the wording of Article 4 of
     the Act. The same result is presented by Haarmann (2005), page 245.
 
-[^10]: This has been described in more detail under
+[^finland_10]: This has been described in more detail under
     [section\_title](#sec_finland_AuthorsBeneficiaries).
 
-[^11]: The legal criteria and case-law on the threshold of copyright
+[^finland_11]: The legal criteria and case-law on the threshold of copyright
     protection for computer programs has been presented in more detail
     above under [section\_title](#sec_finland_copyrightact).
 
-[^12]: Article 9 of the Copyright Act lists works that are not subject
+[^finland_12]: Article 9 of the Copyright Act lists works that are not subject
     to copyright protection, such as Acts and Decrees, and can therefore
     be considered to be in the public domain. However, this is not an
     acknowledgment of the concept of granting a work into the public
     domain as decided by the author.
 
-[^13]: For discussion on the content of moral rights, see under
+[^finland_13]: For discussion on the content of moral rights, see under
     [section\_title](#sec_finland_moral_rights).
 
-[^14]: Haarmann 2005, page 104.
+[^finland_14]: Haarmann 2005, page 104.
 
-[^15]: FSFE (Free Software Foundation Europe) recommends that developers
+[^finland_15]: FSFE (Free Software Foundation Europe) recommends that developers
     of Free Software projects use its Fiduciary License Agreement (FLA)
     to assign their rights to a fiduciary (preferably the FSFE). For an
     analysis of the FLA under Belgian law, see Y., VAN DEN BRANDE, “The
     Fiduciary Licence Agreement: Appointing legal guardians for Free
     Software Projects”, IFOSS L. Rev., Vol 1, Issue 1, p. 9.
 
-[^16]: This has been discussed earlier under
+[^finland_16]: This has been discussed earlier under
     [section\_title](#sec_finland_copyright_assignment).
 
-[^17]: B. PERENS, “The Open Source Definition”, *Open Sources: Voices
+[^finland_17]: B. PERENS, “The Open Source Definition”, *Open Sources: Voices
     from the Open Source Revolution*, <http://perens.com/OSD.html>.
 
-[^18]: Nor the principles (freedoms) of the Free Software movement, nor
+[^finland_18]: Nor the principles (freedoms) of the Free Software movement, nor
     the Open Source Definition mandate the use of a copyleft clause.
     Several FOSS licenses do not contain a copyleft clause at all, such
     as the Berkeley Software Distribution (BSD) license or the Apache
     license.
 
-[^19]: E.g., GPL version 3 Art. 5 stipulates: “You must license the
+[^finland_19]: E.g., GPL version 3 Art. 5 stipulates: “You must license the
     entire work, as a whole, under this License to anyone who comes into
     possession of a copy. This License will therefore apply, along with
     any applicable section 7 additional terms, to the whole of the work,
@@ -888,7 +888,7 @@ touching upon issues related to computer programs.
     licensed as a whole at no charge to all third parties under the
     terms of this License.”
 
-[^20]: The Copyright Council is a government-appointed council which
+[^finland_20]: The Copyright Council is a government-appointed council which
     issues judicially non-binding opinions on the application of the
     Copyright Act. The Council is mainly composed of representatives of
     major right holders and users of copyright-protected works, while

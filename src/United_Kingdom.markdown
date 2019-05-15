@@ -12,17 +12,17 @@ Unlike the other countries covered in this book, the United Kingdom
 comprises not one but three separate jurisdictions: England & Wales,
 Northern Ireland and Scotland. Each jurisdiction has its own legal
 system, with its own *corpus* of laws, both common law and statutory.
-This is particularly true of the Law of Scotland[^1]. In some areas, the
+This is particularly true of the Law of Scotland[^uk_1]. In some areas, the
 laws of Scotland and of England can be substantially different. By
 contrast the laws of England and of Northern Ireland share a common
 heritage, and are substantially similar, though some minor differences
-can occur.[^2]
+can occur.[^uk_2]
 
 The modern law of Intellectual Property in each of these jurisdictions
 has developed since the Act of Union in 1707 and is almost entirely
 based upon statutes of the United Kingdom Parliament commencing with the
 foundation of the concept of copyright, the post-Union Statute of Anne
-1709[^3]. The legislation has tended to cover the whole of the United
+1709[^uk_3]. The legislation has tended to cover the whole of the United
 Kingdom with only minor differences to accommodate the different Court
 structures, and has been interpreted uniformly by judges in all
 jurisdictions. Thus, it becomes possible to treat this area from a
@@ -33,11 +33,11 @@ Irish Law are noted where appropriate.
 
 In the United Kingdom, then, copyright protection of software (as with
 all forms of copyright protection) is regulated under the Copyright,
-Designs and Patents Act 1988[^4] (referred to as the “Copyright Act”),
+Designs and Patents Act 1988[^uk_4] (referred to as the “Copyright Act”),
 as updated and amended from time to time. In particular, the Copyright
-(Computer Programs) Regulations 1992[^5] implemented the Council
+(Computer Programs) Regulations 1992[^uk_5] implemented the Council
 Directive of 14 May 1991 on the Legal Protection of computer programs
-(91/250/EEC)[^6] into United Kingdom law (referred to as the “Software
+(91/250/EEC)[^uk_6] into United Kingdom law (referred to as the “Software
 Directive”).
 
 ### Copyright Act: Object of protection
@@ -51,8 +51,8 @@ copyright protection of computer software as applied to literary works.
 Thus, only original computer programs benefit from copyright protection.
 This means that the computer program needs to be an intellectual
 creation of its author, or, if the program is a computer-generated work
-itself[^7], the person who made the arrangements necessary for the
-creation of the work[^8].
+itself[^uk_7], the person who made the arrangements necessary for the
+creation of the work[^uk_8].
 
 In terms of section 1 of the Act, copyright is a right of property. It
 is incorporeal in nature and therefore copyright falls to be regarded as
@@ -65,7 +65,7 @@ English law and Northern Irish Law) incorporeal personal property.
 The Copyright Act provides that the copyrights in a work belong to the
 author, unless the author is an employee who created the work “in the
 course of his employment” in which case it belongs to the employer,
-unless there is an agreement to the contrary[^9]. There is a significant
+unless there is an agreement to the contrary[^uk_9]. There is a significant
 body of case law determining the meaning of "in the course of his
 employment" and "employer" in the context of employment and tax law
 cases, and it is assumed that these cases would be followed in a
@@ -78,7 +78,7 @@ the contract for services sets out explicitly that the ownership in the
 software shall be assigned to the entity engaging the contractor’s
 services, the entity will not obtain the copyright in the software, and
 will, instead, obtain some form of implied licence, the scope of which
-is unclear.[^10]
+is unclear.[^uk_10]
 
 ### Exclusive rights
 
@@ -108,7 +108,7 @@ can be argued that this includes running a program that presents an
 output on the screen. Equally, this could be covered by 20(2)(b) which
 includes "the making available to the public of the work by electronic
 transmission that members of the public may access it from a place and
-at a time individually chosen by them"[^11]
+at a time individually chosen by them"[^uk_11]
 
 Section 18(1) deals with exhaustion of distribution rights: the
 restricted act of issuing copies to the public only applies in relation
@@ -129,7 +129,7 @@ expressed to be making an adaptation (section 21(4)).
 
 Lawful users of computer programs are guaranteed the following rights
 (which are neither an infringement of copyright, nor a breach of any
-term of a contract purporting to restrict them[^12])
+term of a contract purporting to restrict them[^uk_12])
 
 (a) The making of backup copies (to the extent they are necessary)
 
@@ -141,22 +141,22 @@ term of a contract purporting to restrict them[^12])
 
 (1) In the absence of specific contractual provisions, no authorization
 by the rightholder is required for acts necessary for the use (including
-copying or adapting[^13]) of the computer program by the lawful acquirer
-or for error correction[^14].
+copying or adapting[^uk_13]) of the computer program by the lawful acquirer
+or for error correction[^uk_14].
 
 (2) A lawful user of a computer program may not be prevented from making
 any backup copy, insofar as that copy is necessary to use the
-program[^15].
+program[^uk_15].
 
 (3) A lawful user of a copy of a computer program is entitled, without
 the authorization of the rightholder, to observe, study or test the
 functioning of the program in order to determine the ideas and
 principles which underlie any element of the program if he does so while
 performing any of the acts of loading, displaying, running, transmitting
-or storing the program which he is entitled to do[^16]. This right may
+or storing the program which he is entitled to do[^uk_16]. This right may
 not be excluded by contract.
 
-The decompilation right in the Act[^17] essentially echoes Article 6 of
+The decompilation right in the Act[^uk_17] essentially echoes Article 6 of
 the Directive. It may not be excluded by contract, but is subject to
 conditions. The decompilation must be necessary to obtain information
 necessary to create an interoperable program, and that information may
@@ -177,12 +177,12 @@ because their scope is unclear.
 ### Moral rights
 
 Software is not subject to moral rights under United Kingdom law (and
-neither are computer generated works)[^18].
+neither are computer generated works)[^uk_18].
 
 ### Term of protection
 
 The same term as for works of literature and art applies: 70 years as
-from the 1st January in the year following the death of the author[^19].
+from the 1st January in the year following the death of the author[^uk_19].
 However, if the work is computer generated, copyright expires at the end
 of the period 50 years from the end of the calendar year in which the
 work was made. In practice, although the object code created by a
@@ -190,17 +190,17 @@ compiler is a computer generated work, since it is also an adaptation of
 a literary work (the original source code), the licence of the
 rightholder in the source code would still be required for the duration
 of the copyright in the underlying source code, even if the copyright in
-the object code *qua* computer generated work had expired[^20].
+the object code *qua* computer generated work had expired[^uk_20].
 
 Where the authors are joint, the reference to the death of an author
-should be construed as the death of the last remaining author[^21].
+should be construed as the death of the last remaining author[^uk_21].
 
 ### Copyright assignment and assignation
 
 As we have seen, in the absence of any agreement to the contrary, any
 copyright work created by an employee for an employer in the course of
 the employee’s employment is automatically owned by the employer,
-without any additional formality.[^22] However, because there may be
+without any additional formality.[^uk_22] However, because there may be
 circumstances where it is not clear when the employee is acting within
 the course of his employment (for example, at home, in his own time, or
 on a project other than the one he was employed to work on) it is not
@@ -216,14 +216,14 @@ the work comes into existence is through the work of the employee.
 In all cases where copyright belongs to one person or entity and is
 sought to be transferred to another, to effect that transfer there
 requires to be a written assignment or assignation, signed by the rights
-holder.[^23] However, no special form of words is required, nor is any
+holder.[^uk_23] However, no special form of words is required, nor is any
 special formality of execution or deed (such as a probative, or
 self-proving deed, though, of course such formal execution, though
 unusual, would not be excluded). Similarly, and whatever the experience
 in certain European jurisdictions may be, notaries are never used. Like
 any other business document, all that is needed is a simple document in
 writing, however informally expressed, and merely signed by the granter.
-[^24] Some commentators have suggested that a contract (or deed) is a
+[^uk_24] Some commentators have suggested that a contract (or deed) is a
 necessary formality for an assignment to be enforceable (e.g. PLC).
 Howewer, the different requirements of Scots law regarding unilateral
 obligation make it less likely that a contract or formal deed would be
@@ -249,7 +249,7 @@ required under Scots law.
 It is possible to make partial assignment of a work: any of the
 exclusive rights granted to the copyright owner can be assigned
 separately. It is also possible to assign some or all of these rights
-for a limited period of time[^25]. Section 36(2)(b) of the predecessor
+for a limited period of time[^uk_25]. Section 36(2)(b) of the predecessor
 legislation, the Copyright Act 1956, expressly permitted the assignment
 of rights in other countries in which the copyright holder had such
 rights. No such specific provision appears in the current Copyright Act,
@@ -259,14 +259,14 @@ effective in respect of those rights.
 It is also possible to assign prospective copyright in a future, but
 currently non-existent work, such that when the work comes into
 existence, the assignment or assignation will automatically take
-effect[^26].
+effect[^uk_26].
 
 The assignment or assignation of software is treated exactly like the
 assignment or assignation of all other literary works.
 
 In addition to assignment or assignation, ownership of copyright can
 also be transmitted by testamentary disposition (i.e. by will) or by
-operation of law[^27] “Operation of law” may be, for example, succession
+operation of law[^uk_27] “Operation of law” may be, for example, succession
 according to the rules of intestate succession, or passing to an
 administrator, receiver or liquidator of a company or a trustee in
 bankruptcy. Although the principle of such transmission is common to all
@@ -286,10 +286,10 @@ matters.
 
 A "technical device" is any device intended to prevent or restrict acts
 that are not authorised by the copyright owner of that work and are
-restricted by copyright[^28]. The definition is used in relation to
+restricted by copyright[^uk_28]. The definition is used in relation to
 computer programs. The Copyright Act has a similar definition for
 "technological measures", which apply to copyright works other than a
-computer program[^29]. Computer programs and other copyright works are
+computer program[^uk_29]. Computer programs and other copyright works are
 treated slightly differently in this regard (note that the bundle of
 files containing what would colloquially be described as a computer
 program may consist of files which are computer programs within the
@@ -306,7 +306,7 @@ publishes information which is intended to assist people in
 circumventing it, then that person is liable for a copyright
 infringement claim from any of (a) the distributor of the software; (b)
 the exclusive licensee; or (c) the owner or exclusive licensee of the
-technical device.[^30]
+technical device.[^uk_30]
 
 Similarly, where effective technological measures have been applied to a
 copyright work which is not a computer program, if a person circumvents
@@ -314,14 +314,14 @@ those measures knowing, or having reasonable grounds to know that he is
 circumventing them, then the owner or exclusive licensee of the
 underlying copyright work has the same rights as against the person
 circumventing as if he were an infringer of the copyright in that
-work[^31]. There is an exception for people undertaking cryptographic
+work[^uk_31]. There is an exception for people undertaking cryptographic
 research, so long as the rights of the underlying copyright owner are
-not prejudiced[^32]. A person unlawfully removing or altering
-“electronic rights management information” is similarly liable[^33].
+not prejudiced[^uk_32]. A person unlawfully removing or altering
+“electronic rights management information” is similarly liable[^uk_33].
 Likewise, if a device or service for circumvention of a technological
 measure is manufactured, supplied etc., then the copyright owner,
 exclusive licensee and owner of the effective technological measure have
-similar rights against the manufacturer, supplier etc[^34].
+similar rights against the manufacturer, supplier etc[^uk_34].
 
 ### Enforcement measures
 
@@ -344,18 +344,18 @@ these are:
 
 It will be noted that the above offences are all connected with
 commercial activities. In each case, an infringing copy is a copy which
-infringes copyright, and which the defendant[^35] knows or has reason to
-believe infringes copyright[^36].
+infringes copyright, and which the defendant[^uk_35] knows or has reason to
+believe infringes copyright[^uk_36].
 
 There is an offence, intended to criminalise uploading, which applies
 where a person, otherwise than in the course of a business, distributes
 an infringing copy to such an extent as to affect prejudicially the
-owner of the copyright[^37].
+owner of the copyright[^uk_37].
 
 There is a further offence of making or possessing an article designed
 or adapted to make copies of a particular copyright work, where the
 defendant knows or has reason to believe that it may be used to make
-infringing copies for sale or hire in the course of a business[^38].
+infringing copies for sale or hire in the course of a business[^uk_38].
 
 It is quite difficult to bring a prosecution under this latter
 provision, as the article in question must be making the copies, and its
@@ -366,7 +366,7 @@ definition.
 It is an offence to communicate an infringing copy to the public in the
 course of a business, or where the interests of the copyright owner are
 prejudiced, where the defendant knows or has reason to believe that the
-communication infringes copyright[^39]. This offence is intended to
+communication infringes copyright[^uk_39]. This offence is intended to
 cover streaming. Operators of content linking sites may also find
 themselves liable for conspiracy to defraud (R. v. Vickerman, 2012).
 
@@ -374,7 +374,7 @@ Although it may be assumed that Parliament intended the scope of
 Criminal Offences to be exhaustively set out in the Copyright Act (note,
 for example, that there is no offence related to non-commercial
 downloading of copyright materials), a zealous private prosecutor has
-succeeded in a successful prosecution for conspiracy to defraud.[^40]
+succeeded in a successful prosecution for conspiracy to defraud.[^uk_40]
 
 More recently, in implementation of WIPO Treaty Obligations and EU
 Directives, secondary legislation introduced the idea of “technical
@@ -384,13 +384,13 @@ above). It is an offence to manufacture for sale or hire, supply or
 advertise commercially, possess or distribute commercially (or
 distribute non-commercially if this prejudicially affects the rights of
 the copyright owner) anything which is primarily intended for enabling
-or facilitating circumvention[^41]. However, there are no criminal
+or facilitating circumvention[^uk_41]. However, there are no criminal
 offences associated with the unauthorised removal of technical devices.
 
 The law also provides a number of remedies to copyright owners,
 exclusive licensees, and in certain cases people authorised by those
 rights holders, to facilitate the delivery up and/or seizure of
-infringing materials[^42].
+infringing materials[^uk_42].
 
 HM Revenue and Customs also has certain duties in relation to the
 impounding and seizure of goods which are imported into the United
@@ -398,7 +398,7 @@ Kingdom and which infringe certain intellectual property rights. They
 have confirmed informally that a copyright holder of firmware contained
 in embedded devices may potentially invoke these powers where the
 firmware has been released under the GPL, but the relevant conditions of
-the GPL are not being complied with[^43].
+the GPL are not being complied with[^uk_43].
 
 Unprotected software, public domain software and orphan works
 -------------------------------------------------------------
@@ -426,7 +426,7 @@ unrestricted, irrevocable licence, expressed as a deed poll for the
 benefit of all third parties, coupled with a promise not to sue for
 infringement would be provide an equivalent to a dedication to the
 public domain. In Scots Law a similar mechanism could be used, though
-without the need for a deed poll.[^44]
+without the need for a deed poll.[^uk_44]
 
 Another option available in English Law would be to license the software
 as part of a contract, explicitly extending the licence irrevocably to
@@ -446,7 +446,7 @@ recognised at common law in Scotland as conferring upon the third
 parties a *ius quaesitum tertio* enabling them to rely upon the terms of
 the licence. Scots Law does not require there to be consideration before
 there can be a contract, so there would be no need to invoke principles
-of personal bar.[^45] However, since a simple unilateral promise would
+of personal bar.[^uk_45] However, since a simple unilateral promise would
 be effective in Scots Law, there seems little point in venturing into
 the additional complications of bilateral contracts with a *ius
 quaesitum tertio*.
@@ -515,7 +515,7 @@ obliged to maintain the licence, and may therefore withdraw the licence
 on notice to the licensee. However, by analogy with real property law,
 it is arguable under English Law that once a licensee has relied on the
 grant of a bare licence to his detriment, the licensee can invoke the
-principle of promissory estoppel[^46] to restrain the licensor from
+principle of promissory estoppel[^uk_46] to restrain the licensor from
 withdrawing the licence.
 
 Free and open source software licences are generally characterised under
@@ -609,7 +609,7 @@ for example, assignation or testamentary bequest). In Joint property,
 there is a single indivisible ownership of the whole, and such burdening
 or alienation by one of the proprietors is not possible. Under modern
 conditions, common property is the norm and Joint property is restricted
-to ownership by a body of trustees[^47] or the members of an
+to ownership by a body of trustees[^uk_47] or the members of an
 unincorporated association.
 
 Of course, an assignation of a (say) one third *pro indiviso* share in
@@ -642,7 +642,7 @@ co-ownership in open source.
 
 By contributing to a pre-existing work by creating new modules or
 modifying or amending it, subsequent authors are creating a derivative
-work[^48] of the underlying work, and therefore, the licence of the
+work[^uk_48] of the underlying work, and therefore, the licence of the
 original author will be required both to amend it and to subsequently
 exploit it (open source licences will grant these rights).
 
@@ -670,10 +670,10 @@ document signed by the assignor.
 FOSS originated in the United States, and therefore attaches less
 importance to the moral rights of the author. The Open Source Definition
 specifies that the author of software distributed under a FOSS license
-cannot oppose the use of the software by certain people and groups[^49]
-or for certain areas of application[^50].
+cannot oppose the use of the software by certain people and groups[^uk_49]
+or for certain areas of application[^uk_50].
 
-Computer programs *per se* do not attract moral rights[^51]. However,
+Computer programs *per se* do not attract moral rights[^uk_51]. However,
 related materials, to the extent that they are still literary works, may
 attract protection by way of moral rights (if they are created by
 independent contractors or other individuals who are not employees).
@@ -694,7 +694,7 @@ Under English law, FOSS licences are best understood as bare licences,
 and as such may provide a defence to a claim of copyright infringement,
 but, under English Law, no one is able to commence a claim under the
 FOSS licence itself. However this point has not been judicially
-determined in the United Kingdom[^52].
+determined in the United Kingdom[^uk_52].
 
 Under Scots Law, however, there is no obvious impediment to the owner of
 the copyright seeking to bring proceedings against a licensee for breach
@@ -709,7 +709,7 @@ attached to the grant of the permission, the right to enforce those
 conditions will go with the ownership of the copyright. It follows
 therefore that the copyright may be assigned to another without the need
 for a separate assignation of the supposed “right” to enforce the
-copyright.[^53]
+copyright.[^uk_53]
 
 Another way of looking at the issue (and, it may be, from the English
 Law perspective) a better question is whether a FOSS licence can provide
@@ -764,7 +764,7 @@ licensee will receive a licence from all prior authors in the tree. GPL
 version 3, for instance, contains the following clause: “Each time you
 convey a covered work, the recipient automatically receives a license
 from the original licensors, to run, modify and propagate that work,
-subject to this License[^54]
+subject to this License[^uk_54]
 
 #### Validity of the FOSS licence as a contract
 
@@ -826,7 +826,7 @@ explicitly accepted. Having to click and confirm every time could in
 some cases interfere with the use of the software. The Open Source
 Definition opposes demanding explicit agreement with the licence
 conditions with the aim of confirming the agreement between licensor and
-licensee[^55].
+licensee[^uk_55].
 
 The question is whether in these cases a valid licence is granted. In
 other words, as we have seen before, is a user of the software under a
@@ -886,7 +886,7 @@ tertio*.
 Further, under insolvency legislation, insolvency practitioners
 administering the affairs of an insolvent individual or company are
 granted certain powers to terminate unprofitable or onerous contracts,
-which may include FOSS licences granted under contract[^56]. Similar
+which may include FOSS licences granted under contract[^uk_56]. Similar
 provisions apply in Scotland.
 
 ### Waiver and liability
@@ -909,24 +909,24 @@ if there is, it may well be the case that such a contract is not in the
 course of business.
 
 It is theoretically possible that an author could be liable to a
-licensee in tort including negligence[^57]. However, it is generally
+licensee in tort including negligence[^uk_57]. However, it is generally
 difficult in English and Scots law for a person to claim for
 non-physical (i.e. pure economic) loss unless there is some sort of
 connection between the two parties where it is reasonable for one party
-to rely on the other’s knowledge and expertise.[^58]
+to rely on the other’s knowledge and expertise.[^uk_58]
 
 Typically, FOSS licenses contain strong exclusion clauses, which attempt
-to discharge the author from all liability[^59]. One reason for this is
+to discharge the author from all liability[^uk_59]. One reason for this is
 that FOSS is often made available without a fee, as a result of which
 the author generates insufficient income to pay for liability insurances
-and legal costs[^60]. Another is a simple principle of fairness in that
+and legal costs[^uk_60]. Another is a simple principle of fairness in that
 programmer should not be asked to accept liability for something when
 she has no control over the distribution of it.
 
 Although this reasoning is certainly valid for the amateur programmer,
 it applies much less for professional programmers who built their
-business model around FOSS[^61]. Professional suppliers of FOSS or
-related services often provide warranties and indemnities[^62]. There is
+business model around FOSS[^uk_61]. Professional suppliers of FOSS or
+related services often provide warranties and indemnities[^uk_62]. There is
 no reason, in principle, why a person may not warrant the performance of
 another person’s software (or indeed its title). However, care should be
 taken to ensure that such a business does not become an unlawful
@@ -951,7 +951,7 @@ the software was specifically provided for use where its failure might
 cause death or personal injury, the exclusions of liability contained in
 the licence would not apply.
 
-Perhaps anomalously, if the FOSS licence is found to be a contract[^63],
+Perhaps anomalously, if the FOSS licence is found to be a contract[^uk_63],
 the Unfair Contract Terms Act applies somewhat differently. The rule
 about inability to exclude liability for death and personal injury
 arising from negligence remains, but the reasonableness test in respect
@@ -992,20 +992,20 @@ The Consumer Protection Act 1987 (“CPA”) implements the directive
 85/374/EEC. UK Government guidance suggests that software is a product
 for the purposes of the Act, and that the producer of software may find
 himself strictly liable where software finds itself into the supply
-chain of a dangerous product[^64]. However, the CPA does provide a
+chain of a dangerous product[^uk_64]. However, the CPA does provide a
 defence to a provider of a dangerous component where that component was
-supplied free and not with a view to a profit.[^65]
+supplied free and not with a view to a profit.[^uk_65]
 
 ### The copyleft principle
 
 #### Principle
 
-A characteristic found in different (but not all[^66]) FOSS licenses is
+A characteristic found in different (but not all[^uk_66]) FOSS licenses is
 the so-called “copyleft” principle. FOSS licenses which incorporate the
-copyleft principle[^67], lay down the principle that everyone in the
+copyleft principle[^uk_67], lay down the principle that everyone in the
 chain of consecutive users, as a condition of the grant of the right of
 use of the software, needs to distribute the improvements he makes to
-the software and the derivative[^68] works he makes under the same
+the software and the derivative[^uk_68] works he makes under the same
 conditions to other users, if he chooses to distribute such improvements
 or derivative works. In other words, software which incorporates
 copyleft FOSS, needs to be distributed in turn as copyleft FOSS.
@@ -1013,7 +1013,7 @@ copyleft FOSS, needs to be distributed in turn as copyleft FOSS.
 The copyleft principle is restrictive. Businesses which rely on licence
 revenue as an income stream will find that they cannot incorporate third
 party code released under a copyleft licence into their proprietary
-offering. It is also restrictive, in that with few exceptions[^69], it
+offering. It is also restrictive, in that with few exceptions[^uk_69], it
 is not possible to combine software under two different copyleft
 licences and then distribute them. The reason for this is that both
 copyleft licences will insist on the resulting software being released
@@ -1036,8 +1036,8 @@ implement will generally be granted, the court’s discretion to refuse it
 being limited to cases where to grant the remedy would give rise to
 exceptional hardship, where the obligation is for the payment of money,
 where the contract, if specific implement were granted would result in
-the creation of an intimate relationship[^70], where compliance would be
-impossible[^71] and where the court cannot enforce the decree[^72]. In
+the creation of an intimate relationship[^uk_70], where compliance would be
+impossible[^uk_71] and where the court cannot enforce the decree[^uk_72]. In
 those cases where specific performance or specific implement was not
 granted, it is likely that there would be the grant of an injunction,
 or, in Scotland, an interdict to prevent distribution of the infringing
@@ -1070,7 +1070,7 @@ economic value, especially where the work in question is made available
 free of charge. This is where dual licensing can assist the claimant: if
 the software is also made available under a proprietary licence for
 which a fee is charged, then the court may be persuaded that this is the
-appropriate fee on which to base damages for infringement[^73].
+appropriate fee on which to base damages for infringement[^uk_73].
 
 Statutory damages such as dual or triple damages are not available under
 English or Scots law. However, under English law, punitive and exemplary
@@ -1149,13 +1149,13 @@ derivative works of it (in the case of copyleft software) to make those
 derivative works available under a similar licence. The court will also
 apply a balance of convenience test to determine whether the grant of an
 injunction pending the trial will, on balance, benefit the claimant more
-that it harms the defendant[^74].
+that it harms the defendant[^uk_74].
 
 A useful additional remedy is the forfeiture of infringing articles.
 Furthermore, if, there is perceived to be a risk that evidence may be
 destroyed (for example hard discs scrubbed) then a useful weapon is,
 again on an *ex parte* application, the granting of a search order for
-the seizure and securing of evidence[^75]. The English civil law system
+the seizure and securing of evidence[^uk_75]. The English civil law system
 is adversarial as opposed to inquisitorial, and the judge decides on the
 basis of the arguments put by the parties' lawyers (usually, in court
 cases, barristers). However, the English High Court possesses a division
@@ -1201,12 +1201,12 @@ areas with which this Chapter is concerned, the Sheriff Court’s
 Jurisdiction is, effectively, co-existensive with that of the Court of
 Session.
 
-The Court of Session is the supreme civil Court in Scotland[^76] and is
+The Court of Session is the supreme civil Court in Scotland[^uk_76] and is
 divided into the Outer House (the equivalent of the High Court in
 England) which hears cases at first instance, and the Inner House (the
 equivalent of the Court of Appeal in England) which hears Appeals from
 both the Outer House and the Sheriff Court. The standard form of
-litigation in the Outer House is by way of an Ordinary Action[^77]
+litigation in the Outer House is by way of an Ordinary Action[^uk_77]
 though there is also available a special Intellectual Property Action
 procedure and a special Commercial Action procedure. Because a case
 concerns intellectual property and might competently be heard under the
@@ -1218,7 +1218,7 @@ as a commercial action.
 There are both Intellectual Property Judges and Commercial judges, but
 neither of these types of specialist judges are allocated only cases in
 the areas in which they specialise. There is a heavy demand on judicial
-time in Scotland, and all of the Senators of the College of Justice[^78]
+time in Scotland, and all of the Senators of the College of Justice[^uk_78]
 are liable to find themselves doing anything. Thus, intellectual
 property judges can find themselves hearing, say, road accident or
 medical negligence cases, or divorces, or cases about the more arcane
@@ -1304,8 +1304,8 @@ The Scottish civil law system shares with the English system the
 characteristic of being adversarial as opposed to inquisitorial, and the
 judge decides the case on the basis of the arguments put by the parties'
 lawyers. If the case is being conducted in the Court of Session, this
-will usually be an Advocate[^79] though may also be a
-Solicitor-Advocate[^80] and if the case is being conducted in the
+will usually be an Advocate[^uk_79] though may also be a
+Solicitor-Advocate[^uk_80] and if the case is being conducted in the
 Sheriff Court, may be an Advocate but is rather more likely to be a
 Solicitor.
 
@@ -1342,7 +1342,7 @@ in such a case would be mandatory.
 -   Stephen Mason, general editor, Electronic Evidence (3rd edition,
     LexisNexis Butterworths, 2012)
 
-[^1]: The continued existence of Scots law as a separate system was
+[^uk_1]: The continued existence of Scots law as a separate system was
     guaranteed by the Act of Union of 1707, which united the previously
     separate nations of Scotland and of England. The historical roots of
     Scots law lie in an admixture of a Roman-Dutch system (generations
@@ -1353,7 +1353,7 @@ in such a case would be mandatory.
     common heritage, and are substantially similar, though some minor
     differences can occur.
 
-[^2]: The United Kingdom consists of England, Wales, Scotland and
+[^uk_2]: The United Kingdom consists of England, Wales, Scotland and
     Northern Ireland, and three distinct legal jurisdictions: England
     and Wales, Scotland and Northern Ireland. The law in effect in
     England and Wales is called “English law” throughout England and
@@ -1378,30 +1378,30 @@ in such a case would be mandatory.
     the European Union, and have their own legal systems and laws. They
     are not covered by this Chapter.
 
-[^3]: An Act for the Encouragement of Learning, by vesting the Copies of
+[^uk_3]: An Act for the Encouragement of Learning, by vesting the Copies of
     Printed Books in the Authors or purchasers of such Copies during the
     Timed therein mentioned (8 Anne c 19)
 
-[^4]: <http://www.opsi.gov.uk/acts/acts1988/ukpga_19880048_en_1.htm>
+[^uk_4]: <http://www.opsi.gov.uk/acts/acts1988/ukpga_19880048_en_1.htm>
 
-[^5]: 1992 SI 3233
+[^uk_5]: 1992 SI 3233
 
-[^6]: Re-enacted as 2009/24/EC
+[^uk_6]: Re-enacted as 2009/24/EC
 
-[^7]: Defined by the Copyright Act, s. 178 as “…emptygenerated by
+[^uk_7]: Defined by the Copyright Act, s. 178 as “…emptygenerated by
     computer in circumstances such that there is no human author of the
     work”
 
-[^8]: Copyright Act s. 9(3)
+[^uk_8]: Copyright Act s. 9(3)
 
-[^9]: Copyright Act s 11(2)
+[^uk_9]: Copyright Act s 11(2)
 
-[^10]: The courts will occasionally intervene to correct manifest
+[^uk_10]: The courts will occasionally intervene to correct manifest
     injustice: for example, Griggs and Others v. Evans and Others (2005)
     EWCA (Civ) 11, and Destra Software Ltd v Comada (UK) LLP and others
     (2013) EWHC 1575 (Pat), 11 June 2013 but cases like this are unusual
 
-[^11]: One the one hand, it is arguable that the output of a program
+[^uk_11]: One the one hand, it is arguable that the output of a program
     (e.g. on a screen) is a separate and independent copyright work,
     created by running the instructions contained in the program. On the
     other hand, running a program is in some sense “performing it” as is
@@ -1409,27 +1409,27 @@ in such a case would be mandatory.
     fairly academic, since in either case, the program will undoubtedly
     be copied in the act of running it.
 
-[^12]: Copyright Act, Sections 50A,B,C
+[^uk_12]: Copyright Act, Sections 50A,B,C
 
-[^13]: Copyright Act, Section 50C(1)
+[^uk_13]: Copyright Act, Section 50C(1)
 
-[^14]: Copyright Act, Section 50C(2)
+[^uk_14]: Copyright Act, Section 50C(2)
 
-[^15]: Copyright Act, Section 50A
+[^uk_15]: Copyright Act, Section 50A
 
-[^16]: Copyright Act, Section 50BA
+[^uk_16]: Copyright Act, Section 50BA
 
-[^17]: Copyright Act, Section 50B
+[^uk_17]: Copyright Act, Section 50B
 
-[^18]: Copyright Act, Sections 79 and 80
+[^uk_18]: Copyright Act, Sections 79 and 80
 
-[^19]: Copyright Act, Section 12 (2)
+[^uk_19]: Copyright Act, Section 12 (2)
 
-[^20]: Copyright Act, Section 12
+[^uk_20]: Copyright Act, Section 12
 
-[^21]: Copyright Act, Section 12 (8)
+[^uk_21]: Copyright Act, Section 12 (8)
 
-[^22]: The term used in England and Northern Ireland is “Assignment” and
+[^uk_22]: The term used in England and Northern Ireland is “Assignment” and
     the term used in Scotland is “Assignation”. The difference is
     entirely one of terminology and not of substance. The substance is
     the same in all jurisdictions, even to the extent that a Scottish
@@ -1440,97 +1440,97 @@ in such a case would be mandatory.
     word used in the Copyright Act, but the interpretation section
     (section 177) defines “assignment” so as to include assignation.
 
-[^23]: Copyright Act, Section 90(3)
+[^uk_23]: Copyright Act, Section 90(3)
 
-[^24]: It does not necessarily follow that the document requires to be
+[^uk_24]: It does not necessarily follow that the document requires to be
     written on paper nor that the signature cannot be an electronic one,
     but a detailed discussion of this topic lies outwith the scope of
     the present work.
 
-[^25]: Section 90(2)
+[^uk_25]: Section 90(2)
 
-[^26]: Section 91
+[^uk_26]: Section 91
 
-[^27]: Section 90(1)
+[^uk_27]: Section 90(1)
 
-[^28]: Section 296(6)
+[^uk_28]: Section 296(6)
 
-[^29]: Section 296ZF
+[^uk_29]: Section 296ZF
 
-[^30]: Section 296
+[^uk_30]: Section 296
 
-[^31]: Section 296ZA
+[^uk_31]: Section 296ZA
 
-[^32]: Section 296ZA (2)
+[^uk_32]: Section 296ZA (2)
 
-[^33]: Section 296ZG
+[^uk_33]: Section 296ZG
 
-[^34]: Section 296ZD
+[^uk_34]: Section 296ZD
 
-[^35]: In Scotland “defender”
+[^uk_35]: In Scotland “defender”
 
-[^36]: Section 107(1)
+[^uk_36]: Section 107(1)
 
-[^37]: Section 107(1)(e)
+[^uk_37]: Section 107(1)(e)
 
-[^38]: Section 107(2)
+[^uk_38]: Section 107(2)
 
-[^39]: Section 107 (2A)
+[^uk_39]: Section 107 (2A)
 
-[^40]: R v Vickerman 2012 unreported
+[^uk_40]: R v Vickerman 2012 unreported
 
-[^41]: Section 296ZB
+[^uk_41]: Section 296ZB
 
-[^42]: Sections 99, 100 and for example 296(4)
+[^uk_42]: Sections 99, 100 and for example 296(4)
 
-[^43]: <http://customs.hmrc.gov.uk/channelsPortalWebApp/downloadFile?contentID=HMCE_CL_000244>
+[^uk_43]: <http://customs.hmrc.gov.uk/channelsPortalWebApp/downloadFile?contentID=HMCE_CL_000244>
 
-[^44]: Scots law, following Roman law recognises the binding legal
+[^uk_44]: Scots law, following Roman law recognises the binding legal
     effect of a unilteral promise without further formality, and, in any
     event there are no such things as Deed Polls in Scots Law.
 
-[^45]: Personal bar is the equivalent principle in Scotland to estoppel
+[^uk_45]: Personal bar is the equivalent principle in Scotland to estoppel
     in England.
 
-[^46]: *Central London Property Trust Ltd v High Trees House Ltd* (1947)
+[^uk_46]: *Central London Property Trust Ltd v High Trees House Ltd* (1947)
     KB 130
 
-[^47]: It is worth pointing out that neither joint ownership nor common
+[^uk_47]: It is worth pointing out that neither joint ownership nor common
     ownership of itself creates a trust so the mere fact that property
     in one thing is held by a number of owners does not automatically
     mean that they are Trustees.
 
-[^48]: “Derivative work” has no statutory definition in UK law, and is
+[^uk_48]: “Derivative work” has no statutory definition in UK law, and is
     used in this chapter as shorthand for “a work based on a
     pre-existing work to the extent that exploitation of the new work
     will require the licence of the owner of the pre-existing work”. An
     adaptation (as defined in Section 21) will be a derivative work
     within this definition.
 
-[^49]: OSD Clause 5.
+[^uk_49]: OSD Clause 5.
 
-[^50]: OSD Clause 6. Bruce Perens indicates, e.g., that an author of
+[^uk_50]: OSD Clause 6. Bruce Perens indicates, e.g., that an author of
     FOSS cannot provide a clause that prohibits the use of the software
     by regimes such as the former South African apartheids regime (B.,
     PERENS, “The FOSS Definition”, <http://perens.com/OSD.html>).
 
-[^51]: Sections 79 and 80
+[^uk_51]: Sections 79 and 80
 
-[^52]: For judicial discussion of this point in the United States, see
+[^uk_52]: For judicial discussion of this point in the United States, see
     *Jacobsen v. Katzer*
     \[<http://www.cafc.uscourts.gov/opinions/08-1001.pdf>
 
-[^53]: There is no case in Scotland directly dealing with FOSS licences,
+[^uk_53]: There is no case in Scotland directly dealing with FOSS licences,
     but there is a useful (albeit *obiter dicta*) analysis in a case
     concerning proprietary software: *Profile Software Ltd v. Becogent
     Ltd (2005) ScotCS CSOH\_28 (16 February 2005)*. The same principles
     will apply to FOSS licences.
 
-[^54]: GNU GENERAL PUBLIC LICENSE (GPL) version 3, article 10,
+[^uk_54]: GNU GENERAL PUBLIC LICENSE (GPL) version 3, article 10,
     [http://www.gnu.org/copyleft/gpl.html.\]&\#8221](http://www.gnu.org/copyleft/gpl.html.</simpara></footnote>&#8221);
     and GPL version 2: “each time you redistribute the Program (or any
     work based on the Program), the recipient automatically receives a
-    license from the original licensor”[^81].
+    license from the original licensor”[^uk_81].
 
     In this way the user of the software obtains a license from all
     authors in the tree.
@@ -1550,7 +1550,7 @@ in such a case would be mandatory.
     effect may be. However, one consequence may be that under English
     Law, if a licensor successfully argues that he can withdraw a bare
     licence on notice (and the doctrine of promissory estoppel is found
-    inapplicable)[^82], then a licensee under a sub-licence (which was
+    inapplicable)[^uk_82], then a licensee under a sub-licence (which was
     granted when the original licence was still in force) will be better
     protected against withdrawal than a licensee receiving a number of
     parallel licences, one of which is withdrawn. It is also the case
@@ -1560,15 +1560,15 @@ in such a case would be mandatory.
     parallel licences, as opposed to their being one licence between the
     licensor and the licensee.
 
-[^55]: OSD Clause 10.
+[^uk_55]: OSD Clause 10.
 
-[^56]: Insolvency Act 1986
+[^uk_56]: Insolvency Act 1986
 
-[^57]: Or, in Scotland, delict or negligence.
+[^uk_57]: Or, in Scotland, delict or negligence.
 
-[^58]: *Caparo Industries plc v Dickman* (1990) 2 AC 605
+[^uk_58]: *Caparo Industries plc v Dickman* (1990) 2 AC 605
 
-[^59]: See e.g., the BSD license
+[^uk_59]: See e.g., the BSD license
     (<http://www.opensource.org/licenses/bsd-license>): “THIS SOFTWARE
     IS PROVIDED BY &lt;copyright holder&gt; **AS IS** AND ANY EXPRESS OR
     IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
@@ -1582,29 +1582,29 @@ in such a case would be mandatory.
     NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
     SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.”
 
-[^60]: B., PERENS, “The Open Source Definition”, *Open Sources: Voices
+[^uk_60]: B., PERENS, “The Open Source Definition”, *Open Sources: Voices
     from the Open Source Revolution*, <http://perens.com/OSD.html>.
 
-[^61]: See e.g., M., OLSON, “Dual Licensing”, in *Open Sources 2.0: The
+[^uk_61]: See e.g., M., OLSON, “Dual Licensing”, in *Open Sources 2.0: The
     Continuing Evolution* (Ed. C., DiBona, D., Cooper and M., Stone),
     O’Reilly, 2006, p. 35.
 
-[^62]: The GNU General Public License expressly allows this (GPL v. 2,
+[^uk_62]: The GNU General Public License expressly allows this (GPL v. 2,
     art. 11; GPL v. 3, art. 7).
 
-[^63]: An outcome which may be more likely in Scotland than in England
+[^uk_63]: An outcome which may be more likely in Scotland than in England
 
-[^64]: <http://www.bis.gov.uk/files/file22866.pdf>
+[^uk_64]: <http://www.bis.gov.uk/files/file22866.pdf>
 
-[^65]: Consumer Protection Act 1987 Section 4(c)
+[^uk_65]: Consumer Protection Act 1987 Section 4(c)
 
-[^66]: Neither the principles (freedoms) of the Free Software movement,
+[^uk_66]: Neither the principles (freedoms) of the Free Software movement,
     nor the Open Source Definition mandate the copyleft clause. Many
     FOSS licenses do not contain a copyleft clause. Examples are the
     Berkeley Software Distribution (BSD) license and the Academic Free
     License.
 
-[^67]: E.g., GPL version 3 Art. 5 stipulates: “You must license the
+[^uk_67]: E.g., GPL version 3 Art. 5 stipulates: “You must license the
     entire work, as a whole, under this License to anyone who comes into
     possession of a copy. This License will therefore apply, along with
     any applicable section 7 additional terms, to the whole of the work,
@@ -1617,47 +1617,47 @@ in such a case would be mandatory.
     whole at no charge to all third parties under the terms of this
     License”.
 
-[^68]: It has been argued that some licences, for example the GPL, try
+[^uk_68]: It has been argued that some licences, for example the GPL, try
     to impose obligations which impose on works which are connected with
     the relevant work in a way which is more remote than a derivative
     work: for example, through linking. This issue is beyond the scope
     of this chapter.
 
-[^69]: The European Union Public Licence, for example, permits
+[^uk_69]: The European Union Public Licence, for example, permits
     re-licensing under the GPL instead of its own terms.
 
-[^70]: For example, an action to enforce a promise of marriage
+[^uk_70]: For example, an action to enforce a promise of marriage
 
-[^71]: Such as a contract to grant a lease of land which the party does
+[^uk_71]: Such as a contract to grant a lease of land which the party does
     not own; or to sell the Forth Bridge — at any rate by anyone other
     than Network Rail
 
-[^72]: For example, against a foreigner who is furth (i.e. out) of the
+[^uk_72]: For example, against a foreigner who is furth (i.e. out) of the
     jurisdiction and who would not be available to have sanctions, such
     as imprisonment for contempt of court, enforced against him.
 
-[^73]: It does not follow logically that the capital value of piece of
+[^uk_73]: It does not follow logically that the capital value of piece of
     software is diminished by an amount equal to the cost of a
     proprietary licence each time the software is distributed in
     infringement of that licence, but courts have been persuaded to
     award damages on this basis, ignoring the stricter “diminution in
     value” rule.
 
-[^74]: *American Cyanamid -v- Ethicon Ltd.* (1975) RPC 513
+[^uk_74]: *American Cyanamid -v- Ethicon Ltd.* (1975) RPC 513
 
-[^75]: Formerly known as an Anton Piller order after *Anton Piller KG* v
+[^uk_75]: Formerly known as an Anton Piller order after *Anton Piller KG* v
     *Manufacturing Processes Ltd* (1976) Ch.55
 
-[^76]: Not to be confused with the Supreme Court of the United Kingdom,
+[^uk_76]: Not to be confused with the Supreme Court of the United Kingdom,
     to which an appeal lies from the Inner House of the Court of
     Session).
 
-[^77]: Petition procedure is not likely to be applicable in a typical
+[^uk_77]: Petition procedure is not likely to be applicable in a typical
     intellectual property case
 
-[^78]: The proper name for Court of Session judges.
+[^uk_78]: The proper name for Court of Session judges.
 
-[^79]: “Barristers” is the name given to Advocates in England
+[^uk_79]: “Barristers” is the name given to Advocates in England
 
-[^80]: More properly, a Solicitor having rights of audience in the Court
+[^uk_80]: More properly, a Solicitor having rights of audience in the Court
     of Session

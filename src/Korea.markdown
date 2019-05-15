@@ -11,7 +11,7 @@ work under the Copyright Act (“the Act”) of Korea. Special provisions in
 Articles 101-2 through 101-7 of the Act address the protection of such
 programs. Previously, the Protection Act of Computer Programs addressed
 the safeguarding of computer programs until it was abolished and
-absorbed into the Act in 2009.[^1]
+absorbed into the Act in 2009.[^korea_1]
 
 Under Korean law, international treaties, to which Korea is a party, are
 self-executing, meaning that no additional legislation is necessary to
@@ -34,11 +34,11 @@ Object of Protection
 According to the Act, ‘computer program’ means a work reduced to
 writing, composed of orders and directions, used in a device with
 information processing capability with the purpose of obtaining a
-specific result.[^2] In other words, the program should 1) be
+specific result.[^korea_2] In other words, the program should 1) be
 functioning on a device capable of processing, controlling, and storing,
 2) be able to perform meaningful work, 3) have at least two sets of
 instructions and orders, and 4) be expressed in code (and not just exist
-as an idea).[^3] Under the laws of Korea, the term ‘software’ has a
+as an idea).[^korea_3] Under the laws of Korea, the term ‘software’ has a
 broader meaning than just a computer program; it includes flow charts,
 system architecture and user manuals, which are afforded legal
 protection through the general provisions of the Act. Databases, while
@@ -50,11 +50,11 @@ just as it is required for other literary works under the Act. It
 declared that while the work does not need to be completely original or
 novel, the author must have expressed his/her own thoughts or emotions
 to the extent that his/her work is distinguishable from the work of
-another.[^4] The Act, however, excludes programming languages
+another.[^korea_4] The Act, however, excludes programming languages
 (characters, symbols and their systems as means of expressing programs),
 syntax (special agreement on the usage of the programming language in a
 specific program) and algorithms (combination methods of instructions
-and commands in program) from protection.[^5]
+and commands in program) from protection.[^korea_5]
 
 Authors
 -------
@@ -63,38 +63,38 @@ Authors
 
 The general provisions of the Act applicable to authors of other type of
 literary works extends to the authors of computer programs: an author is
-a person who has created a work,[^6] and becomes the holder of exclusive
-and moral rights to such work.[^7] Under the Berne Convention,
+a person who has created a work,[^korea_6] and becomes the holder of exclusive
+and moral rights to such work.[^korea_7] Under the Berne Convention,
 copyrights are composed of moral and exclusive rights. Moral rights are
 the author’s right to have the work published, the right to indicate
 his/her name on the work, and the right to preserve the integrity of the
 content, format, and title of the work.An author automatically becomes
 the copyright holder upon the creation of a work since the Act does not
 require any registration procedures or other types of formalities for an
-author to be recognized as a copyright holder.[^8]
+author to be recognized as a copyright holder.[^korea_8]
 
 ### Authors of Work Made for Hire
 
 In contrast, under the laws of Korea, an employer who engages an
 employee for a work made for hire (sometimes referred to as work for
 hire or WFH) will be treated as the author of the work, and not just the
-holder of moral and exclusive rights.[^9] Here, an employer may refer to
-a juristic person, legal entity, an organization, etc. [^10]
+holder of moral and exclusive rights.[^korea_9] Here, an employer may refer to
+a juristic person, legal entity, an organization, etc. [^korea_10]
 
 For a work to be recognized as a work made for hire, the following
 conditions must be satisfied: a work has to be made (i) under the
 supervision of an employer (ii) by an employee working for the employer
 (iii) during performance of his or her duties, and (iv) the work must be
-published under the name of the employer.[^11] In instances where
+published under the name of the employer.[^korea_11] In instances where
 computer programs are work made for hire, employers do not need to meet
 the fourth prong of the test as publication would be counter to the
-purpose of keeping confidential trade secrets.[^12] However, even in the
+purpose of keeping confidential trade secrets.[^korea_12] However, even in the
 case where all of the above conditions are satisfied, if an employment
-contract or the employer’s internal regulation states otherwise,[^13]
+contract or the employer’s internal regulation states otherwise,[^korea_13]
 the person who created the work may become the author of the work.
 
 In Korea, many programs used by companies are developed on a contract
-basis[^14] meaning that a commissioning party can agree to pay
+basis[^korea_14] meaning that a commissioning party can agree to pay
 remuneration in exchange for work produced by a commissioned party (also
 known as the developing party) to create certain programs. When the
 conditions for work made for hire are not met in the course of
@@ -112,7 +112,7 @@ contract. However, when the commission party is the sole investor,
 planner, and publisher of the ordered work, and the commissioning party
 borrows only the commissioned party’s human resources, the work will be
 recognized as a work made for hire of the party who ordered the
-work.[^15] In other words, in cases where the contribution of the entity
+work.[^korea_15] In other words, in cases where the contribution of the entity
 who ordered the work is dominant (while the developer has little
 discretion), the ordering entity is the sole financer of the program,
 and the work is developed to benefit only the commissioning party, the
@@ -125,25 +125,25 @@ In case of a joint authorship, an author may not exercise the exclusive
 or moral rights without the unanimous agreement of all the copyright
 holders. However, a copyright holder may not discourage the other
 copyright holders from reaching an agreement on exercise of the
-copyright or unreasonably withhold his/her consent in bad faith.[^16]
+copyright or unreasonably withhold his/her consent in bad faith.[^korea_16]
 Authors of a joint work may designate a representative amongst them to
 exercise their copyrights, with the caveat that any limitations imposed
 on the authority of such representative should not take precedence over
-a bona fide third party.[^17] With respect to the exclusive rights of a
+a bona fide third party.[^korea_17] With respect to the exclusive rights of a
 joint authorship, an author cannot transfer, assign or pledge his/her
 share of the exclusive rights without the consent of the remaining
 authors. Any profit accruing from the exploitation of a joint work will
 be apportioned among the authors according to the respective shares of
 each author, unless otherwise stipulated. In such cases, the share of
 each author shall be deemed equal unless otherwise clearly
-specified.[^18]
+specified.[^korea_18]
 
 Exclusive rights
 ----------------
 
 According to the Act, the author of a program has exclusive rights to
-reproduce,[^19] transmit or broadcast the work in public,[^20] and to
-distribute,[^21] lease, rent,[^22] or produce derivative works[^23].
+reproduce,[^korea_19] transmit or broadcast the work in public,[^korea_20] and to
+distribute,[^korea_21] lease, rent,[^korea_22] or produce derivative works[^korea_23].
 Characteristics worth noting are as follows. Based on the revision of
 the Act in 2011, which reflected the Korea-United States FTA, temporary
 reproduction was included in concept of a reproduction. The right of
@@ -159,12 +159,12 @@ distribution in tangible media. The Court has declared that ‘a user’s
 connecting to a certain server to save a specific digital file in a
 shared folder to enable other users to download shall not be considered
 a distribution and that transferring a work or a copy only in a tangible
-media shall be construed as distribution.[^24] The author’s leasing
+media shall be construed as distribution.[^korea_24] The author’s leasing
 rights only applies when a computer program is leased for profit; the
 right to create derivative works means a right to create a new work
 based on the work by means of translation, modification, alteration,
 etc. of original work; and the right to make compilations falls under
-the right of reproduction.[^25]
+the right of reproduction.[^korea_25]
 
 Exceptions to the Exclusive Rights
 ----------------------------------
@@ -173,15 +173,15 @@ In relation to use of computer programs, there are several special
 exceptions to exclusive rights under the Act. For example, a user of a
 computer program may temporarily reproduce such program in a computer
 without consent of the exclusive right holder to the extent deemed
-necessary for the purpose of efficient information processing.[^26]
+necessary for the purpose of efficient information processing.[^korea_26]
 Additionally, a user may reproduce a program to check the ideas or
 principles underlying such program for the purpose of research, study,
 or testing without the consent of the copyright holder and may
 temporarily reproduce a program for the purpose of maintenance and
-repair of such program. [^27] Reverse engineering is the copying or
+repair of such program. [^korea_27] Reverse engineering is the copying or
 modifying of a computer program copyright code in order to obtain
 information necessary for interoperability of independently created
-computer programs with other computer programs.[^28] The Act allows
+computer programs with other computer programs.[^korea_28] The Act allows
 limited reverse engineering in cases where it is necessary to obtain
 information for the compatibility of such program with other program,
 provided that a user cannot obtain said information through an
@@ -190,12 +190,12 @@ obtained by reverse engineering to a third party other than for the
 purpose of establishing or testing compatibility. Furthermore, the user
 should not use the information obtained during reverse engineering for
 developing, producing, or selling substantially similar programs in
-infringement of the copyright of the program.[^29] In regard to the
+infringement of the copyright of the program.[^korea_29] In regard to the
 principle of exhaustion, once the original work or its copy has been
 sold with the copyright holder’s express intention to do so, (excluding
 the holder of moral right, since the moral right is inalienable while
 exclusive right is not), the right of distribution by the copyright
-holder is exhausted.[^30] Therefore, a buyer may distribute the original
+holder is exhausted.[^korea_30] Therefore, a buyer may distribute the original
 work or its copy without any permission from the holder of exclusive
 right. However, it is not clear under the laws of Korea whether the
 principle of exhaustion applies to intangible digital works purchased
@@ -205,30 +205,30 @@ precedents that address this issue.
 Moral Rights
 ------------
 
-An author’s moral rights belong exclusively to the author,[^31] and
+An author’s moral rights belong exclusively to the author,[^korea_31] and
 these rights cannot be assigned or transferred. Moral rights are the
 author’s right to publish the work, the right of attribution, and the
 right to preserve the integrity of the content, format, and title of the
 work. Exercising such rights through a proxy or an agent is possible,
 but only to the extent that it does not substantially infringe upon the
-author’s moral rights.[^32] A person who violates an author’s moral
+author’s moral rights.[^korea_32] A person who violates an author’s moral
 rights will be subject to imprisonment for no more than three years or
-be charged with a fine not exceeding 30 million won, or both.[^33]
+be charged with a fine not exceeding 30 million won, or both.[^korea_33]
 Expression of an author’s intention on his or her right to the integrity
-of the work may be delivered by implied consent.[^34] A user may modify
+of the work may be delivered by implied consent.[^korea_34] A user may modify
 a computer program without consent of the copyright holder, only to the
 extent such modification is necessary to make the program which is
 designed for a specific computer available for other computers or to the
 extent such modification is necessary for efficiency of the specific
-computer.[^35] The right of attribution and the right of publication is
+computer.[^korea_35] The right of attribution and the right of publication is
 governed by the general provisions of the Act. In cases where authors
 and copyright holders of unpublished work are not one in the same, and
 these authors, rather than the copyright holders, assign their exclusive
 rights to another person or grant the person the right to use or
 exclusively issue it, the authors will be deemed to have consented to
-its publication.[^36] If derivative or compilation work made with the
+its publication.[^korea_36] If derivative or compilation work made with the
 consent of the original author has been published, the original work
-will be deemed to have been published.[^37]
+will be deemed to have been published.[^korea_37]
 
 Terms of Protection
 -------------------
@@ -236,17 +236,17 @@ Terms of Protection
 The 2011 amended version of the Act, effective as of 1 July 2013,
 provides that the author’s exclusive rights to a program will be
 effective for the author’s life time plus seventy years after the death
-of the author.[^38] The exclusive rights for work made for hire
+of the author.[^korea_38] The exclusive rights for work made for hire
 continues to exist for a period of 70 years after it has been
-published.[^39] The exclusive rights for a work with no author’s name or
+published.[^korea_39] The exclusive rights for a work with no author’s name or
 second name continues to exist for a period of 70 years after it has
-been published.[^40] The exclusive rights to a joint work continues to
+been published.[^korea_40] The exclusive rights to a joint work continues to
 exist for a period of seventy years after the death of the last
-surviving author,[^41] and the exclusive right for derivative works is
+surviving author,[^korea_41] and the exclusive right for derivative works is
 protected independently from the original work, under the Act, for the
 lifetime of the author of derivative works plus seventy years after the
 death of such author. The protection period of the exclusive rights
-starts from the year after the author’s death or its publication,[^42]
+starts from the year after the author’s death or its publication,[^korea_42]
 since it may be difficult ascertain the exact dates of the author’s
 death, creation or publication.
 
@@ -255,19 +255,19 @@ Copyright Assignment
 
 ### Assignment of Exclusive Rights
 
-Exclusive rights may be assigned in whole or in part.[^43] Each of the
+Exclusive rights may be assigned in whole or in part.[^korea_43] Each of the
 exclusive rights, such as right of reproduction, right of public
 transmission, etc., may be assigned as a whole or in piecemeal.
 Additional constraints such as geographic limitations may be added. For
 example, the right of reproduction may only be available in the U.S.
 When the exclusive rights of a program are assigned as a whole, the
 right to make a derivative work will be presumed to have been included,
-unless otherwise stipulated.[^44] The exclusive right holder may grant
+unless otherwise stipulated.[^korea_44] The exclusive right holder may grant
 permission to use the work instead of transferring the exclusive right
-by assignment.[^45] When it is uncertain whether the author assigned the
+by assignment.[^korea_45] When it is uncertain whether the author assigned the
 exclusive rights or granted mere permission to use, the exclusive rights
 will remain with the author, according to the Supreme Court’s
-decision.[^46] According to Article 105 (1) of the Act, copyrights can
+decision.[^korea_46] According to Article 105 (1) of the Act, copyrights can
 be held in trust. Under the Trust Act, if the trustor creates a valid
 express trust, the trustee should manage and dispose of the trust corpus
 in the interest of the beneficiary or in the stated interests of the
@@ -276,7 +276,7 @@ completely transferred from the trustor to the trustee; and the trustee
 has all of the rights to the trust property, including the right to file
 a lawsuit. Therefore, the trustor is prohibited from instituting any
 claims for compensatory damages based on the copyrights in the trust
-property.[^47] Under Article 105(2) of the Act only those organizations
+property.[^korea_47] Under Article 105(2) of the Act only those organizations
 satisfying the following criteria are permitted to carry out copyright
 trust services: (i) the organization must be comprised of holders of
 copyrights (or other rights protected under the Copyright Act) to the
@@ -287,11 +287,11 @@ and distribution of royalties.
 ### Assignment of Moral Rights
 
 Since the author’s moral rights are inalienable and not
-transferable,[^48] moral rights exhaust at the author’s death. No
+transferable,[^korea_48] moral rights exhaust at the author’s death. No
 special provisions under the Act limit the moral rights of computer
 programs, as such, moral rights for computer programs are recognized
 like other copyrighted works. Due to its inalienability, an author’s
-moral rights cannot be held in trust.[^49]
+moral rights cannot be held in trust.[^korea_49]
 
 Special Measures
 ----------------
@@ -303,30 +303,30 @@ an application for a cease-and-desist order against the infringer. The
 copyright holder or holder of other rights under the Act may request an
 injunction for such infringement provided that such infringement
 continues, regardless of the infringer’s intention or negligent
-conduct.[^50] The copyright holder may file a petition to a court to
+conduct.[^korea_50] The copyright holder may file a petition to a court to
 take preventive measures or to provide a security for compensation for
 damages against a potential infringer of his or her exclusive rights.
 The court may issue a preliminary injunction to temporarily suspend the
 infringement, to seize the objects made by the act of infringement, or
 to take other necessary measures on behalf of the plaintiff whose
-copyright is being infringed.[^51] The copyright holder' may also seek
+copyright is being infringed.[^korea_51] The copyright holder' may also seek
 injunctive relief, which may be granted upon showing the existence of
 the claims to be preserved and the need to preserve such claims. The
 copyright holder’s right to apply for a cease-and-desist order and right
 to request preventive measures constitute the existence of such claims.
 A pledge of security may not be required to grant injunctive
-relief.[^52]. Moreover, the copyright holder has the right to request
+relief.[^korea_52]. Moreover, the copyright holder has the right to request
 actual damages for monetary loss or non-economic damages, such as mental
-or emotional damage, against the infringer.[^53] The copyright holder
+or emotional damage, against the infringer.[^korea_53] The copyright holder
 may claim, taking into account the difficulty of proving the amount of
 damages, either (1) the amount of profit the infringer gained through
 infringement, or (2) the amount corresponding to the revenues that would
 have been acquired by the copyright holder by exercising his or her
-copyright in normal course of business.[^54] Moreover, due to revision
+copyright in normal course of business.[^korea_54] Moreover, due to revision
 of the Act to reflect the Korea-US FTA, the copyright holder may claim
 statutory damages, instead of actual damages, if the copyright holder
 had registered his/her copyright prior to exercise of the claim of
-statutory damages.[^55] In case the copyright holder fails to prove the
+statutory damages.[^korea_55] In case the copyright holder fails to prove the
 infringer’s intentional conduct or negligence or the three year period
 for statute of limitations has expired, the copyright holder may claim
 restitution for unjust enrichment pursuant to the Civil Act of Korea.
@@ -337,18 +337,18 @@ infringed, the author may claim damages arising from such infringements
 under Article 751 of the Civil Act of Korea. The court has declared that
 “although no express law exists, it is natural that copyright holder can
 claim damages for the infringement of his or her moral right which is
-inalienable in its nature.[^56]" In these situations, there is a
+inalienable in its nature.[^korea_56]" In these situations, there is a
 rebuttable presumption that the copyright holder suffered damages,
-mentally or emotionally, as well as damages to reputation.[^57] The
+mentally or emotionally, as well as damages to reputation.[^korea_57] The
 copyright holder may request to take measures to restore his/her
 reputation in cases of defamation. In the event the moral rights are
 infringed or the dignity of the author has been damaged, the damaged
 party may request restoration of his or her reputation as well as
-monetary damages.[^58] The Act also has separate provisions that apply
+monetary damages.[^korea_58] The Act also has separate provisions that apply
 to the infringement of moral rights after an author’s death. This
 provision allows the author’s bereaved family or executor of his or her
 will to demand preventive measures, provision of security for damages,
-or restoration of the author’s reputation.[^59]
+or restoration of the author’s reputation.[^korea_59]
 
 ### Joint Works
 
@@ -360,7 +360,7 @@ may claim monetary damages in proportion to his or her share of
 copyright under Article 125 of the Act. When the infringement of moral
 rights concerns all the joint authors, the copyright holders must act in
 unison to seek reparation. However, the amount of damages sought by each
-author is in his/her discretion.[^60] In cases where moral rights of
+author is in his/her discretion.[^korea_60] In cases where moral rights of
 just one of the joint authors are infringed, each author may act
 independently of the others when filing suit.
 
@@ -374,7 +374,7 @@ works created by him or herself.
 
 ### Derivative Works
 
-The courts[^61] have held that the copyright of derivative computer
+The courts[^korea_61] have held that the copyright of derivative computer
 program belongs to the author of the derivative computer program
 regardless of whether the copyright holder of the original work gave
 his/her consent for use of the original in the derivative work. The
@@ -393,7 +393,7 @@ in circumstances where infringements were committed habitually *and*
 with profit-making motives (*emphasis added*). With the passage of the
 Korea-USA FTA, the Act’s exception clause was broadened to allow
 criminal prosecution of those who were habitual infringers *or*
-infringers who were profit-motivated ('emphasis added").[^62] It is
+infringers who were profit-motivated ('emphasis added").[^korea_62] It is
 possible that this broadened exception clause subjects more infringers
 to criminal sanctions as compared to the previous version of the Act.
 
@@ -450,7 +450,7 @@ work on the program contemporaneously in order to be considered joint
 work. Collective work is when each developer’s contribution can be used
 separately and independently. Derivative work is when a developer
 modifies the pre-existing FOSS with significant variations while
-maintaining substantial similarities.[^63]
+maintaining substantial similarities.[^korea_63]
 
 ### Rights of Joint Authors
 
@@ -479,10 +479,10 @@ own creation.
 The Korean Supreme Court held that creator of the derivative work of a
 computer program holds the copyrights to the derivative work, whether or
 not the copyright holder of the original work gave his/her consent to
-use the original work in the derivative one.[^64] Therefore, copyrights
+use the original work in the derivative one.[^korea_64] Therefore, copyrights
 for the derived programs based on General Public Licensed ("GPL’d")
 software belong to the developer of the derivative work, to the extent
-that it is his/her own creation under the laws of Korea.[^65] When an
+that it is his/her own creation under the laws of Korea.[^korea_65] When an
 original work and its derivative are inseparable, a question arises of
 whether the consent of all authors is needed in order to modify or
 change the inseparable work. To deal with this issue, Article 6 of
@@ -527,7 +527,7 @@ The same principle on the assignment of copyrights applies to computer
 programs. Copyrights of software can also be held in trust; however, it
 is not frequently practiced in Korea. When FOSS is made as a work for
 hire, the employer becomes the author of the FOSS by operation of the
-Act and thus becomes the holder of exclusive and moral rights.[^66] In
+Act and thus becomes the holder of exclusive and moral rights.[^korea_66] In
 such instances, the employer may exercise its copyrights under the terms
 and conditions of a FOSS license.
 
@@ -588,9 +588,9 @@ non-copyleft licensed original software distributes that software under
 a different license, the effect of the distribution is not binding on
 the author of FOSS because he/she never agreed to the different license.
 Therefore, the contracting parties of such distribution should be the
-distributor and the downstream recipient.[^67] Naturally, when a person
+distributor and the downstream recipient.[^korea_67] Naturally, when a person
 who modified a program distributes the modified software, he/she would
-be the contracting party.[^68]
+be the contracting party.[^korea_68]
 
 ### The Validity of FOSS Licenses
 
@@ -598,15 +598,15 @@ be the contracting party.[^68]
 
 Providing FOSS for free gives it the simultaneous status as a gift under
 the Korean Civil Act as well as a copyrightable work license agreement
-under the Act.[^69] An offer and acceptance are required to form a
+under the Act.[^korea_69] An offer and acceptance are required to form a
 legally binding contract. Under the current legal framework, the
-distribution of FOSS constitutes an offer.[^70] Though the licensees may
+distribution of FOSS constitutes an offer.[^korea_70] Though the licensees may
 be numerous and unspecified, FOSS license agreements may be considered
 contracts as long as they contain material terms that are specific and
 definitive. The Court has held that ‘offer should be specific and
 definitive to such an extent as to establish an agreement by its
 corresponding acceptance; the offer should include information which
-could determine the contents of the agreement.’[^71] Most FOSS licenses
+could determine the contents of the agreement.’[^korea_71] Most FOSS licenses
 present specific and definitive terms and conditions which could
 determine the contents of the agreement in order to use the
 corresponding FOSS program. In order for a contract to come into
@@ -617,17 +617,17 @@ to notify anyone of his/her acceptance. Where no notice of acceptance is
 required for a contract to be validly executed, whether through the
 offeror’s explicit permission or because of trade custom practice, the
 contract will come into existence upon the occurrence of an event, which
-may be construed as a declaration of the intention to accept.[^72] Under
+may be construed as a declaration of the intention to accept.[^korea_72] Under
 a FOSS license agreement, the licensee does not need to give a notice of
 acceptance to the licensor. Instead, the licensee’s download of
-FOSS[^73] or the modification or distribution of the program constitutes
-acceptance[^74]. Experts are divided as to which of these events
+FOSS[^korea_73] or the modification or distribution of the program constitutes
+acceptance[^korea_74]. Experts are divided as to which of these events
 actually qualify as the formal acceptance. Further, FOSS licenses are
 regarded as standardized contract terms as defined under the Act on the
 Regulation of Terms and Conditions. Standardized contract terms means
 the contents of a contract that a party prepares in a specific form in
 advance in order to enter into a contract with unspecified multiple
-parties regardless of their name, type, or scope.[^75]
+parties regardless of their name, type, or scope.[^korea_75]
 
 ### No Warranty
 
@@ -654,12 +654,12 @@ Korean Civil Act. No-warranty clauses will be ineffective in these
 situations. However, when the copyright holders only recognize the
 possibility of defects, without actual knowledge of such defect or
 deficiency, which is threshold conditions under the Korean Civil Act,
-the copyright holders can effectively disclaim its warranties.[^76]
+the copyright holders can effectively disclaim its warranties.[^korea_76]
 
 #### Under the Act on the Regulation of Standardized Contracts
 
 According to Article 7 of the Act on the Regulation of Standardized
-Contracts,[^77] the standardized contract terms that concern the
+Contracts,[^korea_77] the standardized contract terms that concern the
 liability of contracting parties that fall under any of the following
 subparagraphs will be null and void: 1) a clause that exempts a business
 operator (a party to a contract who offers standard business terms to
@@ -668,7 +668,7 @@ employees from liability arising from intentional conduct or gross
 negligence; 2) a clause which limits the extent of damages payable by
 the business operator, in circumstances without objective justifiable
 cause; 3) a clause which excludes or limits the warranty liability of a
-company in situations without objective justifiable cause.[^78] The
+company in situations without objective justifiable cause.[^korea_78] The
 no-warranty clauses of the FOSS license agreements as in GPL, constitute
 standard business terms since a contracting party prepares such clauses
 in a specific form in advance in order to enter into a contract with
@@ -684,7 +684,7 @@ for the gross negligence of the licensor, the licensor is liable for
 damages pursuant to Article 559 of the Korean Civil Act. If the
 licensor’s gross negligence or intentional conduct is proven, the
 licensee is entitled to seek liabilities from the licensor pursuant to
-Article 7 of the Act on the Regulation of Terms and Conditions.[^79]
+Article 7 of the Act on the Regulation of Terms and Conditions.[^korea_79]
 However, if the licensee under the GPL 2.0 seeks liabilities from the
 licensor claiming that the no-warranty clause is null and void, then the
 licensor may claim that the license agreement was automatically
@@ -707,27 +707,27 @@ Under the Korea Product Liability Act, ‘product’ means all movable
 goods, industrially manufactured or processed, including movable goods
 that is a part of another immovable or movable good. Because of the
 perceived intangible nature of a computer program, whether a ‘computer
-program’ is a product is a hotly contested issue.[^80] According to
+program’ is a product is a hotly contested issue.[^korea_80] According to
 Article 3 of the Korea Product Liability Act, a manufacturer who
 distributes software contained or embedded in tangible storage means or
 devices will be liable for damages, death, personal injuries, or
 property damage (this category excludes the damage to the defective
 product) that a person suffers as a result of a product defect, arising
 from defects in manufacturing, defects of design, or inadequate warnings
-on the product.[^81] Any special agreement intended to exclude or limit
+on the product.[^korea_81] Any special agreement intended to exclude or limit
 the liabilities for damage in violation of the Product Liability Act
 will be null and void, provided that this will not apply to cases where
 a person who purchased a defective product to be used solely for his/her
 own business and entered into a special agreement to limit or exclude
-liabilities for damages incurred to his business property.[^82] In order
+liabilities for damages incurred to his business property.[^korea_82] In order
 to apply the Product Liability Act to a FOSS distributor, the
 distributor should be a manufacturer, which the Product Liability Act
 defines as a person who is engaged in the business of manufacturing,
-processing, or importing any product.[^83] If a company creates a FOSS
+processing, or importing any product.[^korea_83] If a company creates a FOSS
 program embedded in a device or devices meant for its own consumption,
 the liability exemption clause of the FOSS license may be valid under
 Article 6 of the Act. Therefore, in practice, product liability on FOSS
-would not often recognized.[^84]
+would not often recognized.[^korea_84]
 
 The Copyleft Principle
 ----------------------
@@ -766,7 +766,7 @@ his/her duty to disclose the source code, more likely, the author of the
 derivative work will not have to disclose the source code since it i) is
 not known publicly, and ii) is the subject of considerable effort to
 maintain its secrecy, and iii) has independent economic value, and
-therefore is qualified as a trade secret.[^85] This holding is to be
+therefore is qualified as a trade secret.[^korea_85] This holding is to be
 criticized as described in the section entitled “FOSS Cases in Korea.”
 
 Remedies for Infringement
@@ -778,7 +778,7 @@ The principles that apply to other copyrightable works apply to FOSS
 when authors claim remedies and criminal sanctions under the Act.
 Standing to sue differs depending on whether the work is a joint work, a
 collective work, or a derivative work as described in the section
-entitled “Analysis of FOSS under Korean Law.”[^86]
+entitled “Analysis of FOSS under Korean Law.”[^korea_86]
 
 ### Breach of License Agreement or Copyright Infringement, Compensation for Damages
 
@@ -802,7 +802,7 @@ be liable for damages to the copyright holder of the original work.
 However, the lower court made it clear that the author of a derivative
 work who used a GPL’d FOSS, without disclosing the source code, is in
 violation of the GPL and is liable for damages to the copyright holder
-of the original work for copyright infringement.[^87] The details of the
+of the original work for copyright infringement.[^korea_87] The details of the
 case are to be discussed in the following section. To determine the
 proper cause of action under which compensation for breach of a license
 agreement is sought, the form of the infringement and the nature of the
@@ -812,10 +812,10 @@ applicable and the special measures as stated in Part I will apply. On
 the other hand, when the object of infringement is a contractual license
 obligation, which is not fulfilled, contract law under the Korean Civil
 Act would apply. If a licensee breaches a FOSS license agreement, the
-licensor may apply for specific performance[^88] or terminate the
-license agreement[^89] upon occurrence of a termination event or upon
+licensor may apply for specific performance[^korea_88] or terminate the
+license agreement[^korea_89] upon occurrence of a termination event or upon
 expiry of period of notification for performance as provided under FOSS
-license[^90] or claim damages.[^91] The licensor may file under the
+license[^korea_90] or claim damages.[^korea_91] The licensor may file under the
 Civil Execution Act, with a provisional disposition to keep the licensee
 from using the FOSS program or to disclose its source code until the
 relevant judgment is held.
@@ -846,7 +846,7 @@ considerable effort. However, a strict application of the court’s
 decision in this case can be criticized as below. The purpose of
 protecting trade secret is to prevent infringers from gaining unjust
 profit through unfair competition, rather than to protect trade secret
-itself.[^92] The copyright holder of the original work allowed users to
+itself.[^korea_92] The copyright holder of the original work allowed users to
 modify the work under the condition that users disclose the source code
 of the modified program to the public, along wide public access to the
 modified program. A refusal by either a user or developer to fulfill
@@ -856,14 +856,14 @@ of the modified program would be an infringement of the original
 copyright holder’s right of modification: the act of using the modified
 program without disclosing its source code would be an infringement of
 the copyrights of the original author because it exploited the
-creativity of the original author without his/her permission.[^93] It is
+creativity of the original author without his/her permission.[^korea_93] It is
 in doubt whether the derivative author of a GPL’d software who has
 violated the terms of the license agreement can be regarded as a fair
 competitor who should be protected under the Trade Secret Protection
 Act. Moreover, the information must be maintained in confidence to be
 recognized as a trade secret. Secrecy is maintained only when it is kept
 in confidence by the legitimate holder, who holds the lawful right to
-use the trade secret.[^94] The modifier holds the copyright of the
+use the trade secret.[^korea_94] The modifier holds the copyright of the
 derivative work, but does not hold the copyright for the original work.
 Because the derivative work is in generally inseparable from the
 original software, the modifier inevitably infringes the copyright of
@@ -882,241 +882,241 @@ Such a court holding does not conform to the original copyright holder’s
 intent to make the software as free and open as possible, which might
 hinder the active use and development of FOSS in Korea.
 
-[^1]: Korean Ministry of Culture, Sports and Tourism and Korea Copyright
+[^korea_1]: Korean Ministry of Culture, Sports and Tourism and Korea Copyright
     Commission. Guide on Amendments to the Korean Copyright Act. Seoul:
     Korean Ministry of Culture, Sports and Tourism and Korea Copyright
     Commission, 2009. 17. Print.
 
-[^2]: Copyright Act Article 2 (16).
+[^korea_2]: Copyright Act Article 2 (16).
 
-[^3]: Song, Young Sik, et al. Copyright Acts . 2 vols. Seoul: Yook Bub
+[^korea_3]: Song, Young Sik, et al. Copyright Acts . 2 vols. Seoul: Yook Bub
     Sa, 2013. 659-660. Print.
 
-[^4]: Supreme Court 94Do2238 dated November14, 1995.
+[^korea_4]: Supreme Court 94Do2238 dated November14, 1995.
 
-[^5]: Copyright Act, Article 101-2.
+[^korea_5]: Copyright Act, Article 101-2.
 
-[^6]: Copyright Act, Article 2 (2).
+[^korea_6]: Copyright Act, Article 2 (2).
 
-[^7]: Copyright Act, Article 10(1).
+[^korea_7]: Copyright Act, Article 10(1).
 
-[^8]: Copyright Act, Article 10(2).
+[^korea_8]: Copyright Act, Article 10(2).
 
-[^9]: Korea Copyright Commission. 100 Consultation Cases in Relation to
+[^korea_9]: Korea Copyright Commission. 100 Consultation Cases in Relation to
     the Revised Copyright Acts. Seoul: Korea Copyright Commission, 2012.
     60. Print.
 
-[^10]: Copyright Act, Article 2(31).
+[^korea_10]: Copyright Act, Article 2(31).
 
-[^11]: Korea Copyright Commission. 100 Consultation Cases in Relation to
+[^korea_11]: Korea Copyright Commission. 100 Consultation Cases in Relation to
     the Revised Copyright Acts. Seoul: Korea Copyright Commission, 2012.
     60. Print.
 
-[^12]: Korean Ministry of Culture, Sports and Tourism, and Korea
+[^korea_12]: Korean Ministry of Culture, Sports and Tourism, and Korea
     Copyright Commission. Guide on Amendments to the Korean Copyright
     Act. Seoul: Korean Ministry of Culture, Sports and Tourism and Korea
     Copyright Commission, 2009. 22. Print.
 
-[^13]: Copyright Act, Article 9.
+[^korea_13]: Copyright Act, Article 9.
 
-[^14]: The Korean Civil Act, Article 664.
+[^korea_14]: The Korean Civil Act, Article 664.
 
-[^15]: Supreme Court 98Da60590 dated November 10, 2000.
+[^korea_15]: Supreme Court 98Da60590 dated November 10, 2000.
 
-[^16]: Copyright Act, Article 48(1).
+[^korea_16]: Copyright Act, Article 48(1).
 
-[^17]: Copyright Act, article 15(2)(3), 48(4).
+[^korea_17]: Copyright Act, article 15(2)(3), 48(4).
 
-[^18]: Copyright Act, Article 48(2).
+[^korea_18]: Copyright Act, Article 48(2).
 
-[^19]: Copyright Act, Article 16.
+[^korea_19]: Copyright Act, Article 16.
 
-[^20]: Copyright Act, Article 18.
+[^korea_20]: Copyright Act, Article 18.
 
-[^21]: Copyright Act, Article 20.
+[^korea_21]: Copyright Act, Article 20.
 
-[^22]: Copyright Act, Article 21.
+[^korea_22]: Copyright Act, Article 21.
 
-[^23]: Copyright Act, Article 22.
+[^korea_23]: Copyright Act, Article 22.
 
-[^24]: Seoul High Court 2003Na21140 dated January 12, 2005.
+[^korea_24]: Seoul High Court 2003Na21140 dated January 12, 2005.
 
-[^25]: Korean Ministry of Culture, Sports and Tourism and Korea
+[^korea_25]: Korean Ministry of Culture, Sports and Tourism and Korea
     Copyright Commission. Guide on Amendments to the Korean Copyright
     Act. Seoul: Korean Ministry of Culture, Sports and Tourism and Korea
     Copyright Commission, 2009. 34. Print.
 
-[^26]: Copyright Act, Article 35-2.
+[^korea_26]: Copyright Act, Article 35-2.
 
-[^27]: Copyright Act, Article 101-3(1)6.
+[^korea_27]: Copyright Act, Article 101-3(1)6.
 
-[^28]: Copyright Act, Article 2(34).
+[^korea_28]: Copyright Act, Article 2(34).
 
-[^29]: Copyright Act, Article 101-4.
+[^korea_29]: Copyright Act, Article 101-4.
 
-[^30]: Copyright Act, Article 20.
+[^korea_30]: Copyright Act, Article 20.
 
-[^31]: Copyright Act, Article 14(1).
+[^korea_31]: Copyright Act, Article 14(1).
 
-[^32]: Supreme Court 94Ma2217 dated October 2, 1995.
+[^korea_32]: Supreme Court 94Ma2217 dated October 2, 1995.
 
-[^33]: Copyright Act, Article 136(2)1.
+[^korea_33]: Copyright Act, Article 136(2)1.
 
-[^34]: Supreme Court 92Da31309 dated December 24, 1992.
+[^korea_34]: Supreme Court 92Da31309 dated December 24, 1992.
 
-[^35]: Copyright Act, Article 13(2) 4, 5.
+[^korea_35]: Copyright Act, Article 13(2) 4, 5.
 
-[^36]: Copyright Act, Article 11(2).
+[^korea_36]: Copyright Act, Article 11(2).
 
-[^37]: Copyright Act, Article 11(4).
+[^korea_37]: Copyright Act, Article 11(4).
 
-[^38]: Copyright Act, Article 39(1).
+[^korea_38]: Copyright Act, Article 39(1).
 
-[^39]: Copyright Act, Article 41.
+[^korea_39]: Copyright Act, Article 41.
 
-[^40]: Copyright Act, Article 40.
+[^korea_40]: Copyright Act, Article 40.
 
-[^41]: Copyright Act, Article 39(2).
+[^korea_41]: Copyright Act, Article 39(2).
 
-[^42]: Copyright Act, Article 44.
+[^korea_42]: Copyright Act, Article 44.
 
-[^43]: Copyright Act, Article 45(1).
+[^korea_43]: Copyright Act, Article 45(1).
 
-[^44]: Copyright Act, Article 45(2).
+[^korea_44]: Copyright Act, Article 45(2).
 
-[^45]: Copyright Act, article 46(1).
+[^korea_45]: Copyright Act, article 46(1).
 
-[^46]: Supreme Court 95Da29130 dated July 30, 1996.
+[^korea_46]: Supreme Court 95Da29130 dated July 30, 1996.
 
-[^47]: Seoul High Court 98GaHap83680 dated July 23, 1999.
+[^korea_47]: Seoul High Court 98GaHap83680 dated July 23, 1999.
 
-[^48]: Copyright Act, Article 14(1).
+[^korea_48]: Copyright Act, Article 14(1).
 
-[^49]: Seoul High Court 95Na41279 dated July 12, 1996.
+[^korea_49]: Seoul High Court 95Na41279 dated July 12, 1996.
 
-[^50]: Oh, Seung Jong. Copyright Act. Seoul: Park Young Sa, 2013. 1414.
+[^korea_50]: Oh, Seung Jong. Copyright Act. Seoul: Park Young Sa, 2013. 1414.
     Print.
 
-[^51]: Copyright Act, Article 123.
+[^korea_51]: Copyright Act, Article 123.
 
-[^52]: Article 123 of the Act
+[^korea_52]: Article 123 of the Act
 
-[^53]: Copyright Act, Article 125.
+[^korea_53]: Copyright Act, Article 125.
 
-[^54]: Seoul High Court 83Na4449 dated November 28, 1984.
+[^korea_54]: Seoul High Court 83Na4449 dated November 28, 1984.
 
-[^55]: Copyright Act, Article 125-2.
+[^korea_55]: Copyright Act, Article 125-2.
 
-[^56]: Supreme Court 98Da41216 dated May 25, 1999.
+[^korea_56]: Supreme Court 98Da41216 dated May 25, 1999.
 
-[^57]: Supreme Court 89Daka12824 dated October 24, 1989.
+[^korea_57]: Supreme Court 89Daka12824 dated October 24, 1989.
 
-[^58]: Copyright Act, Article 127.
+[^korea_58]: Copyright Act, Article 127.
 
-[^59]: Copyright Act, Article 128.
+[^korea_59]: Copyright Act, Article 128.
 
-[^60]: Supreme Court 98Da41216 decided May 25, 1999.
+[^korea_60]: Supreme Court 98Da41216 decided May 25, 1999.
 
-[^61]: Supreme Court 2002Da45895 dated September 24, 2004.
+[^korea_61]: Supreme Court 2002Da45895 dated September 24, 2004.
 
-[^62]: Copyright Act, Article 140.
+[^korea_62]: Copyright Act, Article 140.
 
-[^63]: Supreme Court 2003Da47782 dated 9 September, 2005.
+[^korea_63]: Supreme Court 2003Da47782 dated 9 September, 2005.
 
-[^64]: Supreme Court 2002Da45895 dated September 24, 2004.
+[^korea_64]: Supreme Court 2002Da45895 dated September 24, 2004.
 
-[^65]: Supreme Court 2006Do8369 February 12, 2009.
+[^korea_65]: Supreme Court 2006Do8369 February 12, 2009.
 
-[^66]: Korea Copyright Commission, 100 Consultation Cases in Relation to
+[^korea_66]: Korea Copyright Commission, 100 Consultation Cases in Relation to
     the Revised Copyright Acts, Seoul: Korea Copyright Commission, 2012,
     60. Print.
 
-[^67]: Choi, Young Ro. “Issues on Applying Open Source Software on
+[^korea_67]: Choi, Young Ro. “Issues on Applying Open Source Software on
     Korean Contract Law” (for Working Group of Revitalization of Open
     Source Software organized by Communication of Korea(abolished) and
     Korea IT Industry Promotion Agency and Ministry of Information). GNU
     Korea, 2002. 4-6. Web. 1 July 2013
     <http://korea.gnu.org/people/chsong/copyleft/osl.pdf>.
 
-[^68]: Choi, Young Ro. “Issues on Applying Open Source Software on
+[^korea_68]: Choi, Young Ro. “Issues on Applying Open Source Software on
     Korean Contract Law” (for Working Group of Revitalization of Open
     Source Software organized by Communication of Korea(abolished) and
     Korea IT Industry Promotion Agency and Ministry of Information). GNU
     Korea, 2002. 5. Web. 1 July 2013
     <http://korea.gnu.org/people/chsong/copyleft/osl.pdf>.
 
-[^69]: National IT Industry Promotion Agency, Study on Open Software
+[^korea_69]: National IT Industry Promotion Agency, Study on Open Software
     License: On its Legal Issues and Foreign Policies. Seoul: Software
     Engineering Center, 2002. 48.
 
-[^70]: National IT Industry Promotion Agency, Study on Open Software
+[^korea_70]: National IT Industry Promotion Agency, Study on Open Software
     License: Standard License Agreement for Government developed Open
     Source Software, Seoul: Software Engineering Center, 2003, 74.
     Print.
 
-[^71]: Supreme Court 2003Da41463 dated December 8, 2005.
+[^korea_71]: Supreme Court 2003Da41463 dated December 8, 2005.
 
-[^72]: The Korean Civil Act, Article 532.
+[^korea_72]: The Korean Civil Act, Article 532.
 
-[^73]: National IT Industry Promotion Agency(Software Engineering
+[^korea_73]: National IT Industry Promotion Agency(Software Engineering
     Center). Study on Open Software License: Standard License Agreement
     for Government developed Open Source Software, National IT Industry
     Promotion Agency(Software Engineering Center), 2003. 74. Print.
 
-[^74]: Kim, Byung Il. “GPL and Conflict of Laws”, Study on Conflict Laws
+[^korea_74]: Kim, Byung Il. “GPL and Conflict of Laws”, Study on Conflict Laws
     14 (2008): 93. Print.
 
-[^75]: The Act on the Regulation of Terms and Conditions, Article 2.
+[^korea_75]: The Act on the Regulation of Terms and Conditions, Article 2.
 
-[^76]: National IT Industry Promotion Agency(Software Engineering
+[^korea_76]: National IT Industry Promotion Agency(Software Engineering
     Center). Study on Open Software License: On its Legal Issues and
     Foreign Policies. Seoul: National IT Industry Promotion Agency
     (Software Engineering Center), 2002. 58-59. Print.
 
-[^77]: Under German law, it is called ‘Standard Business Terms.’
+[^korea_77]: Under German law, it is called ‘Standard Business Terms.’
 
-[^78]: The Act on the Regulation of Terms and Conditions, Article 7.
+[^korea_78]: The Act on the Regulation of Terms and Conditions, Article 7.
 
-[^79]: National IT Industry Promotion Agency(Software Engineering
+[^korea_79]: National IT Industry Promotion Agency(Software Engineering
     Center). Study on Open Software License: On its Legal Issues and
     Foreign Policies. Seoul: National IT Industry Promotion Agency
     (Software Engineering Center), 2002. 59-60. Print.
 
-[^80]: Association of Comparative Private Law, Study on Amendments to
+[^korea_80]: Association of Comparative Private Law, Study on Amendments to
     the Product Liability Act, Seoul: Ministry of Justice of Korea,
     2012. 59. Print.
 
-[^81]: The Product Liability Act, Article 2(2).
+[^korea_81]: The Product Liability Act, Article 2(2).
 
-[^82]: The Product Liability Act, Article 6.
+[^korea_82]: The Product Liability Act, Article 6.
 
-[^83]: The Product Liability Act, Article 2(3)a.
+[^korea_83]: The Product Liability Act, Article 2(3)a.
 
-[^84]: Choi, Young Ro. “Issues on Applying Open Source Software on
+[^korea_84]: Choi, Young Ro. “Issues on Applying Open Source Software on
     Korean Contract Law” (for Working Group of Revitalization of Open
     Source Software organized by Communication of Korea(abolished) and
     Korea IT Industry Promotion Agency and Ministry of Information). GNU
     Korea, 2002. 10. Web. 1 July 2013
     <http://korea.gnu.org/people/chsong/copyleft/osl.pdf>.
 
-[^85]: Supreme Court 2006Do8369 dated February, 12 2009.
+[^korea_85]: Supreme Court 2006Do8369 dated February, 12 2009.
 
-[^86]: Supreme Court 2006Do8369 dated February, 12 2009.
+[^korea_86]: Supreme Court 2006Do8369 dated February, 12 2009.
 
-[^87]: Seoul Central District Court 2005No3002 dated November, 1 2006.
+[^korea_87]: Seoul Central District Court 2005No3002 dated November, 1 2006.
 
-[^88]: The Korean Civil Act, Article 389.
+[^korea_88]: The Korean Civil Act, Article 389.
 
-[^89]: The Korean Civil Act, Article 543.
+[^korea_89]: The Korean Civil Act, Article 543.
 
-[^90]: The Korean Civil Act, Article 543, 544.
+[^korea_90]: The Korean Civil Act, Article 543, 544.
 
-[^91]: The Korean Civil Act, Article 551.
+[^korea_91]: The Korean Civil Act, Article 551.
 
-[^92]: Supreme Court 95Da24528 dated February, 13 1998.
+[^korea_92]: Supreme Court 95Da24528 dated February, 13 1998.
 
-[^93]: Seoul Central District Court 2005No3002 dated November, 1 2006.
+[^korea_93]: Seoul Central District Court 2005No3002 dated November, 1 2006.
 
-[^94]: Pack, Kwang Min and Hae Sung Yoon. “Examination of Trade Secret
+[^korea_94]: Pack, Kwang Min and Hae Sung Yoon. “Examination of Trade Secret
     concept in Unfair Competition Prevention and Trade Secret Protection
     Act” Sungkyunkwan Legal Study 18.1 (2006): 4. Print.

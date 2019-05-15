@@ -41,7 +41,7 @@ the employee while performing his/her job or working under instructions
 from the employer. According to a very reliable doctrine, however, also
 in case of “work for hire”, i.e. when software development occurs under
 the performance of a development agreement and is paid by the client,
-the exploitation rights are assigned to the contracting party.[^1]
+the exploitation rights are assigned to the contracting party.[^italy_1]
 
 ### Exclusive rights
 
@@ -158,7 +158,7 @@ practical bearings.
 ### Term of protection
 
 The same term as for works of literature and art applies: 70 years as of
-January 1 following the death of the author.[^2] In case of
+January 1 following the death of the author.[^italy_2] In case of
 co-authorship the death of the latest surviving author is taken into
 account.
 
@@ -236,7 +236,7 @@ Analysis of FOSS under Italian law
 ### Copyrights
 
 Although FOSS can be written by a single person or be owned by a single
-legal entity,[^3] after some time software is the result of the work of
+legal entity,[^italy_3] after some time software is the result of the work of
 several authors who can lay claim to it. The question is whether later
 additions create a collaborative work (a work created by collaborating
 authors), or whether the original software is the final work and every
@@ -284,7 +284,7 @@ elements are more of the same nature.
 
 Unless the components of the software can be clearly distinguished *and*
 separate, software made collaborative is usually considered an
-“indivisible work”[^4]. This involves works whereby it cannot be
+“indivisible work”[^italy_4]. This involves works whereby it cannot be
 concluded clearly what the individual contribution of every author is,
 e.g. when two authors write a text together. In the case of indivisible
 works the authors are free to regulate the exercise of the copyrights by
@@ -292,7 +292,7 @@ agreement. This freedom is very far reaching. The co-authors can agree
 how the program is made public (e.g. as “FOSS”) and how decisions
 regarding the copyrights are made, e.g. by normal or special majorities,
 or by giving one of them the right to take all the decisions regarding
-this work (limited to acts of ordinary administration).[^5]
+this work (limited to acts of ordinary administration).[^italy_5]
 
 If the co-authors have not reached an agreement as to how decisions are
 made (insofar as the law allows them to regulate the co-authors'
@@ -302,7 +302,7 @@ involve disposing of the copyright and that does not prevent the
 co-owners to exert their rights is allowed, but acts of “extraordinary
 administration” must be voted according to the majorities laid down by
 the law or agreed upon by the parties. Parties disagreeing can oppose
-the decisions of the majority in Court.[^6]
+the decisions of the majority in Court.[^italy_6]
 
 #### FOSS and derivative works under Italian law
 
@@ -350,9 +350,9 @@ applicability of the moral rights to software.
 ### Enforcing FOSS licenses
 
 There is little doubt that a FOSS license is enforceable in Italy,
-except in marginal cases. The same reasoning as in Welte v. Skype[^7]
+except in marginal cases. The same reasoning as in Welte v. Skype[^italy_7]
 would apply. Regardless of whether the license is a contract or a bare
-copyright license,[^8] copyright can be considered a general prohibition
+copyright license,[^italy_8] copyright can be considered a general prohibition
 barring unrestricted use of the software. Therefore other than the
 license, nothing permits the use of copyright, and the absence of a
 license would defeat any arguments by an infringer directed at voiding
@@ -386,7 +386,7 @@ come to mind: explicit downstream patent licenses (as in the Mozilla
 Public License) and liability disclaimers.
 
 Downstream patent licenses state that the contributor (sometimes the
-distributor, as with the GNU General Public License v.3[^9]) of software
+distributor, as with the GNU General Public License v.3[^italy_9]) of software
 will explicitly provide all downstream recipient of the software it
 distributes with a worldwide royalty-free patent license for the patents
 it owns or controls. This is a positive effect of the license. However,
@@ -405,10 +405,10 @@ a focal point and needs to be dealt with more in depth.
 ### Waiver and liability
 
 Typically, FOSS licenses contain very strong disclaimer clauses, which
-discharge the author from all liability.[^10] The reason for this is
+discharge the author from all liability.[^italy_10] The reason for this is
 that FOSS is often made available without monetary compensation of any
 sort, as a result of which the author generates insufficient income to
-pay for liability insurances and legal costs.[^11]
+pay for liability insurances and legal costs.[^italy_11]
 
 Under Italian law there is a first issue. According to Art. 1229 of the
 Italian Civil Code, no disclaimer of liability can be made to the effect
@@ -470,7 +470,7 @@ the Freedoms, but the code is all you get, not a product, mind that I
 don’t guarantee anything”. It is generally understood that because the
 exchange is gratuitous, the avoidance of liability flows naturally from
 said act (again, except the case of gross negligence) unless a warranty
-is expressly given.[^12] All this makes it particularly difficult to
+is expressly given.[^italy_12] All this makes it particularly difficult to
 construe a solid case for tort liability of large proportions, and in
 any case there is no pre-made contractual language that can prevent it,
 especially because Art. 1225 of the Italian Civil Code limits maximum
@@ -501,9 +501,9 @@ of indemnification for FOSS is a business case for some companies.
 
 #### Principle
 
-A characteristic found in many (but not all[^13]) FOSS licenses is the
+A characteristic found in many (but not all[^italy_13]) FOSS licenses is the
 so-called “copyleft” principle. FOSS licenses which incorporate the
-copyleft principle,[^14] lay down by contract that everyone in the chain
+copyleft principle,[^italy_14] lay down by contract that everyone in the chain
 of consecutive users, in return for the right of use that is assigned,
 has to distribute to other users the improvements the software and its
 derivative works, if he chooses to distribute such improvements or
@@ -555,7 +555,7 @@ clear. Otherwise the software is not clear and clearance must be sought
 on an individual basis, as in any other kind of software distribution.
 That, by the way, is how dual (proprietary + copyleft) licensing works,
 such that Richard Stallman has dubbed the scheme as “sale of exceptions
-\[to a copyright license\]”.[^15]
+\[to a copyright license\]”.[^italy_15]
 
 ### Damages
 
@@ -604,7 +604,7 @@ indeed is utilized for business purposes, as in the following cases.
 
 Besides establishing a reputation and recognition — which can indeed be
 a valuable asset — an author can have other reasons to make his or her
-work “freely” available.[^16] The author may also gain a direct monetary
+work “freely” available.[^italy_16] The author may also gain a direct monetary
 advantage from the free distribution of his work. The simplest and
 traditiona way is to add advertisments to the software (“ad-ware”).
 Another way is to offer specific services relating to the work, such as
@@ -612,9 +612,9 @@ assitance, maintenance, customization, indemnification, etc., or other
 related products. In this later example, the free circulation of the
 work ensures the work attracts many users. The author can generate his
 income from the provision of support and consulting services, or by
-licensing “proprietary add-ons”[^17] (roughly this is the “open core”
+licensing “proprietary add-ons”[^italy_17] (roughly this is the “open core”
 strategy). Another business model is the so-called dual licensing
-model.[^18] This model uses — as the name suggests --- two different
+model.[^italy_18] This model uses — as the name suggests --- two different
 licenses. The first license is often a strong copyleft license. This
 first — free — license ensures the work is circulated quickly and
 reaches a wide range of users. A second license without the copyleft
@@ -668,7 +668,7 @@ goes beyond the rules imposed on public procurement procedures, aiming
 at ensuring equal treatment to all competitors (“par condicio”), it
 involves rules on *what kind* of software is to be procured.
 
-The Code for the Digital Public Administration[^19] (“CAD”) has
+The Code for the Digital Public Administration[^italy_19] (“CAD”) has
 provisions that dictate how the software for the public sector must be.
 It says that it has to have certain characteristics, such as enabling
 interoperability and services exchange. It also dictate which kind of
@@ -680,7 +680,7 @@ contains said list:
 >
 > -   Reuse of software made *ad hoc* for other administration \[which
 >     is compelled to license it for free, and to hand over also the
->     source code\][^20]
+>     source code\][^italy_20]
 >
 > -   Free and open source software \[FOSS\]
 >
@@ -693,8 +693,8 @@ contains said list:
 Furthermore, Art. 68.1-ter provides that only when there is a motivated
 impossibility to procure software under the conditions of reuse and/or
 FOSS, then the public administration can redress to the acquisition of
-software under proprietary conditions.[^21]. In other words, reuse and
-FOSS *must be preferred* [^22] over proprietary software, even if on
+software under proprietary conditions.[^italy_21]. In other words, reuse and
+FOSS *must be preferred* [^italy_22] over proprietary software, even if on
 pure technical and economic bases proprietary solutions score better.
 
 FOSS cases in Italy
@@ -718,7 +718,7 @@ The court decides with a panel of three judges.
 
 Some special investigative powers have been given to the courts, such as
 ordering any involved third parties to provide information on the origin
-of the goods and their chain of distribution.[^23] Also the possibility
+of the goods and their chain of distribution.[^italy_23] Also the possibility
 of obtaining a description of the infringing goods in addition to their
 seizure is noteworthy. A temporary or permanent enjoinder to distribute
 the infringing works can be obtained. The decision may include an order
@@ -785,38 +785,38 @@ Recommended literature
 -   Giuseppe Sanseverino: Le licenze free e open source (2007, Edizioni
     Scientifiche Italiane)
 
-[^1]: L. C. UBERTAZZI, 'Diritto d’autore, estratto da Commentario breve
+[^italy_1]: L. C. UBERTAZZI, 'Diritto d’autore, estratto da Commentario breve
     alle leggi sulla Proprietà' Intellettuale e Concorrenza, 4th
     Edition, CEDAM, Milano, 2007, pp. 62-63
 
-[^2]: Italian Copyright Law, Art. 25 and 32-ter of the Italian Copyright
+[^italy_2]: Italian Copyright Law, Art. 25 and 32-ter of the Italian Copyright
     Law
 
-[^3]: Such as software developed by employees (Italian Copyright Law,
+[^italy_3]: Such as software developed by employees (Italian Copyright Law,
     Art. 12 bis), and software developed for hire under a contractual
     transfer of copyrights
 
-[^4]: “Indivisible works” are governed by art. 10 of the Italian
+[^italy_4]: “Indivisible works” are governed by art. 10 of the Italian
     Copyright law, which makes extensive reference to the rules of the
     *“Comunione”* (shared ownership), Art. 1100 onwards of the Italian
     Civil Code
 
-[^5]: Art. 1106 of the Italian Civil Code
+[^italy_5]: Art. 1106 of the Italian Civil Code
 
-[^6]: Article 1109 of the Italian Civil Code
+[^italy_6]: Article 1109 of the Italian Civil Code
 
-[^7]: Case Welte vs. Skype Technologies SA (Germany) reported inter alia
+[^italy_7]: Case Welte vs. Skype Technologies SA (Germany) reported inter alia
     by Groklaw
     (<http://www.groklaw.net/article.php?story=20080508212535665>)
 
-[^8]: On this we have a precise opinion, see C. PIANA, *Licenze
+[^italy_8]: On this we have a precise opinion, see C. PIANA, *Licenze
     pubbliche di software e contratto*, I Contratti, IPSOA, Milan, 2006,
     p. 720-727, also available for download at
     <http://www.piana.eu/repository/720_727.pdf>
 
-[^9]: Cfr. GPL v.3, Section 11
+[^italy_9]: Cfr. GPL v.3, Section 11
 
-[^10]: See e.g., the BSD license
+[^italy_10]: See e.g., the BSD license
     (<http://www.opensource.org/licenses/bsd-license>): THIS SOFTWARE IS
     PROVIDED BY &lt;copyright holder&gt; *'AS IS*' AND ANY EXPRESS OR
     IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
@@ -830,20 +830,20 @@ Recommended literature
     NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
     SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-[^11]: B. PERENS, “The Open Source Definition”,
+[^italy_11]: B. PERENS, “The Open Source Definition”,
     <http://perens.com/OSD.html>
 
-[^12]: As provided for by Art. 798 of the Italian Civil Code for defects
+[^italy_12]: As provided for by Art. 798 of the Italian Civil Code for defects
     of the thing which was donated, which stipulates that without an
     express pact the liability only arises from a willful act.
 
-[^13]: Neither the principles (freedoms) of the Free Software movement,
+[^italy_13]: Neither the principles (freedoms) of the Free Software movement,
     nor the Open Source Definition mandate the copyleft clause. Several
     FOSS licenses do not contain a copyleft clause. Examples hereof are
     the Berkeley Software Distribution (BSD) license and the Apache
     license
 
-[^14]: E.g., GPL version 3 Art. 5 stipulates: “You must license the
+[^italy_14]: E.g., GPL version 3 Art. 5 stipulates: “You must license the
     entire work, as a whole, under this License to anyone who comes into
     possession of a copy. This License will therefore apply, along with
     any applicable section 7 additional terms, to the whole of the work,
@@ -856,34 +856,34 @@ Recommended literature
     whole at no charge to all third parties under the terms of this
     License”.
 
-[^15]: See R. STALLMAN, *On Selling Exceptions to the GNU GPL*, FSF
+[^italy_15]: See R. STALLMAN, *On Selling Exceptions to the GNU GPL*, FSF
     website, available at
     <http://www.fsf.org/blogs/rms/selling-exceptions>
 
-[^16]: See e.g. C., DIBONA, D., COOPER and M., STONE, “Introduction”, in
+[^italy_16]: See e.g. C., DIBONA, D., COOPER and M., STONE, “Introduction”, in
     *Open Sources 2.0: The Continuing Evolution* (Ed. C., DiBona, D.,
     Cooper and M., Stone), O’Reilly, 2006, p. XXV-XL.
 
-[^17]: Add-ons are additions to the free work to which the author
+[^italy_17]: Add-ons are additions to the free work to which the author
     reserves all rights, and which can only be used against payment
 
-[^18]: See e.g. M., OLSON, “Dual Licensing”, in *Open Sources 2.0: The
+[^italy_18]: See e.g. M., OLSON, “Dual Licensing”, in *Open Sources 2.0: The
     Continuing Evolution* (Ed. C., DiBona, D., Cooper and M., Stone),
     O’Reilly, 2006, p. 35
 
-[^19]: Dlgs 85/2005 “Codice dell’Amministrazione Digitale”
+[^italy_19]: Dlgs 85/2005 “Codice dell’Amministrazione Digitale”
 
-[^20]: Art. 69 CAD
+[^italy_20]: Art. 69 CAD
 
-[^21]: See Aliprandi, Simone and Piana, Carlo (2013) *FOSS in the
+[^italy_21]: See Aliprandi, Simone and Piana, Carlo (2013) *FOSS in the
     Italian public administration: fundamental law principles*,
     *International Free and Open Source Software Law Review*, 5(1), pp
     43 – 50 DOI: 10.5033/ifosslr.v5i1.84, available at
     <http://www.ifosslr.org/ifosslr/article/view/84>
 
-[^22]: However, the effectiveness of this measure can be fully
+[^italy_22]: However, the effectiveness of this measure can be fully
     ascertained with an in-field survey after a period of time, as many
     of similar laws have been largely disregarded, absent clear
     compliant enforcement measures
 
-[^23]: Art. 156 ter of the Italian Copyright Law
+[^italy_23]: Art. 156 ter of the Italian Copyright Law

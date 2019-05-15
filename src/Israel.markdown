@@ -13,7 +13,7 @@ protection of intellectual property in Israel. The Copyright Law
 replaced the prior outdated statutory framework, which consisted of both
 the Copyright Ordinance of 1924 and the British Copyright Act of 1911,
 the latter having been made applicable to the British Mandate in 1924
-and adopted by the nascent State of Israel in 1948.[^1] The Copyright
+and adopted by the nascent State of Israel in 1948.[^israel_1] The Copyright
 Law expressly provides for the copyright protection of computer
 programs.
 
@@ -33,7 +33,7 @@ categorized as literary works, constitute copyrightable subject matter.
 The Copyright Law also provides that a computer program includes the
 program “in any form that it may be expressed”. This provision is
 intended to be consistent with the definition of computer programs in
-Article 4 of the WIPO Copyright Treaty.[^2]
+Article 4 of the WIPO Copyright Treaty.[^israel_2]
 
 ### Authors/Copyright owners
 
@@ -74,7 +74,7 @@ Kingdom — such that the consent of all joint owners would be required to
 license a work — or whether it should generally follow the rule in the
 United States — such that each joint owner should be able to license the
 work without consent of the other joint owners, subject to a duty of
-accounting.[^3] As such, the right of joint owners to exploit a
+accounting.[^israel_3] As such, the right of joint owners to exploit a
 jointly-owned work, including the right to grant licenses to third
 parties or to individually enforce the copyright, is at present unclear
 under Israeli law.
@@ -91,7 +91,7 @@ original work that is “materially based” on another work. While not
 expressly set forth in the statute, the copyright of the author of the
 derivative work should extend only to the original elements of the
 derivative work, while the rights of the copyright holder of the
-original work should remain intact.[^4] As noted below, subject to
+original work should remain intact.[^israel_4] As noted below, subject to
 certain statutory exceptions, the right to create a derivative work is
 one of the exclusive economic rights included in a copyright.
 
@@ -100,7 +100,7 @@ primary importance in the interpretation of the GPL, which (in very
 brief summary) may potentially require the disclosure of the source code
 of works that are derivative of the licensed work. To the extent the
 statutory definition of a “derivative work” impacts the answer to that
-question,[^5] it should be noted that the statutory test of the
+question,[^israel_5] it should be noted that the statutory test of the
 Copyright Law looks to the “materiality” of the “use” that the
 subsequent work makes of the protected work. This test may subtly differ
 from the definition of a “derivative work” in other jurisdictions that
@@ -148,7 +148,7 @@ not include the exclusive right to lease computer programs or recordings
 that are inseparable from the item that is the primary object of the
 lease. As such, the exclusive right to lease a copy of a computer
 program is not infringed by the lease of consumer goods that include
-software.[^6]
+software.[^israel_6]
 
 ### Exceptions to exclusive rights
 
@@ -157,7 +157,7 @@ exclusions to the exclusive rights of copyright holder enumerated above.
 These include, as described in more detail below, the right to create
 copies or derivative works of computer programs for the purpose of
 backups, maintenance and support, fixing bugs, and ensuring
-interoperability.[^7] These “permitted uses” may be exercised only by
+interoperability.[^israel_7] These “permitted uses” may be exercised only by
 the holder of a “lawful copy” of the program or on her behalf.
 
 Section 24(a) of the Copyright Law provides for a right to create backup
@@ -178,7 +178,7 @@ derivative works of computer programs for the purpose of fixing bugs,
 interoperability and information security. Without repeating verbatim
 the detailed conditions set forth in this section, it should be noted
 that this section is broadly intended to allow reverse engineering and
-decompilation of computer programs for the enumerated purposes.[^8] It
+decompilation of computer programs for the enumerated purposes.[^israel_8] It
 is not clear whether a licensee may contractually agree to forgo the
 rights of “permitted uses” set forth in this section. As such, the
 enforceability of common contractual terms against reverse engineering
@@ -304,7 +304,7 @@ acceptance. The statute details how this requirement of offer and
 acceptance can be satisfied. In addition, case law has generally
 emphasized the substance of contract law rather than the form and, as
 such, Israeli law puts a strong emphasis on questions of good faith and
-fair dealing between the parties.[^9]
+fair dealing between the parties.[^israel_9]
 
 Commercial license agreements generally satisfy the statutory
 requirements of contract formation, in that they are often reached
@@ -313,10 +313,10 @@ process of negotiation. FOSS licenses that are reached through this
 standard process of offer and acceptance should also be seen as validly
 formed and should be enforced as regular contracts. In practice,
 however, the acceptance of a FOSS license will frequently not involve
-such a process of offer and acceptance.[^10] Often a FOSS license does
+such a process of offer and acceptance.[^israel_10] Often a FOSS license does
 not provide for an express agreement between the parties, but merely
 sets forth conditions that a licensee is required to satisfy in order to
-benefit from the protection of the license.[^11] For example, FOSS code
+benefit from the protection of the license.[^israel_11] For example, FOSS code
 is often made available through the Internet with the minimal statement
 that it is being made available pursuant to a specific FOSS license.
 Even so, Israeli contract law is likely to recognize FOSS licenses as
@@ -325,15 +325,15 @@ expressly recognizes that contracts may be accepted through a manner of
 conduct. In addition, the Standardized Contract Law of 1982 (the
 “Standardized Contract Law”) generally recognizes the contractual
 validity of “standardized contracts” that may be either accepted or
-rejected by a counterparty.[^12] This conclusion is likely to be
+rejected by a counterparty.[^israel_12] This conclusion is likely to be
 bolstered by the general emphasis of Israeli law with regard to good
 faith and fair dealing, since the FOSS license will be the only grant of
-permission to use the FOSS work.[^13]
+permission to use the FOSS work.[^israel_13]
 
 The plaintiffs in Reuveni (the case referenced above) did seem to
 advance contractual claims when they asserted that the defendants did
 not satisfy the conditions set forth in the Creative Commons
-license.[^14] The court, however, did not consider the question of
+license.[^israel_14] The court, however, did not consider the question of
 whether the Creative Commons constituted an enforceable legal contract
 and proceeded directly to the issues of copyright infringement and
 damages. As such, the Reuveni decision leaves open the question of
@@ -354,7 +354,7 @@ varies on a case-by-case basis according to the circumstances, and is
 ultimately a question determined by the court. FOSS licenses do not
 generally contain an express term and are generally granted for an
 indefinite period of time. As such, Israeli law presents the risk that a
-FOSS licensor can terminate a FOSS license upon reasonable notice.[^15]
+FOSS licensor can terminate a FOSS license upon reasonable notice.[^israel_15]
 
 ### Waiver and liability
 
@@ -370,7 +370,7 @@ use of her work.
 
 Israeli law provides for certain implied warranties in the context of a
 sale of goods, services or rights, including with regard to rights in
-intellectual property.[^16] For example, Section 11(3) of the Sale Law
+intellectual property.[^israel_16] For example, Section 11(3) of the Sale Law
 of 1968 (the “Sale Law”) generally provides for implied warranties of
 “regular or commercial use or any other special purpose that may be
 implied by agreement”. These implied contract terms are similar but not
@@ -406,7 +406,7 @@ implied warranties of merchantability and fitness for a particular
 purpose may not be disclaimed if the non-conformity results from facts
 that the seller “knows or has reason to know of”. While not explicit in
 the statute, this provision may also apply to the implied warranty of
-non-infringement.[^17] Again, the application of these provisions to the
+non-infringement.[^israel_17] Again, the application of these provisions to the
 licensing of intellectual property has not been satisfactorily explored
 in Israeli case law.
 
@@ -417,7 +417,7 @@ Remedies
 
 Under Israeli law, a copyright holder may be entitled to either an
 accounting of profits or damages (whether actual or statutory) for the
-infringement of a copyright.[^18] Criminal penalties may also be
+infringement of a copyright.[^israel_18] Criminal penalties may also be
 generally imposed with regard to infringements of copyright in commerce,
 but a full discussion of such criminal penalties is beyond the scope of
 this article.
@@ -429,7 +429,7 @@ infringed work, and in such event a court must determine what proportion
 of profits should be allocated to the infringed work. Though the
 question has not yet been addressed by case law, it seems that an
 infringer of software (including FOSS) should similarly be entitled to
-an accounting of profits of the infringing party.[^19]
+an accounting of profits of the infringing party.[^israel_19]
 
 Actual damages may be difficult to assess in a suit for FOSS
 infringement, especially where the work is generally made available free
@@ -481,7 +481,7 @@ Section 53 of the Copyright Law provides that the holder of a copyright
 is entitled to obtain an injunction against an infringer, “unless the
 court determines that justifications exist for denying such an
 injunction.” Israeli courts may also grant temporary injunctions against
-infringers. [^20] The grant of an injunction may prove of central
+infringers. [^israel_20] The grant of an injunction may prove of central
 importance to the licensor of open source software, especially given the
 difficulty of proving actual damages. The plaintiffs in Reuveni had
 dropped their demand for an injunction, and the court in that case
@@ -497,7 +497,7 @@ theoretically available under Israeli law for the breach of contract.
 Section 3 of the Contract Law (Remedies for Breach) of 1970 expressly
 provides for the availability of this remedy to the non-breaching party,
 and a long tradition of Israeli case law has emphasized the importance
-of specific performance as a remedy for breach of contract.[^21] This
+of specific performance as a remedy for breach of contract.[^israel_21] This
 approach contrasts strongly with the common law tradition of favoring an
 award of monetary damages rather than specific performance of the
 contract.
@@ -510,11 +510,11 @@ release the source code of the licensee’s work. Licensees that have
 discounted the possibility of such injunctions under the rules of other
 legal systems should be aware of this possibility under Israeli law.
 
-[^1]: The Copyright Act of 1911 and the Copyright Ordinance of 1924
+[^israel_1]: The Copyright Act of 1911 and the Copyright Ordinance of 1924
     continue in certain circumstances to apply to works and acts of
     infringement that predate the Copyright Law.
 
-[^2]: Israel is a signatory to the WIPO Copyright Treaty, but has yet to
+[^israel_2]: Israel is a signatory to the WIPO Copyright Treaty, but has yet to
     ratify the treaty or introduce implementing legislation. Several
     provisions of the WCT, however, have been implemented in the
     Copyright Law. Other provisions, such as the requirement of
@@ -523,7 +523,7 @@ legal systems should be aware of this possibility under Israeli law.
     adopted into Israeli law. See below under the heading “Technical
     Devices and Effective Technological Measures”.
 
-[^3]: See paragraphs 15-16 of the dissenting opinion of Justice Englard
+[^israel_3]: See paragraphs 15-16 of the dissenting opinion of Justice Englard
     in IE 1567/99 Sivan v. Shefer, discussing the English and American
     approaches and their application to Israeli law. See also IE 5365/11
     AKUM Ltd. v EMI Music Publishing Ltd. (suggesting, but not holding,
@@ -534,30 +534,30 @@ legal systems should be aware of this possibility under Israeli law.
     permission of the other owners, as long as that use does not
     interfere with the rights of other owners.)
 
-[^4]: TONY GREENMAN, ZEHUYOT YOZRIM, “Copyright”, 2nd ed. 2008
+[^israel_4]: TONY GREENMAN, ZEHUYOT YOZRIM, “Copyright”, 2nd ed. 2008
     (hereinafter GREENMAN), at 212.
 
-[^5]: This article does not address the question of whether the GPL may
+[^israel_5]: This article does not address the question of whether the GPL may
     potentially reach beyond the statutory definition of a “derivative
     work”. The answer to that question depends on the contractual
     validity and interpretation of the GPL.
 
-[^6]: 1 GREENMAN, at 265.
+[^israel_6]: 1 GREENMAN, at 265.
 
-[^7]: The Copyright Law enumerates other “permitted uses” which are not
+[^israel_7]: The Copyright Law enumerates other “permitted uses” which are not
     applicable or not specific to computer programs, including the
     doctrine of “fair use”. These “permitted uses” are beyond the scope
     of this chapter.
 
-[^8]: See the Proposed Copyright Law, 196 Reshumot 1116 (July 20, 2005),
+[^israel_8]: See the Proposed Copyright Law, 196 Reshumot 1116 (July 20, 2005),
     at 1127.
 
-[^9]: See, e.g., Sections 12 (requiring parties to act in good faith in
+[^israel_9]: See, e.g., Sections 12 (requiring parties to act in good faith in
     contractual negotiations), and 39 (requiring good faith in
     satisfying contractual terms and obligations) of the Contract Law of
     1973.
 
-[^10]: The Free Software Foundation has taken the position that the GPL
+[^israel_10]: The Free Software Foundation has taken the position that the GPL
     is a license but not a contract. See
     <http://www.gnu.org/philosophy/enforcing-gpl.html>. This position
     seems to be motivated by an attempt to circumvent the legal
@@ -577,7 +577,7 @@ legal systems should be aware of this possibility under Israeli law.
     stance of all licensors of FOSS, whether made available under the
     GPL or pursuant to other FOSS licenses.
 
-[^11]: This approach is cogently and succinctly expressed by section 5
+[^israel_11]: This approach is cogently and succinctly expressed by section 5
     of version 2.1 of the GPL: “You are not required to accept this
     License, since you have not signed it. However, nothing else grants
     you permission to modify or distribute the Program or its derivative
@@ -588,13 +588,13 @@ legal systems should be aware of this possibility under Israeli law.
     distributing or modifying the Program or works based on it.” See
     also Section 9 of version 3.0 of the GPL.
 
-[^12]: GABRIELA SHALEV, DINEI HOZIM, “Laws of Contracts” at 608 (1990)
+[^israel_12]: GABRIELA SHALEV, DINEI HOZIM, “Laws of Contracts” at 608 (1990)
     (hereinafter SHALEV). Together with this acceptance of “standardized
     contracts” as generally valid, Israeli law limits the efficacy of
     “unconscionable” terms in such contracts. See the discussion below
     under the heading “Waiver and Liability”.
 
-[^13]: See also 2 GREENMAN, at 568 (describing the GPL and open source
+[^israel_13]: See also 2 GREENMAN, at 568 (describing the GPL and open source
     licenses as enforceable legal contracts). Note that the question of
     whether a FOSS license is a contract or not should not affect the
     rights in bankruptcy. Section 123 of the Bankruptcy Ordinance -
@@ -603,7 +603,7 @@ legal systems should be aware of this possibility under Israeli law.
     does not distinguish between contractual or other rights in
     intellectual property.
 
-[^14]: As noted, the FOSS license is the only authorization a defendant
+[^israel_14]: As noted, the FOSS license is the only authorization a defendant
     may have to use the FOSS work. As such, defendants may have little
     incentive to challenge the validity of the license. The defendants
     in Reuveni, for example, did not attack the contractual validity of
@@ -612,14 +612,14 @@ legal systems should be aware of this possibility under Israeli law.
     licensees, such as the requirements of the GPL with regard to the
     disclosure of source code.
 
-[^15]: 2 GREENMAN, at 555.
+[^israel_15]: 2 GREENMAN, at 555.
 
-[^16]: See Section 4(a) of the Sale Law. See also EYAL ZAMIR, HOK
+[^israel_16]: See Section 4(a) of the Sale Law. See also EYAL ZAMIR, HOK
     HAMEHER, “The Sale Law of 1968” (1987) (hereinafter ZAMIR), at 138.
 
-[^17]: ZAMIR, at 379.
+[^israel_17]: ZAMIR, at 379.
 
-[^18]: The remedies of actual damages and an accounting of profits are
+[^israel_18]: The remedies of actual damages and an accounting of profits are
     implied by the Copyright Law, though not expressly provided for
     therein. Section 52 of the Copyright Law provides that the
     infringement of a copyright is cause for a civil action for damages,
@@ -632,11 +632,11 @@ legal systems should be aware of this possibility under Israeli law.
     under Israeli law is beyond the scope of this article. Regarding the
     remedy of an accounting of profits, see 2 GREENMAN, at 790.
 
-[^19]: The questions raised by an accounting of profits did not come up
+[^israel_19]: The questions raised by an accounting of profits did not come up
     in Reuveni, as the defendant in that case did not collect any actual
     profits from the sale of the infringing work. See Reuveni at pp.4.
 
-[^20]: Generally, in determining whether to grant a temporary
+[^israel_20]: Generally, in determining whether to grant a temporary
     injunction, a court will weigh the “balance of the hardships” – the
     damage to the plaintiff if the request for temporary relief is
     rejected against the damage to the plaintiff (or other parties) if
@@ -649,4 +649,4 @@ legal systems should be aware of this possibility under Israeli law.
     might be interpreted as granting courts more discretion in
     determining whether to award a temporary injunction.
 
-[^21]: See SHALEV, at 527, n. 1.
+[^israel_21]: See SHALEV, at 527, n. 1.
