@@ -102,3 +102,27 @@ for file in (cat sorting.meta);
 	pandoc --pdf-engine=xelatex -s -f markdown_strict+footnotes+auto_identifiers+implicit_header_references+header_attributes+smart -o PDF_per_chapter/(basename $file .markdown).pdf $file;
 end
 ```
+
+
+##Naming convention
+
+The individual files are named according to the following convention:
+
+```
+10 - Intro.markdown
+20 - History.markdown
+50 - Belgium.markdown
+50 - China.markdown
+50 - ...
+90 - Authors.markdown
+```
+
+The position of the chapters Intro, History and Authors is predetermined and the country chapters can simply be added as `50 - $country_name.markdown` and they will be generated in the right order without the need to manually keep track of the order in a separate file. This also leaves space to introduce new groups of chapters before or after, as well.
+
+The file `sorting.meta` is therefore no longer needed. 
+
+Generating a full-book PDF now works by running (requires pandoc 2.0 or later):
+
+```
+pandoc --pdf-engine=xelatex -s -f markdown_strict+footnotes+auto_identifiers+implicit_header_references+header_attributes+smart src/*markdown -o IFOSSLB.pdf
+```
