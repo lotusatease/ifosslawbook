@@ -121,8 +121,10 @@ The position of the chapters Intro, History and Authors is predetermined and the
 
 The file `sorting.meta` is therefore no longer needed. 
 
+## Generating the PDF
+
 Generating a full-book PDF now works by running (requires pandoc 2.0 or later):
 
 ```
-pandoc --pdf-engine=xelatex -s -f markdown_strict+footnotes+auto_identifiers+implicit_header_references+header_attributes+smart src/*markdown -o IFOSSLB.pdf
+pandoc --number-sections --pdf-engine=xelatex -s -f markdown_strict+footnotes+auto_identifiers+implicit_header_references+header_attributes+smart src/*markdown -o IFOSSLB.pdf
 ```
