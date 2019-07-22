@@ -4,8 +4,8 @@ This repository contains the sources in various formats of the second edition of
 
 Any pull request will be authorized only by the copyright holders of the individual contributions.
 
-> **NOTE**: **_if you see this note you are working on the master branch_** please always work on the bugfix branch and make a pull request from there, so that the original version is untouched until we merge all the changes. On your local filesystem, you can do 
-        
+> **NOTE**: **_if you see this note you are working on the master branch_** please always work on the bugfix branch and make a pull request from there, so that the original version is untouched until we merge all the changes. On your local filesystem, you can do
+
 >        git -b bugfix
 >        git branch --set-upstream-to=origin/bugfix bugfix
 
@@ -109,17 +109,17 @@ end
 The individual files are named according to the following convention:
 
 ```
-10 - Intro.markdown
-20 - History.markdown
-50 - Belgium.markdown
-50 - China.markdown
-50 - ...
-90 - Authors.markdown
+10-Intro.markdown
+20-History.markdown
+50-Belgium.markdown
+50-China.markdown
+50-...
+90-Authors.markdown
 ```
 
-The position of the chapters Intro, History and Authors is predetermined and the country chapters can simply be added as `50 - $country_name.markdown` and they will be generated in the right order without the need to manually keep track of the order in a separate file. This also leaves space to introduce new groups of chapters before or after, as well.
+The position of the chapters Intro, History and Authors is predetermined and the country chapters can simply be added as `50-$country_name.markdown` and they will be generated in the right order without the need to manually keep track of the order in a separate file. This also leaves space to introduce new groups of chapters before or after, as well.
 
-The file `sorting.meta` is therefore no longer needed. 
+The file `sorting.meta` is therefore no longer needed.
 
 ## Generating the PDF
 
