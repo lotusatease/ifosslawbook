@@ -8,7 +8,7 @@ About the publication
 > That tension will not go away. It leads to endless wrenching debate
 > about price, copyright, “intellectual property”, the moral rightness
 > of casual distribution, because each round of new devices makes the
-> tension worse, not better. zufuizf
+> tension worse, not better.
 >
 > —  Stewart Brand The Media Lab - Inventing the Future at M.I.T.
 
