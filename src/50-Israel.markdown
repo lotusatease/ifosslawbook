@@ -1,10 +1,8 @@
-Israel
-======
+# Israel
 
 author:\[Greenbaum,Eli\]
 
-Introduction to software protection under Israeli law
------------------------------------------------------
+## Introduction to software protection under Israeli law
 
 ### Body of law
 
@@ -251,8 +249,7 @@ of effective technological measures falls within the ambit of these
 provisions, especially considering the Knesset’s deliberate decision not
 to include express provisions regarding this issue in the Copyright Law.
 
-Analysis of FOSS under Israeli law
-----------------------------------
+## Analysis of FOSS under Israeli law
 
 Under Israeli law, rights in FOSS do not differ from other forms of
 copyright and patent licensing. FOSS is protected under the Copyright
@@ -410,8 +407,7 @@ non-infringement.[^israel_17] Again, the application of these provisions to the
 licensing of intellectual property has not been satisfactorily explored
 in Israeli case law.
 
-Remedies
---------
+## Remedies
 
 ### Copyright infringement — damages
 

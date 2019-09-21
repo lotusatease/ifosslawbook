@@ -1,10 +1,8 @@
-Spain
-=====
+# Spain
 
 author:\[Bain,Malcolm\]
 
-Introduction to software protection under Spanish law
------------------------------------------------------
+## Introduction to software protection under Spanish law
 
 ### Body of law
 
@@ -256,8 +254,7 @@ implement the EU Copyright Directives. Criminal law also penalises any
 copyright infringement for commercial purposes (“for profit” motive),
 with specific emphasis on removing TPMs[^spain_26].
 
-Unprotected software and public domain software
------------------------------------------------
+## Unprotected software and public domain software
 
 As set forth above, only software that is original in the sense that it
 is an intellectual creation of the author benefits copyright protection.
@@ -276,8 +273,7 @@ third parties as their own work, and by modifying the original work,
 third parties can take certain versions of the public domain software
 out of the public domain again.
 
-FOSS under Spanish law
-----------------------
+## FOSS under Spanish law
 
 From a conceptual and legal point of view, FOSS is like any other
 computer program, and benefits from the protection granted by copyright
@@ -344,8 +340,7 @@ contributions may be indivisible, i.e. each individual contribution is
 not clearly identifiable, e.g. when two authors write a text together.
 But it is not necessarily the case: under Spanish law there may be
 co-authorship even when the several components are distinguishable, but
-brought together in a single work in which all the authors are involved
---- what one may call “horizontal” collaboration[^spain_34].
+## brought together in a single work in which all the authors are involved
 
 As we have seen above, in the case of collaborative works, the authors
 are free to regulate the exercise of the copyrights by agreement.
@@ -781,8 +776,7 @@ that copy. The conditions of use established in the license on this work
 “run” with the tangible copy, as the sole authorisation to exploit the
 intangible work on that copy.
 
-FOSS cases in Spain
--------------------
+## FOSS cases in Spain
 
 While there have been several cases regarding the use of free content
 (specifically within the context of paying collecting societies' levies,
@@ -792,8 +786,7 @@ of “copyleft” as a concept within the aforementioned free content cases
 is interesting, showing an increasing awareness of judges with respect
 to FOSS licensing models.
 
-Legal procedures
-----------------
+## Legal procedures
 
 ### Legal action
 

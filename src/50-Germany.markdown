@@ -1,10 +1,8 @@
-Germany
-=======
+# Germany
 
 author:\[Engelhardt,Tim\] author:\[Jaeger,Till\]
 
-Introduction to software protection under German law
-----------------------------------------------------
+## Introduction to software protection under German law
 
 ### Body of law
 
@@ -396,8 +394,7 @@ hand, the employee assented to a FOSS distribution, sec. 32a para 3
 sentence 3 should apply by way of analogy. In contrast, sec. 32 is
 probably not applicable to employed software authors.[^germany_35]
 
-Unprotected software and public domain software
------------------------------------------------
+## Unprotected software and public domain software
 
 As explained, German copyright doctrine does not allow the complete
 waiver of one’s copyright, and consequently, public domain software
@@ -416,8 +413,7 @@ However, FOSS is not considered public domain software, as FOSS authors
 do not give up their rights but rather use copyright to enforce their
 interests.[^germany_37]
 
-Analysis of FOSS under German law
----------------------------------
+## Analysis of FOSS under German law
 
 ### Copyrights
 
@@ -1019,8 +1015,7 @@ someone who is not the true author poses as such. However,
 indemnifications for the violation of moral rights are in practice
 rather rare and come into consideration mostly in very serious cases.
 
-Legal procedures
-----------------
+## Legal procedures
 
 ### Standing to sue
 
@@ -1143,8 +1138,7 @@ ranges from roughly EUR 9,000 to EUR 12,000 if no oral hearing is
 involved (as often in preliminary injunction cases), and from EUR 12,000
 to EUR 21,000 if an oral hearing takes place.
 
-FOSS cases in Germany
----------------------
+## FOSS cases in Germany
 
 As FOSS is a relatively recent phenomenon, case law is still limited
 internationally. In some landmark decisions, however, German courts left

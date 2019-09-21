@@ -1,10 +1,8 @@
-Korea
-=====
+# Korea
 
 author:\[Park,Jongbaek\]
 
-Body of Law
------------
+## Body of Law
 
 Software, including computer programs, is protected as copyrightable
 work under the Copyright Act (“the Act”) of Korea. Special provisions in
@@ -28,8 +26,7 @@ since 15 March, 2012 and 1 July, 2011 respectively. The Act has been
 revised to provide a wider range of protection for the software in
 range, remedies, technical protection measures, etc.
 
-Object of Protection
---------------------
+## Object of Protection
 
 According to the Act, ‘computer program’ means a work reduced to
 writing, composed of orders and directions, used in a device with
@@ -56,8 +53,7 @@ syntax (special agreement on the usage of the programming language in a
 specific program) and algorithms (combination methods of instructions
 and commands in program) from protection.[^korea_5]
 
-Authors
--------
+## Authors
 
 ### Definition of Author
 
@@ -138,8 +134,7 @@ each author, unless otherwise stipulated. In such cases, the share of
 each author shall be deemed equal unless otherwise clearly
 specified.[^korea_18]
 
-Exclusive rights
-----------------
+## Exclusive rights
 
 According to the Act, the author of a program has exclusive rights to
 reproduce,[^korea_19] transmit or broadcast the work in public,[^korea_20] and to
@@ -166,8 +161,7 @@ based on the work by means of translation, modification, alteration,
 etc. of original work; and the right to make compilations falls under
 the right of reproduction.[^korea_25]
 
-Exceptions to the Exclusive Rights
-----------------------------------
+## Exceptions to the Exclusive Rights
 
 In relation to use of computer programs, there are several special
 exceptions to exclusive rights under the Act. For example, a user of a
@@ -202,8 +196,7 @@ principle of exhaustion applies to intangible digital works purchased
 through on-line networks as there are no current statutes or court
 precedents that address this issue.
 
-Moral Rights
-------------
+## Moral Rights
 
 An author’s moral rights belong exclusively to the author,[^korea_31] and
 these rights cannot be assigned or transferred. Moral rights are the
@@ -230,8 +223,7 @@ its publication.[^korea_36] If derivative or compilation work made with the
 consent of the original author has been published, the original work
 will be deemed to have been published.[^korea_37]
 
-Terms of Protection
--------------------
+## Terms of Protection
 
 The 2011 amended version of the Act, effective as of 1 July 2013,
 provides that the author’s exclusive rights to a program will be
@@ -250,8 +242,7 @@ starts from the year after the author’s death or its publication,[^korea_42]
 since it may be difficult ascertain the exact dates of the author’s
 death, creation or publication.
 
-Copyright Assignment
---------------------
+## Copyright Assignment
 
 ### Assignment of Exclusive Rights
 
@@ -293,8 +284,7 @@ programs, as such, moral rights for computer programs are recognized
 like other copyrighted works. Due to its inalienability, an author’s
 moral rights cannot be held in trust.[^korea_49]
 
-Special Measures
-----------------
+## Special Measures
 
 ### Civil Remedies
 
@@ -397,8 +387,7 @@ infringers who were profit-motivated ('emphasis added").[^korea_62] It is
 possible that this broadened exception clause subjects more infringers
 to criminal sanctions as compared to the previous version of the Act.
 
-Unprotected Software and Public Domain Software
------------------------------------------------
+## Unprotected Software and Public Domain Software
 
 Works with expired copyright protection terms, works without a copyright
 holder, or works with express waivers from copyright holder are not be
@@ -407,8 +396,7 @@ Software (“FOSS”) makes available its source code for public use, it is
 not unprotected software or public domain software as defined under the
 Act.
 
-Analysis of FOSS under Korean Law
----------------------------------
+## Analysis of FOSS under Korean Law
 
 ### Copyright
 
@@ -531,8 +519,7 @@ Act and thus becomes the holder of exclusive and moral rights.[^korea_66] In
 such instances, the employer may exercise its copyrights under the terms
 and conditions of a FOSS license.
 
-Moral Rights
-------------
+## Moral Rights
 
 Because most FOSS licenses allow liberal modifications to FOSS, a major
 legal issue is whether these modifications will severely infringe upon
@@ -556,8 +543,7 @@ author’s moral rights shall still be recognized, regardless of the
 effectiveness of the original author’s waiver of the right to the
 integrity of the work under the terms of a license.
 
-Enforcing FOSS Licenses
------------------------
+## Enforcing FOSS Licenses
 
 Various bodies of law such as Korean contract law, the Copyright Act,
 criminal law, etc. should be considered simultaneously in order to
@@ -729,8 +715,7 @@ the liability exemption clause of the FOSS license may be valid under
 Article 6 of the Act. Therefore, in practice, product liability on FOSS
 would not often recognized.[^korea_84]
 
-The Copyleft Principle
-----------------------
+## The Copyleft Principle
 
 ### Principle
 
@@ -769,8 +754,7 @@ maintain its secrecy, and iii) has independent economic value, and
 therefore is qualified as a trade secret.[^korea_85] This holding is to be
 criticized as described in the section entitled “FOSS Cases in Korea.”
 
-Remedies for Infringement
--------------------------
+## Remedies for Infringement
 
 ### Under the Copyright Act
 
@@ -820,8 +804,7 @@ Civil Execution Act, with a provisional disposition to keep the licensee
 from using the FOSS program or to disclose its source code until the
 relevant judgment is held.
 
-FOSS Cases in Korea
--------------------
+## FOSS Cases in Korea
 
 ### Elimnet v. Haionnet
 

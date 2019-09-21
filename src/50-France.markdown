@@ -1,10 +1,8 @@
-France
-======
+# France
 
 author:\[Perbost,Fabrice\] author:\[Walter,Alan\]
 
-Introduction to software protection under French law
-----------------------------------------------------
+## Introduction to software protection under French law
 
 ### Body of law
 
@@ -248,8 +246,7 @@ provision of devices, products or services to this effect. Nevertheless,
 the article specifies that it is not applicable to the technological
 measures used in connection with software.
 
-Unprotected software and public domain software
------------------------------------------------
+## Unprotected software and public domain software
 
 As previously discussed, only original software is protected by
 copyright.
@@ -289,8 +286,7 @@ license would appear to be possible as far as the author may freely
 waive his patrimonial rights. The use of the software would, however, be
 subject to the respect of the moral rights of the author.
 
-Analysis of FOSS under French law
----------------------------------
+## Analysis of FOSS under French law
 
 Free software licenses have once been defined as “licenses through which
 the author allows the copy, modification and distribution of the work
@@ -615,8 +611,7 @@ of the defect to be known at the time that the product came into
 circulation. It is within this meaning that the warranty clause in the
 CeCILL license has been produced[^france_27].
 
-FOSS Cases in France
---------------------
+## FOSS Cases in France
 
 Although it can be said that the free domain relatively generates few
 cases of litigation, users of free software are nevertheless subject to
@@ -704,8 +699,7 @@ Three cases have come before the French courts.
     decision is not without consequences and that a free software is not
     a software free of rights.
 
-Legal procedures
-----------------
+## Legal procedures
 
 Free software developers enjoy several methods of ensuring the
 compliance with their rights. They can act on the basis of contract law

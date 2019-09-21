@@ -1,10 +1,8 @@
-South Africa
-============
+# South Africa
 
 author:\[Rens,Andrew\]
 
-Introduction to Software Protection under South African Law
------------------------------------------------------------
+## Introduction to Software Protection under South African Law
 
 ### Body of Law
 
@@ -296,8 +294,7 @@ holder in South Africa. Dealing in counterfeit goods is a criminal
 offense, and alleged counterfeit goods may be seized by the police or
 customs authorities.
 
-Unprotected software and public domain software
------------------------------------------------
+## Unprotected software and public domain software
 
 Computer programs are treated as a distinct category of work, defined as
 instructions that direct the operation of a computer. Computer programs
@@ -323,8 +320,7 @@ domain would seem to meet these criteria. Although a signature on the
 deed would not be a formal requirement it would strongly indicate that a
 rights holder knew he was giving up rights.
 
-Analysis of FOSS under South African law
-----------------------------------------
+## Analysis of FOSS under South African law
 
 A user who made substantial changes to copyleft code would require a
 license from the rightsholder of the first version of the code since
@@ -493,8 +489,7 @@ a transaction in which a service provider delivered goods and services
 to a natural person that included FOSS for consideration in the course
 of business would be subject to consumer protection legislation.
 
-Cases
------
+## Cases
 
 There have been no reported cases as yet (June 2014).
 

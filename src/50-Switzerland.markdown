@@ -1,10 +1,8 @@
-Switzerland
-===========
+# Switzerland
 
 author:\[Jaccard,Michel\] author:\[Ancelle,Juliette\]
 
-Introduction to software protection under Swiss Law
----------------------------------------------------
+## Introduction to software protection under Swiss Law
 
 ### Applicable Law
 
@@ -355,8 +353,7 @@ presumption exists that it has created a threat to copyright and the
 author will therefore be entitled to damages without being required to
 establish any actual infringement to copyright[^switzerland_60].
 
-Analysis of FOSS under Swiss law
---------------------------------
+## Analysis of FOSS under Swiss law
 
 For the purpose of this chapter, the terms below will have the following
 meanings:
@@ -814,8 +811,7 @@ judicial costs of the prevailing party, as it is common in Switzerland
 for the losing party to bear the judicial costs of the adverse
 party[^switzerland_106].
 
-FOSS case law in Switzerland
-----------------------------
+## FOSS case law in Switzerland
 
 As of today, we are not aware of the reporting of any case law on FOSS
 in Switzerland. A decision was rendered by the Swiss Federal
@@ -826,8 +822,7 @@ Buildings and Logistic. This case however did not relate to any legal
 issue in relation with Open Source Software but was in fact about Swiss
 public procurement issues.
 
-Legal procedures
-----------------
+## Legal procedures
 
 We will start by analyzing briefly the applicable principles of conflict
 of laws that would give jurisdiction to a Swiss court and lead to the
@@ -923,8 +918,7 @@ acted *intentionally*[^switzerland_119]. A new unified criminal procedure code a
 came into force on January 1st, 2011, and is now applied by all cantons
 in all criminal cases.
 
-Recommended literature or websites
-----------------------------------
+## Recommended literature or websites
 
 For more information about Open Source software and applicable Swiss
 law, we recommend the following specialized literature:

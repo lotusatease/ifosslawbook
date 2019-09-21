@@ -1,10 +1,8 @@
-Belgium
-=======
+# Belgium
 
 author:\[Van den Brande,Ywein\]
 
-Introduction to software protection under Belgian law
------------------------------------------------------
+## Introduction to software protection under Belgian law
 
 ### Body of law
 
@@ -203,8 +201,7 @@ commercial purposes tools which are exclusively aimed at facilitating
 the unlawful removal or avoidance of technical means which protect the
 computer program[^belgium_33].
 
-Unprotected software and public domain software
------------------------------------------------
+## Unprotected software and public domain software
 
 As set forth above, only software that is original in the sense that it
 is an intellectual creation of the author benefits copyright protection.
@@ -229,8 +226,7 @@ their license agreement, than they would normally have with a
 proprietary software license[^belgium_39]. However, the FOSS license conditions
 need to be respected by the user.
 
-Analysis of FOSS under Belgian law
-----------------------------------
+## Analysis of FOSS under Belgian law
 
 The FOSS license deviates so much from conventional license agreements
 that under Belgian law it needs to be considered as a sui generis
@@ -638,8 +634,7 @@ then be obtained against payment by interested parties who want to use
 the work without their own additions being affected by the copyleft
 principle.
 
-FOSS cases in Belgium
----------------------
+## FOSS cases in Belgium
 
 No cases have been reported yet (October 2013).
 

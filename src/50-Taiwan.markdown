@@ -1,10 +1,8 @@
-Taiwan
-======
+# Taiwan
 
 author:\[Lin,Lucien Cheng-Hsia\]
 
-Introduction to software protection under Taiwan law
-----------------------------------------------------
+## Introduction to software protection under Taiwan law
 
 ### Body of law
 
@@ -301,8 +299,7 @@ Court, the written mediation settlement statement shall have the same
 force as a final and unappealable court judgment and constitute a writ
 of execution by itself as well.
 
-Unprotected software and public domain software
------------------------------------------------
+## Unprotected software and public domain software
 
 As set forth above, two fundamental criteria should be met on computer
 programs for the copyright protection, which are: (i) Producing process
@@ -352,8 +349,7 @@ term of protection. In other words, the abandoning statements made by
 the rightholders will render computer programs as unprotected softwares,
 and therefore into the Public Domain area.
 
-Analysis of FOSS under Taiwan law
----------------------------------
+## Analysis of FOSS under Taiwan law
 
 Provided by article 10 of the Copyright Act, author of a work shall
 enjoy copyrights upon completion of the work. That means when a creation
@@ -1100,8 +1096,7 @@ matter. If the damaging activity was intentional and / or serious, the
 compensation set by the court may be increased to five million New
 Taiwan Dollars maximum.
 
-FOSS cases in Taiwan
---------------------
+## FOSS cases in Taiwan
 
 By the time the Taiwan chapter finished, there is still no FOSS cases
 have been reported (July 2013). However, if it comes to the “Freeware”

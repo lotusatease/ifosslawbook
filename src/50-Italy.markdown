@@ -1,10 +1,8 @@
-Italy
-=====
+# Italy
 
 author:\[Piana,Carlo\] author:\[Aliprandi,Simone\]
 
-Body of law
------------
+## Body of law
 
 Copyright protection of software is regulated in Italy under a few
 articles added to the general Italian Copyright Law (precisely “Legge n.
@@ -207,8 +205,7 @@ Copyright Law provides that:
 > \[SIAE\] pursuant to this law and to the relevant Regulations as per
 > Royal Decree no. 1369 of May 18, 1942.
 
-Unprotected software and public domain software
------------------------------------------------
+## Unprotected software and public domain software
 
 Italian Copyright Law lays down that, in order to be protected, a work
 must have a minimal creative character, which must have at least two
@@ -230,8 +227,7 @@ domain” for this purpose into “devoid of any exploitation rights”, then
 a public domain status is achievable by an act of dedication to the
 public domain of the rightsholder.
 
-Analysis of FOSS under Italian law
-----------------------------------
+## Analysis of FOSS under Italian law
 
 ### Copyrights
 
@@ -697,13 +693,11 @@ software under proprietary conditions.[^italy_21]. In other words, reuse and
 FOSS *must be preferred* [^italy_22] over proprietary software, even if on
 pure technical and economic bases proprietary solutions score better.
 
-FOSS cases in Italy
--------------------
+## FOSS cases in Italy
 
 No cases have been reported yet (November 2013).
 
-Legal procedures
-----------------
+## Legal procedures
 
 In Italy the nature of legal procedures in the field of copyright does
 not not differ in nature from that in general civil cases, and a
@@ -729,8 +723,7 @@ The author of the work can always join the proceedings to protect his or
 her own interests even if he or she has already disposed of the economic
 rights in the work.
 
-Recommended literature
-----------------------
+## Recommended literature
 
 ### Articles
 

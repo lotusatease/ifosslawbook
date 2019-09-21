@@ -1,10 +1,8 @@
-The Netherlands
-===============
+# The Netherlands
 
 author:\[Dammers,Wouter\] author:\[van Kerkvoorden,Wanda\]
 
-Introduction to software protection under Dutch law
----------------------------------------------------
+## Introduction to software protection under Dutch law
 
 ### Body of law
 
@@ -299,8 +297,7 @@ writing from — or in the presence of — a public prosecutor or an
 assistant public prosecutor. An official report of such entry shall be
 drawn up by them within twenty-four hours.
 
-Unprotected software and public domain software
------------------------------------------------
+## Unprotected software and public domain software
 
 As set forth above, only software that is original in the sense that it
 is an intellectual creation of the author benefits from copyright
@@ -308,8 +305,7 @@ protection. Non-original software does not come into consideration for
 copyright protection and can, in principle, be used freely. In the
 Netherlands there is little to no case law about public domain software.
 
-Analysis of free and open source software under Dutch law
----------------------------------------------------------
+## Analysis of free and open source software under Dutch law
 
 ### Copyrights
 
@@ -944,8 +940,7 @@ the creditor has already brought a right of action (legal claim) to
 court in order to rescind the mutual agreement, will have no effect if
 the court subsequently decides to rescind that agreement.[^netherlands_105]
 
-FOSS cases in the Netherlands
------------------------------
+## FOSS cases in the Netherlands
 
 In the Netherlands, no cases concerning FOSS licences have been reported
 yet (July 2010). A search in the case law on the website for the Dutch
@@ -974,8 +969,7 @@ stated earlier in this article, the Netherlands is still waiting for its
 first “real” FOSS case before any certainty on the different legal
 issues can be established.
 
-Legal procedures
-----------------
+## Legal procedures
 
 ### Parties
 

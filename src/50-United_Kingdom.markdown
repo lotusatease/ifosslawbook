@@ -1,10 +1,8 @@
-United Kingdom
-==============
+# United Kingdom
 
 author:\[Katz,Andrew\] author:\[Mitchell QC,Iain G.\]
 
-Introduction to software protection under United Kingdom law
-------------------------------------------------------------
+## Introduction to software protection under United Kingdom law
 
 ### Body of law
 
@@ -400,8 +398,7 @@ in embedded devices may potentially invoke these powers where the
 firmware has been released under the GPL, but the relevant conditions of
 the GPL are not being complied with[^uk_43].
 
-Unprotected software, public domain software and orphan works
--------------------------------------------------------------
+## Unprotected software, public domain software and orphan works
 
 Only software that is original in the sense that it is an intellectual
 creation of the author benefits from copyright protection. Non-original
@@ -481,8 +478,7 @@ licence may be a bare licence, or a contractual licence. Use outside the
 scope of a licence (or otherwise permitted by law) will amount to a
 breach of copyright.
 
-Analysis of FOSS under United Kingdom law
------------------------------------------
+## Analysis of FOSS under United Kingdom law
 
 In essence, a licence is a permission to do something which would
 otherwise be unlawful; namely in the present instance, to copy. Such
@@ -1095,13 +1091,11 @@ expended. In Scotland, the amount of the reduction in expenses is more
 difficult to predict, but there will almost always be a reduction which
 can be substantial.
 
-FOSS cases in the United Kingdom
---------------------------------
+## FOSS cases in the United Kingdom
 
 There have not yet been any reported cases (June 2014).
 
-Legal procedures
-----------------
+## Legal procedures
 
 Stephen Mason kindly reviewed this section from a litigator’s
 perspective.

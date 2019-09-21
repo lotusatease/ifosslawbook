@@ -1,10 +1,8 @@
-Portugal
-========
+# Portugal
 
 author:\[Quintais LL.M.,João Pedro\] author:\[Ramalho LL.M.,Ana B.\]
 
-Introduction to software protection under Portuguese law
---------------------------------------------------------
+## Introduction to software protection under Portuguese law
 
 ### Body of law
 
@@ -468,8 +466,7 @@ legal persons.[^portugal_98] Additionally, the court may rule as lost in favor o
 the state any objects, materials, equipment or devices used and owned by
 the author of the crimes.[^portugal_99]
 
-Unprotected software and public domain software
------------------------------------------------
+## Unprotected software and public domain software
 
 As explained above, only software that is original in the sense that it
 is the author’s own intellectual creation — or in the Software Act’s
@@ -495,8 +492,7 @@ certain cases even be presented by third parties as their own
 work[^portugal_103], and by modifying the original work, third parties can take
 certain versions of said software out of the public domain.
 
-Analysis of FOSS under Portuguese Law
--------------------------------------
+## Analysis of FOSS under Portuguese Law
 
 From a conceptual and legal perspective, FOSS is identical to other
 types of software, and benefits from similar protection. Portuguese
@@ -1404,8 +1400,7 @@ consideration, targeted at interested parties wishing to use the work
 without their own additions being affected by “viral” copyleft effects
 of the initial FOSS license.
 
-FOSS Cases in Portugal
-----------------------
+## FOSS Cases in Portugal
 
 No cases have been reported yet (December 2013).
 

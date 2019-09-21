@@ -1,10 +1,8 @@
-China
-=====
+# China
 
 author:\[Xia,Yang\]
 
-Introduction to software protection under Chinese law
------------------------------------------------------
+## Introduction to software protection under Chinese law
 
 ### Body of law
 
@@ -195,8 +193,7 @@ of the code once they are made aware of the situation. However, they
 have recourse to seek compensation for this loss and its ancillary
 consequences from the original supplier of the infringing code.
 
-Unprotected software and non-commercial software
-------------------------------------------------
+## Unprotected software and non-commercial software
 
 Software that is an intellectual creation of the author is regarded as
 original and can obtain copyright protection, while non-original
@@ -215,8 +212,7 @@ the copied software has completed its non-commercial use, it should be
 reclaimed or be destroyed properly and must not be used for other goals
 or be given to other people.
 
-Unprotected software and public domain software
------------------------------------------------
+## Unprotected software and public domain software
 
 Only software that is an intellectual creation of the author can obtain
 copyright protection. Non-original software does not come into
@@ -245,8 +241,7 @@ Proprietary software and open source software (free software) differ
 only in terms of their circulation mechanism, and not in terms of the
 applicability of Copyright.
 
-Analysis of FOSS under Chinese law
-----------------------------------
+## Analysis of FOSS under Chinese law
 
 ### Copyrights
 
@@ -784,7 +779,6 @@ license intended to provide a wide range of users. The second license
 without the copyleft system can then leveraged to obtain payment from
 interested parties who want to avoid the copyleft principle.
 
-FOSS cases in China
--------------------
+## FOSS cases in China
 
 No cases have been reported yet (June 2011).

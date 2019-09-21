@@ -1,10 +1,8 @@
-Poland
-======
+# Poland
 
 author:\[Rychlicki,Tomasz\]
 
-Introduction to software protection under Polish law
-----------------------------------------------------
+## Introduction to software protection under Polish law
 
 The legal framework regarding software protection in the Republic of
 Poland comprises the Constitution of 2 April 1997, acts passed by
@@ -89,8 +87,7 @@ but by the findings of fact. A computer program cannot be copyrighted
 unless the activities of its creator have the characteristics of
 originality and individuality[^poland_15].
 
-Authors/Beneficiaries
----------------------
+## Authors/Beneficiaries
 
 Copyright belongs to the creator, unless otherwise stated by law. The
 creator should be that person whose name is clearly marked on the copies
@@ -265,15 +262,13 @@ software is created under a contract similar to an employment agreement
 copyrights remain with the creator, unless the contract stipulates
 otherwise.
 
-Unprotected software and public domain software
------------------------------------------------
+## Unprotected software and public domain software
 
 As set forth above, only software that is original enjoys copyright
 protection. Non-original software is not eligible for copyright
 protection.
 
-Analysis of FOSS under Polish law
----------------------------------
+## Analysis of FOSS under Polish law
 
 ### The issue of free documentation
 
@@ -729,8 +724,7 @@ effectiveness of certain provisions of the GPL[^poland_115]. It has also been
 noted that the abusive nature of these provisions is subject to specific
 presumption[^poland_116].
 
-Tax law
--------
+## Tax law
 
 The Polish tax system is divided mainly into tax on earnings and tax on
 turnover[^poland_117].
@@ -799,8 +793,7 @@ remembered that interpretations by the tax authorities do not apply
 universally and are not binding: they are merely issued with regard to a
 specific taxpayer and the circumstances relating to that taxpayer[^poland_125].
 
-FOSS and legal issues of open standards
----------------------------------------
+## FOSS and legal issues of open standards
 
 Polish administrative courts have ruled that requests concerning access
 to public information relating to open standards may be excluded,
@@ -814,13 +807,11 @@ Tasks[^poland_127], the President of the Social Insurance Institution
 disclose public information concerning the technical specifications of
 the KSI MAIL format that is used in Płatnik software[^poland_128].
 
-FOSS cases in Poland
---------------------
+## FOSS cases in Poland
 
 No cases have been reported so far (April 2014).
 
-Legal procedures
-----------------
+## Legal procedures
 
 Copyright holders in the Republic of Poland may protect their rights in
 civil and criminal proceedings. Moreover, they may also resort to
@@ -841,8 +832,7 @@ cases are brought before the regional courts located in cities where
 particular district courts are also seated. The litigation costs depend
 on the amount in dispute.
 
-Protection of databases
------------------------
+## Protection of databases
 
 Poland has also adopted *sui generis* protection for databases in a
 separate law, entitled the Act on Protection of Databases (hereinafter

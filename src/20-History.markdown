@@ -1,5 +1,4 @@
-A history of FOSS law and licensing
-===================================
+# A history of FOSS law and licensing
 
 author:\[Engelfriet,Arnoud\]
 
@@ -26,8 +25,7 @@ stimulated the sale of hardware that could use this software. One might
 thus say that the idea of free and open source is as old as the
 computing business itself.[^history_2]
 
-Age of the shrink-wrap
-----------------------
+## Age of the shrink-wrap
 
 New developments in computing power over the next decade caused a
 fundamental shift away from this model. A landmark event occurred in
@@ -81,8 +79,7 @@ Legislators did try to introduce at least some right to reverse engineer
 software for compatibility purposes, but these clauses are generally
 regarded as weak and risky to invoke.[^history_10]
 
-Free software and the GPL
--------------------------
+## Free software and the GPL
 
 As soon as software by itself started to become a viable market, access
 to software in its human-readable source code form was becoming more and
@@ -119,8 +116,7 @@ Unix according to hacker tradition) would become one of the most
 valuable pieces of software ever written. Torvalds chose to use the GPL,
 calling it “one of the very best design decisions” he ever made.[^history_12]
 
-Legal entanglements around BSD
-------------------------------
+## Legal entanglements around BSD
 
 If not for a legal battle around free software elsewhere, Linux might
 not have been. The Berkeley Software Distribution (BSD) was a collection
@@ -142,8 +138,7 @@ slowed down significantly, allowing Linux to gain developer attention.
 Torvalds has observed he would not have created Linux if the BSD
 operating system had been available to him at the time.[^history_15]
 
-The rise of open source
------------------------
+## The rise of open source
 
 With the Linux kernel available, the free software movement finally was
 in a position to make significant growth and maybe overtake the
@@ -177,8 +172,7 @@ lesser-used variant is *free/libre/open source software* (FLOSS), which
 uses “libre” to clarify the meaning of free as in “freedom” rather than
 as in “at no charge”.
 
-Legal validity
---------------
+## Legal validity
 
 There are hundreds of FOSS licenses, although they can be grouped
 roughly into three categories. The first category is often referred to
@@ -240,8 +234,7 @@ of the infringing use of free software.[^history_29] The project has reported
 numerous successful settlements and a 100% success rate in enforcing its
 licenses.
 
-Towards the future
-------------------
+## Towards the future
 
 FOSS shows no sign of slowing down. Linux is widely in use in embedded
 environments (mobile phones, televisions, cars, robots) and the open

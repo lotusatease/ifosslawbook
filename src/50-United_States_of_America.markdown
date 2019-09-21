@@ -1,10 +1,8 @@
-United States of America
-========================
+# United States of America
 
 author:\[Webbink,Mark H.\]
 
-Introduction to software protection under United States law
------------------------------------------------------------
+## Introduction to software protection under United States law
 
 ### Body of law
 
@@ -963,8 +961,7 @@ extend beyond the original distributor to any downstream party that
 redistributes the software. As a consequence, most original distributors
 include in their license a notice of such obligations and liability.
 
-Analysis of FOSS under United States law
-----------------------------------------
+## Analysis of FOSS under United States law
 
 Rights in FOSS under copyright, patent, and trademark law and the
 enforcement of such rights does not differ from other forms of
@@ -984,8 +981,7 @@ licensed under the GPL) or no such condition (e.g., arguably the
 Berkeley Software Distribution (BSD) and MIT licenses impose no such
 conditions).
 
-FOSS cases in the United States
--------------------------------
+## FOSS cases in the United States
 
 There have been few cases in the U.S. that have addressed the
 enforcement of free and open source licenses. Many of the so-called free

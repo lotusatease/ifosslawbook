@@ -1,10 +1,8 @@
-Finland
-=======
+# Finland
 
 author:\[von Willebrand,Martin\] author:\[Tanskanen,Henri\]
 
-Introduction to software protection under Finnish law
------------------------------------------------------
+## Introduction to software protection under Finnish law
 
 ### Body of law
 
@@ -281,8 +279,7 @@ However, the provisions under Articles 50 a , 50 b and 50 c of the Act
 regarding the prohibition of circumvention of technological measures do
 not apply to computer programs.
 
-Unprotected software and public domain software
------------------------------------------------
+## Unprotected software and public domain software
 
 Only software that is original in the sense that it is an intellectual
 creation of the author is eligible for copyright protection.
@@ -319,8 +316,7 @@ law. This is simply because an author of FOSS reserves the copyright,
 whereas an author placing a work into the public domain renounces it
 altogether.
 
-Analysis of FOSS under Finnish law
-----------------------------------
+## Analysis of FOSS under Finnish law
 
 Under Finnish copyright law, FOSS licenses can be examined on a very
 general level as follows.
@@ -584,13 +580,11 @@ against the copyleft rule, the compensation would, in principle, be
 equal to the license price the copyright holder would ask for such
 distribution.
 
-FOSS cases in Finland
----------------------
+## FOSS cases in Finland
 
 No cases have been reported yet (November 2013).
 
-Finnish case law on copyright to computer programs
---------------------------------------------------
+## Finnish case law on copyright to computer programs
 
 The authors have followed and listed below Finnish case law relating to
 copyright protection of computer programs up until November 2013. With
@@ -750,8 +744,7 @@ the following website:
 `*` English translation available at
 <http://www.okm.fi/export/sites/default/OPM/Tekijaenoikeus/tekijaenoikeusneuvosto/tekijaenoikeusneuvoston_lausunnot/2007/liitteet/TN_2007-9_edi_eng.pdf>
 
-References and recommended literature
--------------------------------------
+## References and recommended literature
 
 There are no wider literature presentations on Finnish copyright
 legislation in English. The references here are to literature on
