@@ -1,7 +1,7 @@
 
 # China
 
-author:\[Xia,Yang\]
+!include authors/xia.markdown
 
 ## Introduction to software protection under Chinese law
 

@@ -1,7 +1,7 @@
 
 # United States of America
 
-author:\[Webbink,Mark H.\]
+!include authors/webbink.markdown
 
 ## Introduction to software protection under United States law
 

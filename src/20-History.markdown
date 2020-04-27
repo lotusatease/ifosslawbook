@@ -1,7 +1,7 @@
 
 # A history of FOSS law and licensing
 
-author:\[Engelfriet,Arnoud\]
+!include authors/engelfriet.markdown
 
 Surprisingly, programmable computers are older than copyright law:
 Charles Babbage’s analytical engine of 1837 predates the Berne

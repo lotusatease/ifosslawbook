@@ -1,7 +1,7 @@
 
 # Korea
 
-author:\[Park,Jongbaek\]
+!include authors/park.markdown
 
 ## Body of Law
 

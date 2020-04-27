@@ -1,7 +1,7 @@
 
 # Taiwan
 
-author:\[Lin,Lucien Cheng-Hsia\]
+!include authors/lin.markdown
 
 ## Introduction to software protection under Taiwan law
 

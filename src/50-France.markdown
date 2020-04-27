@@ -1,7 +1,9 @@
 
 # France
 
-author:\[Perbost,Fabrice\] author:\[Walter,Alan\]
+!include authors/perbost.markdown
+
+!include authors/walter.markdown
 
 ## Introduction to software protection under French law
 

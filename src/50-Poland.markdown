@@ -1,7 +1,7 @@
 
 # Poland
 
-author:\[Rychlicki,Tomasz\]
+!include authors/rychlicki.markdown
 
 ## Introduction to software protection under Polish law
 

@@ -1,7 +1,9 @@
 
 # Italy
 
-author:\[Piana,Carlo\] author:\[Aliprandi,Simone\]
+!include authors/aliprandi.markdown
+
+!include authors/piana.markdown
 
 ## Body of law
 

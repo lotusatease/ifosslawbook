@@ -1,7 +1,7 @@
 
 # Spain
 
-author:\[Bain,Malcolm\]
+!include authors/bain.markdown
 
 ## Introduction to software protection under Spanish law
 

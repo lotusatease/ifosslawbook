@@ -1,9 +1,9 @@
 
 # Portugal
 
-author:\[Quintais LL.M.,João Pedro\] author:\[Ramalho LL.M.,Ana B.\]
+!include authors/quintais.markdown
 
-## Introduction to software protection under Portuguese law
+!include authors/ramalho.markdown
 
 ### Body of law
 

@@ -1,7 +1,9 @@
 
 # The Netherlands
 
-author:\[Dammers,Wouter\] author:\[van Kerkvoorden,Wanda\]
+!include authors/dammers.markdown
+
+!include authors/van_kerkvoorden.markdown
 
 ## Introduction to software protection under Dutch law
 

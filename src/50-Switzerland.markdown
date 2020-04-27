@@ -1,7 +1,9 @@
 
 # Switzerland
 
-author:\[Jaccard,Michel\] author:\[Ancelle,Juliette\]
+!include authors/jaccard.markdown
+
+!include authors/ancelle.markdown
 
 ## Introduction to software protection under Swiss Law
 

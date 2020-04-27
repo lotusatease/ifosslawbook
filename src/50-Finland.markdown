@@ -1,7 +1,9 @@
 
 # Finland
 
-author:\[von Willebrand,Martin\] author:\[Tanskanen,Henri\]
+!include authors/von_willebrand.markdown
+
+!include authors/taskanen.markdown
 
 ## Introduction to software protection under Finnish law
 

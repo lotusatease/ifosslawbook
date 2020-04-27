@@ -1,7 +1,7 @@
 
 # Belgium
 
-author:\[Van den Brande,Ywein\]
+!include authors/van_den_brande.markdown
 
 ## Introduction to software protection under Belgian law
 

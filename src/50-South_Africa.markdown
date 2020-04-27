@@ -1,7 +1,7 @@
 
 # South Africa
 
-author:\[Rens,Andrew\]
+!include authors/rens.markdown
 
 ## Introduction to Software Protection under South African Law
 

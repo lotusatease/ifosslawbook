@@ -1,7 +1,9 @@
 
 # United Kingdom
 
-author:\[Katz,Andrew\] author:\[Mitchell QC,Iain G.\]
+!include authors/katz.markdown
+
+!include authors/mitchell.markdown
 
 ## Introduction to software protection under United Kingdom law
 

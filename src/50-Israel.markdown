@@ -1,7 +1,7 @@
 
 # Israel
 
-author:\[Greenbaum,Eli\]
+!include authors/greenbaum.markdown
 
 ## Introduction to software protection under Israeli law
 

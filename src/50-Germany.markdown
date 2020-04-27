@@ -1,7 +1,9 @@
 
 # Germany
 
-author:\[Engelhardt,Tim\] author:\[Jaeger,Till\]
+!include authors/engelhardt.markdown
+
+!include authors/jaeger.markdown
 
 ## Introduction to software protection under German law
 
