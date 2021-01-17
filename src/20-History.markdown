@@ -1,4 +1,3 @@
-
 # A history of FOSS law and licensing
 
 !include authors/engelfriet.markdown
