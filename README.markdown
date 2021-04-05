@@ -151,5 +151,5 @@ include-pandoc --top-level-division=chapter --number-sections --latex-engine=xel
 
 Useful explanations:
 
-- '--top-level-division=chapter' treats the top level headings as separate chapters and makes them start on a new page.
-- '--number-sections' adds number to the sections so it is possible to determine the level of each heading
+- `--top-level-division=chapter` treats the top level headings as separate chapters and makes them start on a new page.
+- `--number-sections` adds number to the sections so it is possible to determine the level of each heading
