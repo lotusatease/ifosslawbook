@@ -1,4 +1,3 @@
-
 # The Netherlands
 
 !include authors/dammers.markdown
@@ -1857,3 +1856,4 @@ reasonable costs that he incurred in taking the proceedings (Article
 [^netherlands_112]: W.F. Dammers, Examining Ex Parte in Rei Patenti, Wolf Legal
     Publishers: Nijmegen 2011 and J.Berg and D.Visser, Ex-parte-praktijk
     in het auteursrecht, AMI 2009, no. 3, pp. 85-90.
+

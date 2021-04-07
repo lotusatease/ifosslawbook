@@ -1,4 +1,3 @@
-
 # Poland
 
 !include authors/rychlicki.markdown
@@ -1415,3 +1414,4 @@ name is a tortious act of unfair competition.[^poland_131]
     finished product requires including its characteristic form, which
     may mislead customers as to the producer or product identity, the
     imitator is under obligation to adequately mark the product.
+

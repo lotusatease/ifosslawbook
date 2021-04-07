@@ -1,4 +1,3 @@
-
 # Belgium
 
 !include authors/van_den_brande.markdown
@@ -1093,3 +1092,4 @@ No cases have been reported yet (October 2013).
 [^belgium_108]: See e.g. M., OLSON, “Dual Licensing”, in Open Sources 2.0: The
     Continuing Evolution (Ed. C., DiBona, D., Cooper and M., Stone),
     O’Reilly, 2006, p. 35.
+

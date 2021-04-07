@@ -1,4 +1,3 @@
-
 # Korea
 
 !include authors/park.markdown
@@ -1104,3 +1103,4 @@ hinder the active use and development of FOSS in Korea.
 [^korea_94]: Pack, Kwang Min and Hae Sung Yoon. “Examination of Trade Secret
     concept in Unfair Competition Prevention and Trade Secret Protection
     Act” Sungkyunkwan Legal Study 18.1 (2006): 4. Print.
+

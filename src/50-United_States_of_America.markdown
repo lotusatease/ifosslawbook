@@ -1,4 +1,3 @@
-
 # United States of America
 
 !include authors/webbink.markdown
@@ -1420,3 +1419,4 @@ unilateral action are lawful.”[^usa_149]
     (CA 7 2006).
 
 [^usa_149]: Wallace, 467 F.3d at 1107 (2006).
+

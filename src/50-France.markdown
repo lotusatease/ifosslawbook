@@ -1,4 +1,3 @@
-
 # France
 
 !include authors/perbost.markdown
@@ -871,3 +870,4 @@ Euros[^france_31].
 [^france_30]: Article 1184 of the Civil Code.
 
 [^france_31]: Article 335-3 of the Intellectual Property Code.
+

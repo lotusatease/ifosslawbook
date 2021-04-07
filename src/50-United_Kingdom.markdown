@@ -1,4 +1,3 @@
-
 # United Kingdom
 
 !include authors/katz.markdown
@@ -1658,3 +1657,4 @@ in such a case would be mandatory.
 
 [^uk_80]: More properly, a Solicitor having rights of audience in the Court
     of Session
+

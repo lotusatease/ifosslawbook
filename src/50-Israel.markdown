@@ -1,4 +1,3 @@
-
 # Israel
 
 !include authors/greenbaum.markdown
@@ -647,3 +646,4 @@ legal systems should be aware of this possibility under Israeli law.
     determining whether to award a temporary injunction.
 
 [^israel_21]: See SHALEV, at 527, n. 1.
+

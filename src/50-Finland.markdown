@@ -1,4 +1,3 @@
-
 # Finland
 
 !include authors/von_willebrand.markdown
@@ -894,3 +893,4 @@ touching upon issues related to computer programs.
     interests in the matter. It is not uncommon that a party to a civil
     or criminal procedure requests an opinion from the Council regarding
     a copyright-related question.
+

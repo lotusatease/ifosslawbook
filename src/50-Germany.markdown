@@ -1,4 +1,3 @@
-
 # Germany
 
 !include authors/engelhardt.markdown
@@ -2020,3 +2019,4 @@ see for an overview:
 [^germany_118]: LG Berlin, Order of 21 February 2006, ref. 16 O 134/06,
     available at
     <http://www.ifross.org/Fremdartikel/LG%20Berlin%20GPL-Entscheidung21.2.06.pdf>.
+

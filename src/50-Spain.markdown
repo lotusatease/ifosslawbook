@@ -1,4 +1,3 @@
-
 # Spain
 
 !include authors/bain.markdown
@@ -1234,3 +1233,4 @@ copyleft[^spain_91].
 [^spain_91]: See e.g. M., OLSON, “Dual Licensing”, in *Open Sources 2.0: The
     Continuing Evolution* (Ed. C., DiBona, D., Cooper and M., Stone),
     O’Reilly, 2006, p. 35.
+

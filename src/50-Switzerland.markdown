@@ -1,4 +1,3 @@
-
 # Switzerland
 
 !include authors/jaccard.markdown
@@ -1317,3 +1316,4 @@ law, we recommend the following specialized literature:
 
 [^switzerland_119]: Section 67, 69 and 69a SCA ; Barrelet / Egloff, Le nouveau droit
     d’auteur, 67 No. 1ss.
+

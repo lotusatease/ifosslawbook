@@ -1,4 +1,3 @@
-
 # A history of FOSS law and licensing
 
 !include authors/engelfriet.markdown
@@ -393,3 +392,4 @@ FOSS licensing principles. We have come a long way already.
 
 [^history_29]: About the gpl-violations.org project,
     <http://gpl-violations.org/about.html#history>
+

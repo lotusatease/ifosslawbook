@@ -1,4 +1,3 @@
-
 # China
 
 !include authors/xia.markdown
@@ -783,3 +782,4 @@ interested parties who want to avoid the copyleft principle.
 ## FOSS cases in China
 
 No cases have been reported yet (June 2011).
+

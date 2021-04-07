@@ -1,4 +1,3 @@
-
 # Portugal
 
 !include authors/quintais.markdown
@@ -2227,3 +2226,4 @@ No cases have been reported yet (December 2013).
     reserves all rights, and which can only be used against payment.
 
 [^portugal_248]: See e.g. OLSON 2006, p.35.
+

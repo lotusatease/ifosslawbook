@@ -1,4 +1,3 @@
-
 # South Africa
 
 !include authors/rens.markdown
@@ -694,3 +693,4 @@ Mercantile Law Journal (2009) Vol 21, Number 2, 174
 
 [^south_africa_50]: Haupt t/a Softcopy v Brewers Marketing Intelligence (Pty) Ltd.
     and Others (118/05) \[2006\] ZASCA 40 §45
+

@@ -1,4 +1,3 @@
-
 # Italy
 
 !include authors/aliprandi.markdown
@@ -883,3 +882,4 @@ rights in the work.
     compliant enforcement measures
 
 [^italy_23]: Art. 156 ter of the Italian Copyright Law
+

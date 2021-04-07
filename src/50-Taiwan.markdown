@@ -1,4 +1,3 @@
-
 # Taiwan
 
 !include authors/lin.markdown
@@ -1216,3 +1215,5 @@ is fairly applied to them without a difference to Freewares.
 [^taiwan_19]: Chyan Yang, Hsien-Jyh Liao, and Chung-Chen Chen, “Analysis on GPL
     in terms of the legal system in Taiwan” at:
     [http://ccckmit.wdfiles.com/local—files/re%3Apaper/GPL.pdf](http://ccckmit.wdfiles.com/local—files/re%3Apaper/GPL.pdf)
+    
+    
