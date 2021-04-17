@@ -1,6 +1,6 @@
 # Spain
 
-!include authors/bain.markdown
+*Malcolm Bain[^spain_bio]*
 
 ## Introduction to software protection under Spanish law
 
@@ -895,6 +895,13 @@ copyleft[^spain_91].
 -   Alejandra Castro Bonilla, AUTORÍA Y TITULARIDAD EN EL DERECHO DE
     AUTOR, <http://www.informatica-juridica.com>, last
     visited 10.08.2010.
+    
+[^spain_bio]: *Malcolm Bain (Spain)
+(b. 1966) is an attorney-at-law and partner at id law partners, a
+Barcelona based boutique law firm specialising in ICT law. He is a
+member of the editorial committee of the International Free and Open
+Source Software Law Review, and lectures at several universities in
+Spain on the legal aspects of free and open source law. <http://www.id-lawpartners.com>*
 
 [^spain_1]: Official State Bulletin (BOE) Nº 97 of 22/April/1996. Last amended
     by Law 23/2006 of 7 July. While the name in Spanish is “Ley de

@@ -1,6 +1,6 @@
 # Israel
 
-!include authors/greenbaum.markdown
+*Eli Greenbaum[^israel_bio]*
 
 ## Introduction to software protection under Israeli law
 
@@ -505,6 +505,14 @@ include, for example under the terms of the GPL, an injunction to
 release the source code of the licensee’s work. Licensees that have
 discounted the possibility of such injunctions under the rules of other
 legal systems should be aware of this possibility under Israeli law.
+
+[^israel_bio]: *Eli Greenbaum (Israel)
+is an attorney at Yigal Arnon & Co. in Jerusalem, specialising in
+intellectual property law and transactions. He has an M.S. in Applied
+Physics from Columbia University and a J.D. from Yale Law School. Eli
+has published widely in the areas of open source software and
+open hardware. <http://www.arnon.co.il>*
+
 
 [^israel_1]: The Copyright Act of 1911 and the Copyright Ordinance of 1924
     continue in certain circumstances to apply to works and acts of

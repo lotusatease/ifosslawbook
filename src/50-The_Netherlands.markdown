@@ -1,8 +1,6 @@
 # The Netherlands
 
-!include authors/dammers.markdown
-
-!include authors/van_kerkvoorden.markdown
+*Wouter Dammers[^netherlands_bio1] and Wanda van Kerkvoorden[^netherlands_bio2]*
 
 ## Introduction to software protection under Dutch law
 
@@ -1139,6 +1137,26 @@ reasonable costs that he incurred in taking the proceedings (Article
 
 -   A. Engelfriet and S. Biersteker, Software, Ius Mentis B.V.,
     Eindhoven: 2013.
+    
+[^netherlands_bio1]: *Wouter Dammers The Netherlands) (b. 1985) is an attorney-at-law at LAWFOX Advocatuur in Amsterdam,
+The Netherlands. Wouter specializes in IT law, open source compliance,
+e-commerce, privacy and IP law. Wouter is known for providing practical
+legal advise involving IT and internet related issues. He regularly
+drafts and reviews contracts involving software development, IT projects
+and privacy compliance. Wouter is familiar in conducting legal
+proceedings and providing dispute resolution. Wouter finalized his
+Master Law and Technology (cum laude, 2009) and his Master International
+and European Public Law (with merit, 2008) at Tilburg University. Wouter
+regularly blogs, tweets (@WouterDammers) and publishes on
+IT-related topics. <https://www.lawfox.nl>*
+
+[^netherlands_bio2]: *Wanda van Kerkvoorden (The Netherlands)
+(b. 1968) is an attorney-at-law and partner at SOLV, an Amsterdam based
+law firm. Wanda is specialised in supervising complex ICT projects and
+conducting legal proceedings involving ICT disputes. She also advises on
+and conducts legal proceedings involving ASP/ SaaS, cloud computing,
+compliance and (open source) software protection. She is a member of the
+international iTechLaw association. <http://www.solv.nl>*
 
 [^netherlands_1]: Act of 7 June 1994, Stb. 1994, no. 521.
 

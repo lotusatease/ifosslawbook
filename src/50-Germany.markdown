@@ -1,8 +1,6 @@
 # Germany
 
-!include authors/engelhardt.markdown
-
-!include authors/jaeger.markdown
+*Tim Engelhardt[^germany_bio1] and Till Jaeger[^germany_bio2]*
 
 ## Introduction to software protection under German law
 
@@ -1573,6 +1571,24 @@ see for an overview:
     Rahmenbedingungen der Freien Software, 3rd edition, Munich 2011
 
 -   G. Spindler (ed.): Rechtsfragen bei Open Source, Cologne 2004
+
+[^germany_bio1]: *Tim Engelhardt (Germany)
+(b. 1974) is an attorney-at-law at the Berlin-based law firm
+JBB Rechtsanwälte. He graduated from the University of Munich and
+Columbia Law School (LL.M.). He completed his doctoral thesis on the EU
+law of geographical indications at the University of Zurich. In his
+practice he specialises in various aspects of IT and IP law. His
+particular focus is on FOSS issues, including both the enforcement of
+FOSS rights and advising on licensing matters. <http://www.jbb.de/en>*
+
+[^germany_bio2]: *Till Jaeger (Germany)
+(b. 1969) is an attorney-at-law and partner at JBB Rechtsanwälte, a
+Berlin based law firm. Till Jaeger is a founding member of the Institute
+for Legal Questions on Free and Open Source Software (ifrOSS) in
+Germany, which researches legal questions regarding the Open Source
+model (<http://www.ifross.org>). He has represented the
+gpl-violations.org project in several lawsuits to enforce the GPL. Till
+Jaeger was a member of the Committee C in the GPLv3 drafting process. <http://www.jbb.de/en>*
 
 [^germany_1]: Gesetz über Urheberrecht und verwandte Schutzrechte
     (Urheberrechtsgesetz) of 9.9.1965, hereinafter referred to either as

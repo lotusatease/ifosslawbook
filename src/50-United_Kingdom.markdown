@@ -1,8 +1,6 @@
 # United Kingdom
 
-!include authors/katz.markdown
-
-!include authors/mitchell.markdown
+*Andrew Katz[^uk_bio1] and Iain G. Mitchell QC[^uk_bio2]*
 
 ## Introduction to software protection under United Kingdom law
 
@@ -1337,6 +1335,30 @@ in such a case would be mandatory.
 
 -   Stephen Mason, general editor, Electronic Evidence (3rd edition,
     LexisNexis Butterworths, 2012)
+
+[^uk_bio1]: *Andrew Katz (United Kingdom)
+(b. 1966) is a partner at Moorcrofts LLP, a boutique law firm based in
+the Thames Valley, England. He became a barrister in 1990 and in 1993
+requalified (and now practises as) a solicitor. Prior to his legal
+career, Andrew was a programmer. He is a founder editor of the
+International Free and Open Source Software Law Review. He is a visiting
+lecturer at Queen Mary College, University of London, and sits on the
+legal advisory panel of the Open Rights Group, and the UK panel for the
+Free Software Foundation Europe. <http://www.moorcrofts.com>*
+
+[^uk_bio2]: *Iain G. Mitchell QC (United Kingdom — Scotland)
+is in private practice as an Advocate (Barrister) in Scotland. He is the
+Chairman of the Scottish Society for Computers & Law, Chairman of the
+Faculty of Advocates Information Technology Group, Co-convenor of the
+Scottish Lawyers European Group, and a Liveryman of the Worshipful
+Company of Information Technologists. He holds office as the United
+Kingdom representative on the Information Technology committee of the
+CCBE and is a member of the IT Panel of the Bar Council of England &
+Wales and of the Scottish Courts Technology Forum. He is a member of the
+editorial committee of the International Free and Open Source Software
+Law Review and was editor of the former e-law review. He is recommended
+in the Legal 500 for IT Law and is rated in Band 1 for both IT Law and
+Public Procurement Law in the Chambers Directory.*
 
 [^uk_1]: The continued existence of Scots law as a separate system was
     guaranteed by the Act of Union of 1707, which united the previously

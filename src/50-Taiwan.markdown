@@ -1,6 +1,6 @@
 # Taiwan
 
-!include authors/lin.markdown
+*Lucien Cheng-Hsia Lin[^taiwan_bio]*
 
 ## Introduction to software protection under Taiwan law
 
@@ -1127,6 +1127,16 @@ fulfilled by action similar to a tangible reply. This standpoint by
 courts should be sustained thereafter in FOSS cases as well, because the
 “taking/downloading without additional notice of acceptance” mechanism
 is fairly applied to them without a difference to Freewares.
+
+[^taiwan_bio]: *Lucien Cheng-Hsia Lin (Taiwan)
+(b. 1976) is a legal specialist and management advisor at "Open Source
+Software Foundry, OSSF", a mission-oriented project launched and
+sponsored by the highest academic institution in Taiwan, Academia
+Sinica, from 2003. He is in charge of the analysis and interpretation of
+FOSS licenses, the record and track of FOSS business trends and models
+for OSSF office, and serves as the legal lead of Creative Commons Taiwan
+from 2014. He is also a guest lecturer at National Chiao Tung University
+located in Hsinchu, Taiwan. <http://www.openfoundry.org/en/about>*
 
 [^taiwan_1]: Taiwan Copyright Act, Art. 5(1)(j), 22(2)(3), 59, 60, 80-2, and
     87.The official translations in English can be reached by “Laws &

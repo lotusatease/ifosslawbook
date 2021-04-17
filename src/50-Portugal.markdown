@@ -1,8 +1,6 @@
 # Portugal
 
-!include authors/quintais.markdown
-
-!include authors/ramalho.markdown
+*João Pedro Quintais[^portugal_bio1] and Ana Ramalho[^portugal_bio2]*
 
 ### Body of law
 
@@ -1403,6 +1401,25 @@ of the initial FOSS license.
 ## FOSS Cases in Portugal
 
 No cases have been reported yet (December 2013).
+
+[^portugal_bio1]: *João Pedro Quintais (Portugal)
+is a PhD candidate at the Institute for Information Law (IViR),
+University of Amsterdam. His current research focuses on alternative
+models to copyright enforcement on the Internet. João Pedro holds an
+LL.M in Intellectual Property and Competition Law from the Munich
+Intellectual Property Law Center. He’s a qualified lawyer, member of the
+Portuguese Bar Association, who has worked since 2004 in the
+intellectual property and information technology areas, both as a lawyer
+and as legal counsel for a multinational software house. <http://www.ivir.nl/staff/quintais.html>*
+
+[^portugal_bio2]: *Ana Ramalho (Portugal)
+is an Associate Professor of Intellectual Property at the University of
+South Wales (United Kingdom). Her current research interests are the
+aspects of the intersection between copyright law and European Union
+law, in particular regarding matters of competence. Ana is also part of
+several editorial boards and has served as an ad-hoc consultant to IP
+related organizations such as World Intellectual Property
+Organization (WIPO) or the European Patent Office (EPO).*
 
 [^portugal_1]: Decree-law 252/94, of October 20, as last amended by Decree-law
     334/97, of November 27 (hereinafter, the “Software Act”).

@@ -1,8 +1,6 @@
 # France
 
-!include authors/perbost.markdown
-
-!include authors/walter.markdown
+*Fabrice Perbost[^france_bio1] and Alan Walter[^france_bio2]*
 
 ## Introduction to software protection under French law
 
@@ -776,6 +774,21 @@ Euros[^france_31].
 
 -   CA Paris, 16 September 2009, RG n° 01/24298, SA EDU 4 c/ Association
     AFPA
+    
+[^france_bio1]: *Fabrice Perbost (France)
+is a partner in the Paris office of Kahn & Associés. Fabrice advises
+companies in the field of intellectual property and technologies,
+particularly as regards private and public contracts. In the course of
+his activity, Fabrice has developed a specific expertise in the Open
+Source model. Fabrice is a member of several IP/IT working groups such
+as ITechLaw (International Technology Law Association) and also a
+lecturer at two Paris universities. <http://www.kahnlaw.com/en>*
+
+[^france_bio2]: *Alan Walter (France)
+specialises in intellectual property and technologies. He provides legal
+assistance in both advice and litigation in several fields like software
+industry (in particular Open Source matters), Internet & innovative
+technologies regulation, IP, and privacy and data protection. <alan.walter@runbox.com>*
 
 [^france_1]: Cass. Ass.plén., March 1986,: JCP G 1986, II, 20631; Cass. Civ.
     1ère, 16 April 1991,: JCP G 1991, II, 21770.
