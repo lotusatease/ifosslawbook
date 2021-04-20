@@ -128,7 +128,7 @@ The file `sorting.meta` is therefore no longer needed.
 Generating a full-book PDF now works by running (requires pandoc 2.0 or later):
 
 ```
-pandoc --top-level-division=chapter --number-sections --pdf-engine=xelatex -s -f markdown_strict+footnotes+auto_identifiers+implicit_header_references+header_attributes+smart src/*markdown -o IFOSSLB.pdf
+pandoc --number-sections --latex-engine=xelatex -s -f markdown_strict+footnotes+auto_identifiers+implicit_header_references+header_attributes src/*markdown -o IFOSSLB.pdf
 ```
 
 Useful explanations:

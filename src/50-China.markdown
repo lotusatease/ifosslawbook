@@ -792,3 +792,4 @@ law, Intellectual Property law and Legal English. Yang Xia was awarded
 the European Union Eramus Mundus scholarship for his studies at the EU
 law center of the University of Warsaw and is member of CLAST (China Law
 Association on Science and Technology). <http://www.bnu.edu.cn/eng/>*
+
