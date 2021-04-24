@@ -865,8 +865,7 @@ Such a court holding does not conform to the original copyright holder’s
 intent to make the software as free and open as possible, which might
 hinder the active use and development of FOSS in Korea.
 
-[^korea_bio]: *Jongbaek Park (Korea)
-heads the Open Source Team as a senior partner at Bae Kim & Lee LLC, an
+[^korea_bio]: *Jongbaek Park heads the Open Source Team as a senior partner at Bae Kim & Lee LLC, an
 international law firm based in Korea.He also serves as the president of
 Korea Open Source Law Center, an inter-disciplinary organisation
 dedicated to research, training, providing solutions to issues

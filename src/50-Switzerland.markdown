@@ -936,17 +936,16 @@ law, we recommend the following specialized literature:
     Einsatz offener Software in des Schweizerisches Bundesverwaltung
     (Projekt OPUS).
 
-[^switzerland_bio1]: *Juliette Ancelle (Switzerland)
-is an associate of the boutique law firm id est avocats sàrl. She
+[^switzerland_bio1]: *Juliette Ancelle is an associate of the boutique law firm id est avocats sàrl. She
 studied at the Universities of Lausanne and Montreal, as well as at the
 New York University School of Law, where she graduated with an LL.M.
 in 2009. She was admitted to the New York State Bar that same year. She
 advises and represents clients mainly in business and corporate matters
 as well as in intellectual property cases, including open source. She
-maintains a on Social Media and IP issues. <http://www.idest.pro/?hl=en>*
+maintains a on Social Media and IP issues.
+<http://www.idest.pro/?hl=en>*
 
-[^switzerland_bio2]: *Michel Jaccard (Switzerland)
-is the founder of id est avocats sàrl, and a widely respected tech
+[^switzerland_bio2]: *Michel Jaccard is the founder of id est avocats sàrl, and a widely respected tech
 media, IP and corporate law expert. He studied and worked in Lausanne,
 Geneva and New York and now teaches and publishes extensively on legal
 issues relating to software licensing, information technology, business

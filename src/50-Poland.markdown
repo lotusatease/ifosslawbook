@@ -873,8 +873,7 @@ name is a tortious act of unfair competition.[^poland_131]
 -   The Criminal Proceedings Code of 6 June 1997, Journal of Laws No 89,
     item 555, with subsequent amendments.
 
-[^poland_bio]: *Tomasz Rychlicki (Poland)
-(b. 1975) is a Polish patent and trade mark attorney and IT&IP lawyer.
+[^poland_bio]: *Tomasz Rychlicki (b. 1975) is a Polish patent and trade mark attorney and IT&IP lawyer.
 He graduated from the University of Gdańsk, the Faculty of Law, European
 Law Center. Tomasz also studied at Chicago-Kent College of Law in
 the LL.M. Program in International Intellectual Property Law. He is a

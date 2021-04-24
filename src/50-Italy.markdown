@@ -778,22 +778,22 @@ rights in the work.
 -   Giuseppe Sanseverino: Le licenze free e open source (2007, Edizioni
     Scientifiche Italiane)
     
-[^italy_bio1]:*Simone Aliprandi* (Italy)
-(b. 1979) is an Italian attorney-at-law and researcher. He got an
+[^italy_bio1]:*Simone Aliprandi (b. 1979) is an Italian attorney-at-law and researcher. He got an
 additional degree in Public Administration Science and earned a Ph.D.
 degree in Information Society at the Bicocca University of Milan. He
 founded and still coordinates the Copyleft-Italia.it project and has
 published numerous books devoted to openculture and copyleft. He also
-collaborates as a legal consultant with Array (<http://array.eu>). <http://www.aliprandi.org>*
+collaborates as a legal consultant with Array (<http://array.eu>). 
+<http://www.aliprandi.org>*
 
-[^italy_bio2]:*Carlo Piana (Italy)
-is an Italian lawyer and a digital liberties activist. He is external
+[^italy_bio2]:*Carlo Piana is an Italian lawyer and a digital liberties activist. He is external
 General Counsel to the Free Software Foundation Europe and the President
 of the Board of the Protocol Freedom Foundation. He advises and assists
 clients in matters concerning information technology, Free and Open
 Source Software, data protection and trademarks/domain names. He is a
 member of the editorial committee of the International Free and Open
-Source Software Law Review. <http://array.eu/>*
+Source Software Law Review. 
+<http://array.eu/>*
 
 [^italy_1]: L. C. UBERTAZZI, 'Diritto d’autore, estratto da Commentario breve
     alle leggi sulla Proprietà' Intellettuale e Concorrenza, 4th

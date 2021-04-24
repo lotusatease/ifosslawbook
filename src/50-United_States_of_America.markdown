@@ -1075,9 +1075,7 @@ unilateral action are lawful.”[^usa_149]
 -   Heather J. Meeker: The Open Source Alternative: Understanding Risks
     and Leveraging Opportunities (2008 John Wiley & Sons)
     
-[^usa_bio]: *Mark H. Webbink (United States)
-(b. 1950) is senior lecturing fellow at Duke University School of Law. Webbink is the former general counsel of Red Hat, Inc., and presently
-serves on the board of directors of the Software Freedom Law Center. A founding member of the editorial board of the International Free and Open Source Software Law Review. In May 2011 Webbink assumed the role of editor and publisher of the well known open source blog Groklaw. <http://www.nyls.edu/faculty/faculty_profiles/mark_webbink>*
+[^usa_bio]: *Mark H. Webbink (b. 1950) is senior lecturing fellow at Duke University School of Law. Webbink is the former general counsel of Red Hat, Inc., and presently serves on the board of directors of the Software Freedom Law Center. A founding member of the editorial board of the International Free and Open Source Software Law Review. In May 2011 Webbink assumed the role of editor and publisher of the well known open source blog Groklaw. <http://www.nyls.edu/faculty/faculty_profiles/mark_webbink>*
 
 [^usa_1]: “(Congress shall have the power…) To promote the Progress of
     Science and useful Arts, by securing for limited Times to Authors

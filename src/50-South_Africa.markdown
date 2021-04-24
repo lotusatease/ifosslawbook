@@ -529,12 +529,12 @@ Jeremy Speres: ‘The Enforceability of Open Source Software Licences: Can
 Copyright Licences Be Granted Non-Contractually?’ South African
 Mercantile Law Journal (2009) Vol 21, Number 2, 174
 
-[^south_africa_bio]: *Andrew Rens (South Africa)
-(b 1968) is a South African law and technology scholar and attorney. He
+[^south_africa_bio]: *Andrew Rens (b. 1968) is a South African law and technology scholar and attorney. He
 is a Senior Lecturing Fellow at Duke Law School and an attorney at
 Garratt Hugo & De Souza Incorporated, Johannesburg, South Africa. He
 advises commercial and non-profit clients on open source licenses, open
-media licences, open data, open hardware and open standards. <http://opencounsel.net>*
+media licences, open data, open hardware and open standards. 
+<http://opencounsel.net>*
 
 [^south_africa_1]: Copyright Act No. 98 of 1978
 

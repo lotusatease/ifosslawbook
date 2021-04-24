@@ -1402,8 +1402,7 @@ of the initial FOSS license.
 
 No cases have been reported yet (December 2013).
 
-[^portugal_bio1]: *João Pedro Quintais (Portugal)
-is a PhD candidate at the Institute for Information Law (IViR),
+[^portugal_bio1]: *João Pedro Quintais is a PhD candidate at the Institute for Information Law (IViR),
 University of Amsterdam. His current research focuses on alternative
 models to copyright enforcement on the Internet. João Pedro holds an
 LL.M in Intellectual Property and Competition Law from the Munich
@@ -1412,8 +1411,7 @@ Portuguese Bar Association, who has worked since 2004 in the
 intellectual property and information technology areas, both as a lawyer
 and as legal counsel for a multinational software house. <http://www.ivir.nl/staff/quintais.html>*
 
-[^portugal_bio2]: *Ana Ramalho (Portugal)
-is an Associate Professor of Intellectual Property at the University of
+[^portugal_bio2]: *Ana Ramalho is an Associate Professor of Intellectual Property at the University of
 South Wales (United Kingdom). Her current research interests are the
 aspects of the intersection between copyright law and European Union
 law, in particular regarding matters of competence. Ana is also part of

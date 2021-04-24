@@ -638,12 +638,12 @@ principle.
 
 No cases have been reported yet (October 2013).
 
-[^belgium_bio]: *Ywein Van den Brande (Belgium)
-(b. 1977) is an attorney-at-law and partner at Crealaw, a Brussels based
+[^belgium_bio]: *Ywein Van den Brande (b. 1977) is an attorney-at-law and partner at Crealaw, a Brussels based
 law firm. With his dual background of lawyer and information scientist,
 Ywein focuses on IT and IP. He is a member of the editorial committee of
 the International Free and Open Source Software Law Review. He is a
-guest lecturer at Groep T/KULeuven. <http://www.crealaw.eu>* 
+guest lecturer at Groep T/KULeuven. 
+<http://www.crealaw.eu>* 
 
 [^belgium_1]: Act regarding the transposition into Belgian law of the European
     Directive of 14 May 1991 on the legal protection of computer

@@ -1138,7 +1138,7 @@ reasonable costs that he incurred in taking the proceedings (Article
 -   A. Engelfriet and S. Biersteker, Software, Ius Mentis B.V.,
     Eindhoven: 2013.
     
-[^netherlands_bio1]: *Wouter Dammers The Netherlands) (b. 1985) is an attorney-at-law at LAWFOX Advocatuur in Amsterdam,
+[^netherlands_bio1]: *Wouter Dammers (b. 1985) is an attorney-at-law at LAWFOX Advocatuur in Amsterdam,
 The Netherlands. Wouter specializes in IT law, open source compliance,
 e-commerce, privacy and IP law. Wouter is known for providing practical
 legal advise involving IT and internet related issues. He regularly
@@ -1150,8 +1150,7 @@ and European Public Law (with merit, 2008) at Tilburg University. Wouter
 regularly blogs, tweets (@WouterDammers) and publishes on
 IT-related topics. <https://www.lawfox.nl>*
 
-[^netherlands_bio2]: *Wanda van Kerkvoorden (The Netherlands)
-(b. 1968) is an attorney-at-law and partner at SOLV, an Amsterdam based
+[^netherlands_bio2]: *Wanda van Kerkvoorden (b. 1968) is an attorney-at-law and partner at SOLV, an Amsterdam based
 law firm. Wanda is specialised in supervising complex ICT projects and
 conducting legal proceedings involving ICT disputes. She also advises on
 and conducts legal proceedings involving ASP/ SaaS, cloud computing,

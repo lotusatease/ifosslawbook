@@ -250,14 +250,15 @@ and liability for FOSS developers. More is to be expected from voluntary
 compliance and a growing maturity in how the legal community approaches
 FOSS licensing principles. We have come a long way already.
 
-[^history_bio]: *Arnoud Engelfriet (Introduction) (b. 1974) is an IT lawyer and European patent attorney. He works as
+[^history_bio]: *Arnoud Engelfriet (b. 1974) is an IT lawyer and European patent attorney. He works as
 partner at ICTRecht legal services in the Netherlands. In 2005, while
 working for Royal Philips, he was involved in the software patent debate
 surrounding the Directive and has the mental scars to prove it. With his computer science background Arnoud focuses on complex
 legal/technical ICT issues and software licenses (in particular
 open source). His blog Ius mentis is one of the most popular sites on
 the subject of IT and law in the Netherlands. Arnoud is a part-time
-teacher at the VU University of Amsterdam. <http://ictrecht.nl/>*
+teacher at the VU University of Amsterdam. 
+<http://ictrecht.nl/>*
 
 [^history_1]: Martin Campbell-Kelly, “Development and Structure of the
     International Software Industry, 1950-1990”, Business and Economic
