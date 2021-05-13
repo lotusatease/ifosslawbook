@@ -1,0 +1,20 @@
+---
+title: International Free & Open Source Law Book (2nd edition)
+author:
+- Van der Brande
+- Coughlan
+- Jaeger
+description: |
+    As legal systems differ throughout the world there are significant differences in how Free and Open Source Software licenses are treated in different countries, and it can be difficult to obtain reliable information on national interpretations. The International Free and Open Source Software Law Book engages with this by providing a clear yet thorough analysis of Free and Open Source legal matters written and maintained by local experts.
+    
+    The publication is targeted towards lawyers, jurists and academics, and positioned as an international bench mark reference work. It provides an introduction to software protection, a general analysis of FOSS under local legislation and an overview of local FOSS cases (if any) for each country covered.
+    
+    The 2nd Edition of the book features both new and updated chapters to ensure professionals remain abreast of the latest developments and market growth of Open Source.
+toc: true
+colorlinks: true
+documentclass: book
+classoption: oneside
+output: pdf_document
+---
+  
+  

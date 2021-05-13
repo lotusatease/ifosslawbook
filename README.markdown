@@ -40,7 +40,7 @@ The position of the chapters Intro, History and is predetermined and the country
 Generating a full-book PDF now works by running (requires pandoc 2.0 or later):
 
 ```
-pandoc --top-level-division=chapter --number-sections --latex-engine=xelatex -s -f markdown_strict+footnotes+auto_identifiers+implicit_header_references+header_attributes src/*markdown -o IFOSSLB.pdf
+pandoc --top-level-division=chapter --number-sections --latex-engine=xelatex -s -f markdown_strict+footnotes+auto_identifiers+implicit_header_references+header_attributes+yaml_metadata_block metadata.yaml src/*markdown -o IFOSSLB.pdf
 ```
 
 Useful explanations:
