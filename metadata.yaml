@@ -11,10 +11,14 @@ description: |
     
     The 2nd Edition of the book features both new and updated chapters to ensure professionals remain abreast of the latest developments and market growth of Open Source.
 toc: true
+toc-depth: 1
 colorlinks: true
 documentclass: book
 classoption: oneside
-output: pdf_document
+output:
+  pdf_document:
+    includes:
+      in_header: cover.tex
 ---
   
   
