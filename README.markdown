@@ -33,9 +33,7 @@ The individual source files are named according to the following convention:
 
 The position of the chapters Intro, History and is predetermined and the country chapters can simply be added as `50-$country_name.markdown` and they will be generated in the right order without the need to manually keep track of the order in a separate file. This also leaves space to introduce new groups of chapters before or after, as well.
 
-## Generating the PDF
-
-### Generating the PDF with pandoc
+## Generating the PDF with pandoc
 
 Generating a full-book PDF now works by running (requires pandoc 2.0 or later):
 
@@ -47,4 +45,12 @@ Useful explanations:
 
 - `--top-level-division=chapter` treats the top level headings as separate chapters and makes them start on a new page.
 - `--number-sections` adds number to the sections so it is possible to determine the level of each heading
+
+## Generating the epub with pandoc
+
+Generating a full-book epub now works by running (requires pandoc 2.0 or later):
+
+```
+pandoc --top-level-division=chapter --number-sections -s -f markdown_strict+footnotes+auto_identifiers+implicit_header_references+header_attributes+yaml_metadata_block metadata.yaml --epub-cover-image='cover.png' src/*markdown -o IFOSSLB.epub
+```
 
