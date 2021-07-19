@@ -4,7 +4,9 @@ This repository contains the source files (in Markdown format) of the second edi
 
 Any pull request will be authorized only by the copyright holders of the individual contributions.
 
-> **NOTE**: **_Good, you are working on the `bugfix` branch_** please always work on the `bugfix` branch and make a pull request from there
+> **NOTE**: **_if you see this note you are working on the `master` branch_**. 
+> 
+> Please always work on the `bugfix` branch and make a pull request from there, so that the original version is untouched until we merge all the changes.
 
 The `bugfix` branch is intended as the working and testing branch.
 
