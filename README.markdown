@@ -4,38 +4,12 @@ This repository contains the source files (in Markdown format) of the second edi
 
 Any pull request will be authorized only by the copyright holders of the individual contributions.
 
-> **NOTE**: **_if you see this note you are working on the `master` branch_**. 
+> **NOTE**: **_if you see this note you are working on the `master` branch_**.
 > 
-> Please always work on the `bugfix` branch and make a pull request from there, so that the original version is untouched until we merge all the changes.
-
-The `bugfix` branch is intended as the working and testing branch.
-
-The `master` branch is intended as the stable up-to-date branch, from which the book is being generated.
+> Please always make pull requests to the `bugfix` branch first.
 
 
-## Files
-
-This are the working parts:
-
-- `src/` contains the current sources in MarkDown
-- `IFOSSLB.pdf` is the PDF of the whole book
-- `README.markdown` is this file
-
-
-## Naming convention
-
-The individual source files are named according to the following convention:
-
-```
-10-Intro.markdown
-20-History.markdown
-50-Belgium.markdown
-50-China.markdown
-50-...
-
-```
-
-The position of the chapters Intro, History and is predetermined and the country chapters can simply be added as `50-$country_name.markdown` and they will be generated in the right order without the need to manually keep track of the order in a separate file. This also leaves space to introduce new groups of chapters before or after, as well.
+For information on how to contribute, read `CONTRIBUTING.markdown`.
 
 
 ## Generating the PDF with Pandoc
